@@ -1,0 +1,37 @@
+---
+granule: CRECB-2013-pt1-Pg42
+date: 2013-01-03
+edition: CRECB
+section: HOUSE
+page: 42
+---
+
+# MESSAGE FROM THE SENATE
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Ms. Curtis, one of its clerks, announced 
+that the Senate has agreed to the following resolution:
+
+                               S. Res. 2
+
+       Resolved, That the Secretary inform the House of 
+     Representatives that a quorum of the Senate is assembled and 
+     that the Senate is ready to proceed to business.
+
+  The message also announced that the Senate has agreed to concurrent 
+resolutions of the following titles in which the concurrence of the 
+House is requested:
+
+       S. Con. Res. 1. Concurrent resolution to provide for the 
+     counting on January 4, 2013, of the electoral votes for 
+     President and Vice President of the United States.
+       S. Con. Res. 2. Concurrent resolution extending the life of 
+     the Joint Congressional Committee on Inaugural Ceremonies.
+       S. Con. Res. 3. Concurrent resolution providing for a 
+     conditional adjournment or recess of the Senate and an 
+     adjournment of the House of Representatives.
+
+                          ____________________
+```
