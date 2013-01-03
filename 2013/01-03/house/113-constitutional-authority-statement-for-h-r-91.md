@@ -1,0 +1,23 @@
+---
+granule: CREC-2013-01-03-pt1-PgH36-2
+date: 2013-01-03
+edition: CREC
+section: HOUSE
+page: H36
+citation: 159 Cong. Rec. H36
+---
+
+# Constitutional Authority Statement for H.R. 91
+
+**Measures:** H.R. 91
+
+```
+            By Mrs. CHRISTENSEN:
+        H.R. 91.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       ``Article IV, section 3 of the Constitution of the United 
+     States grant Congress the authority to make all needful Rules 
+     and Regulations respecting the Territory or other Property 
+     belonging to the United States.''
+```
