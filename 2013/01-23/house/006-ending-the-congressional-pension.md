@@ -1,0 +1,37 @@
+---
+granule: CRECB-2013-pt1-Pg473-8
+date: 2013-01-23
+edition: CRECB
+section: HOUSE
+page: 473
+---
+
+# ENDING THE CONGRESSIONAL PENSION
+
+```
+                    ENDING THE CONGRESSIONAL PENSION
+
+  (Mr. COFFMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. COFFMAN. Mr. Speaker, today I'm introducing legislation to put an 
+end to the defined benefit retirement plan currently available to 
+Members of Congress.
+  These are extremely difficult economic times. We are in a debt crisis 
+that will require sacrifices on the part of all Americans. I served in 
+both the U.S. Army and Marine Corps, and I was taught that leaders 
+should never ask others to do anything that they themselves would be 
+unwilling to do. Congress needs to set an example and lead the way for 
+the country. I think ending the congressional pension system is a good 
+start.
+  My legislation will honor any retirement benefits accrued prior to 
+the passage of this bill and will keep Social Security and the Thrift 
+Savings Plan in place for Members of Congress.
+  I believe that Members of Congress should feel the same economic 
+pressures the rest of society does, and I firmly believe that the 
+current effort to reduce spending and constrain the size and scope of 
+government requires that all possible solutions be taken, including 
+cuts to the congressional budget.
+  I urge the passage of this bill.
+
+                          ____________________
+```
