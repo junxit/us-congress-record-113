@@ -1,0 +1,36 @@
+---
+granule: CREC-2013-01-29-pt1-PgS368-4
+date: 2013-01-29
+edition: CREC
+section: SENATE
+page: S368
+citation: 159 Cong. Rec. S368
+---
+
+# MEASURE READ THE FIRST TIME--S. 177
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+**Measures:** S. 177
+
+```
+                  MEASURE READ THE FIRST TIME--S. 177
+
+  Mr. BROWN. Madam President, I understand there is a bill at the desk, 
+and I ask for its first reading.
+  The PRESIDING OFFICER. The clerk will read the bill by title for the 
+first time.
+  The legislative clerk read as follows:
+
+       A bill (S. 177) to repeal the Patient Protection and 
+     Affordable Care Act and the Health Care and Education 
+     Reconciliation Act of 2010 entirely.
+
+  Mr. BROWN. Madam President, I now ask for a second reading and, in 
+order to place the bill on the calendar under the provisions of rule 
+XIV, I object to my own request.
+  The PRESIDING OFFICER. Objection having been heard, the bill will 
+receive its second reading on the next legislative day.
+
+                          ____________________
+```
