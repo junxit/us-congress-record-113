@@ -1,0 +1,56 @@
+---
+granule: CRECB-2013-pt1-Pg1255
+date: 2013-02-12
+edition: CRECB
+section: SENATE
+page: 1255
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 29--TO CONSTITUTE THE MAJORITY PARTY'S MEMBERSHIP ON 
+ CERTAIN COMMITTEES FOR THE ONE HUNDRED THIRTEENTH CONGRESS, OR UNTIL 
+                      THEIR SUCCESSORS ARE CHOSEN
+
+  Mr. REID submitted the following resolution; which was considered and 
+agreed to:
+
+                               S. Res. 29
+
+       Resolved, That the following shall constitute the majority 
+     party's membership on the following committees for the One 
+     Hundred Thirteenth Congress, or until their successors are 
+     chosen.
+        Committee on Agriculture, Nutrition, and Forestry: Ms. 
+     Stabenow (Chairman), Mr. Leahy, Mr. Harkin, Mr. Baucus, Mr. 
+     Brown, Ms. Klobuchar, Mr. Bennet, Mrs. Gillibrand, Mr. 
+     Donnelly, Ms. Heitkamp, and Mr. Cowan.
+        Committee on Commerce, Science, and Transportation: Mr. 
+     Rockefeller (Chairman), Mrs. Boxer, Mr. Nelson, Ms. Cantwell, 
+     Mr. Lautenberg, Mr. Pryor, Mrs. McCaskill, Ms. Klobuchar, Mr. 
+     Warner, Mr. Begich, Mr. Blumenthal, Mr. Schatz, and Mr. 
+     Cowan.
+        Committee on Finance: Mr. Baucus (Chairman), Mr. 
+     Rockefeller, Mr. Wyden, Mr. Schumer, Ms. Stabenow, Ms. 
+     Cantwell, Mr. Nelson, Mr. Menendez, Mr. Carper, Mr. Cardin, 
+     Mr. Brown, Mr. Bennet, and Mr. Casey.
+        Committee on Foreign Relations: Mr. Menendez (Chairman), 
+     Mrs. Boxer, Mr. Cardin, Mr. Casey, Mrs. Shaheen, Mr. Coons, 
+     Mr. Durbin, Mr. Udall of New Mexico, Mr. Murphy, and Mr. 
+     Kaine.
+        Committee on Small Business and Entrepreneurship: Ms. 
+     Landrieu (Chairman), Mr. Levin, Mr. Harkin, Ms. Cantwell, Mr. 
+     Pryor, Mr. Cardin, Mrs. Shaheen, Mrs. Hagan, Ms. Heitkamp, 
+     and Mr. Cowan.
+        Joint Economic Committee: Ms. Klobuchar (Vice Chairman), 
+     Mr. Casey, Mr. Warner, Mr. Sanders, Mr. Murphy, and Mr. 
+     Heinrich.
+
+                          ____________________
+```
