@@ -1,0 +1,56 @@
+---
+granule: CREC-2013-02-12-pt1-PgE123-3
+date: 2013-02-12
+edition: CREC
+section: EXTENSIONS
+page: E123
+citation: 159 Cong. Rec. E123
+---
+
+# HONORING MR. LEE VAN OLIVER
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                      HONORING MR. LEE VAN OLIVER
+
+                                 ______
+                                 
+
+                  HON. HENRY C. ``HANK'' JOHNSON, JR.
+
+                               of georgia
+
+                    in the house of representatives
+
+                       Tuesday, February 12, 2013
+
+  Mr. JOHNSON of Georgia. Mr. Speaker, I submit the following 
+Proclamation.
+  Whereas, One hundred years ago a tenacious man of God was born in 
+Screven County, Georgia on November 8, 1912; and
+  Whereas, Mr. Lee Van Oliver was blessed to have ten siblings, he grew 
+up in Georgia attending school in the local school system and moved to 
+Savannah, Georgia at an early age; he worked in several industries in 
+Savannah; International Paper, the Shipyard, Sears & Roebuck, Smith & 
+Kelly; and
+  Whereas, Mr. Oliver has shared his time and talents as a Husband, 
+Long Shore man, Uncle, Brother and Motivator, giving the citizens of 
+Georgia a person of great worth, a fearless leader and a servant to all 
+who wants to advance the lives of others; and
+  Whereas, Mr. Oliver has been blessed with a long, happy life, devoted 
+to God and credits it all to the Will of God; and
+  Whereas, Mr. Oliver along with his family and friends are celebrating 
+this day a remarkable milestone, his 100th Birthday, we pause to 
+acknowledge a man who is a cornerstone in our community; and
+  Whereas, the U.S. Representative of the Fourth District of Georgia 
+has set aside this day to honor and recognize Mr. Oliver on his 
+birthday and to wish him well and recognize him for an exemplary life 
+which is an inspiration to all;
+  Now therefore, I, Henry C. ``Hank'' Johnson, Jr. do hereby proclaim 
+November 8, 2012 as Mr. Lee Van ``L.V.'' Oliver Day in the 4th 
+Congressional District of Georgia.
+  Proclaimed, this 8th day of November, 2012.
+
+                          ____________________
+```

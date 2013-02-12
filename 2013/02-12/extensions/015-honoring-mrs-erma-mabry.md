@@ -1,0 +1,61 @@
+---
+granule: CREC-2013-02-12-pt1-PgE124-3
+date: 2013-02-12
+edition: CREC
+section: EXTENSIONS
+page: E124
+citation: 159 Cong. Rec. E124
+---
+
+# HONORING MRS. ERMA MABRY
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                        HONORING MRS. ERMA MABRY
+
+                                 ______
+                                 
+
+                  HON. HENRY C. ``HANK'' JOHNSON, JR.
+
+                               of georgia
+
+                    in the house of representatives
+
+                       Tuesday, February 12, 2013
+
+  Mr. JOHNSON of Georgia. Mr. Speaker, I submit the following 
+Proclamation.
+  Whereas, eighty years ago a virtuous woman of God was born in 
+Gwinnett County, Georgia on October 29, 1932; and
+  Whereas, Mrs. Erma Mabry was born Erma Lyons to Mr. Willie Golden and 
+Mrs. Bessie Ragsdale Lyons, she was educated in the local school system 
+in Georgia, married Mr. German William Mabry and through their union 
+was blessed with three children, one daughter-in-law, two 
+grandchildren, and one great grandchild; and
+  Whereas, this Phenomenal Proverbs 31 woman has shared her time and 
+talents as a Wife, Mother and Motivator, giving the citizens of Georgia 
+a person of great worth, a fearless leader and a servant to all who 
+wants to advance the lives of others; and
+  Whereas, Mrs. Mabry has been blessed with a long, happy life, devoted 
+to God and credits it all to the Will of God; and
+  Whereas, Mrs. Mabry along with her family and friends are celebrating 
+this day a remarkable milestone, her 80th birthday, we pause to 
+acknowledge a woman who is a cornerstone in our community in DeKalb 
+County, Georgia; and
+  Whereas, the U.S. Representative of the Fourth District of Georgia 
+has set aside this day to honor and recognize Mrs. Mabry on her 
+birthday and to wish her well and recognize her for an exemplary life 
+which is an inspiration to all;
+  Now therefore, I, Henry C. ``Hank'' Johnson, Jr. do hereby proclaim 
+October 29th, 2012 as Mrs. Erma Mabry Day in the 4th Congressional 
+District of Georgia.
+  Proclaimed, this 29th day of October, 2012.
+
+[[Page E125]]
+
+
+
+                          ____________________
+```
