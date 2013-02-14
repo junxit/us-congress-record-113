@@ -1,0 +1,21 @@
+---
+granule: CREC-2013-02-14-pt1-PgH548-4
+date: 2013-02-14
+edition: CREC
+section: HOUSE
+page: H548
+citation: 159 Cong. Rec. H548
+---
+
+# Constitutional Authority Statement for H.R. 691
+
+**Measures:** H.R. 691
+
+```
+           By Mr. GEORGE MILLER of California:
+       H.R. 691.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Clause 3 & 18 of Section 8, Article I, of the U.S. 
+     Constitution
+```
