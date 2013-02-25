@@ -1,0 +1,63 @@
+---
+granule: CREC-2013-02-25-pt1-PgS815-3
+date: 2013-02-25
+edition: CREC
+section: SENATE
+page: S815
+citation: 159 Cong. Rec. S815
+---
+
+# SENATE RESOLUTION 41--SUPPORTING THE DESIGNATION OF MARCH 2013, AS NATIONAL COLORECTAL CANCER AWARENESS MONTH
+
+**Measures:** S.Res. 41
+
+```
+  SENATE RESOLUTION 41--SUPPORTING THE DESIGNATION OF MARCH 2013, AS 
+               NATIONAL COLORECTAL CANCER AWARENESS MONTH
+
+  Mr. ENZI (for himself, Mr. Lautenberg, Mr. Menendez, and Mr. Cardin) 
+submitted the following resolution; which was considered and agreed to:
+
+                               S. Res. 41
+
+       Whereas colorectal cancer is the second leading cause of 
+     cancer death among men and women in the United States, 
+     killing more non-smokers than any other cancer;
+       Whereas every year it is estimated that more than 135,000 
+     individuals in the United States are diagnosed with 
+     colorectal cancer and more than 50,000 individuals die from 
+     the disease;
+       Whereas colorectal cancer is one of the most highly 
+     preventable forms of cancer because screening tests can find 
+     polyps that can be removed before becoming cancerous;
+       Whereas screening tests can detect colorectal cancer early, 
+     when treatment works best;
+       Whereas the Centers for Disease Control and Prevention 
+     estimates that if every individual aged 50 or older had 
+     regular screening tests, as many as 60 percent of deaths from 
+     colorectal cancer could be prevented;
+       Whereas the 5-year survival rate for patients with 
+     localized colorectal cancer is 90 percent, but only 39 
+     percent of all diagnoses occur at this stage;
+       Whereas colorectal cancer screening can effectively reduce 
+     colorectal cancer incidence and mortality, yet 1 in 3 adults 
+     between the ages of 50 and 75 are not up to date with 
+     recommended colorectal cancer screening;
+       Whereas public awareness and education campaigns on 
+     colorectal cancer prevention, screening, and symptoms are 
+     held during the month of March each year; and
+       Whereas educational efforts can help provide information to 
+     the public of methods of prevention and screening, as well as 
+     about symptoms for early detection: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the goals and ideals of National Colorectal 
+     Cancer Awareness Month; and
+
+[[Page S816]]
+
+       (2) encourages the President to issue a proclamation 
+     calling upon the people of the United States to observe the 
+     month with appropriate awareness and educational activities.
+
+                          ____________________
+```

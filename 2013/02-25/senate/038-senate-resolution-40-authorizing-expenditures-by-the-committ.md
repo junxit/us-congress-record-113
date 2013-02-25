@@ -1,0 +1,91 @@
+---
+granule: CREC-2013-02-25-pt1-PgS815-2
+date: 2013-02-25
+edition: CREC
+section: SENATE
+page: S815
+citation: 159 Cong. Rec. S815
+---
+
+# SENATE RESOLUTION 40--AUTHORIZING EXPENDITURES BY THE COMMITTEE ON FOREIGN RELATIONS
+
+**Measures:** S.Res. 40
+
+```
+  SENATE RESOLUTION 40--AUTHORIZING EXPENDITURES BY THE COMMITTEE ON 
+                           FOREIGN RELATIONS
+
+  Mr. MENENDEZ submitted the following resolution; which was referred 
+from the Committee on Foreign Relations; to the Committee on Rules and 
+Administration:
+
+                               S. Res. 40
+
+       Resolved,
+
+     SECTION 1. GENERAL AUTHORITY.
+
+       In carrying out its powers, duties, and functions under the 
+     Standing Rules of the Senate, in accordance with its 
+     jurisdiction under rule XXV of the Standing Rules of the 
+     Senate, including holding hearings, reporting such hearings, 
+     and making investigations as authorized by paragraphs 1 and 8 
+     of rule XXVI of the Standing Rules of the Senate, the 
+     Committee on Foreign Relations (in this resolution referred 
+     to as the ``committee'') is authorized from March 1, 2013 
+     through September 30, 2013, in its discretion to--
+       (1) make expenditures from the contingent fund of the 
+     Senate;
+       (2) employ personnel; and
+       (3) with the prior consent of the Government department or 
+     agency concerned and the Committee on Rules and 
+     Administration, use on a reimbursable or nonreimbursable 
+     basis the services of personnel of any such department or 
+     agency.
+
+     SEC. 2. EXPENSES FOR PERIOD ENDING SEPTEMBER 30, 2013.
+
+       The expenses of the committee for the period March 1, 2013 
+     through September 30, 2013 under this resolution shall not 
+     exceed $3,866,195, of which amount--
+       (1) not to exceed $100,000 may be expended for the 
+     procurement of the services of individual consultants, or 
+     organizations thereof (as authorized by section 202(i) of the 
+     Legislative Reorganization Act of 1946 (2 U.S.C. 72a(i))); 
+     and
+       (2) not to exceed $20,000 may be expended for the training 
+     of the professional staff of the committee (under procedures 
+     specified by section 202(j) of that Act).
+
+     SEC. 3. EXPENSES AND AGENCY CONTRIBUTIONS.
+
+       (a) Expenses of the Committee.--
+       (1) In general.--Except as provided in paragraph (2), 
+     expenses of the committee under this resolution shall be paid 
+     from the contingent fund of the Senate upon vouchers approved 
+     by the chairman of the committee.
+       (2) Vouchers not required.--Vouchers shall not be required 
+     for--
+       (A) the disbursement of salaries of employees paid at an 
+     annual rate;
+       (B) the payment of telecommunications provided by the 
+     Office of the Sergeant at Arms and Doorkeeper;
+       (C) the payment of stationery supplies purchased through 
+     the Keeper of the Stationery;
+       (D) payments to the Postmaster of the Senate;
+       (E) the payment of metered charges on copying equipment 
+     provided by the Office of the Sergeant at Arms and 
+     Doorkeeper;
+       (F) the payment of Senate Recording and Photographic 
+     Services; or
+       (G) the payment of franked and mass mail costs by the 
+     Sergeant at Arms and Doorkeeper, United States Senate.
+       (b) Agency Contributions.--There are authorized such sums 
+     as may be necessary for agency contributions related to the 
+     compensation of employees of the committee from March 1, 2013 
+     through September 30, 2013, to be paid from the 
+     appropriations account for ``Expenses of Inquiries and 
+     Investigations'' of the Senate.
+
+                          ____________________
+```

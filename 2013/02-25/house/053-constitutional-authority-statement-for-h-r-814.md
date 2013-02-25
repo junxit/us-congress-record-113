@@ -1,0 +1,20 @@
+---
+granule: CREC-2013-02-25-pt1-PgH628-7
+date: 2013-02-25
+edition: CREC
+section: HOUSE
+page: H628
+citation: 159 Cong. Rec. H628
+---
+
+# Constitutional Authority Statement for H.R. 814
+
+**Measures:** H.R. 814
+
+```
+            By Ms. MOORE:
+        H.R. 814.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8
+```
