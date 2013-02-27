@@ -1,0 +1,22 @@
+---
+granule: CREC-2013-02-27-pt1-PgH702-11
+date: 2013-02-27
+edition: CREC
+section: HOUSE
+page: H702
+citation: 159 Cong. Rec. H702
+---
+
+# Constitutional Authority Statement for H.R. 853
+
+**Measures:** H.R. 853
+
+```
+            By Mr. BUCHANAN:
+        H.R. 853.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       The constitutional authority on which this joint resolution 
+     rests is the power of Congress as enumerated in Article I, 
+     Section 8 of the United States Constitution.
+```
