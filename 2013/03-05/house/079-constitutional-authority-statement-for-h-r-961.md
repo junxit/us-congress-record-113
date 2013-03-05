@@ -1,0 +1,20 @@
+---
+granule: CREC-2013-03-05-pt1-PgH983-3
+date: 2013-03-05
+edition: CREC
+section: HOUSE
+page: H983
+citation: 159 Cong. Rec. H983
+---
+
+# Constitutional Authority Statement for H.R. 961
+
+**Measures:** H.R. 961
+
+```
+           By Mr. LYNCH:
+       H.R. 961.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 18
+```
