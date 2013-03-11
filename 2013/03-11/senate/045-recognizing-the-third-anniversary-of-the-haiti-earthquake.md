@@ -1,0 +1,193 @@
+---
+granule: CRECB-2013-pt3-Pg3314-5
+date: 2013-03-11
+edition: CRECB
+section: SENATE
+page: 3314
+---
+
+# RECOGNIZING THE THIRD ANNIVERSARY OF THE HAITI EARTHQUAKE
+
+```
+       RECOGNIZING THE THIRD ANNIVERSARY OF THE HAITI EARTHQUAKE
+
+  Mr. SCHUMER. Madam President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 15, S. Res. 12.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The bill clerk read as follows:
+
+       A resolution (S. Res. 12) recognizing the third anniversary 
+     of the tragic earthquake in Haiti on January 12, 2010, 
+     honoring those who lost their lives in that earthquake, and 
+     expressing continued solidarity with the people of Haiti.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution, which had been reported from the Committee on Foreign 
+Relations, with an amendment and an amendment to the preamble, as 
+follows:
+
+       Whereas hundreds of thousands of people as a result of the 
+     earthquake will have some form of a long term disability, in 
+     addition to approximately 800,000 persons with disabilities 
+     living in Haiti;
+       its Office of the Secretary of State for the Integration of 
+     Persons with Disabilities, and civil society, and with the 
+     support of the private sector;
+
+  Mr. SCHUMER. Madam President, I ask unanimous consent that the 
+committee-reported amendment be agreed to; the resolution, as amended, 
+be agreed to; the committee-reported
+
+[[Page 3315]]
+
+amendment to the preamble be agreed to; the preamble, as amended, be 
+agreed to; and that the motions to reconsider be considered made and 
+laid upon the table, with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment was agreed to.
+  The resolution (S. Res. 12), as amended, was agreed to.
+  The committee-reported amendment to the preamble was agreed to.
+  The preamble, as amended, was agreed to.
+  The resolution, as amended, with its preamble, as amended, reads as 
+follows:
+
+                               S. Res. 12
+
+       Whereas, on January 12, 2010, an earthquake measuring 7.0 
+     on the Richter scale struck the country of Haiti, followed by 
+     59 aftershocks measuring 4.5 or greater;
+       Whereas more than 220,000 people died as a result of the 
+     earthquake, more than 300,000 people were injured, and more 
+     than 3,000,000 people were directly affected by the disaster;
+       Whereas the total cost in terms of human lives, 
+     infrastructure damage, and economic losses makes the 
+     earthquake one of the worst urban disasters in modern 
+     history;
+       Whereas President Barack Obama vowed the ``unwavering 
+     support'' of the United States Government and pledged a 
+     ``swift, coordinated, and aggressive effort to save lives and 
+     support the recovery in Haiti'';
+       Whereas the initial emergency response of the men and women 
+     of the United States Government, led by the United States 
+     Agency for International Development and United States 
+     Southern Command, was swift and resolute;
+       Whereas the Haitian diaspora, other individuals, 
+     businesses, and philanthropic organizations throughout the 
+     United States and the international community overwhelmingly 
+     responded to the crisis by sending emergency relief supplies 
+     and significant financial contributions;
+       Whereas the Senate passed 3 successive resolutions 
+     expressing its profound sympathy and unwavering support for 
+     the people of Haiti and urging all nations to assist the 
+     people of Haiti with their long-term needs;
+       Whereas, 3 years later, significant challenges still remain 
+     in Haiti as it works to recover and rebuild;
+       Whereas, according to the International Organization for 
+     Migration, approximately 360,000 people remain in spontaneous 
+     and organized camps in Haiti and hundreds of thousands of 
+     poor people in Haiti continue to live in non-permanent 
+     housing, conditions that make them vulnerable to future 
+     natural disasters;
+       Whereas hundreds of thousands of people as a result of the 
+     earthquake will have some form of a long term disability, in 
+     addition to approximately 800,000 persons with disabilities 
+     living in Haiti;
+       Whereas, according to an independent panel investigation by 
+     the United Nations, on October 19, 2010, an imported strain 
+     of cholera was detected in the Lower Artibonite region of 
+     Haiti;
+       Whereas, according to the Haitian Ministry of Public Health 
+     and Population, as of December 31, 2012, more than 7,900 
+     people in Haiti have died from cholera and more than 635,000 
+     have been infected with the disease since the earthquake on 
+     January 12, 2010;
+       Whereas the United Nations Secretary-General announced a 
+     plan to eliminate cholera from the island of Hispaniola 
+     through enhanced treatment and prevention efforts and through 
+     the development of clean water and sanitation infrastructure 
+     that is accessible to all people in Haiti;
+       Whereas gender-based violence against women and girls in 
+     Haiti continues to be a chronic problem, and judicial 
+     barriers that have prevented victims from finding redress 
+     remain a significant issue of concern;
+       Whereas, in 2012 alone, Haiti faced a long drought period 
+     and 2 major tropical storms that destroyed 70 percent of 
+     agricultural crops in Haiti, impacting the lives of millions 
+     of people in Haiti facing food insecurity and further 
+     crippling the economy of Haiti;
+       Whereas the sustained assistance to Haiti from the United 
+     States and the international community bolsters the efforts 
+     of the Government of Haiti to confront these challenges; and
+       Whereas, since the earthquake on January 12, 2010, the 
+     people of Haiti have demonstrated unwavering resilience, 
+     dignity, and courage: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) mourns the loss of lives as a result of the tragic 
+     earthquake in Haiti on January 12, 2010, and the subsequent 
+     cholera epidemic;
+       (2) honors the sacrifice made by the men and women of the 
+     Government of Haiti, civil society, the United States 
+     Government, the United Nations, and the international 
+     community in their response to those affected by the 
+     calamity;
+       (3) reaffirms its solidarity with the Government and people 
+     of Haiti as they work to rebuild their country and 
+     livelihoods;
+       (4) supports the long-term reconstruction efforts of the 
+     United States Government to improve housing, energy, job 
+     creation, food security, health care, education, governance, 
+     and rule of law in Haiti in full cooperation with the 
+     Government of Haiti, its Office of the Secretary of State for 
+     the Integration of Persons with Disabilities, and civil 
+     society, and with the support of the private sector;
+       (5) urges the President and the international community to 
+     continue--
+       (A) to focus assistance on increasing the capacity of the 
+     public sector of Haiti to sustainably provide services to the 
+     people of Haiti;
+       (B) to develop, improve, and increase communication and 
+     participation to more substantially involve civil society in 
+     Haiti and the Haitian diaspora at all stages of the post-
+     earthquake response;
+       (C) to provide programs that protect and involve vulnerable 
+     populations, including internally displaced persons, 
+     children, women and girls, and persons with disabilities; and
+       (D) to work to enhance the ability of the Government of 
+     Haiti, at all stages of the democratic process, to improve 
+     economic development, attract private sector investment, 
+     pursue judicial reform, enhance the rule of law, reduce 
+     incidences of gender-based violence, improve water and 
+     sanitation systems, develop a civil registry, and reform land 
+     tenure policies;
+       (6) welcomes evidence of progress in building a better 
+     future for Haiti, including--
+       (A) significant improvements in agricultural yields via the 
+     Feed the Future initiative;
+       (B) the opening of the Caracol Industrial Park in northern 
+     Haiti, which is projected to create approximately 20,000 jobs 
+     by 2016;
+       (C) programs to support economic opportunities for women 
+     and survivors of sexual violence through microcredit, short 
+     term jobs programs and leadership training, health services, 
+     and reintegration and repatriation assistance to Haitian 
+     migrants;
+       (D) the reduction of the cholera mortality rate to lower 
+     than one percent, and the provision of sophisticated HIV and 
+     AIDS prevention and treatment services; and
+       (E) the recruitment, training, and provisioning of new 
+     officers for the Haitian National Police; and
+       (7) urges the President--
+       (A) to continue reconstruction and development efforts, 
+     closely coordinated with the Government of Haiti, the Haitian 
+     diaspora, and international actors who share in the goal of a 
+     better future for Haiti;
+       (B) to ensure close monitoring of the implementation of aid 
+     programs funded by the United States Government; and
+       (C) to work with the Government of Haiti and private 
+     landowners to prevent the forced eviction of internally 
+     displaced people and communities and to provide sustainable 
+     and safe housing solutions for the most vulnerable people in 
+     Haiti.
+
+                          ____________________
+```
