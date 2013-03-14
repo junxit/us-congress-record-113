@@ -1,0 +1,29 @@
+---
+granule: CRECB-2013-pt3-Pg3624-3
+date: 2013-03-14
+edition: CRECB
+section: SENATE
+page: 3624
+---
+
+# INSTRUCTION MODIFICATION TO AMENDMENT NO. 29, AS MODIFIED
+
+```
+       INSTRUCTION MODIFICATION TO AMENDMENT NO. 29, AS MODIFIED
+
+  Mr. REID. Mr. President, I ask unanimous consent that notwithstanding 
+the adoption of the Inhofe amendment No. 29, as modified, the 
+instruction line on the amendment be modified with the changes that are 
+at the desk. This is to make sure it is placed in the proper location 
+of the substitute amendment.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The modification is as follows:
+
+       At the end of title IV of division F, insert the following:
+
+[[Page 3625]]
+
+
+
+                          ____________________
+```
