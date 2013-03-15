@@ -1,0 +1,92 @@
+---
+granule: CRECB-2013-pt3-Pg3785-2
+date: 2013-03-15
+edition: CRECB
+section: HOUSE
+page: 3785
+---
+
+# EXPENDITURE REPORTS CONCERNING OFFICIAL FOREIGN TRAVEL
+
+```
+         EXPENDITURE REPORTS CONCERNING OFFICIAL FOREIGN TRAVEL
+
+  Reports concerning the foreign currencies and U.S. dollars utilized 
+for Official Foreign Travel during the fourth quarter of 2012 and the 
+first quarter of 2013 pursuant to Public Law 95-384 are as follows:
+
+[[Page 3786]]
+
+
+
+                             REPORT OF EXPENDITURES FOR OFFICIAL FOREIGN TRAVEL, DAN SCANDLING, HOUSE OF REPRESENTATIVES, EXPENDED BETWEEN FEB. 17 AND FEB. 22, 2013
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Date                                            Per diem\1\             Transportation            Other purposes                 Total
+                                        ----------------------                           -------------------------------------------------------------------------------------------------------
+                                                                                                       U.S. dollar               U.S. dollar               U.S. dollar               U.S. dollar
+       Name of Member or employee                                       Country             Foreign     equivalent    Foreign     equivalent    Foreign     equivalent    Foreign     equivalent
+                                          Arrival   Departure                               currency     or U.S.      currency     or U.S.      currency     or U.S.      currency     or U.S.
+                                                                                                       currency\2\               currency\2\               currency\2\               currency\2\
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dan Scandling..........................  ........       2/17   United States............  ...........  ...........  ...........     9,123.00  ...........  ...........  ...........     9,123.00
+                                            2/18        2/20   Lebanon..................  ...........        84.00  ...........  ...........  ...........  ...........  ...........        84.00
+                                            2/20        2/22   Egypt....................  ...........       184.00  ...........  ...........  ...........  ...........  ...........       184.00
+                                            2/22   ..........  United States............  ...........  ...........  ...........  ...........  ...........  ...........  ...........  ...........
+Note--$24 was returned to U.S. Treasury.
+                                                                                         -------------------------------------------------------------------------------------------------------
+      Committee total..................  ........  ..........  .........................  ...........       268.00  ...........     9,123.00  ...........  ...........  ...........     9,391.00
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\Per diem constitutes lodging and meals.
+\2\If foreign currency is used, enter U.S. dollar equivalent; if U.S. currency is used, enter amount expended.
+DAN SCANDLING, Mar. 4, 2013.
+
+
+                       REPORT OF EXPENDITURES FOR OFFICIAL FOREIGN TRAVEL, DELEGATION TO SWITZERLAND, HOUSE OF REPRESENTATIVES, EXPENDED BETWEEN JAN. 24 AND JAN. 26, 2013
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Date                                            Per diem\1\             Transportation            Other purposes                 Total
+                                        ----------------------                           -------------------------------------------------------------------------------------------------------
+                                                                                                       U.S. dollar               U.S. dollar               U.S. dollar               U.S. dollar
+       Name of Member or employee                                       Country             Foreign     equivalent    Foreign     equivalent    Foreign     equivalent    Foreign     equivalent
+                                          Arrival   Departure                               currency     or U.S.      currency     or U.S.      currency     or U.S.      currency     or U.S.
+                                                                                                       currency\2\               currency\2\               currency\2\               currency\2\
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hon. Eric Cantor.......................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       965.36  ...........     1,335.36
+Hon. Kay Granger.......................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       526.33  ...........       896.33
+Hon. Jeff Fortenberry..................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       964.90  ...........     1,334.90
+Hon. Patrick McHenry...................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........     1,048.04  ...........     1,418.04
+Hon. Darrell Issa......................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       965.36  ...........     1,335.36
+Hon. Mario Diaz-Balart.................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       965.36  ...........     1,335.36
+Robert Karem...........................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       575.00  ...........       945.00
+Douglas Heye...........................     1/24        1/26   Switzerland..............  ...........       370.00  ...........        (\3\)  ...........       575.00  ...........       945.00
+                                                                                         -------------------------------------------------------------------------------------------------------
+      Committee total..................  ........  ..........  .........................  ...........     2,960.00  ...........  ...........  ...........     6,585.35  ...........     9,545.35
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\Per diem constitutes lodging and meals.
+\2\If foreign currency is used, enter U.S. dollar equivalent; if U.S. currency is used, enter amount expended.
+\3\Military air transportation.
+HON. ERIC CANTOR, Feb. 25, 2013.
+
+
+                      REPORT OF EXPENDITURES FOR OFFICIAL FOREIGN TRAVEL, COMMITTEE ON SMALL BUSINESS, HOUSE OF REPRESENTATIVES, EXPENDED BETWEEN OCT. 1 AND DEC. 31, 2012
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Date                                            Per diem\1\             Transportation            Other purposes                 Total
+                                        ----------------------                           -------------------------------------------------------------------------------------------------------
+                                                                                                       U.S. dollar               U.S. dollar               U.S. dollar               U.S. dollar
+       Name of Member or employee                                       Country             Foreign     equivalent    Foreign     equivalent    Foreign     equivalent    Foreign     equivalent
+                                          Arrival   Departure                               currency     or U.S.      currency     or U.S.      currency     or U.S.      currency     or U.S.
+                                                                                                       currency\2\               currency\2\               currency\2\               currency\2\
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hon. Nydia Velazquez...................    12/7        12/9    Bolivia..................  ...........       217.00  ...........     2,479.50  ...........  ...........  ...........     2,696.50
+                                                                                         -------------------------------------------------------------------------------------------------------
+      Committee total..................  ........  ..........  .........................  ...........       217.00  ...........     2,479.50  ...........  ...........  ...........     2,696.50
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\Per diem constitutes lodging and meals.
+\2\If foreign currency is used, enter U.S. dollar equivalent; if U.S. currency is used, enter amount expended.
+HON. SAM GRAVES, Chairman, Feb. 26,
+ 2013.
+
+
+ 
+
+                          ____________________
+```
