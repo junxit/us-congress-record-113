@@ -1,0 +1,91 @@
+---
+granule: CREC-2013-03-18-pt1-PgS1908
+date: 2013-03-18
+edition: CREC
+section: SENATE
+page: S1908
+citation: 159 Cong. Rec. S1908
+---
+
+# SENATE RESOLUTION 77--EXPRESSING THE SENSE OF CONGRESS RELATING TO THE COMMEMORATION OF THE 180TH ANNIVERSARY OF DIPLOMATIC RELATIONS BETWEEN THE UNITED STATES AND THE KINGDOM OF THAILAND
+
+**Measures:** S.Res. 77
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 77--EXPRESSING THE SENSE OF CONGRESS RELATING TO THE 
+COMMEMORATION OF THE 180TH ANNIVERSARY OF DIPLOMATIC RELATIONS BETWEEN 
+             THE UNITED STATES AND THE KINGDOM OF THAILAND
+
+  Mr. MENENDEZ submitted the following resolution; which was referred 
+to the Committee on Foreign Relations:
+
+                               S. Res. 77
+
+       Whereas 2013 marks the 180th anniversary of the March 20, 
+     1833 signing of the Treaty of Amity and Commerce between the 
+     United States and the Kingdom of Thailand (formerly known as 
+     Siam), which initiated diplomatic relations between the two 
+     countries during the administration of President Andrew 
+     Jackson and the reign of King Rama III;
+       Whereas Thailand was the first treaty ally of the United 
+     States in the Asia-Pacific region and remains a steadfast 
+     friend of the United States with shared values of democracy, 
+     rule of law, universal human rights, human security, open 
+     societies, and a free market;
+       Whereas in December 2003, the United States designated 
+     Thailand as a major ally outside the North Atlantic Treaty 
+     Organization, which improved the security of both countries, 
+     particularly by facilitating joint counterterrorism efforts;
+       Whereas for more than 30 years, Thailand has been the host 
+     country of Cobra Gold, the United States Pacific Command's 
+     annual multinational military training exercise, which is 
+     designed to ensure regional peace and promote regional 
+     security cooperation;
+       Whereas Thailand has played a leading role in the 
+     development of the Association of Southeast Asian Nations by 
+     helping the regional group develop into a more cohesive and 
+     comprehensive entity that ensures regional security and 
+     prosperity and serves as a valued partner in Asia for the 
+     United States;
+       Whereas on December 5, 2012, the people of Thailand 
+     celebrated the 85th birthday of His Majesty King Bhumibol 
+     Adulyadej, the world's longest-serving monarch, who is loved 
+     and respected for his lifelong dedication to the social and 
+     economic development of the people of Thailand;
+       Whereas on July 3, 2011, the Royal Thai Government held 
+     nationwide parliamentary elections, the results of which 
+     affirmed Thailand's commitment to the democratic process;
+       Whereas approximately 500,000 people of Thai descent live 
+     in the United States, joining in the pursuit of the American 
+     Dream;
+       Whereas Thailand is a valued trading partner of the United 
+     States, with bilateral trade totaling approximately 
+     $40,000,000,000 per year; and
+       Whereas the bonds of friendship and mutual respect between 
+     the United States and Thailand are strong:
+       Now, therefore, be it
+       Resolved, That the Senate--
+       (1) commemorates the 180th anniversary of diplomatic 
+     relations between the United States and the Kingdom of 
+     Thailand;
+       (2) offers sincere congratulations to the Kingdom of 
+     Thailand and the people of Thailand for their affirmation of 
+     the value of democracy;
+       (3) commemorates the 85th birthday of His Majesty King 
+     Bhumibol Adulyadej of Thailand and offers sincere 
+     congratulations and
+
+[[Page S1909]]
+
+     best wishes for the continued prosperity of the Kingdom of 
+     Thailand; and
+       (4) looks forward to continued, enduring ties of friendship 
+     between the peoples of Thailand and the United States.
+
+                          ____________________
+```
