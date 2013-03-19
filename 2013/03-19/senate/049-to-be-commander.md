@@ -1,0 +1,54 @@
+---
+granule: CREC-2013-03-19-pt1-PgS1965
+date: 2013-03-19
+edition: CREC
+section: SENATE
+page: S1965
+citation: 159 Cong. Rec. S1965
+---
+
+# To be commander
+
+```
+[[Page S1965]]
+
+                            To be commander
+
+JEREMY J. AUJERO
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+GARY S. PHILLIPS
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE REGULAR NAVY UNDER TITLE 10, U.S.C., SECTION 
+     531:
+
+                       To be lieutenant commander
+
+GENEVIEVE BUENAFLOR
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE REGULAR NAVY UNDER TITLE 10, U.S.C., SECTION 
+     531:
+
+                       To be lieutenant commander
+
+FREDDIE R. HARMON
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE REGULAR NAVY UNDER TITLE 10, U.S.C., SECTION 
+     531:
+
+                       To be lieutenant commander
+
+CATHERINE W. BOEHME
+       THE FOLLOWING NAMED INDIVIDUALS FOR APPOINTMENT TO THE 
+     GRADE INDICATED IN THE REGULAR NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 531:
+
+                       To be lieutenant commander
+
+TODD W. MILLS
+MARVIN W. WHITING
+```
