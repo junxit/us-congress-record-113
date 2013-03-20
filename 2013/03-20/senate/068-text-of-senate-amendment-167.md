@@ -1,0 +1,25 @@
+---
+granule: CREC-2013-03-20-pt1-PgS2043-6
+date: 2013-03-20
+edition: CREC
+section: SENATE
+page: S2043
+citation: 159 Cong. Rec. S2043
+---
+
+# Text of Senate Amendment 167
+
+**Speaking:** Ayotte, Kelly (A000368) [R-NH]
+
+```
+  SA 167. Ms. AYOTTE submitted an amendment intended to be proposed by 
+her to the concurrent resolution S. Con. Res. 8, setting forth the 
+congressional budget for the United States Government for fiscal year 
+2014, revising the appropriate budgetary levels for fiscal year 2013, 
+and setting forth the appropriate budgetary levels for fiscal years 
+2015 through 2023; which was ordered to lie on the table; as follows:
+
+       On page 51, line 9, insert ``without raising new revenue,'' 
+     after ``growth,''.
+                                 ______
+```
