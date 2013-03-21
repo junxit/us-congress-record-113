@@ -1,0 +1,44 @@
+---
+granule: CREC-2013-03-21-pt1-PgS2222
+date: 2013-03-21
+edition: CREC
+section: SENATE
+page: S2222
+citation: 159 Cong. Rec. S2222
+---
+
+# Text of Senate Amendment 455
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+```
+  SA 455. Mr. BROWN (for himself and Mr. Blunt) submitted an amendment 
+intended to be proposed by him to the concurrent resolution S. Con. 
+Res. 8, setting forth the congressional budget for the United States 
+Government for fiscal year 2014, revising the appropriate budgetary 
+levels for fiscal year 2013, and setting forth the appropriate 
+budgetary levels for fiscal years 2015 through 2023; which was ordered 
+to lie on the table; as follows:
+
+       At the end of title III, add the following:
+
+     SEC. 3__. DEFICIT-NEUTRAL RESERVE FUND TO ESTABLISH A 
+                   NATIONAL NETWORK FOR MANUFACTURING INNOVATION.
+
+       The Chairman of the Committee on the Budget of the Senate 
+     may revise the allocations of a committee or committees, 
+     aggregates, and other appropriate levels in this resolution 
+     for one or more bills, joint resolutions, amendments, 
+     motions, or conference reports that relate to accelerating 
+     the development and deployment of advanced manufacturing 
+     technologies, advancing competitiveness, improving the speed 
+     and infrastructure with which small- and medium-sized 
+     enterprises and supply chains commercialize new processes and 
+     technologies, and informing industry-driven education and 
+     training, by the amounts provided in such legislation for 
+     those purposes, provided that such legislation would not 
+     increase the deficit over either the period of the total of 
+     fiscal years 2013 through 2018 or the period of the total of 
+     fiscal years 2013 through 2023.
+                                 ______
+```

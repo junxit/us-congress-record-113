@@ -1,0 +1,47 @@
+---
+granule: CREC-2013-03-21-pt1-PgE351-2
+date: 2013-03-21
+edition: CREC
+section: EXTENSIONS
+page: E351
+citation: 159 Cong. Rec. E351
+---
+
+# AMENDMENT TO THE SENATE AMENDMENT TO H.R. 933
+
+**Speaking:** Kinzinger, Adam (K000378) [R-IL]
+
+**Measures:** H.R. 933
+
+```
+             AMENDMENT TO THE SENATE AMENDMENT TO H.R. 933
+
+                                 ______
+                                 
+
+                          HON. ADAM KINZINGER
+
+                              of illinois
+
+                    in the house of representatives
+
+                        Thursday, March 21, 2013
+
+  Mr. KINZINGER of Illinois. Mr. Speaker, if I had been able to offer 
+an amendment to the Continuing Resolution, H.R. 933 I was prepared to 
+offer the following:
+
+        AMENDMENT TO SENATE AMENDMENT TO H.R. 933 OFFERED BY MR. 
+     KINZINGER OF ILLINOIS
+        At the appropriate place, insert the following:
+        PROHIBITION ON FUNDING:
+        SEC.----. None of the funds made available in 3 this Act 
+     may be used--(1) to carry out any provision of the Patient 
+     Protection and Affordable Care Act (Public Law 111-148) or 
+     title I or subtitle B of title II of the Health Care and 
+     Education Reconciliation Act of 2010 (Public Law 111-152), or 
+     the amendments made by such Act, title, or subtitle; or (2) 
+     for rulemaking under such Act, title, or subtitle.
+
+                          ____________________
+```
