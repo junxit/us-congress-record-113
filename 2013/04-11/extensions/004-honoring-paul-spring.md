@@ -1,0 +1,43 @@
+---
+granule: CRECB-2013-pt4-Pg5100-4
+date: 2013-04-11
+edition: CRECB
+section: EXTENSIONS
+page: 5100
+---
+
+# HONORING PAUL SPRING
+
+```
+                          HONORING PAUL SPRING
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Thursday, April 11, 2013
+
+  Mr. GRAVES of Missouri. Mr. Speaker, I proudly pause to recognize 
+Paul Spring. Paul is a very special young man who has exemplified the 
+finest qualities of citizenship and leadership by taking an active part 
+in the Boy Scouts of America, Troop 374, and earning the most 
+prestigious award of Eagle Scout.
+   Paul has been very active with his troop, participating in many 
+scout activities. Over the many years Paul has been involved with 
+scouting, he has not only earned numerous merit badges, but also the 
+respect of his family, peers, and community. Most notably, Paul has 
+contributed to his community through his Eagle Scout project. Paul led 
+a construction team in building a picnic area consisting of four cedar 
+tables and an encompassing rubber mulch area at Pleasant Valley Baptist 
+Church in Kansas City, Missouri.
+   Mr. Speaker, I proudly ask you to join me in commending Paul Spring 
+for his accomplishments with the Boy Scouts of America and for his 
+efforts put forth in achieving the highest distinction of Eagle Scout.
+
+                          ____________________
+```
