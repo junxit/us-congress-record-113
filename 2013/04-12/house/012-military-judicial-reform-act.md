@@ -1,0 +1,32 @@
+---
+granule: CRECB-2013-pt4-Pg5115-4
+date: 2013-04-12
+edition: CRECB
+section: HOUSE
+page: 5115
+---
+
+# MILITARY JUDICIAL REFORM ACT
+
+```
+                      MILITARY JUDICIAL REFORM ACT
+
+  (Mr. MEEHAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MEEHAN. Mr. Speaker, just earlier this week, I was able to join 
+with my colleague, Representative Speier from California, introducing 
+legislation to protect victims of military sexual assault. That's the 
+Military Judicial Reform Act.
+  In recognition of a victim who, having had a jury at a court-martial 
+find a finding of guilt against an assailant, had it overturned by a 
+general who convened that, now we are faced with a new opportunity in 
+which new information is being put out outside the scope of that trial.
+  Mr. Speaker, it is time that we end this archaic practice and stop 
+putting the victim on trial again and again.
+  This week Secretary Hagel called on Congress to remove the provisions 
+of the Uniform Code of Military Justice that allow this proceeding to 
+take place, and I urge my colleagues now to act together to end this 
+archaic practice.
+
+                          ____________________
+```
