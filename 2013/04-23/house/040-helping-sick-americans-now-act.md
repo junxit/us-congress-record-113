@@ -1,0 +1,42 @@
+---
+granule: CREC-2013-04-23-pt1-PgH2231
+date: 2013-04-23
+edition: CREC
+section: HOUSE
+page: H2231
+citation: 159 Cong. Rec. H2231
+---
+
+# HELPING SICK AMERICANS NOW ACT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                              {time}  1920
+                     HELPING SICK AMERICANS NOW ACT
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, despite blocked attempts 
+to fully repeal the so-called Affordable Care Act, this law is doomed 
+to collapse under the weight of its own flawed design. Just last week, 
+Democratic Senator Max Baucus of Montana, a key architect of the 
+Affordable Care Act, referred to the administration's signature health 
+care law as a looming ``train wreck.'' Another promise that was used to 
+force passage of the President's health law was broken in February, 
+when the administration's Centers for Medicare & Medicaid Services 
+announced that it would stop enrolling people with preexisting 
+conditions due to funding constraints.
+  This week, the House will vote on the Helping Sick Americans Now Act, 
+which would extend access to those with preexisting conditions. The 
+coverage would be funded by eliminating the Prevention and Public 
+Health Fund, a program under ObamaCare identified as rife with 
+mismanagement and taxpayer abuse.
+  While full repeal would have been less costly and painful, the 
+gradual failure of the Affordable Care Act is inflicting significant 
+pain on families, businesses, and our economy. Don't take my word. Just 
+listen to the Senator from Montana. His recent remarks aren't far off 
+the mark.
+
+                          ____________________
+```
