@@ -1,0 +1,58 @@
+---
+granule: CREC-2013-04-30-pt1-PgE582-4
+date: 2013-04-30
+edition: CREC
+section: EXTENSIONS
+page: E582
+citation: 159 Cong. Rec. E582
+---
+
+# RECOGNIZING CHILDHOOD APRAXIA DAY
+
+**Speaking:** Doyle, Michael F. (D000482) [D-PA]
+
+```
+                   RECOGNIZING CHILDHOOD APRAXIA DAY
+
+                                 ______
+                                 
+
+                         HON. MICHAEL F. DOYLE
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Tuesday, April 30, 2013
+
+  Mr. DOYLE. Mr. Speaker, May 14 marks the first annual Childhood 
+Apraxia of Speech Day, a day to raise national awareness about 
+Childhood Apraxia of Speech, a particularly difficult, persistent, and 
+severe speech disorder in youngsters.
+  Childhood Apraxia of Speech (CAS) causes children to have extreme 
+difficulty planning and producing the precise, highly refined and
+
+[[Page E583]]
+
+specific series of movements of the tongue, lips, jaw, and palate that 
+are necessary for the production of proper speech. It is among the most 
+severe of speech and communication problems in children.
+  While the act of learning to speak comes effortlessly to most 
+children, those with apraxia endure an incredible and lengthy struggle. 
+Although not life threatening it is life altering as families are left 
+to cope with the emotional, physical, and financial challenges of 
+having a child diagnosed with CAS.
+  Every child should be afforded their best opportunity to develop 
+speech. With early intervention and appropriate therapy, most children 
+with CAS will learn to communicate with their very own voices. These 
+children, as well as their families, deserve our highest respect for 
+their effort, determination and resilience in the face of such 
+obstacles.
+  The Childhood Apraxia of Speech Association of North America (CASANA) 
+offers information and support related to CAS on its website, 
+www.apraxia-kids.org.
+ Let's use Childhood Apraxia Day to raise awareness about CAS and 
+support the goals of Better Hearing and Speech Month.
+
+                          ____________________
+```
