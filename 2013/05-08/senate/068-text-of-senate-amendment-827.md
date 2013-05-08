@@ -1,0 +1,34 @@
+---
+granule: CREC-2013-05-08-pt1-PgS3266-6
+date: 2013-05-08
+edition: CREC
+section: SENATE
+page: S3266
+citation: 159 Cong. Rec. S3266
+---
+
+# Text of Senate Amendment 827
+
+**Speaking:** Cochran, Thad (C000567) [R-MS]
+
+```
+  SA 827. Mr. COCHRAN submitted an amendment intended to be proposed by 
+him to the bill S. 601, to provide for the conservation and development 
+of water and related resources, to authorize the Secretary of the Army 
+to construct various projects for improvements to rivers and harbors of 
+the United States, and for other purposes; which was ordered to lie on 
+the table; as follows:
+
+       At the end of section 3018, add the following:
+       (c) Effective Date.--This section and the amendments made 
+     by this section shall not take effect until the date on which 
+     the Secretary certifies in writing to the Committees on 
+     Appropriations and Environment and Public Works of the Senate 
+     and the Committees on Appropriations and Transportation and 
+     Infrastructure of the House of Representatives that the 
+     implementation of this section and the amendments made by 
+     this section will not increase, directly or indirectly, the 
+     flood risk of any property in a State other than the State of 
+     Louisiana.
+                                 ______
+```
