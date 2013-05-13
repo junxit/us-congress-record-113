@@ -1,0 +1,73 @@
+---
+granule: CRECB-2013-pt5-Pg6700
+date: 2013-05-13
+edition: CRECB
+section: SENATE
+page: 6700
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                    TRIBUTE TO COLONEL CHARLES McGEE
+
+● Mr. BLUNT. Mr. President, today I wish to join the Columbia 
+College Alumni Association in recognizing one of the college's most 
+prestigious alumni. Colonel Charles McGee is among the most decorated 
+and accomplished Air Force aviators, holding an Air Force record of 409 
+fighter combat missions flown in World War II, Korea and Vietnam. I am 
+proud to applaud him for his invaluable service and contributions to 
+the Air Force, Kansas City, and to our country.
+  Charles E. McGee was one of the renowned Tuskegee Airmen of World War 
+II and continued his service as a career officer in the U.S. Air Force 
+for 30 years. He was born in Cleveland, OH on December 7, 1919, and as 
+a young man, McGee was a member of the Boy Scouts of America, BSA, 
+achieving the rank of Eagle Scout on August 9, 1940. He later served in 
+district and regional positions in the BSA. At the 2010 National Scout 
+Jamboree, he was recognized with the Distinguished Eagle Scout Award.
+  During the Vietnam War, as a Lieutenant Colonel, McGee flew 172 
+combat missions in a McDonnell RF-4 photo-reconnaissance aircraft. 
+After a series of other appointments in the United States, Italy and 
+Germany and promotion to Colonel, McGee retired on January 31, 1973. He 
+ended his military career with an impressive 6,308 flying hours. 
+Following his military service, McGee has held many prestigious 
+functional and honorary positions within the field of aviation.
+  In 1978, at the age of 58, he completed his college degree at 
+Columbia College in Kansas City, over 30 years after his initial 
+enrollment at the University of Illinois. Though interrupted by World 
+War II, attaining a college degree had been a lifelong goal. I am 
+honored to have the opportunity to congratulate Colonel McGee for this 
+great achievement and am proud that he chose to complete his studies 
+and continue his impressive career in the great State of Missouri.
+  In his civilian life, McGee served as the director of the Kansas City 
+downtown airport and as a member of the Aviation Advisory Commission. 
+For 30 years, he has been an ambassador of the Tuskegee Airmen, Inc., 
+serving three times as national president. He has shared his story in 
+numerous public addresses and has received many accolades, including 
+the National Aeronautical Association's Elder Statesman of Aviation.
+  In 2005, McGee was part of a group of former Tuskegee Airmen who flew 
+to Balad, Iraq to speak to active duty airmen serving in the 332nd Air 
+Expeditionary Wing, the current incarnation of the 332nd Fighter Group.
+  McGee has been recognized for his combat and military service with a 
+number of awards including: Distinguished Flying Cross with two Oak 
+Leaf Clusters, Legion of Merit with one Oak Leaf Cluster, Bronze Star, 
+Air Medal with 25 Oak Leaf Clusters, Army Commendation Medal, 
+Presidential Unit Citation, Korean Presidential Unit Citation, Hellenic 
+Republic World War II Commemorative Medal, along with related campaign 
+and service ribbons.
+  In 2007, President George W. Bush awarded him and the surviving 
+Tuskegee Airmen the Congressional Gold Medal of Honor, the Nation's 
+highest civilian award, and in 2011, he was inducted into the National 
+Aviation Hall of Fame in Dayton, OH.
+  I am honored to join Columbia College in celebrating Colonel Charles 
+McGee's accomplishments and service, from which we have all greatly 
+benefited. I want to thank Colonel McGee for his leadership in the 
+field of aviation, in our military, and in his community.●
+
+                          ____________________
+```
