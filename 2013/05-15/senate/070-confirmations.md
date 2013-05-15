@@ -1,0 +1,29 @@
+---
+granule: CREC-2013-05-15-pt1-PgS3535-5
+date: 2013-05-15
+edition: CREC
+section: SENATE
+page: S3535
+citation: 159 Cong. Rec. S3535
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 15, 2013:
+
+
+                             THE JUDICIARY
+
+       WILLIAM H. ORRICK, III, OF THE DISTRICT OF COLUMBIA, TO BE 
+     UNITED STATES DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF 
+     CALIFORNIA.
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       MARILYN B. TAVENNER, OF VIRGINIA, TO BE ADMINISTRATOR OF 
+     THE CENTERS FOR MEDICARE AND MEDICAID SERVICES.
+```

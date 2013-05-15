@@ -1,0 +1,26 @@
+---
+granule: CREC-2013-05-15-pt1-PgH2637
+date: 2013-05-15
+edition: CREC
+section: HOUSE
+page: H2637
+citation: 159 Cong. Rec. H2637
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 45, REPEAL OF PATIENT PROTECTION AND AFFORDABLE CARE ACT
+
+**Measures:** H.R. 45, H.Res. 215
+
+```
+REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 45, REPEAL OF 
+               PATIENT PROTECTION AND AFFORDABLE CARE ACT
+
+  Mr. SESSIONS, from the Committee on Rules, submitted a privileged 
+report (Rept. No. 113-59) on the resolution (H. Res. 215) providing for 
+consideration of the bill (H.R. 45) to repeal the Patient Protection 
+and Affordable Care Act and health care-related provisions in the 
+Health Care and Education Reconciliation Act of 2010, which was 
+referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```
