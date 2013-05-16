@@ -1,0 +1,35 @@
+---
+granule: CREC-2013-05-16-pt1-PgH2707-2
+date: 2013-05-16
+edition: CREC
+section: HOUSE
+page: H2707
+citation: 159 Cong. Rec. H2707
+---
+
+# RESCUING AMERICANS FROM THE TRACKS OF HEALTH CARE DESTRUCTION
+
+**Speaking:** Griffith, H. Morgan (G000568) [R-VA]
+
+```
+                              {time}  1840
+     RESCUING AMERICANS FROM THE TRACKS OF HEALTH CARE DESTRUCTION
+
+  (Mr. GRIFFITH of Virginia asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. GRIFFITH of Virginia. Ladies and gentlemen, let me tell you why 
+people would vote to repeal the Affordable Care Act. It has become 
+very, very clear that no matter how well-intentioned it may have been, 
+it will not work. Time after time, we are finding that the things that 
+they told us just aren't panning out to be true; and Senator Max 
+Baucus, one of the law's main architects, recently described ObamaCare 
+as a huge train wreck coming down.
+  We have a chance to save Americans from being casualties of the train 
+wreck. We can yank them off the tracks. Today, I voted to show that I 
+am trying to do just that.
+  I call on the United States Senate and the Senators to join us in 
+rescuing the American people from the tracks of health care 
+destruction.
+
+                          ____________________
+```
