@@ -1,0 +1,40 @@
+---
+granule: CRECB-2013-pt5-Pg7119-6
+date: 2013-05-17
+edition: CRECB
+section: HOUSE
+page: 7119
+---
+
+# JOBS, JOBS, JOBS
+
+```
+                            JOBS, JOBS, JOBS
+
+  (Ms. WILSON of Florida asked and was given permission to address the 
+House for 1 minute.)
+  Ms. WILSON of Florida. Mr. Speaker, it's now been 866 days since I 
+arrived in Congress, and the Republican leadership has still not 
+allowed a single vote on serious legislation to address our 
+unemployment crisis.
+  That's zero votes to address our Nation's most pressing emergency. 
+That's zero votes to address the sequester policies that are making our 
+job crisis immeasurably worse. Yet yesterday, the Republican Congress 
+took its 37th vote to repeal the Affordable Care Act.
+  Mr. Speaker, this was not only a colossal waste of valuable time that 
+could have been spent focusing on jobs legislation, it's a further step 
+in the wrong direction. By expanding access
+
+[[Page 7120]]
+
+to health care, the Affordable Care Act gives Americans more disposable 
+income, creating more customers for our businesses and, in turn, more 
+jobs.
+  It's time to bring the American Jobs Act to the floor. It deserves a 
+vote.
+  Investigate Benghazi; investigate the AP leaks; investigate the IRS; 
+but, Mr. Speaker, don't forget our focus, our crisis. Our mantra should 
+be: jobs, jobs, jobs.
+
+                          ____________________
+```
