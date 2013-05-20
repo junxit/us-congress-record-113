@@ -1,0 +1,46 @@
+---
+granule: CREC-2013-05-20-pt1-PgS3614-6
+date: 2013-05-20
+edition: CREC
+section: SENATE
+page: S3614
+citation: 159 Cong. Rec. S3614
+---
+
+# INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+**Measures:** S. 988, S. 989, S. 990, S. 991
+
+```
+              INTRODUCTION OF BILLS AND JOINT RESOLUTIONS
+
+  The following bills and joint resolutions were introduced, read the 
+first and second times by unanimous consent, and referred as indicated:
+
+           By Mr. LEE (for himself, Mr. Vitter, Mr. Paul, Mr. 
+             Cornyn, Mr. Chambliss, Mr. Cruz, Ms. Ayotte, Mr. 
+             Coburn, Mr. Risch, Mr. Inhofe, Mr. Crapo, Mr. Enzi, 
+             Mr. Hatch, Mr. Boozman, Mr. Grassley, Mr. Wicker, Mr. 
+             McConnell, Mr. Blunt, Mr. Johnson of Wisconsin, Mr. 
+             Sessions, and Mr. Barrasso):
+       S. 988. A bill to provide for an accounting of total United 
+     States contributions to the United Nations; to the Committee 
+     on Foreign Relations.
+           By Mr. SCHATZ:
+       S. 989. A bill to eliminate the prerequisite of direct 
+     appropropriations relating to collection of health data and 
+     to modify standards for measuring sexual orientation and 
+     gender identity; to the Committee on Health, Education, 
+     Labor, and Pensions.
+           By Mrs. SHAHEEN:
+       S. 990. A bill to extend the Iraqi and Afghan Special 
+     Immigrant Visa Programs by 1 year; to the Committee on the 
+     Judiciary.
+           By Mr. MENENDEZ:
+       S. 991. A bill to amend the Internal Revenue Code of 1986 
+     to prevent the avoidance of tax by insurance companies 
+     through reinsurance with non-taxed affiliates; to the 
+     Committee on Finance.
+
+                          ____________________
+```
