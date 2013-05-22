@@ -1,0 +1,38 @@
+---
+granule: CREC-2013-05-22-pt1-PgS3701-7
+date: 2013-05-22
+edition: CREC
+section: SENATE
+page: S3701
+citation: 159 Cong. Rec. S3701
+---
+
+# MEASURES PLACED ON THE CALENDAR--S. 1003, S. 1004, H.R. 45
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 45, S. 1003, S. 1004
+
+```
+       MEASURES PLACED ON THE CALENDAR--S. 1003, S. 1004, H.R. 45
+
+  Mr. REID. Mr. President, there are three bills at the desk due for a 
+second reading.
+  The ACTING PRESIDENT pro tempore. The clerk will read the bills by 
+title for the second time.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 1003) to amend the Higher Education Act of 1965 
+     to reset interest rates for new student loans.
+       A bill (S. 1004) to permit voluntary economic activity.
+       A bill (H.R. 45) to repeal the Patient Protection and 
+     Affordable Care Act and health care-related provisions in the 
+     Health Care and Education Reconciliation Act of 2010.
+
+  Mr. REID. I object to any further proceedings to all three of these 
+bills at this time.
+  The ACTING PRESIDENT pro tempore. Objection is heard. The bills will 
+be placed on the calendar under rule XIV.
+
+                          ____________________
+```
