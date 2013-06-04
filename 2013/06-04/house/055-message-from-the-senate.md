@@ -1,0 +1,69 @@
+---
+granule: CREC-2013-06-04-pt1-PgH3044
+date: 2013-06-04
+edition: CREC
+section: HOUSE
+page: H3044
+citation: 159 Cong. Rec. H3044
+---
+
+# MESSAGE FROM THE SENATE
+
+**Measures:** S.Con.Res. 18, S.Res. 160
+
+```
+                        MESSAGE FROM THE SENATE
+
+  A message from the Senate by Ms. Curtis, one of its clerks, announced 
+that the Senate agreed to the following resolution:
+
+                              S. Res. 160
+
+       Whereas the Senate has heard with profound sorrow and deep 
+     regret the announcement of the death of the Honorable Frank 
+     R. Lautenberg, late a Senator from the State of New Jersey: 
+     Now, therefore, be it
+         Resolved, That the memorial observances of the Honorable 
+     Frank R. Lautenberg, late a Senator from the State of New 
+     Jersey be held in the Senate Chamber on Thursday, June 6, 
+     2013, beginning at 2 p.m., and that the Senate attend the 
+     same.
+         Resolved, That paragraph 1 of Rule IV of the Rules for 
+     the Regulation of the Senate Wing of the United States 
+     Capitol (prohibiting the taking of pictures in the Senate 
+     Chamber) be temporarily suspended for the sole and specific 
+     purpose of permitting the Senate Photographic Studio to 
+     photograph this memorial observance.
+         Resolved, That the Sergeant at Arms be directed to make 
+     necessary and appropriate arrangements in connection with the 
+     memorial observances in the Senate Chamber.
+         Resolved, That the Secretary of the Senate communicate 
+     these resolutions to the House of Representatives, transmit 
+     an enrolled copy thereof to the family of the deceased, and 
+     invite the House of Representatives and the family of the 
+     deceased to attend the memorial observances in the Senate 
+     Chamber.
+         Resolved, That invitations be extended to the President 
+     of the United States, the Vice President of the United 
+     States, and the members of the Cabinet, the Chief Justice and 
+     Associate Justices of the Supreme Court of the United States, 
+     the Diplomatic Corps (through the Secretary of State), the 
+     Chief of Staff of the Army, the Chief of Naval Operations of 
+     the Navy, the Major General Commandant of the Marine Corps, 
+     the Chief of Staff of the Air Force, and the Commandant of 
+     the Coast Guard to attend the memorial observances in the 
+     Senate Chamber.
+
+  The message also announced that the Senate has agreed to a concurrent 
+resolution of the following title in which the concurrence of the 
+House's requested:
+
+       S. Con. Res. 18. Concurrent Resolution providing for the 
+     use of the catafalque situated in the Exhibition Hall of the 
+     Capitol Visitor Center in connection with memorial services 
+     to be conducted in the United States Senate Chamber for the 
+     Honorable Frank R. Lautenberg, late a Senator from the State 
+     of New Jersey.
+
+                          ____________________
+```
