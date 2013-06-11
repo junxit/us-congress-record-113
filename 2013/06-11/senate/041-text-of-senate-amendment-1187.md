@@ -1,0 +1,23 @@
+---
+granule: CREC-2013-06-11-pt1-PgS4218
+date: 2013-06-11
+edition: CREC
+section: SENATE
+page: S4218
+citation: 159 Cong. Rec. S4218
+---
+
+# Text of Senate Amendment 1187
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+  SA 1187. Mr. SCHUMER submitted an amendment intended to be proposed 
+by him to the bill S. 744, to provide for comprehensive immigration 
+reform and for other purposes; which was ordered to lie on the table; 
+as follows:
+
+       On page 1206, line 8, strike ``203(b)(2)(B)'' and insert 
+     ``201(b)(1)(N)''.
+                                 ______
+```
