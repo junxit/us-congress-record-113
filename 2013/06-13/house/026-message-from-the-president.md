@@ -1,0 +1,19 @@
+---
+granule: CREC-2013-06-13-pt1-PgH3366-8
+date: 2013-06-13
+edition: CREC
+section: HOUSE
+page: H3366
+citation: 159 Cong. Rec. H3366
+---
+
+# MESSAGE FROM THE PRESIDENT
+
+```
+                       MESSAGE FROM THE PRESIDENT
+
+  A message in writing from the President of the United States was 
+communicated to the House by Mr. Brian Pate, one of his secretaries.
+
+                          ____________________
+```
