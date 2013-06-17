@@ -1,0 +1,31 @@
+---
+granule: CRECB-2013-pt7-Pg9249-3
+date: 2013-06-17
+edition: CRECB
+section: HOUSE
+page: 9249
+---
+
+# SECURING THE FUTURE
+
+```
+                          SECURING THE FUTURE
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, House Republicans have a plan to create jobs, 
+grow our economy, and secure our future for all Americans. And we're 
+going to do it by expanding opportunity, not expanding government.
+  We're going to hold government accountable to the hardworking 
+taxpayers of this country. We're going to rein in runaway Washington 
+spending that's driving up our national debt. We're going to reform our 
+Tax Code to make it fair and simpler for all Americans. We're going to 
+promote an all-of-the-above, all-American energy strategy that will 
+create jobs, lower energy costs, and strengthen our national security.
+  These are the commonsense solutions that the American people deserve. 
+It's not fair that Washington Democrats keep offering up only more 
+spending and political games. Real solutions to real problems, that's 
+the House Republican commitment.
+
+                          ____________________
+```
