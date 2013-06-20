@@ -1,0 +1,24 @@
+---
+granule: CREC-2013-06-20-pt1-PgH3971
+date: 2013-06-20
+edition: CREC
+section: HOUSE
+page: H3971
+citation: 159 Cong. Rec. H3971
+---
+
+# ADJOURNMENT TO MONDAY, JUNE 24, 2013
+
+**Speaking:** Cantor, Eric (C001046) [R-VA]
+
+```
+                  ADJOURNMENT TO MONDAY, JUNE 24, 2013
+
+  Mr. CANTOR. Mr. Speaker, I ask unanimous consent that when the House 
+adjourns today, it adjourn to meet at 11 a.m. on Monday, June 24, 2013.
+  The SPEAKER pro tempore (Mr. Gohmert). Is there objection to the 
+request of the gentleman from Virginia?
+  There was no objection.
+
+                          ____________________
+```
