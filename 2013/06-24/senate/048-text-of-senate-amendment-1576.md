@@ -1,0 +1,1672 @@
+---
+granule: CREC-2013-06-24-pt1-PgS5037-6
+date: 2013-06-24
+edition: CREC
+section: SENATE
+page: S5037
+citation: 159 Cong. Rec. S5037
+---
+
+# Text of Senate Amendment 1576
+
+**Speaking:** Grassley, Chuck (G000386) [R-IA]
+
+```
+  SA 1576. Mr. GRASSLEY submitted an amendment intended to be proposed 
+to amendment SA 1183 submitted by Mr. Leahy (for himself and Mr. Hatch) 
+to the bill S. 744, to provide for comprehensive immigration reform and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       Beginning on page 534 of the amendment, strike line 7 and 
+     all that follows through page 621, line 8, and insert the 
+     following:
+       ``(D) General participation requirement for new 
+     employees.--All employers in the United States shall 
+     participate in the System, with respect to all employees 
+     hired by such employers on or after the date that is 18 
+     months after the date of the enactment of the Border 
+     Security, Economic Opportunity, and Immigration Modernization 
+     Act.
+       ``(E) Immigration law violators.--
+       ``(i) Orders finding violations.--An order finding any 
+     employer to have violated this section or section 274C may, 
+     in the Secretary's discretion, require the employer to 
+     participate in the System with respect to newly hired 
+     employees and employees with expiring temporary employment 
+     authorization documents, if such employer is not otherwise 
+     required to participate in the System under this section. The 
+     Secretary shall monitor such employer's compliance with 
+     System procedures.
+       ``(ii) Pattern or practice of violations.--The Secretary 
+     may require an employer that is required to participate in 
+     the System with respect to newly hired employees to 
+     participate in the System with respect to the employer's 
+     current employees if the Secretary or other appropriate 
+     authority has reasonable cause to believe that the employer 
+     is, or has been, engaged in a material violation of this 
+     section.
+       ``(F)  Voluntary participation.--The Secretary may permit 
+     any employer that is not required to participate in the 
+     System under this section to do so on a voluntary basis.
+       ``(3) Consequence of failure to participate.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     the failure, other than a de minimis or inadvertent failure, 
+     of an employer that is required to participate in the System 
+     to comply with the requirements of the System with respect to 
+     an individual--
+       ``(i) shall be treated as a violation of subsection 
+     (a)(1)(B) with respect to that individual; and
+
+[[Page S5038]]
+
+       ``(ii) creates a rebuttable presumption that the employer 
+     has violated paragraph (1)(A) or (2) of subsection (a).
+       ``(B) Exception.--
+       ``(i) In general.--Subparagraph (A) shall not apply in a 
+     criminal prosecution.
+       ``(ii) Use as evidence.--Nothing in this paragraph may be 
+     construed to limit the use in the prosecution of a Federal 
+     crime, in a manner otherwise consistent with Federal criminal 
+     law and procedure, of evidence relating to the employer's 
+     failure to comply with requirements of the System.
+       ``(4) Procedures for participants in the system.--
+       ``(A) In general.--An employer participating in the System 
+     shall register such participation with the Secretary and, 
+     when hiring any individual for employment in the United 
+     States, shall comply with the following:
+       ``(i) Registration of employers.--The Secretary, through 
+     notice in the Federal Register, shall prescribe procedures 
+     that employers shall be required to follow to register with 
+     the System.
+       ``(ii) Updating information.--The employer is responsible 
+     for providing notice of any change to the information 
+     required under subclauses (I), (II), and (III) of clause (v) 
+     before conducting any further inquiries within the System, or 
+     on such other schedule as the Secretary may prescribe.
+       ``(iii) Training.--The Secretary shall require employers to 
+     undergo such training as the Secretary determines to be 
+     necessary to ensure proper use, protection of civil rights 
+     and civil liberties, privacy, integrity, and security of the 
+     System. To the extent practicable, such training shall be 
+     made available electronically on the U.S. Citizenship and 
+     Immigration Services website.
+       ``(iv) Notification to employees.--The employer shall 
+     inform individuals hired for employment that the System--
+
+       ``(I) will be used by the employer;
+       ``(II) may be used for immigration enforcement purposes; 
+     and
+       ``(III) may not be used to discriminate or to take adverse 
+     action against a national of the United States or an alien 
+     who has employment authorized status.
+
+       ``(v) Provision of additional information.--The employer 
+     shall obtain from the individual (and the individual shall 
+     provide) and shall record in such manner as the Secretary may 
+     specify--
+
+       ``(I) the individual's social security account number;
+       ``(II) if the individual does not attest to United States 
+     citizenship or status as a national of the United States 
+     under subsection (c)(2), such identification or authorization 
+     number established by the Department as the Secretary shall 
+     specify; and
+       ``(III) such other information as the Secretary may require 
+     to determine the identity and employment authorization of an 
+     individual.
+
+       ``(vi) Presentation of documentation.--The employer, and 
+     the individual whose identity and employment authorized 
+     status are being confirmed, shall fulfill the requirements 
+     under subsection (c).
+       ``(B) Seeking confirmation.--
+       ``(i) In general.--An employer shall use the System to 
+     confirm the identity and employment authorized status of any 
+     individual during--
+
+       ``(I) the period beginning on the date on which the 
+     individual accepts an offer of employment and ending 3 
+     business days after the date on which employment begins; or
+       ``(II) such other reasonable period as the Secretary may 
+     prescribe.
+
+       ``(ii) Limitation.--An employer may not make the starting 
+     date of an individual's employment or training or any other 
+     term and condition of employment dependent on the receipt of 
+     a confirmation of identity and employment authorized status 
+     by the System.
+       ``(iii) Reverification.--If an individual has a limited 
+     period of employment authorized status, the individual's 
+     employer shall reverify such status through the System not 
+     later than 3 business days after the last day of such period.
+       ``(iv) Other employment.--For employers directed by the 
+     Secretary to participate in the System under paragraph 
+     (2)(C)(i) to protect critical infrastructure or otherwise 
+     specified circumstances in this section to verify their 
+     entire workforce, the System may be used for initial 
+     verification of an individual who was hired before the 
+     employer became subject to the System, and the employer shall 
+     initiate all required procedures on or before such date as 
+     the Secretary shall specify.
+       ``(v) Notification.--
+
+       ``(I) In general.--The Secretary shall provide, and the 
+     employer shall utilize, as part of the System, a method of 
+     notifying employers of a confirmation or nonconfirmation of 
+     an individual's identity and employment authorized status, or 
+     a notice that further action is required to verify such 
+     identity or employment eligibility (referred to in this 
+     subsection as a `further action notice').
+       ``(II) Procedures.--The Secretary shall--
+
+       ``(aa) directly notify the individual and the employer, by 
+     means of electronic correspondence, mail, text message, 
+     telephone, or other direct communication, of a 
+     nonconfirmation or further action notice;
+       ``(bb) provide information about filing an administrative 
+     appeal under paragraph (6) and a filing for review before an 
+     administrative law judge under paragraph (7); and
+       ``(cc) establish procedures to directly notify the 
+     individual and the employer of a confirmation.
+
+       ``(III) Implementation.--The Secretary may provide for a 
+     phased-in implementation of the notification requirements 
+     under this clause, as appropriate. The notification system 
+     shall cover all inquiries not later than 1 year from the date 
+     of the enactment of the Border Security, Economic 
+     Opportunity, and Immigration Modernization Act.
+
+       ``(vi) Before hiring.--An employer may use the System to 
+     confirm the identity and employment authorized status of any 
+     individual before the individual is hired, recruited, or 
+     referred if the individual consents to such verification. If 
+     an employer receives a tentative nonconfirmation for such 
+     individual, the employer shall comply with procedures 
+     prescribed by the Secretary, including--
+
+       ``(I) providing the individual employees with private, 
+     written notification of the finding and written referral 
+     instructions;
+       ``(II) allowing the individual to contest the finding; and
+       ``(III) not taking adverse action against the individual if 
+     the individual chooses to contest the finding.
+
+       ``(C) Confirmation or nonconfirmation.--
+       ``(i) Initial response.--
+
+       ``(I) In general.--Except as provided in subclause (II), 
+     the System shall provide--
+
+       ``(aa) a confirmation of an individual's identity and 
+     employment authorized status or a further action notice at 
+     the time of the inquiry; and
+       ``(bb) an appropriate code indicating such confirmation or 
+     such further action notice.
+
+       ``(II) Alternative deadline.--If the System is unable to 
+     provide immediate confirmation or further action notice for 
+     technological reasons or due to unforeseen circumstances, the 
+     System shall provide a confirmation or further action notice 
+     not later than 3 business days after the initial inquiry.
+
+       ``(ii) Confirmation upon initial inquiry.--If the employer 
+     receives an appropriate confirmation of an individual's 
+     identity and employment authorized status under the System, 
+     the employer shall record the confirmation in such manner as 
+     the Secretary may specify.
+       ``(iii) Further action notice and later confirmation or 
+     nonconfirmation.--
+
+       ``(I) Notification and acknowledgment that further action 
+     is required.--Not later than 3 business days after an 
+     employer receives a further action notice of an individual's 
+     identity or employment eligibility under the System, or 
+     during such other reasonable time as the Secretary may 
+     prescribe, the employer shall notify the individual for whom 
+     the confirmation is sought of the further action notice and 
+     any procedures specified by the Secretary for addressing such 
+     notice. The further action notice shall be given to the 
+     individual in writing and the employer shall acknowledge in 
+     the System under penalty of perjury that it provided the 
+     employee with the further action notice. The individual shall 
+     affirmatively acknowledge in writing, or in such other manner 
+     as the Secretary may specify, the receipt of the further 
+     action notice from the employer. If the individual refuses to 
+     acknowledge the receipt of the further action notice, or 
+     acknowledges in writing that the individual will not contest 
+     the further action notice under subclause (II), the employer 
+     shall notify the Secretary in such manner as the Secretary 
+     may specify.
+       ``(II) Contest.--Not later than 10 business days after 
+     receiving notification of a further action notice under 
+     subclause (I), the individual shall contact the appropriate 
+     Federal agency and, if the Secretary so requires, appear in 
+     person for purposes of verifying the individual's identity 
+     and employment eligibility. The Secretary, in consultation 
+     with the Commissioner and other appropriate Federal agencies, 
+     shall specify an available secondary verification procedure 
+     to confirm the validity of information provided and to 
+     provide a confirmation or nonconfirmation. Any procedures for 
+     reexamination shall not limit in any way an employee's right 
+     to appeal a nonconfirmation.
+       ``(III) No contest.--If the individual refuses to 
+     acknowledge receipt of the further action notice, 
+     acknowledges that the individual will not contest the further 
+     action notice as provided in subclause (I), or does not 
+     contact the appropriate Federal agency within the period 
+     specified in subclause (II), following expiration of the 
+     period specified in subclause (II), a nonconfirmation shall 
+     be issued. The employer shall record the nonconfirmation in 
+     such manner as the Secretary may specify and terminate the 
+     individual's employment. An individual's failure to contest a 
+     further action notice shall not be considered an admission of 
+     guilt with respect to any violation of this section or any 
+     provision of law.
+       ``(IV) Confirmation or nonconfirmation.--Unless the period 
+     is extended in accordance with this subclause, the System 
+     shall provide a confirmation or nonconfirmation not later 
+     than 10 business days after the date on which the individual 
+     contests the further action notice under subclause (II). If 
+     the Secretary determines that good cause exists, after taking 
+     into account adverse impacts to the employer, and including 
+     time to permit the individual to obtain and provide needed 
+     evidence of identity or employment eligibility, the Secretary 
+     shall extend the period for providing confirmation or 
+     nonconfirmation for stated periods beyond 10 business days. 
+     When confirmation or nonconfirmation is provided, the 
+     confirmation system shall provide an appropriate code 
+     indicating such confirmation or nonconfirmation.
+
+[[Page S5039]]
+
+       ``(V) Reexamination.--Nothing in this section shall prevent 
+     the Secretary from establishing procedures to reexamine a 
+     case where a confirmation or nonconfirmation has been 
+     provided if subsequently received information indicates that 
+     the confirmation or nonconfirmation may not have been 
+     correct. Any procedures for reexamination shall not limit in 
+     any way an employee's right to appeal a nonconfirmation.
+       ``(VI) Employee protections.--An employer may not terminate 
+     employment or take any other adverse action against an 
+     individual solely because of a failure of the individual to 
+     have identity and employment eligibility confirmed under this 
+     subsection until--
+
+       ``(aa) a nonconfirmation has been issued;
+       ``(bb) if the further action notice was contested, the 
+     period to timely file an administrative appeal has expired 
+     without an appeal or the contestation to the further action 
+     notice is withdrawn; or
+       ``(cc) if an appeal before an administrative law judge 
+     under paragraph (7) has been filed, the nonconfirmation has 
+     been upheld or the appeal has been withdrawn or dismissed.
+       ``(iv) Notice of nonconfirmation.--Not later than 3 
+     business days after an employer receives a nonconfirmation, 
+     or during such other reasonable time as the Secretary may 
+     provide, the employer shall notify the individual who is the 
+     subject of the nonconfirmation, and provide information about 
+     filing an administrative appeal pursuant to paragraph (6) and 
+     a request for a hearing before an administrative law judge 
+     pursuant to paragraph (7). The nonconfirmation notice shall 
+     be given to the individual in writing and the employer shall 
+     acknowledge in the System under penalty of perjury that it 
+     provided the notice (or adequately attempted to provide 
+     notice, but was unable to do so despite reasonable efforts). 
+     The individual shall affirmatively acknowledge in writing, or 
+     in such other manner as the Secretary may prescribe, the 
+     receipt of the nonconfirmation notice from the employer. If 
+     the individual refuses or fails to acknowledge the receipt of 
+     the nonconfirmation notice, the employer shall notify the 
+     Secretary in such manner as the Secretary may prescribe.
+       ``(D) Consequences of nonconfirmation.--
+       ``(i) Termination of continued employment.--Except as 
+     provided in clause (iii), an employer that has received a 
+     nonconfirmation regarding an individual and has made 
+     reasonable efforts to notify the individual in accordance 
+     with subparagraph (C)(iv) shall terminate the employment of 
+     the individual upon the expiration of the time period 
+     specified in paragraph (7).
+       ``(ii) Continued employment after nonconfirmation.--If the 
+     employer continues to employ an individual after receiving 
+     nonconfirmation and exhaustion of all appeals or expiration 
+     of all rights to appeal if not appealed, in violation of 
+     clause (i), a rebuttable presumption is created that the 
+     employer has violated paragraphs (1)(A) and (2) of subsection 
+     (a). Such presumption shall not apply in any prosecution 
+     under subsection (k)(1).
+       ``(iii) Effect of administrative appeal or review by 
+     administrative law judge.--If an individual files an 
+     administrative appeal of the nonconfirmation within the time 
+     period specified in paragraph (6)(A), or files for review 
+     with an administrative law judge specified in paragraph 
+     (7)(A), the employer shall not terminate the individual's 
+     employment under this subparagraph prior to the resolution of 
+     the administrative appeal unless the Secretary or 
+     Commissioner terminates the stay under paragraph (6)(B) or 
+     (7)(B).
+       ``(iv) Weekly report.--The Director of U.S. Citizenship and 
+     Immigration Services shall submit a weekly report to the 
+     Assistant Secretary for Immigration and Customs Enforcement 
+     that includes, for each individual who receives final 
+     nonconfirmation through the System--
+
+       ``(I) the name of such individual;
+       ``(II) his or her social security number or alien file 
+     number;
+       ``(III) the name and contact information for his or her 
+     current employer; and
+       ``(IV) any other critical information that the Assistant 
+     Secretary determines to be appropriate.
+
+       ``(E) Obligation to respond to queries and additional 
+     information.--
+       ``(i) In general.--Employers shall comply with requests for 
+     information from the Secretary and the Special Counsel for 
+     Immigration-Related Unfair Employment Practices of the 
+     Department of Justice, including queries concerning current 
+     and former employees, within the time frame during which 
+     records are required to be maintained under this section 
+     regarding such former employees, if such information relates 
+     to the functioning of the System, the accuracy of the 
+     responses provided by the System, or any suspected misuse, 
+     discrimination, fraud, or identity theft in the use of the 
+     System. Failure to comply with a request under this clause 
+     constitutes a violation of subsection (a)(1)(B).
+       ``(ii) Action by individuals.--
+
+       ``(I) In general.--Individuals being verified through the 
+     System may be required to take further action to address 
+     questions identified by the Secretary or the Commissioner 
+     regarding the documents relied upon for purposes of 
+     subsection (c).
+       ``(II) Notification.--Not later than 3 business days after 
+     the receipt of such questions regarding an individual, or 
+     during such other reasonable time as the Secretary may 
+     prescribe, the employer shall--
+
+       ``(aa) notify the individual of any such requirement for 
+     further actions; and
+       ``(bb) record the date and manner of such notification.
+
+       ``(III) Acknowledgment.--The individual shall acknowledge 
+     the notification received from the employer under subclause 
+     (II) in writing, or in such other manner as the Secretary may 
+     prescribe.
+
+       ``(iii) Rulemaking.--
+
+       ``(I) In general.--The Secretary, in consultation with the 
+     Commissioner and the Attorney General, is authorized to issue 
+     regulations implementing, clarifying, and supplementing the 
+     requirements under this subparagraph--
+
+       ``(aa) to facilitate the functioning, accuracy, and 
+     fairness of the System;
+       ``(bb) to prevent misuse, discrimination, fraud, or 
+     identity theft in the use of the System; or
+       ``(cc) to protect and maintain the confidentiality of 
+     information that could be used to locate or otherwise place 
+     at risk of harm victims of domestic violence, dating 
+     violence, sexual assault, stalking, and human trafficking, 
+     and of the applicant or beneficiary of any petition described 
+     in section 384(a)(2) of the Illegal Immigration Reform and 
+     Immigrant Responsibility Act of 1996 (8 U.S.C. 1367(a)(2)).
+
+       ``(II) Notice.--The regulations issued under subclause (I) 
+     shall be--
+
+       ``(aa) published in the Federal Register; and
+       ``(bb) provided directly to all employers registered in the 
+     System.
+       ``(F) Designated agents.--The Secretary shall establish a 
+     process--
+       ``(i) for certifying, on an annual basis or at such times 
+     as the Secretary may prescribe, designated agents and other 
+     System service providers seeking access to the System to 
+     perform verification queries on behalf of employers, based 
+     upon training, usage, privacy, and security standards 
+     prescribed by the Secretary;
+       ``(ii) for ensuring that designated agents and other System 
+     service providers are subject to monitoring to the same 
+     extent as direct access users; and
+       ``(iii) for establishing standards for certification of 
+     electronic I-9 programs.
+       ``(G) Requirement to provide information.--
+       ``(i) In general.--No later than 3 months after the date of 
+     the enactment of the Border Security, Economic Opportunity, 
+     and Immigration Modernization Act, the Secretary, in 
+     consultation with the Secretary of Labor, the Secretary of 
+     Agriculture, the Commissioner, the Attorney General, the 
+     Equal Employment Opportunity Commission, and the 
+     Administrator of the Small Business Administration, shall 
+     commence a campaign to disseminate information respecting the 
+     procedures, rights, and remedies prescribed under this 
+     section.
+       ``(ii) Campaign requirements.--The campaign authorized 
+     under clause (i)--
+
+       ``(I) shall be aimed at increasing the knowledge of 
+     employers, employees, and the general public concerning 
+     employer and employee rights, responsibilities, and remedies 
+     under this section; and
+       ``(II) shall be coordinated with the public education 
+     campaign conducted by U.S. Citizenship and Immigration 
+     Services.
+
+       ``(iii) Assessment.--The Secretary shall assess the success 
+     of the campaign in achieving the goals of the campaign.
+       ``(iv) Authority to contract.--In order to carry out and 
+     assess the campaign under this subparagraph, the Secretary 
+     may, to the extent deemed appropriate and subject to the 
+     availability of appropriations, contract with public and 
+     private organizations for outreach and assessment activities 
+     under the campaign.
+       ``(v) Authorization of appropriations.--There are 
+     authorized to be appropriated to carry out this paragraph 
+     $40,000,000 for each of the fiscal years 2014 through 2016.
+       ``(H) Authority to modify information requirements.--Based 
+     on a regular review of the System and the document 
+     verification procedures to identify misuse or fraudulent use 
+     and to assess the security of the documents and processes 
+     used to establish identity or employment authorized status, 
+     the Secretary, in consultation with the Commissioner, after 
+     publication of notice in the Federal Register and an 
+     opportunity for public comment, may modify, if the Secretary 
+     determines that the modification is necessary to ensure that 
+     the System accurately and reliably determines the identity 
+     and employment authorized status of employees and maintain 
+     existing protections against misuse, discrimination, fraud, 
+     and identity theft--
+       ``(i) the information that shall be presented to the 
+     employer by an individual;
+       ``(ii) the information that shall be provided to the System 
+     by the employer; and
+       ``(iii) the procedures that shall be followed by employers 
+     with respect to the process of verifying an individual 
+     through the System.
+       ``(I) Self-verification.--Subject to appropriate safeguards 
+     to prevent misuse of the system, the Secretary, in 
+     consultation with the Commissioner, shall establish a secure 
+     self-verification procedure to permit an individual who seeks 
+     to verify the individual's own employment eligibility to 
+     contact the appropriate agency and, in a timely manner, 
+     correct or update the information contained in the System.
+       ``(5) Protection from liability for actions taken on the 
+     basis of information provided by the system.--An employer 
+     shall not be liable to a job applicant, an employee, the 
+     Federal Government, or a State or local
+
+[[Page S5040]]
+
+     government, under Federal, State, or local criminal or civil 
+     law for any employment-related action taken with respect to a 
+     job applicant or employee in good faith reliance on 
+     information provided by the System.
+       ``(6) Administrative appeal.--
+       ``(A) In general.--An individual who is notified of a 
+     nonconfirmation may, not later than 10 business days after 
+     the date that such notice is received, file an administrative 
+     appeal of such nonconfirmation with the Commissioner if the 
+     notice is based on records maintained by the Commissioner, or 
+     in any other case, with the Secretary. An individual who did 
+     not timely contest a further action notice timely received by 
+     that individual for which the individual acknowledged receipt 
+     may not be granted a review under this paragraph.
+       ``(B) Administrative stay of nonconfirmation.--The 
+     nonconfirmation shall be automatically stayed upon the timely 
+     filing of an administrative appeal, unless the 
+     nonconfirmation resulted after the individual acknowledged 
+     receipt of the further action notice but failed to contact 
+     the appropriate agency within the time provided. The stay 
+     shall remain in effect until the resolution of the appeal, 
+     unless the Secretary or the Commissioner terminates the stay 
+     based on a determination that the administrative appeal is 
+     frivolous or filed for purposes of delay.
+       ``(C) Review for error.--The Secretary and the Commissioner 
+     shall develop procedures for resolving administrative appeals 
+     regarding nonconfirmations based upon the information that 
+     the individual has provided, including any additional 
+     evidence or argument that was not previously considered. Any 
+     such additional evidence or argument shall be filed within 10 
+     business days of the date the appeal was originally filed. 
+     Appeals shall be resolved within 20 business days after the 
+     individual has submitted all evidence and arguments the 
+     individual wishes to submit, or has stated in writing that 
+     there is no additional evidence that the individual wishes to 
+     submit. The Secretary and the Commissioner may, on a case by 
+     case basis for good cause, extend the filing and submission 
+     period in order to ensure accurate resolution of an appeal 
+     before the Secretary or the Commissioner.
+       ``(D) Preponderance of evidence.--Administrative appeal 
+     under this paragraph shall be limited to whether a 
+     nonconfirmation notice is supported by a preponderance of the 
+     evidence.
+       ``(E) Damages, fees, and costs.--No money damages, fees or 
+     costs may be awarded in the administrative appeal process 
+     under this paragraph.
+       ``(7) Review by administrative law judge.--
+       ``(A) In general.--Not later than 30 days after the date an 
+     individual receives a final determination on an 
+     administrative appeal under paragraph (6), the individual may 
+     obtain review of such determination by filing a complaint 
+     with a Department of Justice administrative law judge in 
+     accordance with this paragraph.
+       ``(B) Stay of nonconfirmation.--The nonconfirmation related 
+     to such final determination shall be automatically stayed 
+     upon the timely filing of a complaint under this paragraph, 
+     and the stay shall remain in effect until the resolution of 
+     the complaint, unless the administrative law judge determines 
+     that the action is frivolous or filed for purposes of delay.
+       ``(C) Service.--The respondent to complaint filed under 
+     this paragraph is either the Secretary or the Commissioner, 
+     but not both, depending upon who issued the administrative 
+     order under paragraph (6). In addition to serving the 
+     respondent, the plaintiff shall serve the Attorney General.
+       ``(D) Authority of administrative law judge.--
+       ``(i) Rules of practice.--The Secretary shall promulgate 
+     regulations regarding the rules of practice in appeals 
+     brought pursuant to this subsection.
+       ``(ii) Authority of administrative law judge.--The 
+     administrative law judge shall have power to--
+
+       ``(I) terminate a stay of a nonconfirmation under 
+     subparagraph (B) if the administrative law judge determines 
+     that the action is frivolous or filed for purposes of delay;
+       ``(II) adduce evidence at a hearing;
+       ``(III) compel by subpoena the attendance of witnesses and 
+     the production of evidence at any designated place or 
+     hearing;
+       ``(IV) resolve claims of identity theft; and
+       ``(V) enter, upon the pleadings and any evidence adduced at 
+     a hearing, a decision affirming or reversing the result of 
+     the agency, with or without remanding the cause for a 
+     rehearing.
+
+       ``(iii) Subpoena.--In case of contumacy or refusal to obey 
+     a subpoena lawfully issued under this section and upon 
+     application of the administrative law judge, an appropriate 
+     district court of the United States may issue an order 
+     requiring compliance with such subpoena and any failure to 
+     obey such order may be punished by such court as a contempt 
+     of such court.
+       ``(iv) Training.--An administrative law judge hearing cases 
+     shall have special training respecting employment authorized 
+     status verification.
+       ``(E) Order by administrative law judge.--
+       ``(i) In general.--The administrative law judge shall issue 
+     and cause to be served to the parties in the proceeding an 
+     order which may be appealed as provided in subparagraph (G).
+       ``(ii) Contents of order.--Such an order shall uphold or 
+     reverse the final determination on the request for 
+     reconsideration and order lost wages and other appropriate 
+     remedies as provided in subparagraph (F).
+       ``(F) Compensation for error.--
+       ``(i) In general.--In cases in which the administrative law 
+     judge reverses the final determination of the Secretary or 
+     the Commissioner made under paragraph (6), and the 
+     administrative law judge finds that--
+
+       ``(I) the nonconfirmation was due to gross negligence or 
+     intentional misconduct of the employer, the administrative 
+     law judge may order the employer to pay the individual lost 
+     wages, and reasonable costs and attorneys' fees incurred 
+     during administrative and judicial review; or
+       ``(II) such final determination was erroneous by reason of 
+     the negligence of the Secretary or the Commissioner, the 
+     administrative law judge may order the Secretary or the 
+     Commissioner to pay the individual lost wages, and reasonable 
+     costs and attorneys' fees incurred during the administrative 
+     appeal and the administrative law judge review.
+
+       ``(ii) Calculation of lost wages.--Lost wages shall be 
+     calculated based on the wage rate and work schedule that 
+     prevailed prior to termination. The individual shall be 
+     compensated for wages lost beginning on the first scheduled 
+     work day after employment was terminated and ending 120 days 
+     after completion of the administrative law judge's review 
+     described in this paragraph or the day after the individual 
+     is reinstated or obtains employment elsewhere, whichever 
+     occurs first. If the individual obtains employment elsewhere 
+     at a lower wage rate, the individual shall be compensated for 
+     the difference in wages for the period ending 120 days after 
+     completion of the administrative law judge review process. No 
+     lost wages shall be awarded for any period of time during 
+     which the individual was not in employment authorized status.
+       ``(iii) Payment of compensation.--Notwithstanding any other 
+     law, payment of compensation for lost wages, costs, and 
+     attorneys' fees under this paragraph, or compromise 
+     settlements of the same, shall be made as provided by section 
+     1304 of title 31, United States Code. Appropriations made 
+     available to the Secretary or the Commissioner, accounts 
+     provided for under section 286, and funds from the Federal 
+     Old-Age and Survivors Insurance Trust Fund or the Federal 
+     Disability Insurance Trust Fund shall not be available to pay 
+     such compensation.
+       ``(G) Appeal.--No later than 45 days after the entry of 
+     such final order, any person adversely affected by such final 
+     order may seek review of such order in the United States 
+     Court of Appeals for the circuit in which the violation is 
+     alleged to have occurred or in which the employer resides or 
+     transacts business.
+       ``(8) Management of the system.--
+       ``(A) In general.--The Secretary is authorized to 
+     establish, manage, and modify the System, which shall--
+       ``(i) respond to inquiries made by participating employers 
+     at any time through the internet, or such other means as the 
+     Secretary may designate, concerning an individual's identity 
+     and whether the individual is in employment authorized 
+     status;
+       ``(ii) maintain records of the inquiries that were made, of 
+     confirmations provided (or not provided), and of the codes 
+     provided to employers as evidence of their compliance with 
+     their obligations under the System; and
+       ``(iii) provide information to, and require action by, 
+     employers and individuals using the System.
+       ``(B) Design and operation of system.--The System shall be 
+     designed and operated--
+       ``(i) to maximize its reliability and ease of use by 
+     employers consistent with protecting the privacy and security 
+     of the underlying information, and ensuring full notice of 
+     such use to employees;
+       ``(ii) to maximize its ease of use by employees, including 
+     direct notification of its use, of results, and ability to 
+     challenge results;
+       ``(iii) to respond accurately to all inquiries made by 
+     employers on whether individuals are authorized to be 
+     employed and to register any times when the system is unable 
+     to receive inquiries;
+       ``(iv) to maintain appropriate administrative, technical, 
+     and physical safeguards to prevent unauthorized disclosure of 
+     personal information, misuse by employers and employees, and 
+     discrimination;
+       ``(v) to require regularly scheduled refresher training of 
+     all users of the System to ensure compliance with all 
+     procedures;
+       ``(vi) to allow for auditing of the use of the System to 
+     detect misuse, discrimination, fraud, and identity theft, to 
+     protect privacy and assess System accuracy, and to preserve 
+     the integrity and security of the information in all of the 
+     System, including--
+
+       ``(I) to develop and use tools and processes to detect or 
+     prevent fraud and identity theft, such as multiple uses of 
+     the same identifying information or documents to fraudulently 
+     gain employment;
+       ``(II) to develop and use tools and processes to detect and 
+     prevent misuse of the system by employers and employees;
+       ``(III) to develop tools and processes to detect anomalies 
+     in the use of the system that may indicate potential fraud or 
+     misuse of the system;
+       ``(IV) to audit documents and information submitted by 
+     employees to employers, including authority to conduct 
+     interviews with
+
+[[Page S5041]]
+
+     employers and employees, and obtain information concerning 
+     employment from the employer;
+
+       ``(vii) to confirm identity and employment authorization 
+     through verification and comparison of records as determined 
+     necessary by the Secretary;
+       ``(viii) to confirm electronically the issuance of the 
+     employment authorization or identity document and--
+
+       ``(I) if such photograph is available, to display the 
+     digital photograph that the issuer placed on the document so 
+     that the employer can compare the photograph displayed to the 
+     photograph on the document presented by the employee; or
+       ``(II) if a photograph is not available from the issuer, to 
+     confirm the authenticity of the document using such 
+     alternative procedures as the Secretary may specify; and
+
+       ``(ix) to provide appropriate notification directly to 
+     employers registered with the System of all changes made by 
+     the Secretary or the Commissioner related to allowed and 
+     prohibited documents, and use of the System.
+       ``(C) Safeguards to the system.--
+       ``(i) Requirement to develop.--The Secretary, in 
+     consultation with the Commissioner and other appropriate 
+     Federal and State agencies, shall develop policies and 
+     procedures to ensure protection of the privacy and security 
+     of personally identifiable information and identifiers 
+     contained in the records accessed or maintained by the 
+     System. The Secretary, in consultation with the Commissioner 
+     and other appropriate Federal and State agencies, shall 
+     develop and deploy appropriate privacy and security training 
+     for the Federal and State employees accessing the records 
+     under the System.
+       ``(ii) Privacy audits.--The Secretary, acting through the 
+     Chief Privacy Officer of the Department, shall conduct 
+     regular privacy audits of the policies and procedures 
+     established under clause (i), including any collection, use, 
+     dissemination, and maintenance of personally identifiable 
+     information and any associated information technology 
+     systems, as well as scope of requests for this information. 
+     The Chief Privacy Officer shall review the results of the 
+     audits and recommend to the Secretary any changes necessary 
+     to improve the privacy protections of the program.
+       ``(iii) Accuracy audits.--
+
+       ``(I) In general.--Not later than November 30 of each year, 
+     the Inspector General of the Department of Homeland Security 
+     shall submit a report to the Secretary, with a copy to the 
+     President of the Senate and the Speaker of the House of 
+     Representatives, that sets forth the error rate of the System 
+     for the previous fiscal year and the assessments required to 
+     be submitted by the Secretary under subparagraphs (A) and (B) 
+     of paragraph (10). The report shall describe in detail the 
+     methodology employed for purposes of the report, and shall 
+     make recommendations for how error rates may be reduced.
+       ``(II) Error rate defined.--In this clause, the term `error 
+     rate' means the percentage determined by dividing--
+
+       ``(aa) the number of employment authorized individuals who 
+     received further action notices, contested such notices, and 
+     were subsequently found to be employment authorized; by
+       ``(bb) the number of System inquiries submitted for 
+     employment authorized individuals.
+
+       ``(III) Reduction of penalties for recordkeeping or 
+     verification practices following persistent system 
+     inaccuracies.--Notwithstanding subsection (e)(4)(C)(i), in 
+     any calendar year following a report by the Inspector General 
+     under subclause (I) that the System had an error rate higher 
+     than 0.3 percent for the previous fiscal year, the civil 
+     penalty assessable by the Secretary or an administrative law 
+     judge under that subsection for each first-time violation by 
+     an employer who has not previously been penalized under this 
+     section may not exceed $1,000.
+
+       ``(iv) Records security program.--Any person, including a 
+     private third party vendor, who retains document verification 
+     or System data pursuant to this section shall implement an 
+     effective records security program that--
+
+       ``(I) ensures that only authorized personnel have access to 
+     document verification or System data; and
+       ``(II) ensures that whenever such data is created, 
+     completed, updated, modified, altered, or corrected in 
+     electronic format, a secure and permanent record is created 
+     that establishes the date of access, the identity of the 
+     individual who accessed the electronic record, and the 
+     particular action taken.
+
+       ``(v) Records security program.--In addition to the 
+     security measures described in clause (iv), a private third 
+     party vendor who retains document verification or System data 
+     pursuant to this section shall implement an effective records 
+     security program that--
+
+       ``(I) provides for backup and recovery of any records 
+     maintained in electronic format to protect against 
+     information loss, such as power interruptions; and
+       ``(II) ensures that employees are trained to minimize the 
+     risk of unauthorized or accidental alteration or erasure of 
+     such data in electronic format.
+
+       ``(vi) Authorized personnel defined.--In this subparagraph, 
+     the term `authorized personnel' means anyone registered as a 
+     System user, or anyone with partial or full responsibility 
+     for completion of employment authorization verification or 
+     retention of data in connection with employment authorization 
+     verification on behalf of an employer.
+       ``(D) Available facilities and alternative 
+     accommodations.--The Secretary shall make appropriate 
+     arrangements and develop standards to allow employers or 
+     employees, including remote hires, who are otherwise unable 
+     to access the System to use electronic and telephonic formats 
+     (including video conferencing, scanning technology, and other 
+     available technologies), Federal Government facilities, 
+     public facilities, or other available locations in order to 
+     utilize the System.
+       ``(E) Responsibilities of the secretary.--
+       ``(i) In general.--As part of the System, the Secretary 
+     shall maintain a reliable, secure method, which, operating 
+     through the System and within the time periods specified, 
+     compares the name, alien identification or authorization 
+     number, or other information as determined relevant by the 
+     Secretary, provided in an inquiry against such information 
+     maintained or accessed by the Secretary in order to confirm 
+     (or not confirm) the validity of the information provided, 
+     the correspondence of the name and number, whether the alien 
+     has employment authorized status (or, to the extent that the 
+     Secretary determines to be feasible and appropriate, whether 
+     the records available to the Secretary verify the identity or 
+     status of a national of the United States), and such other 
+     information as the Secretary may prescribe.
+       ``(ii) Photograph display.--As part of the System, the 
+     Secretary shall establish a reliable, secure method, which, 
+     operating through the System, displays the digital photograph 
+     described in subparagraph (B)(viii)(I).
+       ``(iii) Timing of notices.--The Secretary shall have 
+     authority to prescribe when a confirmation, nonconfirmation, 
+     or further action notice shall be issued.
+       ``(iv) Use of information.--The Secretary shall perform 
+     regular audits under the System, as described in subparagraph 
+     (B)(vi) and shall utilize the information obtained from such 
+     audits, as well as any information obtained from the 
+     Commissioner pursuant to part E of title XI of the Social 
+     Security Act (42 U.S.C. 1301 et seq.), for the purposes of 
+     this section and to administer and enforce the immigration 
+     laws.
+       ``(v) Identity fraud protection.--To prevent identity 
+     fraud, not later than 18 months after the date of the 
+     enactment of the Border Security, Economic Opportunity, and 
+     Immigration Modernization Act, the Secretary shall--
+
+       ``(I) in consultation with the Commissioner, establish a 
+     program to provide a reliable, secure method for an 
+     individual to temporarily suspend or limit the use of the 
+     individual's social security account number or other 
+     identifying information for verification by the System; and
+       ``(II) for each individual being verified through the 
+     System--
+
+       ``(aa) notify the individual that the individual has the 
+     option to limit the use of the individual's social security 
+     account number or other identifying information for 
+     verification by the System; and
+       ``(bb) provide instructions to the individuals for 
+     exercising the option referred to in item (aa).
+       ``(vi) Allowing parents to prevent theft of their child's 
+     identity.--The Secretary, in consultation with the 
+     Commissioner, shall establish a program that provides a 
+     reliable, secure method by which parents or legal guardians 
+     may suspend or limit the use of the social security account 
+     number or other identifying information of a minor under 
+     their care for the purposes of the System. The Secretary may 
+     implement the program on a limited pilot program basis before 
+     making it fully available to all individuals.
+       ``(vii) Protection from multiple use.--The Secretary and 
+     the Commissioner shall establish a procedure for identifying 
+     and handling a situation in which a social security account 
+     number has been identified to be subject to unusual multiple 
+     use in the System or is otherwise suspected or determined to 
+     have been compromised by identity fraud.
+       ``(viii) Monitoring and compliance unit.--The Secretary 
+     shall establish or designate a monitoring and compliance unit 
+     to detect and reduce identity fraud and other misuse of the 
+     System.
+       ``(ix) Civil rights and civil liberties assessments.--
+
+       ``(I) Requirement to conduct.--The Secretary shall conduct 
+     regular civil rights and civil liberties assessments of the 
+     System, including participation by employers, other private 
+     entities, and Federal, State, and local government entities.
+       ``(II) Requirement to respond.--Employers, other private 
+     entities, and Federal, State, and local entities shall timely 
+     respond to any request in connection with such an assessment.
+       ``(III) Assessment and recommendations.--The Officer for 
+     Civil Rights and Civil Liberties of the Department shall 
+     review the results of each such assessment and recommend to 
+     the Secretary any changes necessary to improve the civil 
+     rights and civil liberties protections of the System.
+
+       ``(F) Grants to states.--
+       ``(i) In general.--The Secretary shall create and 
+     administer a grant program to help provide funding for States 
+     that grant--
+
+       ``(I) the Secretary access to driver's license information 
+     as needed to confirm that a driver's license presented under 
+     subsection
+
+[[Page S5042]]
+
+     (c)(1)(D)(i) confirms the identity of the subject of the 
+     System check, and that a driver's license matches the State's 
+     records; and
+       ``(II) such assistance as the Secretary may request in 
+     order to resolve further action notices or nonconfirmations 
+     relating to such information.
+
+       ``(ii) Construction with the driver's privacy protection 
+     act of 1994.--The provision of a photograph to the Secretary 
+     as described in clause (i) may not be construed as a 
+     violation of section 2721 of title 18, United States Code, 
+     and is a permissible use under subsection (b)(1) of that 
+     section.
+       ``(iii) Authorization of appropriations.--There is 
+     authorized to be appropriated to the Secretary $250,000,000 
+     to carry out this subparagraph.
+       ``(G) Responsibilities of the secretary of state.--As part 
+     of the System, the Secretary of State shall provide to the 
+     Secretary access to passport and visa information as needed 
+     to confirm that a passport, passport card, or visa presented 
+     under subsection (c)(1)(C) confirms the identity of the 
+     subject of the System check, and that a passport, passport 
+     card, or visa photograph matches the Secretary of State's 
+     records, and shall provide such assistance as the Secretary 
+     may request in order to resolve further action notices or 
+     nonconfirmations relating to such information.
+       ``(H) Updating information.--The Commissioner, the 
+     Secretary, and the Secretary of State shall update their 
+     information in a manner that promotes maximum accuracy and 
+     shall provide a process for the prompt correction of 
+     erroneous information.
+       ``(9) Limitation on use of the system.--Notwithstanding any 
+     other provision of law, nothing in this subsection may be 
+     construed to permit or allow any department, bureau, or other 
+     agency of the United States Government or any other entity to 
+     utilize any information, database, or other records assembled 
+     under this subsection for any purpose other than for 
+     employment verification or to ensure secure, appropriate and 
+     nondiscriminatory use of the System.
+       ``(10) Annual report and certification.--Not later than 18 
+     months after the promulgation of regulations to implement 
+     this subsection, and annually thereafter, the Secretary shall 
+     submit to Congress a report that includes the following:
+       ``(A) An assessment, as submitted to the Secretary by the 
+     Inspector General of the Department of Homeland Security 
+     pursuant to paragraph (8)(C)(iii)(I), of the accuracy rates 
+     of further action notices and other System notices provided 
+     by employers to individuals who are authorized to be employed 
+     in the United States.
+       ``(B) An assessment, as submitted to the Secretary by the 
+     Inspector General of the Department of Homeland Security 
+     pursuant to paragraph (8)(C)(iii)(I), of the accuracy rates 
+     of further action notices and other System notices provided 
+     directly (by the System) in a timely fashion to individuals 
+     who are not authorized to be employed in the United States.
+       ``(C) An assessment of any challenges faced by small 
+     employers in utilizing the System.
+       ``(D) An assessment of the rate of employer noncompliance 
+     (in addition to failure to provide required notices in a 
+     timely fashion) in each of the following categories:
+       ``(i) Taking adverse action based on a further action 
+     notice.
+       ``(ii) Use of the System for nonemployees or other 
+     individuals before they are offered employment.
+       ``(iii) Use of the System to reverify employment authorized 
+     status of current employees except if authorized to do so.
+       ``(iv) Use of the System selectively, except in cases in 
+     which such use is authorized.
+       ``(v) Use of the System to deny employment or post-
+     employment benefits or otherwise interfere with labor rights.
+       ``(vi) Requiring employees or applicants to use any self-
+     verification feature or to provide self-verification results.
+       ``(vii) Discouraging individuals who receive a further 
+     action notice from challenging the further action notice or 
+     appealing a determination made by the System.
+       ``(E) An assessment of the rate of employee noncompliance 
+     in each of the following categories:
+       ``(i) Obtaining employment when unauthorized with an 
+     employer complying with the System in good faith.
+       ``(ii) Failure to provide required documents in a timely 
+     manner.
+       ``(iii) Attempting to use fraudulent documents or documents 
+     not related to the individual.
+       ``(iv) Misuse of the administrative appeal and judicial 
+     review process.
+       ``(F) An assessment of the amount of time taken for--
+       ``(i) the System to provide the confirmation or further 
+     action notice;
+       ``(ii) individuals to contest further action notices;
+       ``(iii) the System to provide a confirmation or 
+     nonconfirmation of a contested further action notice;
+       ``(iv) individuals to file an administrative appeal of a 
+     nonconfirmation; and
+       ``(v) resolving administrative appeals regarding 
+     nonconfirmations.
+       ``(11) Annual gao study and report.--
+       ``(A) Requirement.--The Comptroller General shall, for each 
+     year, undertake a study to evaluate the accuracy, efficiency, 
+     integrity, and impact of the System.
+       ``(B) Report.--Not later than 18 months after the 
+     promulgation of regulations to implement this subsection, and 
+     yearly thereafter, the Comptroller General shall submit to 
+     Congress a report containing the findings of the study 
+     carried out under this paragraph. Each such report shall 
+     include, at a minimum, the following:
+       ``(i) An assessment of System performance with respect to 
+     the rate at which individuals who are eligible for employment 
+     in the United States are correctly approved within the 
+     required periods, including a separate assessment of such 
+     rate for naturalized United States citizens, nationals of the 
+     United States, and aliens.
+       ``(ii) An assessment of the privacy and confidentiality of 
+     the System and of the overall security of the System with 
+     respect to cybertheft and theft or misuse of private data.
+       ``(iii) An assessment of whether the System is being 
+     implemented in a manner that is not discriminatory or used 
+     for retaliation against employees.
+       ``(iv) An assessment of the most common causes for the 
+     erroneous issuance of nonconfirmations by the System and 
+     recommendations to correct such causes.
+       ``(v) The recommendations of the Comptroller General 
+     regarding System improvements.
+       ``(vi) An assessment of the frequency and magnitude of 
+     changes made to the System and the impact on the ability for 
+     employers to comply in good faith.
+       ``(vii) An assessment of the direct and indirect costs 
+     incurred by employers in complying with the System, including 
+     costs associated with retaining potential employees through 
+     the administrative appeals process and receiving a 
+     nonconfirmation.
+       ``(viii) An assessment of any backlogs or delays in the 
+     System providing the confirmation or further action notice 
+     and impacts to hiring by employers.
+       ``(e) Compliance.--
+       ``(1) Complaints and investigations.--The Secretary shall 
+     establish procedures--
+       ``(A) for individuals and entities to file complaints 
+     respecting potential violations of subsections (a) or (f)(1);
+       ``(B) for the investigation of those complaints which the 
+     Secretary deems appropriate to investigate; and
+       ``(C) for providing notification to the Special Counsel for 
+     Immigration-Related Unfair Employment Practices of the 
+     Department of Justice of potential violations of section 
+     274B.
+       ``(2) Authority in investigations.--In conducting 
+     investigations and proceedings under this subsection--
+       ``(A) immigration officers shall have reasonable access to 
+     examine evidence of the employer being investigated;
+       ``(B) immigration officers designated by the Secretary, and 
+     administrative law judges and other persons authorized to 
+     conduct proceedings under this section, may compel by 
+     subpoena the attendance of relevant witnesses and the 
+     production of relevant evidence at any designated place in an 
+     investigation or case under this subsection. In case of 
+     refusal to fully comply with a subpoena lawfully issued under 
+     this paragraph, the Secretary may request that the Attorney 
+     General apply in an appropriate district court of the United 
+     States for an order requiring compliance with the subpoena, 
+     and any failure to obey such order may be punished by the 
+     court as contempt. Failure to cooperate with the subpoena 
+     shall be subject to further penalties, including further 
+     fines and the voiding of any mitigation of penalties or 
+     termination of proceedings under paragraph (4)(E); and
+       ``(C) the Secretary, in cooperation with the Commissioner 
+     and Attorney General, and in consultation with other relevant 
+     agencies, shall establish a Joint Employment Fraud Task Force 
+     consisting of, at a minimum--
+       ``(i) the System's compliance personnel;
+       ``(ii) immigration law enforcement officers;
+       ``(iii) personnel of the Office of Special Counsel for 
+     Immigration-Related Unfair Employment Practices of the 
+     Department of Justice;
+       ``(iv) personnel of the Office for Civil Rights and Civil 
+     Liberties of the Department; and
+       ``(v) personnel of Office of Inspector General of the 
+     Social Security Administration.
+       ``(3) Compliance procedures.--
+       ``(A) Pre-penalty notice.--If the Secretary has reasonable 
+     cause to believe that there has been a civil violation of 
+     this section in the previous 3 years, the Secretary shall 
+     issue to the employer concerned a written notice of the 
+     Department's intention to issue a claim for a monetary or 
+     other penalty. Such pre-penalty notice shall--
+       ``(i) describe the violation;
+       ``(ii) specify the laws and regulations allegedly violated;
+       ``(iii) disclose the material facts which establish the 
+     alleged violation;
+       ``(iv) describe the penalty sought to be imposed; and
+       ``(v) inform such employer that such employer shall have a 
+     reasonable opportunity to make representations as to why a 
+     monetary or other penalty should not be imposed.
+       ``(B) Employer's response.--Whenever any employer receives 
+     written pre-penalty notice of a fine or other penalty in 
+     accordance with subparagraph (A), the employer may, within 60 
+     days from receipt of such notice, file with the Secretary its 
+     written response to the notice. The response may include any 
+     relevant evidence or proffer of evidence that the employer 
+     wishes to present with respect to whether the employer 
+     violated this section and whether, if so, the penalty should 
+     be mitigated, and shall be filed and considered
+
+[[Page S5043]]
+
+     in accordance with procedures to be established by the 
+     Secretary.
+       ``(C) Right to a hearing.--Before issuance of an order 
+     imposing a penalty on any employer, person, or entity, the 
+     employer, person, or entity shall be entitled to a hearing 
+     before an administrative law judge, if requested within 60 
+     days of the notice of penalty. The hearing shall be held at 
+     the nearest location practicable to the place where the 
+     employer, person, or entity resides or of the place where the 
+     alleged violation occurred.
+       ``(D) Issuance of orders.--If no hearing is so requested, 
+     the Secretary's imposition of the order shall constitute a 
+     final and unappealable order. If a hearing is requested and 
+     the administrative law judge determines, upon clear and 
+     convincing evidence received, that there was a violation, the 
+     administrative law judge shall issue the final determination 
+     with a written penalty claim. The penalty claim shall specify 
+     all charges in the information provided under clauses (i) 
+     through (iii) of subparagraph (A) and any mitigation of the 
+     penalty that the administrative law judge deems appropriate 
+     under paragraph (4)(E).
+       ``(4) Civil penalties.--
+       ``(A) Hiring or continuing to employ unauthorized aliens.--
+     Any employer that violates any provision of subsection 
+     (a)(1)(A) or (a)(2) shall--
+       ``(i) pay a civil penalty of not less than $3,500 and not 
+     more than $7,500 for each unauthorized alien with respect to 
+     which each violation of either subsection (a)(1)(A) or (a)(2) 
+     occurred;
+       ``(ii) if the employer has previously been fined as a 
+     result of a previous enforcement action or previous violation 
+     under this paragraph, pay a civil penalty of not less than 
+     $5,000 and not more than $15,000 for each unauthorized alien 
+     with respect to which a violation of either subsection 
+     (a)(1)(A) or (a)(2) occurred; and
+       ``(iii) if the employer has previously been fined more than 
+     once under this paragraph, pay a civil penalty of not less 
+     than $10,000 and not more than $25,000 for each unauthorized 
+     alien with respect to which a violation of either subsection 
+     (a)(1)(A) or (a)(2) occurred.
+       ``(B) Enhanced penalties.--After the Secretary certifies to 
+     Congress that the System has been established, implemented, 
+     and made mandatory for use by all employers in the United 
+     States, the Secretary may establish an enhanced civil penalty 
+     for an employer who--
+       ``(i) fails to query the System to verify the identify and 
+     work authorized status of an individual; and
+       ``(ii) violates a Federal, State, or local law related to--
+
+       ``(I) the payment of wages;
+       ``(II) hours worked by employees; or
+       ``(III) workplace health and safety.
+
+       ``(C) Recordkeeping or verification practices.--Any 
+     employer that violates or fails to comply with any 
+     requirement under subsection (a)(1)(B), other than a minor or 
+     inadvertent failure, as determined by the Secretary, shall 
+     pay a civil penalty of--
+       ``(i) not less than $500 and not more than $2,000 for each 
+     violation;
+       ``(ii) if an employer has previously been fined under this 
+     paragraph, not less than $1,000 and not more than $4,000 for 
+     each violation; and
+       ``(iii) if an employer has previously been fined more than 
+     once under this paragraph, not less than $2,000 and not more 
+     than $8,000 for each violation.
+       ``(D) Other penalties.--The Secretary may impose additional 
+     penalties for violations, including cease and desist orders, 
+     specially designed compliance plans to prevent further 
+     violations, suspended fines to take effect in the event of a 
+     further violation, and in appropriate cases, the remedy 
+     provided by paragraph (f)(2).
+       ``(E) Mitigation.--The Secretary or, if an employer 
+     requests a hearing, the administrative law judge, is 
+     authorized, upon such terms and conditions as the Secretary 
+     or administrative law judge deems reasonable and just and in 
+     accordance with such procedures as the Secretary may 
+     establish or any procedures established governing the 
+     administrative law judge's assessment of penalties, to reduce 
+     or mitigate penalties imposed upon employers, based upon 
+     factors including, the employer's hiring volume, compliance 
+     history, good-faith implementation of a compliance program, 
+     the size and level of sophistication of the employer, and 
+     voluntary disclosure of violations of this subsection to the 
+     Secretary. The Secretary or administrative law judge shall 
+     not mitigate a penalty below the minimum penalty provided by 
+     this section, except that the Secretary may, in the case of 
+     an employer subject to penalty for recordkeeping or 
+     verification violations only who has not previously been 
+     penalized under this section, in the Secretary's or 
+     administrative law judge's discretion, mitigate the penalty 
+     below the statutory minimum or remit it entirely. In any case 
+     where a civil money penalty has been imposed on an employer 
+     under section 274B for an action or omission that is also a 
+     violation of this section, the Secretary or administrative 
+     law judge shall mitigate any civil money penalty under this 
+     section by the amount of the penalty imposed under section 
+     274B.
+       ``(F) Effective date.--The civil money penalty amounts and 
+     the enhanced penalties provided by subparagraphs (A), (B), 
+     and (C) of this paragraph and by subsection (f)(2) shall 
+     apply to violations of this section committed on or after the 
+     date that is 1 year after the date of the enactment of the 
+     Border Security, Economic Opportunity, and Immigration 
+     Modernization Act. For violations committed prior to such 
+     date of enactment, the civil money penalty amounts provided 
+     by regulations implementing this section as in effect the 
+     minute before such date of enactment with respect to knowing 
+     hiring or continuing employment, verification, or indemnity 
+     bond violations, as appropriate, shall apply.
+       ``(5) Order of internal review and certification of 
+     compliance.--
+       ``(A) Employer compliance.--If the Secretary has reasonable 
+     cause to believe that an employer has failed to comply with 
+     this section, the Secretary is authorized, at any time, to 
+     require that the employer certify that it is in compliance 
+     with this section, or has instituted a program to come into 
+     compliance.
+       ``(B) Employer certification.--
+       ``(i) Requirement.--Except as provided in subparagraph (C), 
+     not later than 60 days after receiving a notice from the 
+     Secretary requiring a certification under subparagraph (A), 
+     an official with responsibility for, and authority to bind 
+     the company on, all hiring and immigration compliance notices 
+     shall certify under penalty of perjury that the employer is 
+     in conformance with the requirements of paragraphs (1) 
+     through (4) of subsection (c), pertaining to document 
+     verification requirements, and with subsection (d), 
+     pertaining to the System (once the System is implemented with 
+     respect to that employer according to the requirements under 
+     subsection (d)(2)), and with any additional requirements that 
+     the Secretary may promulgate by regulation pursuant to 
+     subsection (c) or (d) or that the employer has instituted a 
+     program to come into compliance with these requirements.
+       ``(ii) Application.--Clause (i) shall not apply until the 
+     date that the Secretary certifies to Congress that the System 
+     has been established, implemented, and made mandatory for use 
+     by all employers in the United States.
+       ``(C) Extension of deadline.--At the request of the 
+     employer, the Secretary may extend the 60-day deadline for 
+     good cause.
+       ``(D) Standards or methods.--The Secretary is authorized to 
+     publish in the Federal Register standards or methods for such 
+     certification, require specific recordkeeping practices with 
+     respect to such certifications, and audit the records thereof 
+     at any time. This authority shall not be construed to 
+     diminish or qualify any other penalty provided by this 
+     section.
+       ``(6) Requirements for review of a final determination.--
+     With respect to judicial review of a final determination or 
+     penalty order issued under paragraph (3)(D), the following 
+     requirements apply:
+       ``(A) Deadline.--The petition for review must be filed no 
+     later than 30 days after the date of the final determination 
+     or penalty order issued under paragraph (3)(D).
+       ``(B) Venue and forms.--The petition for review shall be 
+     filed with the court of appeals for the judicial circuit 
+     where the employer's principal place of business was located 
+     when the final determination or penalty order was made. The 
+     record and briefs do not have to be printed. The court shall 
+     review the proceeding on a typewritten or electronically 
+     filed record and briefs.
+       ``(C) Service.--The respondent is the Secretary. In 
+     addition to serving the respondent, the petitioner shall 
+     serve the Attorney General.
+       ``(D) Petitioner's brief.--The petitioner shall serve and 
+     file a brief in connection with a petition for judicial 
+     review not later than 40 days after the date on which the 
+     administrative record is available, and may serve and file a 
+     reply brief not later than 14 days after service of the brief 
+     of the respondent, and the court may not extend these 
+     deadlines, except for good cause shown. If a petitioner fails 
+     to file a brief within the time provided in this paragraph, 
+     the court shall dismiss the appeal unless a manifest 
+     injustice would result.
+       ``(E) Scope and standard for review.--The court of appeals 
+     shall conduct a de novo review of the administrative record 
+     on which the final determination was based and any additional 
+     evidence that the Court finds was previously unavailable at 
+     the time of the administrative hearing.
+       ``(F) Exhaustion of administrative remedies.--A court may 
+     review a final determination under paragraph (3)(C) only if--
+       ``(i) the petitioner has exhausted all administrative 
+     remedies available to the petitioner as of right, including 
+     any administrative remedies established by regulation, and
+       ``(ii) another court has not decided the validity of the 
+     order, unless the reviewing court finds that the petition 
+     presents grounds that could not have been presented in the 
+     prior judicial proceeding or that the remedy provided by the 
+     prior proceeding was inadequate or ineffective to test the 
+     validity of the order.
+       ``(G) Enforcement of orders.--If the final determination 
+     issued against the employer under this subsection is not 
+     subjected to review as provided in this paragraph, the 
+     Attorney General, upon request by the Secretary, may bring a 
+     civil action to enforce compliance with the final 
+     determination in any appropriate district court of the United 
+     States. The court, on a proper showing, shall issue a 
+     temporary restraining order or a preliminary or permanent 
+     injunction requiring that the employer comply with the final 
+     determination issued against that employer under this 
+     subsection. In any such civil action, the validity and 
+     appropriateness of the
+
+[[Page S5044]]
+
+     final determination shall not be subject to review.
+       ``(7) Creation of lien.--If any employer liable for a fee 
+     or penalty under this section neglects or refuses to pay such 
+     liability after demand and fails to file a petition for 
+     review (if applicable) as provided in paragraph (6), the 
+     amount of the fee or penalty shall be a lien in favor of the 
+     United States on all property and rights to property, whether 
+     real or personal, belonging to such employer. If a petition 
+     for review is filed as provided in paragraph (6), the lien 
+     shall arise upon the entry of a final judgment by the court. 
+     The lien continues for 20 years or until the liability is 
+     satisfied, remitted, set aside, or terminated.
+       ``(8) Filing notice of lien.--
+       ``(A) Place for filing.--The notice of a lien referred to 
+     in paragraph (7) shall be filed as described in 1 of the 
+     following:
+       ``(i) Under state laws.--
+
+       ``(I) Real property.--In the case of real property, in 1 
+     office within the State (or the county, or other governmental 
+     subdivision), as designated by the laws of such State, in 
+     which the property subject to the lien is situated.
+       ``(II) Personal property.--In the case of personal 
+     property, whether tangible or intangible, in 1 office within 
+     the State (or the county, or other governmental subdivision), 
+     as designated by the laws of such State, in which the 
+     property subject to the lien is situated, except that State 
+     law merely conforming to or reenacting Federal law 
+     establishing a national filing system does not constitute a 
+     second office for filing as designated by the laws of such 
+     State.
+
+       ``(ii) With clerk of district court.--In the office of the 
+     clerk of the United States district court for the judicial 
+     district in which the property subject to the lien is 
+     situated, whenever the State has not by law designated 1 
+     office which meets the requirements of clause (i).
+       ``(iii) With recorder of deeds of the district of 
+     columbia.--In the office of the Recorder of Deeds of the 
+     District of Columbia, if the property subject to the lien is 
+     situated in the District of Columbia.
+       ``(B) Situs of property subject to lien.--For purposes of 
+     subparagraph (A), property shall be deemed to be situated as 
+     follows:
+       ``(i) Real property.--In the case of real property, at its 
+     physical location.
+       ``(ii) Personal property.--In the case of personal 
+     property, whether tangible or intangible, at the residence of 
+     the taxpayer at the time the notice of lien is filed.
+       ``(C) Determination of residence.--For purposes of 
+     subparagraph (B)(ii), the residence of a corporation or 
+     partnership shall be deemed to be the place at which the 
+     principal executive office of the business is located, and 
+     the residence of a taxpayer whose residence is outside the 
+     United States shall be deemed to be in the District of 
+     Columbia.
+       ``(D) Effect of filing notice of lien.--
+       ``(i) In general.--Upon filing of a notice of lien in the 
+     manner described in this paragraph, the lien shall be valid 
+     against any purchaser, holder of a security interest, 
+     mechanic's lien, or judgment lien creditor, except with 
+     respect to properties or transactions specified in subsection 
+     (b), (c), or (d) of section 6323 of the Internal Revenue Code 
+     of 1986 for which a notice of tax lien properly filed on the 
+     same date would not be valid.
+       ``(ii) Notice of lien.--The notice of lien shall be 
+     considered a notice of lien for taxes payable to the United 
+     States for the purpose of any State or local law providing 
+     for the filing of a notice of a tax lien. A notice of lien 
+     that is registered, recorded, docketed, or indexed in 
+     accordance with the rules and requirements relating to 
+     judgments of the courts of the State where the notice of lien 
+     is registered, recorded, docketed, or indexed shall be 
+     considered for all purposes as the filing prescribed by this 
+     section.
+       ``(iii) Other provisions.--The provisions of section 
+     3201(e) of title 28, United States Code, shall apply to liens 
+     filed as prescribed by this paragraph.
+       ``(E) Enforcement of a lien.--A lien obtained through this 
+     paragraph shall be considered a debt as defined by section 
+     3002 of title 28, United States Code and enforceable pursuant 
+     to chapter 176 of such title.
+       ``(9) Attorney general adjudication.--The Attorney General 
+     shall have jurisdiction to adjudicate administrative 
+     proceedings under this subsection. Such proceedings shall be 
+     conducted in accordance with requirements of section 554 of 
+     title 5, United States Code.
+       ``(f) Criminal and Civil Penalties and Injunctions.--
+       ``(1) Prohibition of indemnity bonds.--It is unlawful for 
+     an employer, in the hiring of any individual, to require the 
+     individual to post a bond or security, to pay or agree to pay 
+     an amount, or otherwise to provide a financial guarantee or 
+     indemnity, against any potential liability arising under this 
+     section relating to such hiring of the individual.
+       ``(2) Civil penalty.--Any employer who is determined, after 
+     notice and opportunity for mitigation of the monetary penalty 
+     under subsection (e), to have violated paragraph (1) shall be 
+     subject to a civil penalty of $10,000 for each violation and 
+     to an administrative order requiring the return of any 
+     amounts received in violation of such paragraph to the 
+     employee or, if the employee cannot be located, to the 
+     general fund of the Treasury.
+       ``(g) Government Contracts.--
+       ``(1) Contractors and recipients.--Whenever an employer who 
+     is a Federal contractor (meaning an employer who holds a 
+     Federal contract, grant, or cooperative agreement, or 
+     reasonably may be expected to submit an offer for or be 
+     awarded a government contract) is determined by the Secretary 
+     to have violated this section on more than 3 occasions or is 
+     convicted of a crime under this section, the employer shall 
+     be considered for debarment from the receipt of Federal 
+     contracts, grants, or cooperative agreements in accordance 
+     with the procedures and standards and for the periods 
+     prescribed by the Federal Acquisition Regulation. However, 
+     any administrative determination of liability for civil 
+     penalty by the Secretary or the Attorney General shall not be 
+     reviewable in any debarment proceeding.
+       ``(2) Inadvertent violations.--Inadvertent violations of 
+     recordkeeping or verification requirements, in the absence of 
+     any other violations of this section, shall not be a basis 
+     for determining that an employer is a repeat violator for 
+     purposes of this subsection.
+       ``(3) Other remedies available.--Nothing in this subsection 
+     shall be construed to modify or limit any remedy available to 
+     any agency or official of the Federal Government for 
+     violation of any contractual requirement to participate in 
+     the System, as provided in the final rule relating to 
+     employment eligibility verification published in the Federal 
+     Register on November 14, 2008 (73 Fed. Reg. 67,651), or any 
+     similar subsequent regulation.
+       ``(h) Preemption.--Beginning on the date on which all 
+     employers are required to use the System pursuant to 
+     subsection (d)(2), the provisions of this section preempt any 
+     State or local law, ordinance, policy, or rule, including any 
+     criminal or civil fine or penalty structure, relating to the 
+     hiring, continued employment, or status verification for 
+     employment eligibility purposes, of unauthorized aliens. A 
+     State, locality, municipality, or political subdivision may 
+     exercise its authority over business licensing and similar 
+     laws as a penalty for failure to use the System.
+       ``(i) Deposit of Amounts Received.--Except as otherwise 
+     specified, civil penalties collected under this section shall 
+     be deposited by the Secretary into the Comprehensive 
+     Immigration Reform Trust Fund established under section 
+     6(a)(1) of the Border Security, Economic Opportunity, and 
+     Immigration Modernization Act.
+       ``(j) Challenges to Validity of the System.--
+       ``(1) In general.--Any right, benefit, or claim not 
+     otherwise waived or limited pursuant to this section is 
+     available in an action instituted in the United States 
+     District Court for the District of Columbia, but shall be 
+     limited to determinations of--
+       ``(A) whether this section, or any regulation issued to 
+     implement this section, violates the Constitution of the 
+     United States; or
+       ``(B) whether such a regulation issued by or under the 
+     authority of the Secretary to implement this section, is 
+     contrary to applicable provisions of this section or was 
+     issued in violation of chapter 5 of title 5, United States 
+     Code.
+       ``(2) Deadlines for bringing actions.--Any action 
+     instituted under this subsection must be filed no later than 
+     180 days after the date the challenged section or regulation 
+     described in subparagraph (A) or (B) of paragraph (1) becomes 
+     effective. No court shall have jurisdiction to review any 
+     challenge described in subparagraph (B) after the time period 
+     specified in this subsection expires.
+       ``(k) Criminal Penalties and Injunctions for Pattern or 
+     Practice Violations.--
+       ``(1) Pattern and practice.--Any employer who engages in a 
+     pattern or practice of knowing violations of subsection 
+     (a)(1)(A) or (a)(2) shall be fined under title 18, United 
+     States Code, no more than $10,000 for each unauthorized alien 
+     with respect to whom such violation occurs, imprisoned for 
+     not more than 2 years for the entire pattern or practice, or 
+     both.
+       ``(2) Term of imprisonment.--The maximum term of 
+     imprisonment of a person convicted of any criminal offense 
+     under the United States Code shall be increased by 5 years if 
+     the offense is committed as part of a pattern or practice of 
+     violations of subsection (a)(1)(A) or (a)(2).
+       ``(3) Enjoining of pattern or practice violations.--
+     Whenever the Secretary or the Attorney General has reasonable 
+     cause to believe that an employer is engaged in a pattern or 
+     practice of employment in violation of subsection (a)(1)(A) 
+     or (a)(2), the Attorney General may bring a civil action in 
+     the appropriate district court of the United States 
+     requesting such relief, including a permanent or temporary 
+     injunction, restraining order, or other order against the 
+     employer, as the Secretary or Attorney General deems 
+     necessary.
+       ``(l) Criminal Penalties for Unlawful and Abusive 
+     Employment.--
+       ``(1) In general.--Any person who, during any 12-month 
+     period, knowingly employs or hires, employs, recruits, or 
+     refers for a fee for employment 10 or more individuals within 
+     the United States who are under the control and supervision 
+     of such person--
+       ``(A) knowing that the individuals are unauthorized aliens; 
+     and
+       ``(B) under conditions that violate section 5(a) of the 
+     Occupational Safety and Health Act of 1970 (29 U.S.C. 654(a) 
+     (relating to occupational safety and health), section 6 or 7 
+     of the Fair Labor Standards Act of 1938 (29 U.S.C. 206 and 
+     207) (relating to minimum wages and maximum hours of 
+     employment), section 3142 of title 40, United States Code, 
+     (relating to required wages on construction contracts), or 
+     sections 6703 or 6704 of title 41,
+
+[[Page S5045]]
+
+     United States Code, (relating to required wages on service 
+     contracts),
+
+     shall be fined under title 18, United States Code, or 
+     imprisoned for not more than 10 years, or both.
+       ``(2) Attempt and conspiracy.--Any person who attempts or 
+     conspires to commit any offense under this section shall be 
+     punished in the same manner as a person who completes the 
+     offense.''.
+       (b) Report on Use of the System in the Agricultural 
+     Industry.--Not later than 18 months after the date of the 
+     enactment of this Act, the Secretary, in consultation with 
+     the Secretary of Agriculture, shall submit a report to 
+     Congress that assesses implementation of the Employment 
+     Verification System established under section 274A(d) of the 
+     Immigration and Nationality Act, as amended by subsection 
+     (a), in the agricultural industry, including the use of such 
+     System technology in agriculture industry hiring processes, 
+     user, contractor, and third-party employer agent employment 
+     practices, timing and logistics regarding employment 
+     verification and reverification processes to meet agriculture 
+     industry practices, and identification of potential 
+     challenges and modifications to meet the unique needs of the 
+     agriculture industry. Such report shall review--
+       (1) the modality of access, training and outreach, customer 
+     support, processes for further action notices and secondary 
+     verifications for short-term workers, monitoring, and 
+     compliance procedures for such System;
+       (2) the interaction of such System with the process to 
+     admit nonimmigrant workers pursuant to section 218 or 218A of 
+     the Immigration and Nationality Act (8 U.S.C. 1188 et seq.) 
+     and with enforcement of the immigration laws; and
+       (3) the collaborative use of processes of other Federal and 
+     State agencies that intersect with the agriculture industry.
+       (c) Report on Impact of the System on Employers.--Not later 
+     than 18 months after the date of the enactment of this Act, 
+     the Secretary shall submit to Congress a report that 
+     assesses--
+       (1) the implementation of the Employment Verification 
+     System established under section 274A(d) of the Immigration 
+     and Nationality Act, as amended by subsection (a), by 
+     employers;
+       (2) any adverse impact on the revenues, business processes, 
+     or profitability of employers required to use such System; 
+     and
+       (3) the economic impact of such System on small businesses.
+       (d) Government Accountability Office Study of the Effects 
+     of Document Requirements on Employment Authorized Persons and 
+     Employers.--
+       (1) Study.--The Comptroller General of the United States 
+     shall carry out a study of--
+       (A) the effects of the documentary requirements of section 
+     274A of the Immigration and Nationality Act, as amended by 
+     subsection (a), on employers, naturalized United States 
+     citizens, nationals of the United States, and individuals 
+     with employment authorized status; and
+       (B) the challenges such employers, citizens, nationals, or 
+     individuals may face in obtaining the documentation required 
+     under that section.
+       (2) Report.--Not later than 4 years after the date of the 
+     enactment of this Act, the Comptroller General shall submit 
+     to Congress a report containing the findings of the study 
+     carried out under paragraph (1). Such report shall include, 
+     at a minimum, the following:
+       (A) An assessment of available information regarding the 
+     number of working age nationals of the United States and 
+     individuals who have employment authorized status who lack 
+     documents required for employment by such section 274A.
+       (B) A description of the additional steps required for 
+     individuals who have employment authorized status and do not 
+     possess the documents required by such section 274A to obtain 
+     such documents.
+       (C) A general assessment of the average financial costs for 
+     individuals who have employment authorized status who do not 
+     possess the documents required by such section 274A to obtain 
+     such documents.
+       (D) A general assessment of the average financial costs and 
+     challenges for employers who have been required to 
+     participate in the Employment Verification System established 
+     by subsection (d) of such section 274A.
+       (E) A description of the barriers to individuals who have 
+     employment authorized status in obtaining the documents 
+     required by such section 274A, including barriers imposed by 
+     the executive branch of the Government.
+       (F) Any particular challenges facing individuals who have 
+     employment authorized status who are members of a federally 
+     recognized Indian tribe in complying with the provisions of 
+     such section 274A.
+       (e) Repeal of Pilot Programs and E-Verify and Transition 
+     Procedures.--
+       (1) Repeal.--Sections 401, 402, 403, 404, and 405 of the 
+     Illegal Immigration Reform and Immigrant Responsibility Act 
+     of 1996 (division C of Public Law 104-208; 8 U.S.C. 1324a 
+     note) are repealed.
+       (2) Transition procedures.--
+       (A) Continuation of e-verify program.--Notwithstanding the 
+     repeals made by paragraph (1), the Secretary shall continue 
+     to operate the E-Verify Program as described in section 403 
+     of the Illegal Immigration Reform and Immigrant 
+     Responsibility Act of 1996 (division C of Public Law 104-208; 
+     8 U.S.C. 1324a note), as in effect the minute before the date 
+     of the enactment of this Act, until the transition to the 
+     System described in section 274A(d) of the Immigration and 
+     Nationality Act, as amended by subsection (a), is determined 
+     by the Secretary to be complete.
+       (B) Transition to the system.--Any employer who was 
+     participating in the E-Verify Program described in section 
+     403 of the Illegal Immigration Reform and Immigrant 
+     Responsibility Act of 1996 (division C of Public Law 104-208; 
+     8 U.S.C. 1324a note), as in effect the minute before the date 
+     of the enactment of this Act, shall participate in the System 
+     described in section 274A(d) of the Immigration and 
+     Nationality Act, as amended by subsection (a), to the same 
+     extent and in the same manner that the employer participated 
+     in such E-Verify Program.
+       (3) Construction.--The repeal made by paragraph (1) may not 
+     be construed to limit the authority of the Secretary to allow 
+     or continue to allow the participation in such System of 
+     employers who have participated in such E-Verify Program, as 
+     in effect on the minute before the date of the enactment of 
+     this Act.
+       (f) Conforming Amendment.--Section 274(a) (8 U.S.C. 
+     1324(a)) is amended--
+       (1) by striking paragraph (3); and
+       (2) by redesignating paragraph (4) as paragraph (3).
+       (g) Information Sharing.--The Commissioner of Social 
+     Security, the Secretary, and the Secretary of the Treasury 
+     shall jointly establish a program to share information among 
+     such agencies that may lead to the identification of 
+     unauthorized aliens (as described in section 274A of the 
+     Immigration and Nationality Act, as amended by subsection 
+     (a)), including--
+       (1) no-match letters; and
+       (2) any information in the earnings suspense file.
+                                 ______
+```
