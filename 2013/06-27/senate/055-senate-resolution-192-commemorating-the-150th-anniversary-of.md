@@ -1,0 +1,60 @@
+---
+granule: CRECB-2013-pt8-Pg10848-2
+date: 2013-06-27
+edition: CRECB
+section: SENATE
+page: 10848
+---
+
+# SENATE RESOLUTION 192--COMMEMORATING THE 150TH ANNIVERSARY OF THE BATTLE OF GETTYSBURG AND THE SIGNIFICANCE OF THIS BATTLE IN THE HISTORY OF THE UNITED STATES
+
+```
+   SENATE RESOLUTION 192--COMMEMORATING THE 150TH ANNIVERSARY OF THE 
+BATTLE OF GETTYSBURG AND THE SIGNIFICANCE OF THIS BATTLE IN THE HISTORY 
+                          OF THE UNITED STATES
+
+  Mr. CASEY (for himself and Mr. Toomey) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 192
+
+       Whereas, between July 1 and July 3, 1863, the Battle of 
+     Gettysburg in Gettysburg, Pennsylvania, was the turning point 
+     for the Union Army in the American Civil War;
+       Whereas the Battle of Gettysburg was the battle with the 
+     largest number of casualties in the American Civil War;
+       Whereas, on November 19, 1863, President Abraham Lincoln 
+     delivered the Gettysburg Address at the dedication of the 
+     Soldiers' National Cemetery;
+       Whereas over 3,500 soldiers were buried at the Soldiers' 
+     National Cemetery after losing their lives in the battle;
+       Whereas reconciliation between the North and the South 
+     began at Gettysburg through warm and respectful post-war 
+     reunions that featured peace walk reenactments of Pickett's 
+     Charge in 1887, 1913, and 1938;
+       Whereas the Gettysburg battlefield was designated as a 
+     National Military Park in 1895;
+       Whereas the residents of Gettysburg helped to preserve the 
+     land that now serves as the Gettysburg National Military 
+     Park, including the Soldiers' National Cemetery and the 
+     Gettysburg battlefield; and
+       Whereas more than 1,000,000 people travel each year to 
+     visit the park, museum, and visitor center: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) recognizes the 150th anniversary of the Battle of 
+     Gettysburg;
+       (2) recognizes the historical significance of the outcome 
+     of the Battle of Gettysburg, which helped to preserve the 
+     United States; and
+       (3) encourages the people of the United States to visit 
+     Gettysburg National Military Park to celebrate and 
+     commemorate the 150th anniversary of the Battle of 
+     Gettysburg.
+
+[[Page 10849]]
+
+
+
+                          ____________________
+```
