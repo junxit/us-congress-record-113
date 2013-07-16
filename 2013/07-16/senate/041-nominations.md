@@ -1,0 +1,53 @@
+---
+granule: CREC-2013-07-16-pt1-PgS5715-2
+date: 2013-07-16
+edition: CREC
+section: SENATE
+page: S5715
+citation: 159 Cong. Rec. S5715
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                     NATIONAL LABOR RELATIONS BOARD
+
+       KENT YOSHIHO HIROZAWA, OF NEW YORK, TO BE A MEMBER OF THE 
+     NATIONAL LABOR RELATIONS BOARD FOR THE TERM OF FIVE YEARS 
+     EXPIRING AUGUST 27, 2016, VICE WILMA B. LIEBMAN, TERM 
+     EXPRIED.
+       NANCY JEAN SCHIFFER, OF MARYLAND, TO BE A MEMBER OF THE 
+     NATIONAL LABOR RELATIONS BOARD FOR THE TERM OF FIVE YEARS 
+     EXPIRING DECEMBER 16, 2014, VICE CRAIG BECKER.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICER FOR APPOINTMENT IN THE RESERVE OF THE AIR FORCE TO 
+     THE GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12212:
+
+                        To be brigadier general
+
+COL. ROGER L. NYE
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. KENNETH E. TOVO
+
+                          ____________________
+```
