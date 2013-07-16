@@ -1,0 +1,35 @@
+---
+granule: CRECB-2013-pt8-Pg11478-6
+date: 2013-07-16
+edition: CRECB
+section: SENATE
+page: 11478
+---
+
+# MEASURES PLACED ON THE CALENDAR
+
+```
+                    MEASURES PLACED ON THE CALENDAR
+
+  The following bill was read the second time, and placed on the 
+calendar:
+
+
+[[Page 11479]]
+
+       S. 1292. A bill to prohibit the funding of the Patient 
+     Protection and Affordable Care Act.
+
+  The following bills were read the first and second times by unanimous 
+consent, and placed on the calendar:
+
+       H.R. 2609. An act making appropriations for energy and 
+     water development and related agencies for the fiscal year 
+     ending September 30, 2014, and for other purposes.
+       H.R. 2642. An act to provide for the reform and 
+     continuation of agricultural and other programs of the 
+     Department of Agriculture through fiscal year 2018, and for 
+     other purposes.
+
+                          ____________________
+```

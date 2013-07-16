@@ -1,0 +1,27 @@
+---
+granule: CRECB-2013-pt8-Pg11487-4
+date: 2013-07-16
+edition: CRECB
+section: SENATE
+page: 11487
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on July 
+16, 2013 withdrawing from further Senate consideration the following 
+nominations:
+
+       RICHARD F. GRIFFIN, JR., OF THE DISTRICT OF COLUMBIA, TO BE 
+     A MEMBER OF THE NATIONAL LABOR RELATIONS BOARD FOR THE TERM 
+     OF FIVE YEARS EXPIRING AUGUST 27, 2016, VICE WILMA B. 
+     LIEBMAN, TERM EXPIRED, WHICH WAS SENT TO THE SENATE ON 
+     FEBRUARY 13, 2013.
+       SHARON BLOCK, OF THE DISTRICT OF COLUMBIA, TO BE A MEMBER 
+     OF THE NATIONAL LABOR RELATIONS BOARD FOR THE TERM OF FIVE 
+     YEARS EXPIRING DECEMBER 16, 2014, VICE CRAIG BECKER, WHICH 
+     WAS SENT TO THE SENATE ON FEBRUARY 13, 2013.
+```
