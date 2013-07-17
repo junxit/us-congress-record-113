@@ -1,0 +1,33 @@
+---
+granule: CREC-2013-07-17-pt1-PgS5754-3
+date: 2013-07-17
+edition: CREC
+section: SENATE
+page: S5754
+citation: 159 Cong. Rec. S5754
+---
+
+# MEASURES READ THE FIRST TIME
+
+**Measures:** S. 1315, S. 1316, H.R. 1911
+
+```
+                      MEASURES READ THE FIRST TIME
+
+  The following bills were read the first time:
+
+       H.R. 1911. To amend the Higher Education Act of 1965 to 
+     establish interest rates for new loans made on or after July 
+     1, 2013, to direct the Secretary of Education to convene the 
+     Advisory Committee on Improving Postsecondary Education Data 
+     to conduct a study on improvements to postsecondary education 
+     transparency at the Federal level, and for other purposes.
+       S. 1315. A bill to prohibit the Secretary of the Treasury 
+     from enforcing the Patient Protection and Affordable Care Act 
+     and the Health Care and Education Reconciliation Act of 2010.
+       S. 1316. A bill to repeal the provisions of the Patient 
+     Protection and Affordable Care Act providing for the 
+     Independent Payment Advisory Board.
+
+                          ____________________
+```

@@ -1,0 +1,45 @@
+---
+granule: CREC-2013-07-17-pt1-PgS5758
+date: 2013-07-17
+edition: CREC
+section: SENATE
+page: S5758
+citation: 159 Cong. Rec. S5758
+---
+
+# MEASURES READ THE FIRST TIME EN BLOC--S. 1315, S. 1316, AND H.R. 1911
+
+**Speaking:** Whitehouse, Sheldon (W000802) [D-RI]
+
+**Measures:** S. 1315, S. 1316, H.R. 1911
+
+```
+ MEASURES READ THE FIRST TIME EN BLOC--S. 1315, S. 1316, AND H.R. 1911
+
+  Mr. WHITEHOUSE. Mr. President, I understand that there are three 
+bills at the desk, and I ask for their first reading en bloc.
+  The PRESIDING OFFICER. The Senator is correct. The clerk will read 
+the titles of the bills en bloc.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 1315) to prohibit the Secretary of the Treasury 
+     from enforcing the Patient Protection and Affordable Care Act 
+     and the Health Care and Education Reconciliation Act of 2010.
+       A bill (S. 1316) to repeal the provisions of the Patient 
+     Protection and Affordable Care Act providing for the 
+     Independent Payment Advisory Board.
+       A bill (H.R. 1911) to amend the Higher Education Act of 
+     1965 to establish interest rates for new loans made on or 
+     after July 1, 2013, to direct the Secretary of Education to 
+     convene the Advisory Committee on Improving Postsecondary 
+     Education Data to conduct a study on improvements to 
+     postsecondary education transparency at the Federal level, 
+     and for other purposes.
+
+  Mr. WHITEHOUSE. I now ask for a second reading en bloc, and I object 
+to my own request en bloc.
+  The PRESIDING OFFICER. Objection having been heard, the bills will be 
+read for a second time on the next legislative day.
+
+                          ____________________
+```
