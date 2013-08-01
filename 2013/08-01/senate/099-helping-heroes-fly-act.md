@@ -1,0 +1,128 @@
+---
+granule: CRECB-2013-pt9-Pg13051
+date: 2013-08-01
+edition: CRECB
+section: SENATE
+page: 13051
+---
+
+# HELPING HEROES FLY ACT
+
+```
+                         HELPING HEROES FLY ACT
+
+  Mr. REID. Madam President, I ask unanimous consent that the Commerce 
+Committee be discharged from further consideration of H.R. 1344, and 
+that the Senate proceed to its immediate consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (H.R. 1344) to amend title 49, United States Code, 
+     to direct the Assistant Secretary of Homeland Security 
+     (Transportation Security Administration) to provide expedited 
+     air passenger screening to severely injured or disabled 
+     members of the Armed Forces and severely injured or disabled 
+     veterans, and for other purposes.
+
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. REID. I further ask that the Pryor substitute amendment which is 
+at the desk be agreed to, and the bill, as amended, be read the third 
+time and passed, and that any motions to reconsider be considered made, 
+with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 1848) was agreed to, as follows:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Helping Heroes Fly Act''.
+
+     SEC. 2. OPERATIONS CENTER PROGRAM FOR SEVERELY INJURED OR 
+                   DISABLED MEMBERS OF THE ARMED FORCES AND 
+                   SEVERELY INJURED OR DISABLED VETERANS.
+
+       (a) In General.--Subchapter I of chapter 449 of title 49, 
+     United States Code, is amended by adding at the end the 
+     following:
+
+     ``Sec. 44927. Expedited screening for severely injured or 
+       disabled members of the Armed Forces and severely injured 
+       or disabled veterans
+
+       ``(a) Passenger Screening.--The Assistant Secretary, in 
+     consultation with the Secretary of Defense, the Secretary of 
+     Veterans Affairs, and organizations identified by the 
+     Secretaries of Defense and Veteran Affairs that advocate on 
+     behalf of severely injured or disabled members of the Armed 
+     Forces and severely injured or disabled veterans, shall 
+     develop and implement a process to support and facilitate the 
+     ease of travel and to the extent possible provide expedited 
+     passenger screening services for severely injured or disabled 
+     members of the Armed Forces and severely injured or disabled 
+     veterans through passenger screening. The process shall be 
+     designed to offer the individual private screening to the 
+     maximum extent practicable.
+       ``(b) Operations Center.--As part of the process under 
+     subsection (a), the Assistant Secretary shall maintain an 
+     operations center to provide support and facilitate the 
+     movement of severely injured or disabled members of the Armed 
+     Forces and severely injured or disabled veterans through 
+     passenger screening prior to boarding a passenger aircraft 
+     operated by an air carrier or foreign air carrier in air 
+     transportation or intrastate air transportation.
+       ``(c) Protocols.--The Assistant Secretary shall--
+       ``(1) establish and publish protocols, in consultation with 
+     the Secretary of Defense, the Secretary of Veterans Affairs, 
+     and the organizations identified under subsection (a), under 
+     which a severely injured or disabled member of the Armed 
+     Forces or severely injured or disabled veteran, or the family 
+     member or other representative of such member or veteran, may 
+     contact the operations center maintained under subsection (b) 
+     and request the expedited passenger screening services 
+     described in subsection (a) for that member or veteran; and
+       ``(2) upon receipt of a request under paragraph (1), 
+     require the operations center to notify the appropriate 
+     Federal Security Director of the request for expedited 
+     passenger screening services, as described in subsection (a), 
+     for that member or veteran.
+       ``(d) Training.--The Assistant Secretary shall integrate 
+     training on the protocols established under subsection (c) 
+     into the training provided to all employees who will 
+     regularly provide the passenger screening services described 
+     in subsection (a).
+       ``(e) Rule of Construction.--Nothing in this section shall 
+     affect the authority of the Assistant Secretary to require 
+     additional screening of a severely injured or disabled member 
+     of the Armed Forces, a severely injured or disabled veteran, 
+     or their accompanying family members or nonmedical 
+     attendants, if intelligence, law enforcement, or other 
+     information indicates that additional screening is necessary.
+       ``(f) Report.--Not later than 1 year after the date of 
+     enactment of this section, and annually thereafter, the 
+     Assistant Secretary shall submit to Congress a report on the 
+     implementation of this section. Each report shall include 
+     each of the following:
+       ``(1) Information on the training provided under subsection 
+     (d).
+       ``(2) Information on the consultations between the 
+     Assistant Secretary and the organizations identified under 
+     subsection (a).
+       ``(3) The number of people who accessed the operations 
+     center during the period covered by the report.
+       ``(4) Such other information as the Assistant Secretary 
+     determines is appropriate.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of subchapter I of chapter 449 of title 49, United 
+     States Code, is amended by inserting after the item relating 
+     to section 44926 the following new item:
+``44927. Expedited screening for severely injured or disabled members 
+              of the Armed Forces and severely injured or disabled 
+              veterans.''.
+  The amendment was ordered to be engrossed and the bill to be read a 
+third time.
+  The bill (H.R. 1344), as amended, was read the third time and passed.
+
+                          ____________________
+```
