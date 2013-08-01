@@ -1,0 +1,70 @@
+---
+granule: CREC-2013-08-01-pt1-PgS6236
+date: 2013-08-01
+edition: CREC
+section: SENATE
+page: S6236
+citation: 159 Cong. Rec. S6236
+---
+
+# SENATE RESOLUTION 212--COMMENDING DAVID J. SCHIAPPA
+
+**Measures:** S.Res. 212
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+          SENATE RESOLUTION 212--COMMENDING DAVID J. SCHIAPPA
+
+  Mr. McCONNELL (for himself, Mr. Reid of Nevada, Mr. Alexander, Ms. 
+Ayotte, Ms. Baldwin, Mr. Barrasso, Mr. Baucus, Mr. Begich, Mr. Bennet, 
+Mr. Blumenthal, Mr. Blunt, Mr. Boozman, Mrs. Boxer, Mr. Brown, Mr. 
+Burr, Ms. Cantwell, Mr. Cardin, Mr. Carper, Mr. Casey, Mr. Chambliss, 
+Mr. Chiesa, Mr. Coats, Mr. Coburn, Mr. Cochran, Ms. Collins, Mr. Coons, 
+Mr. Corker, Mr. Cornyn, Mr. Crapo, Mr. Cruz, Mr. Donnelly, Mr. Durbin, 
+Mr. Enzi, Mrs. Feinstein, Mrs. Fischer, Mr. Flake, Mr. Franken, Mrs. 
+Gillibrand, Mr. Graham, Mr. Grassley, Mrs. Hagan, Mr. Harkin, Mr. 
+Hatch, Mr. Heinrich, Ms. Heitkamp, Mr. Heller, Ms. Hirono, Mr. Hoeven, 
+Mr. Inhofe, Mr. Isakson, Mr. Johanns, Mr. Johnson of Wisconsin, Mr. 
+Johnson of South Dakota, Mr. Kaine, Mr. King, Mr. Kirk, Ms. Klobuchar, 
+Ms. Landrieu, Mr. Leahy, Mr. Lee, Mr. Levin, Mr. Manchin, Mr. Markey, 
+Mr. McCain, Mrs. McCaskill, Mr. Menendez, Mr. Merkley, Ms. Mikulski, 
+Mr. Moran, Ms. Murkowski, Mr. Murphy, Mrs. Murray, Mr. Nelson, Mr. 
+Paul, Mr. Portman, Mr. Pryor, Mr. Reed, Mr. Risch, Mr. Roberts, Mr. 
+Rockefeller, Mr. Rubio, Mr. Sanders, Mr. Schatz, Mr. Schumer, Mr. 
+Scott, Mr. Sessions, Mrs. Shaheen, Mr. Shelby, Ms. Stabenow, Mr. 
+Tester, Mr. Thune, Mr. Toomey, Mr. Udall of Colorado, Mr. Udall of New 
+Mexico, Mr. Vitter, Mr. Warner, Ms. Warren, Mr. Whitehouse, Mr. Wicker, 
+and Mr. Wyden) submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 212
+
+     Whereas, David Schiappa has loyally served the Senate for 29 
+     years, his entire professional career, starting in the Senate 
+     in December 1984;
+     Whereas, David Schiappa grew up in Maryland and graduated 
+     from DeMatha Catholic High School, the University of 
+     Maryland, and Johns Hopkins University;
+     Whereas, David Schiappa rose through all the positions in the 
+     Republican Cloakroom finally serving as either Secretary for 
+     the Majority or Secretary for the Minority for the last three 
+     Republican Leaders;
+     Whereas, David Schiappa has at all times discharged the 
+     duties of his office with great dedication, diligence, and 
+     sense of service, thus earning the respect of Republican and 
+     Democratic Senators alike, as well as their staffs; and
+     Whereas, his good humor, storytelling ability, and easy-going 
+     manner have made him an invaluable member of the Senate 
+     family. Now, therefore, be it
+         Resolved, That the Senate expresses its appreciation to 
+     David Schiappa and his family and commends him for his 
+     outstanding and faithful service to the Senate.
+       The Secretary of the Senate shall transmit a copy of this 
+     resolution to David J. Schiappa.
+
+                          ____________________
+```

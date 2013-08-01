@@ -1,0 +1,63 @@
+---
+granule: CREC-2013-08-01-pt1-PgS6237-3
+date: 2013-08-01
+edition: CREC
+section: SENATE
+page: S6237
+citation: 159 Cong. Rec. S6237
+---
+
+# SENATE RESOLUTION 217--EXPRESSING SUPPORT FOR DESIGNATION OF OCTOBER 6, 2013, THROUGH OCTOBER 10, 2013, AS "AMERICAN COLLEGE OF SURGEONS DAYS" AND RECOGNIZING THE 100TH ANNIVERSARY OF THE...
+
+**Measures:** S.Res. 217
+
+```
+SENATE RESOLUTION 217--EXPRESSING SUPPORT FOR DESIGNATION OF OCTOBER 6, 
+   2013, THROUGH OCTOBER 10, 2013, AS ``AMERICAN COLLEGE OF SURGEONS 
+  DAYS'' AND RECOGNIZING THE 100TH ANNIVERSARY OF THE FOUNDING OF THE 
+                              ORGANIZATION
+
+  Mr. KIRK (for himself, Mr. Brown, and Mr. Durbin) submitted the 
+following resolution; which was considered and agreed to.:
+
+                              S. Res. 217
+
+       Whereas the American College of Surgeons is the largest 
+     surgical organization in the world and remains steadfast in 
+     its mission to improve the care of the surgical patient and 
+     to safeguard standards of care in an optimal and ethical 
+     practice environment;
+       Whereas the American College of Surgeons continues its work 
+     into the 21st century to sustain and develop relevant 
+     programs that are inspired by quality;
+       Whereas the 100th anniversary celebrations serve as a 
+     testament that the American College of Surgeons is fulfilling 
+     its mission of engaging surgeons as leaders and educators, 
+     and developing initiatives that improve surgery and the 
+     quality of care for surgical patients;
+       Whereas the 2013 American College of Surgeons Clinical 
+     Congress is the most prestigious international surgical 
+     conference, bringing together thousands of Fellows of the 
+     College and other health care professionals who each year 
+     rely on the Clinical Congress to learn about the latest 
+     surgical advances, practice management methods, and health 
+     policy issues; and
+       Whereas October 6, 2013, through October 10, 2013, would be 
+     appropriate dates to designate as ``American College of 
+     Surgeons Days'' to celebrate the 100th anniversary of the 
+     founding of the American College of Surgeons, the 
+     achievements of which continue to significantly influence the 
+     course of surgery in the United States and around the world, 
+     and which was established as an advocate for all surgical 
+     patients: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) supports the designation of ``American College of 
+     Surgeons Days'';
+       (2) recognizes the 100th anniversary of the founding of the 
+     American College of Surgeons; and
+       (3) recognizes the many important contributions of the 
+     American College of Surgeons to the welfare of surgical 
+     patients and the health care system of the United States.
+
+                          ____________________
+```
