@@ -1,0 +1,41 @@
+---
+granule: CRECB-2013-pt9-Pg13214-9
+date: 2013-09-09
+edition: CRECB
+section: HOUSE
+page: 13214
+---
+
+# USE POWER OF THE PURSE TO STOP OBAMACARE
+
+```
+                USE POWER OF THE PURSE TO STOP OBAMACARE
+
+  (Mr. BURGESS asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURGESS. Madam Speaker, how do Yucca Mountain, Iran Contra, and 
+the Vietnam war relate to the Affordable Care Act? All of those 
+represent legislative limitations of funding to counter decisions made 
+by the executive branch. In each instance, Congress used its authority 
+provided under the Constitution to place limits on Presidential 
+decisions. We need to use those constitutional powers again.
+  The Affordable Care Act is lurching toward an uncertain start and is 
+dramatically different than what was signed into law over 3 years ago. 
+Gone are the CLASS Act and the 1099 business activity reporting 
+requirement. What about the Federal preexisting program? It hasn't 
+accepted a new patient since February of this year.
+  How unfair is it that the large corporations in this country received 
+an
+
+[[Page 13215]]
+
+11th-hour Presidential exemption and Members of Congress receive a 
+subsidy? None of this is available to the average American.
+  I look at all of this and I ask: What tools are available to prevent 
+this disaster? And the answer is provided in the historical record when 
+previous Congresses used the one trump card they have available. All 
+that is required is the courage and the clarity of vision to alter 
+history.
+
+                          ____________________
+```
