@@ -1,0 +1,37 @@
+---
+granule: CREC-2013-09-11-pt1-PgS6388
+date: 2013-09-11
+edition: CREC
+section: SENATE
+page: S6388
+citation: 159 Cong. Rec. S6388
+---
+
+# Text of Senate Amendment 1869
+
+**Speaking:** Coburn, Tom (C000560) [R-OK]
+
+```
+  SA 1869. Mr. COBURN submitted an amendment intended to be proposed by 
+him to the bill S. 1392, to promote energy savings in residential 
+buildings and industry, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       On page 48, after line 16, add the following:
+
+     SEC. 4___. CERTIFICATION REQUIRED.
+
+       (a) In General.--The Secretary shall certify that the 
+     amount of energy cost savings over a 10-year period as a 
+     result of each project or activity funded under this Act or 
+     an amendment made by this Act would equal or exceed the cost 
+     of the project or activity.
+       (b) Actual Energy Use.--On completion of a project or 
+     activity provided funds under this Act or an amendment made 
+     by this Act, the Secretary shall certify that, over a 10-year 
+     period, as a result of the project or activity--
+       (1) there was a reduction in actual energy use; and
+       (2) the energy cost savings exceeded the costs of the 
+     project or activity.
+                                 ______
+```
