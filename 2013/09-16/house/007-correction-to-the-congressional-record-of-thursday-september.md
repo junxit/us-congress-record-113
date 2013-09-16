@@ -1,0 +1,17 @@
+---
+granule: CREC-2013-09-16-pt1-PgH5549-6
+date: 2013-09-16
+edition: CREC
+section: HOUSE
+page: H5549
+citation: 159 Cong. Rec. H5549
+---
+
+# CORRECTION TO THE CONGRESSIONAL RECORD OF THURSDAY, SEPTEMBER 12, 2013 AT PAGE H5542
+
+```
+CORRECTION TO THE CONGRESSIONAL RECORD OF THURSDAY, SEPTEMBER 12, 2013 
+AT PAGE H5542
+
+                          ____________________
+```
