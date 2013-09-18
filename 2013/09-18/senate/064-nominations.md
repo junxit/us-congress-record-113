@@ -1,0 +1,35 @@
+---
+granule: CREC-2013-09-18-pt1-PgS6609-4
+date: 2013-09-18
+edition: CREC
+section: SENATE
+page: S6609
+citation: 159 Cong. Rec. S6609
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                        UNITED STATES TAX COURT
+
+        TAMARA WENDA ASHFORD, OF VIRGINIA, TO BE A JUDGE OF THE 
+     UNITED STATES TAX COURT FOR A TERM OF FIFTEEN YEARS, VICE 
+     MARY ANN COHEN, RETIRED.
+
+
+                          DEPARTMENT OF STATE
+
+        RICHARD STENGEL, OF NEW YORK, TO BE UNDER SECRETARY OF 
+     STATE FOR PUBLIC DIPLOMACY, VICE TARA D. SONENSHINE.
+
+
+                         DEPARTMENT OF JUSTICE
+
+        LESLIE RAGON CALDWELL, OF NEW YORK, TO BE AN ASSISTANT 
+     ATTORNEY GENERAL, VICE LANNY A. BREUER, RESIGNED.
+```
