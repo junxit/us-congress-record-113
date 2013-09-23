@@ -1,0 +1,31 @@
+---
+granule: CRECB-2013-pt10-Pg14128-4
+date: 2013-09-23
+edition: CRECB
+section: EXTENSIONS
+page: 14128
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. JIM GERLACH
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                       Monday, September 23, 2013
+
+  Mr. GERLACH. Mr. Speaker, unfortunately, on September 17, 2013, I 
+missed three recorded votes on the House floor. Had I been present, I 
+would have voted ``yea'' on Rollcall 460, ``yea'' on Rollcall 461, and 
+``yea'' on Rollcall 462.
+
+                          ____________________
+```
