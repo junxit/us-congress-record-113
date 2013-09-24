@@ -1,0 +1,141 @@
+---
+granule: CREC-2013-09-24-pt1-PgS6759
+date: 2013-09-24
+edition: CREC
+section: SENATE
+page: S6759
+citation: 159 Cong. Rec. S6759
+---
+
+# SENATE RESOLUTION 254--DESIGNATING NOVEMBER 2, 2013, AS "NATIONAL BISON DAY"
+
+**Speaking:** Enzi, Michael B. (E000285) [R-WY]
+
+**Measures:** S.Res. 254
+
+```
+  SENATE RESOLUTION 254--DESIGNATING NOVEMBER 2, 2013, AS ``NATIONAL 
+                              BISON DAY''
+
+  Mr. ENZI (for himself, Mr. Johnson of South Dakota, Ms. Baldwin, Mr. 
+Cochran, Mrs. Gillibrand, Mr. Heinrich, Ms. Heitkamp, Mr. Hoeven, Mr. 
+Johanns, Mr. Lee, Mr. Moran, Mr. Portman, Mr. Schumer, Mr. Tester, Mr. 
+Thune, Mr. Udall of New Mexico, Mr. Whitehouse, Mr. Hatch, Mr. Bennet, 
+and Mr. Roberts) submitted the following resolution; which was referred 
+to the Committee on the Judiciary:
+
+                              S. Res. 254
+
+       Whereas bison are considered a historical symbol of the 
+     United States;
+       Whereas bison were integrally linked with the economic and 
+     spiritual lives of many Indian tribes through trade and 
+     sacred ceremonies;
+       Whereas there are more than 60 Indian tribes participating 
+     in the Intertribal Buffalo Council;
+       Whereas numerous members of Indian tribes are involved in 
+     bison restoration on tribal land;
+       Whereas members of Indian tribes have a combined herd on 
+     more than 1,000,000 acres of tribal land;
+       Whereas the Intertribal Buffalo Council is a tribal 
+     organization incorporated pursuant to section 17 of the Act 
+     of June 18, 1934 (commonly known as ``Indian Reorganization 
+     Act'') (25 U.S.C. 477);
+       Whereas bison can play an important role in improving the 
+     types of grasses found in landscapes to the benefit of 
+     grasslands;
+       Whereas a bison has been depicted on the official seal of 
+     the Department of the Interior since 1912;
+       Whereas bison hold significant economic value for private 
+     producers and rural communities;
+       Whereas, as of 2007, the United States had 4,499 bison 
+     producers creating jobs and providing a sustainable and 
+     healthy meat source contributing to the food security of the 
+     United States;
+       Whereas a bison is portrayed on 2 State flags;
+       Whereas the bison has been adopted by 3 States as the 
+     official mammal or animal of those States;
+       Whereas the buffalo nickel played an important role in 
+     modernizing the currency of the United States;
+       Whereas several sports teams have the bison as a mascot, 
+     which highlights the iconic significance of bison in the 
+     United States;
+       Whereas on December 8, 1905, William Hornaday, Theodore 
+     Roosevelt, and others formed the American Bison Society in 
+     response to the near extinction of bison in the United 
+     States;
+       Whereas on October 11, 1907, the American Bison Society 
+     sent 15 bison to the first big game refuge in the United 
+     States, which was known as the ``Wichita Reserve Bison 
+     Refuge'';
+       Whereas in 2005, the American Bison Society was 
+     reestablished, bringing together bison ranchers, managers 
+     from Indian tribes, Federal and State agencies, conservation 
+     organizations, and natural and social scientists from the 
+     United States, Canada, and Mexico to create a vision for the 
+     North American bison in the 21st century;
+       Whereas there are bison herds in National Wildlife Refuges 
+     and National Parks;
+       Whereas there are bison in State-managed herds across 11 
+     States;
+       Whereas there is a growing effort to celebrate and 
+     officially recognize the historical, cultural, and economic 
+     significance of the North American bison to the heritage of 
+     the United States; and
+       Whereas members of Indian tribes, bison producers, 
+     conservationists, sportsmen, educators, and other public and 
+     private partners have participated in the first annual 
+     National Bison Day on November 1, 2012, and are committed to 
+     continuing this tradition annually on the first Saturday of 
+     November: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates November 2, 2013, the first Saturday of 
+     November, as National Bison Day; and
+       (2) encourages the people of the United States to observe 
+     the day with appropriate ceremonies and activities.
+
+  Mr. ENZI. Mr. President, Senator Tim Johnson of South Dakota and I 
+are submitting this resolution today because of the significant role 
+the North American Bison has played in the history of our Nation. This 
+resolution honors that legacy by designating November 2, 2013, as 
+National Bison Day.
+  Since our frontier days, the bison has become a symbol of American 
+strength and determination. The bison has also been integrally linked 
+to the economic and spiritual lives of many Native American tribes over 
+the centuries. The Department of Interior has depicted the bison on its 
+official seal since 1912 and several sports teams across America have 
+chosen the bison as their mascot. At one point in American history, 
+bison were brought in to graze outside the original Smithsonian 
+Institution Building here in Washington, DC.
+  In 1911, when sculptor James Earle Fraser was tasked with designing a 
+new nickel, he wanted to ``do something totally American.'' On the 
+reverse of his design, he chose to depict the American bison, as a 
+symbol of America's western background that was ``100 percent 
+American.'' This coin came to be known as the buffalo nickel and played 
+an important role in modernizing our currency in the early 20th 
+century.
+  I must also add that my home state of Wyoming is one of three states 
+that recognize the bison as its official state mammal and has honored 
+an image of a bison on the Wyoming state flag since it was first 
+adopted in 1917. Today, thousands of American bison freely roam 
+Yellowstone and Grand Teton National Park in Wyoming. The bison is also 
+important to our state's economic well-being with a growing number of 
+ranchers raising bison for consumers all over the world.
+  This resolution is supported by a wide variety of stakeholders. I 
+want to recognize the National Bison Association that represents the 
+interests of the bison ranchers in nearly every single State. Also 
+behind this effort is the
+
+[[Page S6760]]
+
+Intertribal Bison Council that supports the cultural role the bison has 
+played in Native American history. Finally, there is the Wildlife 
+Conservation Society that wishes to honor the restoration of bison in 
+North America since the 19th century.
+  I ask my colleagues to help me support and pass this resolution 
+honoring the bison and designating November 2, 2013, as National Bison 
+Day. The bison has and will continue to be a symbol of America, its 
+people and way of life.
+
+                          ____________________
+```
