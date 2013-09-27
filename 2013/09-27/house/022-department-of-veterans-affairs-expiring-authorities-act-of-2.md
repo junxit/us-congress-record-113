@@ -1,0 +1,483 @@
+---
+granule: CREC-2013-09-27-pt1-PgH5894-2
+date: 2013-09-27
+edition: CREC
+section: HOUSE
+page: H5894
+citation: 159 Cong. Rec. H5894
+---
+
+# DEPARTMENT OF VETERANS AFFAIRS EXPIRING AUTHORITIES ACT OF 2013
+
+**Speaking:** Ellmers, Renee L. (E000291) [R-NC]
+
+**Measures:** H.R. 1412
+
+```
+    DEPARTMENT OF VETERANS AFFAIRS EXPIRING AUTHORITIES ACT OF 2013
+
+  The SPEAKER pro tempore. The unfinished business is the vote on the 
+motion to suspend the rules and concur in the Senate amendments to the 
+bill (H.R. 1412) to improve and increase the availability of on-job 
+training and apprenticeship programs carried out by the Secretary of 
+Veterans Affairs, and for other purposes, on which the yeas and nays 
+were ordered.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Florida (Mr. Miller) that the House suspend the rules 
+and concur in the Senate amendments.
+  The vote was taken by electronic device, and there were--yeas 402, 
+nays 0, not voting 29, as follows:
+
+                             [Roll No. 491]
+
+                               YEAS--402
+
+     Aderholt
+     Amash
+     Amodei
+     Andrews
+     Bachmann
+     Bachus
+     Barber
+     Barletta
+     Barr
+     Barrow (GA)
+     Barton
+     Bass
+     Beatty
+     Becerra
+     Benishek
+     Bentivolio
+     Bera (CA)
+     Bilirakis
+     Bishop (GA)
+     Bishop (NY)
+     Bishop (UT)
+     Black
+     Blackburn
+     Blumenauer
+     Bonamici
+     Boustany
+     Brady (PA)
+     Brady (TX)
+     Braley (IA)
+     Bridenstine
+     Brooks (AL)
+     Brooks (IN)
+     Broun (GA)
+     Brown (FL)
+     Brownley (CA)
+     Buchanan
+     Bucshon
+     Burgess
+     Bustos
+     Butterfield
+     Calvert
+     Camp
+     Campbell
+     Cantor
+     Capito
+     Capps
+     Capuano
+     Carney
+     Carson (IN)
+     Carter
+     Cartwright
+     Cassidy
+     Castor (FL)
+     Castro (TX)
+     Chabot
+     Chaffetz
+     Chu
+     Cicilline
+     Clarke
+     Cleaver
+     Clyburn
+     Coble
+     Coffman
+     Cohen
+     Cole
+     Collins (GA)
+     Collins (NY)
+     Conaway
+     Connolly
+     Cook
+     Cooper
+     Costa
+     Cotton
+     Courtney
+     Cramer
+     Crawford
+     Crenshaw
+     Crowley
+     Cuellar
+     Culberson
+     Cummings
+     Daines
+     Davis (CA)
+     Davis, Danny
+     Davis, Rodney
+     DeFazio
+     DeGette
+     Delaney
+     DeLauro
+     DelBene
+     Denham
+     Dent
+     DeSantis
+     DesJarlais
+     Deutch
+     Diaz-Balart
+     Doggett
+     Doyle
+     Duffy
+     Duncan (SC)
+     Duncan (TN)
+     Edwards
+     Ellison
+     Engel
+     Enyart
+     Eshoo
+     Esty
+     Farenthold
+     Farr
+     Fattah
+     Fincher
+     Fitzpatrick
+     Fleischmann
+     Fleming
+     Flores
+     Forbes
+     Fortenberry
+     Foster
+     Foxx
+     Frankel (FL)
+     Franks (AZ)
+     Frelinghuysen
+     Fudge
+     Gabbard
+     Gallego
+     Garamendi
+     Garcia
+     Gardner
+     Garrett
+     Gerlach
+     Gibbs
+     Gibson
+     Gingrey (GA)
+     Gohmert
+     Goodlatte
+     Gosar
+     Gowdy
+     Granger
+     Graves (GA)
+     Graves (MO)
+     Grayson
+     Green, Al
+     Green, Gene
+     Griffin (AR)
+     Griffith (VA)
+     Grijalva
+     Grimm
+     Guthrie
+     Gutierrez
+     Hahn
+     Hanabusa
+     Hanna
+     Harper
+     Harris
+     Hartzler
+     Hastings (FL)
+     Hastings (WA)
+     Heck (NV)
+     Heck (WA)
+     Hensarling
+     Himes
+     Hinojosa
+     Holding
+     Holt
+     Honda
+     Hoyer
+     Hudson
+     Huelskamp
+     Huffman
+     Huizenga (MI)
+     Hultgren
+     Hunter
+     Hurt
+     Israel
+     Issa
+     Jackson Lee
+     Jeffries
+     Jenkins
+     Johnson (OH)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones
+     Jordan
+     Joyce
+     Keating
+     Kelly (IL)
+     Kelly (PA)
+     Kennedy
+     Kildee
+     Kilmer
+     Kind
+     King (IA)
+     King (NY)
+     Kingston
+     Kinzinger (IL)
+     Kirkpatrick
+     Kline
+     Kuster
+     Labrador
+     LaMalfa
+     Lamborn
+     Lance
+     Lankford
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Latta
+     Lee (CA)
+     Levin
+     Lewis
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren
+     Long
+     Lowenthal
+     Lowey
+     Lucas
+     Luetkemeyer
+     Lujan Grisham (NM)
+     Lummis
+     Lynch
+     Maffei
+     Maloney, Carolyn
+     Maloney, Sean
+     Marchant
+     Marino
+     Massie
+     Matheson
+     Matsui
+     McCarthy (CA)
+     McCaul
+     McClintock
+     McCollum
+     McDermott
+     McGovern
+     McHenry
+     McIntyre
+     McKeon
+     McKinley
+     McMorris Rodgers
+     McNerney
+     Meadows
+     Meehan
+     Meeks
+     Meng
+     Messer
+     Mica
+     Michaud
+     Miller (FL)
+     Miller (MI)
+     Miller, Gary
+     Miller, George
+     Moore
+     Moran
+     Mullin
+     Mulvaney
+     Murphy (FL)
+     Murphy (PA)
+     Nadler
+     Napolitano
+     Neal
+     Negrete McLeod
+     Neugebauer
+     Noem
+     Nolan
+     Nugent
+     Nunes
+     Nunnelee
+     O'Rourke
+     Olson
+     Owens
+     Palazzo
+     Pallone
+     Pascrell
+     Pastor (AZ)
+     Paulsen
+     Payne
+     Pearce
+     Pelosi
+     Perlmutter
+     Perry
+     Peters (CA)
+     Peterson
+     Petri
+     Pingree (ME)
+     Pittenger
+     Pitts
+     Pocan
+     Poe (TX)
+     Polis
+     Pompeo
+     Posey
+     Price (GA)
+     Price (NC)
+     Quigley
+     Radel
+     Rahall
+     Rangel
+     Reed
+     Reichert
+     Renacci
+     Ribble
+     Richmond
+     Rigell
+     Roby
+     Roe (TN)
+     Rogers (AL)
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Rokita
+     Rooney
+     Ros-Lehtinen
+     Ross
+     Rothfus
+     Roybal-Allard
+     Royce
+     Ruiz
+     Runyan
+     Ruppersberger
+     Ryan (OH)
+     Ryan (WI)
+     Salmon
+     Sanchez, Linda T.
+     Sanford
+     Scalise
+     Schakowsky
+     Schiff
+     Schneider
+     Schock
+     Schrader
+     Schweikert
+     Scott (VA)
+     Scott, Austin
+     Scott, David
+     Sensenbrenner
+     Serrano
+     Sessions
+     Sewell (AL)
+     Shea-Porter
+     Sherman
+     Shimkus
+     Shuster
+     Simpson
+     Sinema
+     Sires
+     Slaughter
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Southerland
+     Speier
+     Stewart
+     Stivers
+     Stockman
+     Swalwell (CA)
+     Takano
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thompson (PA)
+     Thornberry
+     Tiberi
+     Tierney
+     Tipton
+     Titus
+     Tonko
+     Tsongas
+     Turner
+     Upton
+     Valadao
+     Van Hollen
+     Vargas
+     Veasey
+     Vela
+     Velazquez
+     Wagner
+     Walberg
+     Walden
+     Walorski
+     Walz
+     Wasserman Schultz
+     Waxman
+     Weber (TX)
+     Webster (FL)
+     Welch
+     Wenstrup
+     Whitfield
+     Williams
+     Wilson (FL)
+     Wilson (SC)
+     Wittman
+     Womack
+     Woodall
+     Yarmuth
+     Yoder
+     Yoho
+     Young (FL)
+     Young (IN)
+
+                             NOT VOTING--29
+
+     Cardenas
+     Clay
+     Conyers
+     Dingell
+     Duckworth
+     Ellmers
+     Hall
+     Herrera Beutler
+     Higgins
+     Horsford
+     Johnson (GA)
+     Kaptur
+     Langevin
+     Lujan, Ben Ray (NM)
+     McCarthy (NY)
+     Peters (MI)
+     Rice (SC)
+     Roskam
+     Rush
+     Sanchez, Loretta
+     Sarbanes
+     Schwartz
+     Stutzman
+     Visclosky
+     Waters
+     Watt
+     Westmoreland
+     Wolf
+     Young (AK)
+
+                              {time}  1021
+
+  Ms. MENG changed her vote from ``nay'' to ``yea.''
+  So (two-thirds being in the affirmative) the rules were suspended and 
+the Senate amendments were concurred in.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mrs. ELLMERS. Mr. Speaker, on rollcall No. 491, I was unavoidably 
+detained. Had I been present, I would have voted ``yea.''
+
+                          ____________________
+```
