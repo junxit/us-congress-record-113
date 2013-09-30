@@ -1,0 +1,31 @@
+---
+granule: CREC-2013-09-30-pt1-PgH6016
+date: 2013-09-30
+edition: CREC
+section: HOUSE
+page: H6016
+citation: 159 Cong. Rec. H6016
+---
+
+# OBAMACARE
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+                               OBAMACARE
+
+  (Ms. NORTON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. NORTON. After 41 votes to repeal the Affordable Care Act, the 
+Republicans want the administration to believe that they now want only 
+a delay. Why don't they state that forthrightly? Why don't they say 
+they are now for the Affordable Care Act, but they want to delay it 
+because of certain issues and bring them forward?
+  Instead, their call for delay is still about their opposition 
+altogether to the Affordable Care Act. One hundred thousand Americans 
+are already receiving benefits under the Affordable Care Act. Do you 
+really want us to yank them back from benefits that they have never 
+received before? That doesn't make a lot of sense.
+
+                          ____________________
+```
