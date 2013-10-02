@@ -1,0 +1,108 @@
+---
+granule: CREC-2013-10-02-pt1-PgH6156
+date: 2013-10-02
+edition: CREC
+section: HOUSE
+page: H6156
+citation: 159 Cong. Rec. H6156
+---
+
+# SHORT-TERM EXTENSION OF SPECIAL IMMIGRANT PROGRAM
+
+**Speaking:** Goodlatte, Bob (G000289) [R-VA], Jackson Lee, Sheila (J000032) [D-TX]
+
+**Measures:** H.R. 3233
+
+```
+           SHORT-TERM EXTENSION OF SPECIAL IMMIGRANT PROGRAM
+
+  Mr. GOODLATTE. Mr. Speaker, I ask unanimous consent that the 
+Committees on the Judiciary and Foreign Affairs be discharged from 
+further consideration of the bill (H.R. 3233) to extend the period 
+during which Iraqis who were employed by the United States Government 
+in Iraq may be granted special immigrant status and to temporarily 
+increase the fee or surcharge for processing machine-readable 
+nonimmigrant visas, and ask for its immediate consideration in the 
+House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Virginia?
+  Ms. JACKSON LEE. Reserving the right to object, and I am not going to 
+pursue my objection. But I want to congratulate the chairman and our 
+committee for what I think is an enormously important visa, helping 
+people who have helped us, particularly in Iraq.
+  And with that, I thank the Judiciary Committee for its work, and I 
+withdraw my objection.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Virginia?
+  There was no objection.
+  The text of the bill is as follows:
+
+                               H.R. 3233
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT-TERM EXTENSION OF SPECIAL IMMIGRANT PROGRAM.
+
+       Section 1244(c)(3) of the National Defense Authorization 
+     Act for Fiscal Year 2008 (8 U.S.C. 1157 note) is amended by 
+     adding at the end the following:
+       ``(C) Fiscal year 2014.--
+       ``(i) In general.--Except as provided in clauses (ii) and 
+     (iii), the total number of principal aliens who may be 
+     provided special immigrant status under this section during 
+     the first 3 months of fiscal year 2014 shall be the sum of--
+
+       ``(I) the number of aliens described in subsection (b) 
+     whose application for special immigrant status under this 
+     section is pending on September 30, 2013; and
+       ``(II) 2,000.
+
+       ``(ii) Employment period.--The 1-year period during which 
+     the principal alien is required to have been employed by or 
+     on behalf of the United States Government in Iraq under 
+     subsection (b)(1)(B) shall begin on or after March 20, 2003, 
+     and end on or before September 30, 2013.
+       ``(iii) Application deadline.--The principal alien seeking 
+     special immigrant status under this subparagraph shall apply 
+     to the Chief of Mission in accordance with subsection (b)(4) 
+     not later than December 31, 2013.''.
+
+     SEC. 2. TEMPORARY FEE INCREASE FOR CERTAIN CONSULAR SERVICES.
+
+       (a) In General.--Notwithstanding any other provision of 
+     law, the Secretary of State, not later than January 1, 2014, 
+     shall increase the fee or surcharge authorized under section 
+     140(a) of the Foreign Relations Authorization Act, Fiscal 
+     Years 1994 and 1995 (Public Law 103-236; 8 U.S.C. 1351 note) 
+     by $1 for processing machine-readable nonimmigrant visas and 
+     machine-readable combined border crossing identification 
+     cards and nonimmigrant visas.
+       (b) Deposit of Amounts.--Notwithstanding section 140(a)(2) 
+     of the Foreign Relations Authorization Act, Fiscal Years 1994 
+     and 1995 (Public Law 103-236; 8 U.S.C. 1351 note), the 
+     additional amount collected pursuant the fee increase 
+     authorized under subsection (a) shall be deposited in the 
+     general fund of the Treasury.
+       (c) Sunset Provision.--The fee increase authorized under 
+     subsection (a) shall terminate on the date that is 2 years 
+     after the first date on which such increased fee is 
+     collected.
+
+  The bill was ordered to be engrossed and read a third time, was read 
+the third time, and passed, and a motion to reconsider was laid on the 
+table.
+
+
+                             General Leave
+
+  Mr. GOODLATTE. Mr. Speaker, I ask unanimous consent that Members may 
+have 5 legislative days to revise and extend their remarks and insert 
+extraneous materials on H.R. 3233.
+  The SPEAKER pro tempore (Mr. Daines). Is there objection to the 
+request of the gentleman from Virginia?
+  There was no objection.
+
+                          ____________________
+```
