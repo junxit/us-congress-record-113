@@ -1,0 +1,36 @@
+---
+granule: CRECB-2013-pt11-Pg15348-5
+date: 2013-10-07
+edition: CRECB
+section: HOUSE
+page: 15348
+---
+
+# AFFORDABLE CARE ACT
+
+```
+                          AFFORDABLE CARE ACT
+
+  (Mr. GRIFFITH of Virginia asked and was given permission to address 
+the House for 1 minute.)
+  Mr. GRIFFITH of Virginia. Mr. Speaker, earlier today, I received an 
+email from a woman who runs a small business in my district. I will 
+read it to you now:
+
+       Morgan, As you know, I'm a small business with 36 
+     employees, have been paying 75 percent of my employees' 
+     health care for over 20 years.
+       Get a call from health care provider agent that although my 
+     renewal date is March 1, the companies are offering to renew 
+     on December 1 this year with a 9.8 percent increase. This is 
+     to beat what is anticipated as a 30 to 60 percent increase 
+     after all the effects of ObamaCare.
+       Needless to say, this has reignited my frustration with the 
+     so-called Affordable Health Care Act. Please stick to your 
+     principles, continue the fight. Let me know what, if 
+     anything, I can do.
+
+  Yes, ma'am, I will.
+
+                          ____________________
+```
