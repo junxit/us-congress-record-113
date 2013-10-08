@@ -1,0 +1,27 @@
+---
+granule: CRECB-2013-pt11-Pg15398
+date: 2013-10-08
+edition: CRECB
+section: SENATE
+page: 15398
+---
+
+# MEASURES READ THE FIRST TIME
+
+```
+                      MEASURES READ THE FIRST TIME
+
+  The following bill was read the first time:
+
+       S. 1569. A bill to ensure the complete and timely payment 
+     of the obligations of the United States Government until 
+     December 31, 2014.
+
+  The following joint resolution was read the first time:
+
+       H.J. Res. 77. Joint resolution making continuing 
+     appropriations for the Food and Drug Administration for 
+     fiscal year 2014, and for other purposes.
+
+                          ____________________
+```
