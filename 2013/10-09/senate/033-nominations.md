@@ -1,0 +1,40 @@
+---
+granule: CRECB-2013-pt11-Pg15569-6
+date: 2013-10-09
+edition: CRECB
+section: SENATE
+page: 15569
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         FEDERAL RESERVE SYSTEM
+
+       JANET L. YELLEN, OF CALIFORNIA, TO BE CHAIRMAN OF THE BOARD 
+     OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FOR A TERM OF FOUR 
+     YEARS, VICE BEN S. BERNANKE, RESIGNED.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+KENNETH E. BRANDT
+DAVID A. HALL
+STEVEN C. HERMAN
+DONALD R. MALIN
+JOEL V. MILLER
+DANIEL J. THOMPSON
+JAMES A. TILLMAN
+WILEY R. WILLIAMS
+```
