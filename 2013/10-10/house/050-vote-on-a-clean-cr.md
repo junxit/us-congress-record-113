@@ -1,0 +1,46 @@
+---
+granule: CRECB-2013-pt11-Pg15621-6
+date: 2013-10-10
+edition: CRECB
+section: HOUSE
+page: 15621
+---
+
+# VOTE ON A CLEAN CR
+
+```
+                           VOTE ON A CLEAN CR
+
+  (Mrs. CHRISTENSEN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+
+[[Page 15622]]
+
+
+  Mrs. CHRISTENSEN. Mr. Speaker, while Republicans are trying to 
+destroy the Affordable Care Act, the American people are embracing it--
+and have been for the past 3 years. Even my district, which is rightly 
+upset over not being included in the exchanges like other Americans, 
+has benefited.
+  Let me tell you a story I heard from one of our doctors.
+  According to one doctor, the preventive care without copays and 26-
+year-olds being able to stay on their parents' insurance has helped 
+keep her practice afloat. The up-to-35 percent tax credit for small 
+businesses and the rebate from insurance companies that didn't meet 
+their medical loss ratio allowed her to relieve her employees of their 
+portion of the health insurance premiums. This, and many other ways, is 
+how the Affordable Care Act is working in my community.
+  Like a few other places in the law, fixes may be needed, like for the 
+territories. The President and Democrats will address them, but in a 
+rational manner.
+  So I am calling on my Republican colleagues to end the hostage-taking 
+of this Congress, of our Federal employees, of our economy, and the 
+good faith and credit of our Nation. Don't fight us. Join us. Support 
+the Affordable Care Act--a good law that is expanding access to 
+affordable health care for all of us. When some of us benefit, all of 
+us benefit.
+  Let's vote on a clean CR, open up our government, and lift the debt 
+ceiling today.
+
+                          ____________________
+```
