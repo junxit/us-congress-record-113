@@ -1,0 +1,22 @@
+---
+granule: CRECB-2013-pt11-Pg15916-3
+date: 2013-10-15
+edition: CRECB
+section: SENATE
+page: 15916
+---
+
+# MEASURES READ THE FIRST TIME
+
+```
+                      MEASURES READ THE FIRST TIME
+
+  The following joint resolution was read the first time:
+
+       H.J. Res. 80. Joint resolution making continuing 
+     appropriations for the Bureau of Indian Affairs, the Bureau 
+     of Indian Education, and the Indian Health Service for fiscal 
+     year 2014, and for other purposes.
+
+                          ____________________
+```
