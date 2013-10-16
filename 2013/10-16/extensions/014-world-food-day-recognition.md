@@ -1,0 +1,50 @@
+---
+granule: CREC-2013-10-16-pt1-PgE1522-2
+date: 2013-10-16
+edition: CREC
+section: EXTENSIONS
+page: E1522
+citation: 159 Cong. Rec. E1522
+---
+
+# WORLD FOOD DAY RECOGNITION
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+**Measures:** H.Res. 254
+
+```
+                       WORLD FOOD DAY RECOGNITION
+
+                                 ______
+                                 
+
+                     HON. DEBBIE WASSERMAN SCHULTZ
+
+                               of florida
+
+                    in the house of representatives
+
+                      Wednesday, October 16, 2013
+
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, I rise today to on behalf of 
+millions of children and families worldwide in danger of starvation.
+  Each year, malnourishment accounts for almost half of the 6.9 million 
+deaths among children under the age of five. The first 1,000 days 
+between the start of a woman's pregnancy and her child's second 
+birthday are critical to the long term survival of these children. As 
+we recognize World Food Day today, we must do more to support ending 
+maternal and child malnutrition.
+  That's why I introduced H. Res. 254 with my colleague, Representative 
+Mario Diaz-Balart. This resolution raises awareness of the critical 
+1,000-day window and encourages relevant federal agencies to better 
+coordinate and track nutrition outcomes.
+  As a mother, it pains me to think of a child dying because he or she 
+doesn't have enough food to eat, especially when our planet produces 
+enough food to feed every man, woman, and child.
+  I urge my colleagues to join us in cosponsoring H. Res. 254 and give 
+a voice to the millions of vulnerable and hungry children around the 
+world.
+
+                          ____________________
+```
