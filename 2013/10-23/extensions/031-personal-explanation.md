@@ -1,0 +1,36 @@
+---
+granule: CREC-2013-10-23-pt1-PgE1556-2
+date: 2013-10-23
+edition: CREC
+section: EXTENSIONS
+page: E1556
+citation: 159 Cong. Rec. E1556
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Gabbard, Tulsi (G000571) [D-HI]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                           HON. TULSI GABBARD
+
+                               of hawaii
+
+                    in the house of representatives
+
+                      Wednesday, October 23, 2013
+
+  Ms. GABBARD. Mr. Speaker, on October 14, 2013, I was unavoidably 
+detained and missed rollcall votes Nos. 547-549. Had I been present I 
+would have voted: rollcall No. 547: ``no''--On Motion To Table the 
+Motion To Appeal the Ruling of the Chair; rollcall No. 548: ``no''--On 
+Passage; rollcall No. 549: ``no''--On Agreeing to the Grayson 
+Amendment.
+
+                          ____________________
+```
