@@ -1,0 +1,69 @@
+---
+granule: CREC-2013-10-29-pt1-PgE1592-4
+date: 2013-10-29
+edition: CREC
+section: EXTENSIONS
+page: E1592
+citation: 159 Cong. Rec. E1592
+---
+
+# CONGRATULATING SAINT LOUIS DE MONTFORT CATHOLIC SCHOOL, A BLUE RIBBON SCHOOL
+
+**Speaking:** Brooks, Susan W. (B001284) [R-IN]
+
+```
+ CONGRATULATING SAINT LOUIS DE MONTFORT CATHOLIC SCHOOL, A BLUE RIBBON 
+                                 SCHOOL
+
+                                 ______
+                                 
+
+                          HON. SUSAN W. BROOKS
+
+                               of indiana
+
+                    in the house of representatives
+
+                       Tuesday, October 29, 2013
+
+  Mrs. BROOKS of Indiana. Mr. Speaker, I rise today to congratulate an 
+outstanding school in my district that is being honored as a 2013 
+National Blue Ribbon School. It is a pleasure to congratulate Saint 
+Louis de Montfort Catholic School in Fishers, Indiana in celebration of 
+this special occasion.
+  The National Blue Ribbon designation, given by the U.S. Department of 
+Education, is awarded to both public and private schools across our 
+great nation. Started by President Reagan and given annually since 
+1982, the award celebrates great American schools that achieve very 
+high learning standards or are making significant improvements in the 
+academic achievements of their students. In my district and across the 
+country, the award recognizes the great educators, students and parents 
+who have worked so hard to ensure Indiana's children reach their full 
+potential and achieve academic success.
+  For all of these reasons and many more, I am so proud that Saint 
+Louis de Montfort is receiving this prestigious designation. It is a 
+wonderful acknowledgement of the school's commitment to providing young 
+Hoosiers an exceptional education. While 417 schools nationwide may be 
+nominated, only 286 are chosen as a National Blue Ribbon School, making 
+this recognition all the more impressive.
+  Serving children from junior kindergarten through eighth grade, Saint 
+Louis de Montfort Catholic School provides its students with an 
+outstanding education in both academics and the Catholic faith. It has 
+consistently been graded as an ``A'' school by the Indiana Department 
+of Education and is a leader in incorporating technology and learning 
+in the classroom, while also engaging its students in daily prayer, 
+religion classes, liturgical celebrations, and service learning 
+projects. As a mother whose children attended Catholic school, I 
+applaud Saint Louis de Montfort for its work to ensure its students 
+engage with the Hoosier community and remain service-oriented.
+  As a member of the Education and the Workforce Committee, I also want 
+to acknowledge how important it is to our nation's future to encourage 
+and raise a new generation of Americans who have the skills and 
+knowledge to succeed both in and out of the classroom. Students like 
+those at Saint Louis de Montfort give me hope that we will accomplish 
+this vital mission. Their outstanding work is an inspiration to 
+students, educators and parents across the nation. Once again, 
+congratulations to Saint Louis de Montfort. I am very proud of you.
+
+                          ____________________
+```
