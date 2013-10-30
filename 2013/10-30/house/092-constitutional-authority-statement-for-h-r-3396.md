@@ -1,0 +1,28 @@
+---
+granule: CREC-2013-10-30-pt1-PgH6955-12
+date: 2013-10-30
+edition: CREC
+section: HOUSE
+page: H6955
+citation: 159 Cong. Rec. H6955
+---
+
+# Constitutional Authority Statement for H.R. 3396
+
+**Measures:** H.R. 3396
+
+```
+           By Mr. BURGESS:
+       H.R. 3396.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       The attached bill is constitutional under Article I, 
+     Section 8, Clause 3: ``To regulate Commerce with foreign 
+     Nations, and among the several States, and with the Indian 
+     Tribes'' as well as Article 1, Section 8, Clause 1: ``The 
+     Congress shall have Power To lay and collect Taxes, Duties, 
+     Imposts and Excises, to pay the Debts and provide for the 
+     common Defense and general Welfare of the United States; but 
+     all Duties, Imposts and Excises shall be uniform throughout 
+     the United States.''
+```
