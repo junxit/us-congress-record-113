@@ -1,0 +1,28 @@
+---
+granule: CRECB-2013-pt12-Pg17067-4
+date: 2013-11-14
+edition: CRECB
+section: HOUSE
+page: 17067
+---
+
+# OBAMACARE
+
+```
+                               OBAMACARE
+
+  (Ms. NORTON asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. NORTON. Mr. Speaker, when the time comes, Members and staff will 
+get their insurance at dchealthlink.com. They will have a good chance 
+to pay less because they will have 267 choices.
+  In advance, one of my staff members, who has a name-brand policy from 
+our Federal program, went on dchealthlink
+.com and found that she could get a comparable policy for at least $100 
+less with no deductible.
+  If Republicans want to deal in anecdotes, hers is far more typical 
+than those from the crowd who have gone from 41 repeals to their new 
+strategy of actively sabotaging the Affordable Care Act.
+
+                          ____________________
+```
