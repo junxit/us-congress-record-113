@@ -1,0 +1,41 @@
+---
+granule: CREC-2013-11-15-pt1-PgH7149-4
+date: 2013-11-15
+edition: CREC
+section: HOUSE
+page: H7149
+citation: 159 Cong. Rec. H7149
+---
+
+# THE AFFORDABLE CARE ACT
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                        THE AFFORDABLE CARE ACT
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Madam Speaker, I rise today to voice 
+the concerns of a small business in Pennsylvania's Fifth Congressional 
+District, whose economic security is in jeopardy due to the Affordable 
+Care Act.
+  The is the story of a sixth-generation, family-run business that has 
+been marginally profitable over the years. The business has grown 
+through tough times, while staying committed to always providing health 
+care insurance through policies that allow their employees the choice 
+and the flexibility to have the doctor that they want.
+  Since the ACA has taken effect, this business is now facing drastic 
+increases in costs, which threaten their profitability and, in turn, 
+this threatens jobs in our community.
+  The President has offered the American public little assurance that 
+he can save the plans, plans that he originally said we could keep. The 
+public doesn't need another press conference or PR fix. They need real 
+solutions moving forward.
+  I commend my 39 Democratic colleagues on the other side of the aisle 
+who joined us in passing the Keep Your Health Plan Act today. These 
+Members realize there needs to be accountability in government. The 
+American people deserve as much.
+
+                          ____________________
+```
