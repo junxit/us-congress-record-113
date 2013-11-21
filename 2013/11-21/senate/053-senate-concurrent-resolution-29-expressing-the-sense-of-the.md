@@ -1,0 +1,84 @@
+---
+granule: CREC-2013-11-21-pt1-PgS8466-4
+date: 2013-11-21
+edition: CREC
+section: SENATE
+page: S8466
+citation: 159 Cong. Rec. S8466
+---
+
+# SENATE CONCURRENT RESOLUTION 29--EXPRESSING THE SENSE OF THE CONGRESS THAT CHILDREN TRAFFICKED IN THE UNITED STATES BE TREATED AS VICTIMS OF CRIME, AND NOT AS PERPETRATORS
+
+**Measures:** S. 29, S.Con.Res. 29
+
+```
+ SENATE CONCURRENT RESOLUTION 29--EXPRESSING THE SENSE OF THE CONGRESS 
+THAT CHILDREN TRAFFICKED IN THE UNITED STATES BE TREATED AS VICTIMS OF 
+                     CRIME, AND NOT AS PERPETRATORS
+
+  Mr. HATCH (for himself, Mr. Durbin, Mr. Baucus, Mr. Portman, Mr. 
+Wyden, Mr. Cornyn, Mr. Blumenthal, Mr. Enzi, and Mr. Crapo) submitted 
+the following concurrent resolution; which was referred to the 
+Committee on the Judiciary:
+
+[[Page S8467]]
+
+                            S. Con. Res. 29
+
+       Whereas, according to the Federal Bureau of Investigation, 
+     it is estimated that hundreds of thousands of American 
+     children are at risk for commercial sexual exploitation;
+       Whereas this risk is even greater for the up to 30,000 
+     young people who are emancipated from foster care each year;
+       Whereas many of these children are girls previously or 
+     currently living in foster care or otherwise involved in the 
+     child welfare system;
+       Whereas flaws in the child welfare system in the United 
+     States, such as an over-reliance on group homes and barriers 
+     to youth engaging in age-appropriate activities, contribute 
+     to children's vulnerability to domestic sex trafficking;
+       Whereas the average age of entry into sex trafficking for 
+     girls is between just 12 and 14 years old;
+       Whereas many child sex trafficking victims have experienced 
+     previous physical and/or sexual abuse--vulnerabilities that 
+     traffickers exploit to lure them into a life of sexual 
+     slavery that exposes them to long-term abuse;
+       Whereas many child sex trafficking victims are the ``lost 
+     girls'', standing around bus stops, in the runaway and 
+     homeless youth shelters, advertised online--hidden in plain 
+     view; and
+       Whereas many child sex trafficking victims who have not yet 
+     attained the age of consent are arrested and detained for 
+     juvenile prostitution or status offenses directly related to 
+     their exploitation: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That the Congress--
+       (1) finds that law enforcement, judges, child welfare 
+     agencies, and the public should treat children being 
+     trafficked for sex as victims of child abuse;
+       (2) finds that every effort should be made to arrest and 
+     hold accountable both traffickers and buyers of children for 
+     sex, in accordance with Federal laws to protect victims of 
+     trafficking and State child protection laws against abuse, in 
+     order to take all necessary measures to protect our Nation's 
+     children from harm;
+       (3) supports survivors of domestic sex trafficking, 
+     including their efforts to raise awareness of this tragedy 
+     and the services they need to heal from the complex trauma of 
+     sexual violence and exploitation;
+       (4) recognizes that most girls who are bought and sold for 
+     sex in the United States have been involved in the child 
+     welfare system, which has a responsibility to protect them 
+     and requires reform to better prevent domestic child sex 
+     trafficking and aid the victims of this tragedy;
+       (5) believes that the child welfare system should identify, 
+     assess, and provide supportive services to children in its 
+     care who are victims of sex trafficking, or at risk of 
+     becoming such victims; and
+       (6) supports an end to demand for girls by declaring that 
+     our Nation's daughters are not for sale and that any person 
+     who purchases a child for sex should be appropriately held 
+     accountable with the full force of law.
+
+                          ____________________
+```
