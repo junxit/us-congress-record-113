@@ -1,0 +1,481 @@
+---
+granule: CRECB-2013-pt12-Pg17871
+date: 2013-11-21
+edition: CRECB
+section: SENATE
+page: 17871
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. ROCKEFELLER:
+  S. 1763. A bill to increase the effectiveness of child support 
+enforcement and for other purposes; to the Committee on Health, 
+Education, Labor, and Pensions.
+  Mr. ROCKEFELLER. Mr. President, I am proud today to introduce the 
+Child Support Enforcement Effectiveness Act of 2013. This legislation 
+will set the stage for improving child support enforcement across our 
+country, and will provide states with more funds to allow them to do 
+so. Through these crucial investments in this important child welfare 
+program, we can improve the lives of thousands of children across our 
+country.
+  Child support enforcement is a State-Federal partnership that works. 
+For every dollar agencies and departments spend on child support 
+enforcement, states collect an average of $5.19 in child support due. 
+For that reason alone, this is an extraordinary use of taxpayer 
+dollars. In 2010, the child support enforcement program allowed States 
+to collect more than $26 billion on behalf of the children and families 
+to whom that money is owed. There is no question that these children 
+benefit because they receive support from both their parents.
+  In addition to being an effective use of taxpayer dollars, child 
+support enforcement is one of our most important investments in child 
+welfare. Experts have repeatedly found that it is one of the most 
+effective programs in reducing poverty rates among working families. 
+For single parents below the poverty line, child support often 
+represents as much as half of their family's income, and makes the 
+difference between whether children's basic needs are met or not.
+  Because of the tremendous success of the child support enforcement 
+program, we should work to improve it even further. One way we can 
+improve it is by identifying best practices at the state level, so 
+every state can maximize their return. West Virginia recovers about 
+$4.99 for each dollar it spends on child support enforcement. Some 
+states recover substantially more for each dollar they spend. By arming 
+every State with information about what works and what doesn't, we can 
+help States maximize the return on
+
+[[Page 17872]]
+
+their investment and recover the largest possible amount on behalf of 
+children.
+  This legislation would also permanently restore full funding for 
+child support enforcement by reinstating the Federal match for 
+incentive payments that States reinvest in their child support 
+enforcement programs. By providing the resources for States to have 
+robust child support enforcement programs, we can profoundly improve 
+the lives of so many children across our Nation.
+                                 ______
+                                 
+      By Mr. MERKLEY (for himself and Mr. Wyden):
+  S. 1771. A bill to amend the Wild and Scenic Rivers Act to adjust the 
+Crooked River boundary, to provide water certainty for the City of 
+Prineville, Oregon, and for other purposes; to the Committee on Energy 
+and Natural Resources.
+  Mr. MERKLEY. Mr. President, I rise today to talk about an issue that 
+is extremely important to the Central Oregon economy. For over 40 
+years, an agreement has been out of reach in the Crooked River Basin in 
+central Oregon on how to allocate water from the Prineville Reservoir 
+to meet the diversity of needs. Over the last few years, Senator Wyden 
+and I have worked with a broad group of water users in the Basin and 
+have come to a solution.
+  Today, Senator Wyden and I are introducing the Crooked River 
+Collaborative Water Security Act of 2013 that will provide a 
+comprehensive framework for improving the management of water in the 
+Crooked River, while creating opportunities for economic growth and new 
+jobs in central Oregon. This is especially good news in central Oregon, 
+a region that has been plagued with unemployment since the beginning of 
+the Great Recession and is in need of new jobs.
+  This legislation is built on a broad coalition of stakeholder 
+support. I want to thank those stakeholders who put aside preconceived 
+notions, came to the negotiating table, and worked out a solution that 
+could achieve such a broad range of support.
+  The key elements of the legislation include meeting the municipal 
+water needs for the city of Prineville long into the future, so the 
+city can continue to attract new businesses like the data centers of 
+Facebook and Apple that have recently moved to the region; providing 
+greater certainty for the agricultural community that depends on the 
+Crooked River for irrigation and is the heart and soul of the Central 
+Oregon economy; allowing water to be released from Bowman Dam to help 
+maintain healthy steelhead, salmon and trout fisheries, which are 
+cherished by local fisherman; allowing the Bowman Dam to be retrofitted 
+to install a hydroelectric turbine and generate low-cost, clean power 
+and create construction jobs; and creating a process to help better 
+plan for dry years, including the impact on fish habitat and fishing, 
+as well as boating and other recreational activities.
+  This bill is a comprehensive solution to a problem that has plagued 
+the region for 40 years and it has the support of numerous groups in 
+the Central Oregon region. The time is now for the Senate to quickly 
+move on this bill and help the Central Oregon economy move forward.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 1771
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Crooked River Collaborative 
+     Water Security Act of 2013''.
+
+     SEC. 2. WILD AND SCENIC RIVER; CROOKED, OREGON.
+
+       Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 
+     1274(a)) is amended by striking paragraph (72) and inserting 
+     the following:
+       ``(72) Crooked, oregon.--
+       ``(A) In general.--The 14.75-mile segment from the National 
+     Grassland boundary to Dry Creek, to be administered by the 
+     Secretary of the Interior in the following classes:
+       ``(i) The 7-mile segment from the National Grassland 
+     boundary to River Mile 8 south of Opal Spring, as a 
+     recreational river.
+       ``(ii) The 7.75-mile segment from a point \1/4\-mile 
+     downstream from the center crest of Bowman Dam, as a 
+     recreational river.
+       ``(B) Hydropower.--In any license application relating to 
+     hydropower development (including turbines and appurtenant 
+     facilities) at Bowman Dam, the applicant, in consultation 
+     with the Director of the Bureau of Land Management, shall--
+       ``(i) analyze any impacts to the scenic, recreational, and 
+     fishery resource values of the Crooked River from the center 
+     crest of Bowman Dam to a point \1/4\-mile downstream that may 
+     be caused by the proposed hydropower development, including 
+     the future need to undertake routine and emergency repairs;
+       ``(ii) propose measures to minimize and mitigate any 
+     impacts analyzed under clause (i); and
+       ``(iii) propose designs and measures to ensure that any 
+     access facilities associated with hydropower development at 
+     Bowman Dam shall not impede the free-flowing nature of the 
+     Crooked River below Bowman Dam.''.
+
+     SEC. 3. CITY OF PRINEVILLE WATER SUPPLY.
+
+       Section 4 of the Act of August 6, 1956 (70 Stat. 1058; 73 
+     Stat. 554; 78 Stat. 954) is amended--
+       (1) by striking ``during those months'' and all that 
+     follows through ``purpose of the project''; and
+       (2) by adding at the end the following: ``Without further 
+     action by the Secretary of the Interior, beginning on the 
+     date of enactment of the Crooked River Collaborative Water 
+     Security Act of 2013, 5,100 acre-feet of water shall be 
+     annually released from the project to serve as mitigation for 
+     City of Prineville groundwater pumping, pursuant to and in a 
+     manner consistent with Oregon State law, including any 
+     shaping of the release of the water. The City of Prineville 
+     shall make payments to the Secretary for the water, in 
+     accordance with applicable Bureau of Reclamation policies, 
+     directives, and standards. Consistent with the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), 
+     the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), 
+     and other applicable Federal laws, the Secretary may contract 
+     exclusively with the City of Prineville for additional 
+     quantities of water, at the request of the City of 
+     Prineville.''.
+
+     SEC. 4. ADDITIONAL PROVISIONS.
+
+       The Act entitled ``An Act to authorize construction by the 
+     Secretary of the Interior of the Crooked River Federal 
+     reclamation project, Oregon'', approved August 6, 1956 (70 
+     Stat. 1058; chapter 980; 73 Stat. 554; 78 Stat. 954), is 
+     amended by adding at the end the following:
+
+     ``SEC. 6. FIRST FILL STORAGE AND RELEASE.
+
+       ``(a) In General.--Other than the 10 cubic feet per second 
+     release provided for in section 4, and subject to compliance 
+     with the flood curve requirements of the Corps of Engineers, 
+     the Secretary shall, on a `first fill' priority basis, store 
+     in and when called for in any year release from Prineville 
+     Reservoir, whether from carryover, infill, or a combination 
+     of both, the following:
+       ``(1) 68,273 acre-feet of water annually to fulfill all 16 
+     Bureau of Reclamation contracts existing as of January 1, 
+     2011.
+       ``(2) Not more than 2,740 acre-feet of water annually to 
+     supply the McKay Creek land, in accordance with section 5 of 
+     the Crooked River Collaborative Water Security Act of 2013.
+       ``(3) 10,000 acre-feet of water annually, to be made 
+     available first to the North Unit Irrigation District, and 
+     subsequently to any other holders of Reclamation contracts 
+     existing as of January 1, 2011 (in that order) pursuant to 
+     Temporary Water Service Contracts, on the request of the 
+     North Unit Irrigation District or the contract holders, 
+     consistent with the same terms and conditions as prior such 
+     contracts between the Bureau of Reclamation and District or 
+     contract holders, as applicable.
+       ``(4) 5,100 acre-feet of water annually to mitigate the 
+     City of Prineville groundwater pumping under section 4, with 
+     the release of this water to occur not based on an annual 
+     call, but instead pursuant to section 4 and the release 
+     schedule developed pursuant to section 7(c).
+       ``(b) Carryover.--Except for water that may be called for 
+     and released after the end of the irrigation season (either 
+     as City of Prineville groundwater pumping mitigation or as a 
+     voluntary release, in accordance with section 4 of this Act 
+     and section 6(c) of the Crooked River Collaborative Water 
+     Security Act of 2013, respectively), any water stored under 
+     this section that is not called for and released by the end 
+     of the irrigation season in a given year shall be--
+       ``(1) carried over to the subsequent water year, which, for 
+     accounting purposes, shall be considered to be the 1-year 
+     period beginning October 1 and ending September 30, 
+     consistent with Oregon State law; and
+       ``(2) accounted for as part of the `first fill' storage 
+     quantities of the subsequent water year, but not to exceed 
+     the maximum `first fill' storage quantities described in 
+     subsection (a).
+
+     ``SEC. 7. STORAGE AND RELEASE OF REMAINING STORED WATER 
+                   QUANTITIES.
+
+       ``(a) Authorization.--
+       ``(1) In general.--Other than the quantities provided for 
+     in section 4 and the `first
+
+[[Page 17873]]
+
+     fill' quantities provided for in section 6, and subject to 
+     compliance with the flood curve requirements of the Corps of 
+     Engineers, the Secretary shall store in and release from 
+     Prineville Reservoir all remaining stored water quantities 
+     for the benefit of downstream fish and wildlife.
+       ``(2) Requirement.--The Secretary shall release the 
+     remaining stored water quantities under paragraph (1) 
+     consistent with subsection (c).
+       ``(b) Applicable Law.--If a consultation under the 
+     Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or an 
+     order of a court in a proceeding under that Act requires 
+     releases of stored water from Prineville Reservoir for fish 
+     and wildlife downstream of Bowman Dam, the Secretary shall 
+     use uncontracted stored water.
+       ``(c) Annual Release Schedule.--
+       ``(1) In general.--The Commissioner of Reclamation shall 
+     develop annual release schedules for the remaining stored 
+     water quantities in subsection (a) and the water serving as 
+     mitigation for City of Prineville groundwater pumping 
+     pursuant to section 4.
+       ``(2) Guidance.--To the maximum extent practicable and 
+     unless otherwise prohibited by law, the Commissioner of 
+     Reclamation shall develop and implement the annual release 
+     schedules consistent with the guidance provided by the 
+     Confederated Tribes of the Warm Springs Reservation of Oregon 
+     and the State of Oregon to maximize biological benefit for 
+     downstream fish and wildlife, after taking into consideration 
+     multiyear water needs of downstream fish and wildlife.
+       ``(3) Comments from federal fish management agencies.--The 
+     National Marine Fisheries Service and the United States Fish 
+     and Wildlife Service shall have the opportunity to provide 
+     advice with respect to, and comment on, the annual release 
+     schedule developed by the Commissioner of Reclamation under 
+     this subsection.
+       ``(d) Required Coordination.--The Commissioner of 
+     Reclamation shall perform traditional and routine activities 
+     in a manner that coordinates with the efforts of the 
+     Confederated Tribes of the Warm Springs Reservation of Oregon 
+     and the State of Oregon to monitor and request adjustments to 
+     releases for downstream fish and wildlife on an in-season 
+     basis as the Confederated Tribes of the Warm Springs 
+     Reservation of Oregon and the State of Oregon determine 
+     downstream fish and wildlife needs require.
+       ``(e) Carryover.--
+       ``(1) In general.--Any water stored under subsection (a) in 
+     1 water year that is not released during the water year--
+       ``(A) shall be carried over to the subsequent water year; 
+     and
+       ``(B)(i) may be released for downstream fish and wildlife 
+     resources, consistent with subsections (c) and (d), until the 
+     reservoir reaches maximum capacity in the subsequent water 
+     year; and
+       ``(ii) once the reservoir reaches maximum capacity under 
+     clause (i), shall be credited to the `first fill' storage 
+     quantities, but not to exceed the maximum `first fill' 
+     storage quantities described in section 6(a).
+       ``(f) Effect.--Nothing in this section affects the 
+     authority of the Commissioner of Reclamation to perform all 
+     other traditional and routine activities of the Commissioner 
+     of Reclamation.
+
+     ``SEC. 8. RESERVOIR LEVELS.
+
+       ``The Commissioner of Reclamation shall--
+       ``(1) project reservoir water levels over the course of the 
+     year; and
+       ``(2) make the projections under paragraph (1) available 
+     to--
+       ``(A) the public (including fisheries groups, recreation 
+     interests, and municipal and irrigation stakeholders);
+       ``(B) the Director of the National Marine Fisheries 
+     Service; and
+       ``(C) the Director of the United States Fish and Wildlife 
+     Service.
+
+     ``SEC. 9. EFFECT.
+
+       ``Except as otherwise provided in this Act, nothing in this 
+     Act--
+       ``(1) modifies contractual rights that may exist between 
+     contractors and the United States under Reclamation 
+     contracts;
+       ``(2) amends or reopens contracts referred to in paragraph 
+     (1); or
+       ``(3) modifies any rights, obligations, or requirements 
+     that may be provided or governed by Federal or Oregon State 
+     law.''.
+
+     SEC. 5. OCHOCO IRRIGATION DISTRICT.
+
+       (a) Early Repayment.--
+       (1) In general.--Notwithstanding section 213 of the 
+     Reclamation Reform Act of 1982 (43 U.S.C. 390mm), any 
+     landowner within Ochoco Irrigation District, Oregon (referred 
+     to in this section as the ``district''), may repay, at any 
+     time, the construction costs of the project facilities 
+     allocated to the land of the landowner within the district.
+       (2) Exemption from limitations.--Upon discharge, in full, 
+     of the obligation for repayment of the construction costs 
+     allocated to all land of the landowner in the district, the 
+     land shall not be subject to the ownership and full-cost 
+     pricing limitations of Federal reclamation law (the Act of 
+     June 17, 1902 (32 Stat. 388, chapter 1093), and Acts 
+     supplemental to and amendatory of that Act (43 U.S.C. 371 et 
+     seq.)).
+       (b) Certification.--Upon the request of a landowner who has 
+     repaid, in full, the construction costs of the project 
+     facilities allocated to the land of the landowner within the 
+     district, the Secretary of the Interior shall provide the 
+     certification described in section 213(b)(1) of the 
+     Reclamation Reform Act of 1982 (43 U.S.C. 390mm(b)(1)).
+       (c) Contract Amendment.--On approval of the district 
+     directors and notwithstanding project authorizing authority 
+     to the contrary, the Reclamation contracts of the district 
+     are modified, without further action by the Secretary of the 
+     Interior--
+       (1) to authorize the use of water for instream purposes, 
+     including fish or wildlife purposes, in order for the 
+     district to engage in, or take advantage of, conserved water 
+     projects and temporary instream leasing as authorized by 
+     Oregon State law;
+       (2) to include within the district boundary approximately 
+     2,742 acres in the vicinity of McKay Creek, resulting in a 
+     total of approximately 44,937 acres within the district 
+     boundary;
+       (3) to classify as irrigable approximately 685 acres within 
+     the approximately 2,742 acres of included land in the 
+     vicinity of McKay Creek, with those approximately 685 acres 
+     authorized to receive irrigation water pursuant to water 
+     rights issued by the State of Oregon if the acres have in the 
+     past received water pursuant to State water rights; and
+       (4) to provide the district with stored water from 
+     Prineville Reservoir for purposes of supplying up to the 
+     approximately 685 acres of land added within the district 
+     boundary and classified as irrigable under paragraphs (2) and 
+     (3), with the stored water to be supplied on an acre-per-acre 
+     basis contingent on the transfer of existing appurtenant 
+     McKay Creek water rights to instream use and the issuance of 
+     water rights by the State of Oregon for the use of stored 
+     water.
+       (d) Limitation.--Except as otherwise provided in 
+     subsections (a) and (c), nothing in this section--
+       (1) modifies contractual rights that may exist between the 
+     district and the United States under the Reclamation 
+     contracts of the district;
+       (2) amends or reopens the contracts referred to in 
+     paragraph (1); or
+       (3) modifies any rights, obligations, or relationships that 
+     may exist between the district and any owner of land within 
+     the district, as may be provided or governed by Federal or 
+     Oregon State law.
+
+     SEC. 6. DRY-YEAR MANAGEMENT PLANNING AND VOLUNTARY RELEASES.
+
+       (a) Participation in Dry-year Management Planning 
+     Meetings.--The Bureau of Reclamation shall participate in 
+     dry-year management planning meetings with the State of 
+     Oregon, the Confederated Tribes of the Warm Springs 
+     Reservation of Oregon, municipal, agricultural, conservation, 
+     recreation, and other interested stakeholders to plan for 
+     dry-year conditions.
+       (b) Dry-year Management Plan.--
+       (1) In general.--Not later than 3 years after the date of 
+     enactment of this Act, the Bureau of Reclamation shall 
+     develop a dry-year management plan in coordination with the 
+     participants referred to in subsection (a).
+       (2) Requirements.--The plan developed under paragraph (1) 
+     shall only recommend strategies, measures, and actions that 
+     the irrigation districts and other Bureau of Reclamation 
+     contract holders voluntarily agree to implement.
+       (3) Limitations.--Nothing in the plan developed under 
+     paragraph (1) shall be mandatory or self-implementing.
+       (c) Voluntary Release.--In any year, if North Unit 
+     Irrigation District or other eligible Bureau of Reclamation 
+     contract holders have not initiated contracting with the 
+     Bureau of Reclamation for any quantity of the 10,000 acre 
+     feet of water described in subsection (a)(3) of section 6 of 
+     the Act of August 6, 1956 (70 Stat. 1058) (as added by 
+     section 4), by June 1 of any calendar year, with the 
+     voluntary agreement of North Unit Irrigation District and 
+     other Bureau of Reclamation contract holders referred to in 
+     that paragraph, the Secretary may release that quantity of 
+     water for the benefit of downstream fish and wildlife as 
+     described in section 7 of that Act.
+
+     SEC. 7. RELATION TO EXISTING LAWS AND STATUTORY OBLIGATIONS.
+
+       Nothing in this Act (or an amendment made by this Act)--
+       (1) provides to the Secretary the authority to store and 
+     release the ``first fill'' quantities provided for in section 
+     6 of the Act of August 6, 1956 (70 Stat. 1058) (as added by 
+     section 4) for any purposes other than the purposes provided 
+     for in that section, except for--
+       (A) the potential instream use resulting from conserved 
+     water projects and temporary instream leasing as provided for 
+     in section 5(c)(1);
+       (B) the potential release of additional amounts that may 
+     result from voluntary actions agreed to through the dry-year 
+     management plan developed under section 6(b); and
+       (C) the potential release of the 10,000 acre feet for 
+     downstream fish and wildlife as provided for in section 6(c);
+       (2) alters any responsibilities under Oregon State law or 
+     Federal law, including section 7 of the Endangered Species 
+     Act (16 U.S.C. 1536); or
+       (3) alters the authorized purposes of the Crooked River 
+     Project provided in the first
+
+[[Page 17874]]
+
+     section of the Act of August 6, 1956 (70 Stat. 1058; 73 Stat. 
+     554; 78 Stat. 954).
+
+  Mr. WYDEN. Mr. President, today I rise to join Senator Merkley and 
+cosponsor a bill that strikes a balance between the competing demands 
+for a scarce resource, Crooked River water. The Crooked River 
+Collaborative Water Security Act of 2013 is the product of long and 
+determined negotiations to find solutions that will benefit many 
+interests in and around Prineville, Oregon. I was pleased to work to 
+advance this bill last Congress, and I look forward to working with 
+Senator Merkley, other colleagues, and all the supporters of the bill 
+to achieve the many benefits of this bill for Central Oregon.
+  Oregon works best when Oregonians work together and this is an 
+example of what can be done when faced with a very challenging set of 
+issues. The City of Prineville needs water to grow economically. 
+Irrigators along the Crooked River want certainty for future water 
+supply. The local utility Portland General Electric would like to build 
+a small hydroelectric plant on the Bureau of Reclamation's Bowman Dam. 
+And the Warm Springs Tribes and conservation groups seek to ensure more 
+water is available for in-stream flows to protect reintroduced salmon 
+runs in the Crooked River.
+  Water in the West is often the heart of many contentious battles, but 
+these parties and more worked tirelessly and in good faith to build a 
+consensus to meet those many important needs. The bill allocates 
+uncontracted water in Bowman Dam to give water to the City and for fish 
+populations, while attaining certainty for the contracted water for 
+irrigation. It also moves the Wild and Scenic River Act boundary to a 
+place that makes sense and would enable hydroelectric generation. The 
+bill more explicitly looks after the recreation interests enjoyed by 
+flatwater users above the dam.
+  I express my gratitude for the many groups and individuals who have 
+worked diligently to strike the balance on the Crooked River. I look 
+forward to working with those groups, the Bureau of Reclamation, 
+Congressman Greg Walden, and especially Senator Merkley, who has shown 
+determined leadership in marshaling this bill, to move this bill 
+through Congress and to the President's desk this Congress.
+
+                          ____________________
+```
