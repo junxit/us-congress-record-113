@@ -1,0 +1,42 @@
+---
+granule: CRECB-2013-pt12-Pg18037-4
+date: 2013-12-03
+edition: CRECB
+section: HOUSE
+page: 18037
+---
+
+# A NEW DAY FOR HEALTH CARE IN AMERICA
+
+```
+                  A NEW DAY FOR HEALTH CARE IN AMERICA
+
+  (Mr. YARMUTH asked and was given permission to address the House for 
+1 minute.)
+  Mr. YARMUTH. Mr. Speaker, the prior speaker's prayers are about to be 
+answered.
+  Mr. Speaker, my State of Kentucky is a national model for how the 
+Affordable Care Act can make our constituents' lives more secure and 
+their businesses stronger. I would like to share one story. Will 
+Russell is the owner of Why Louisville, a small independent business in 
+my district that specializes in locally designed clothing and art. The 
+father of a 1-year-old, he also has a preexisting condition that led 
+insurance companies to deny him coverage for the past 15 years.
+  Thanks to the Affordable Care Act, beginning January 1, Will and his 
+wife and son will be covered under a plan they found on Kynect, 
+Kentucky's health insurance exchange. Will estimates his family will 
+save $300 a month. Add that to the peace of mind that comes with 
+knowing he will never face medical bankruptcy and the threat of losing 
+his thriving business just because he didn't have access to insurance.
+  He has been so pleased with the ease and affordability of Kynect that 
+he is now exploring coverage for his employees for the first time 
+through the State's small business exchange. Mr. Speaker, Will's story 
+is one among millions of Americans who are finding expanded care 
+through the Affordable Care Act. To quote Will:
+
+       It's going to be a new day for my family, for me, and so 
+     many people just like us in Kentucky and throughout the 
+     country.
+
+                          ____________________
+```
