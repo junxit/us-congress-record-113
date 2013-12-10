@@ -1,0 +1,35 @@
+---
+granule: CRECB-2013-pt13-Pg18380-2
+date: 2013-12-10
+edition: CRECB
+section: SENATE
+page: 18380
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                       RECOGNIZING JOEL DEFEBAUGH
+
+● Mr. BARRASSO. Mr. President, I would like to take the 
+opportunity to express my appreciation to Joel Defebaugh for his hard 
+work as an intern in my Washington, DC Office. I recognize his efforts 
+and contributions to my office as well as to the State of Wyoming.
+  Joel is a native of Casper, WY and a graduate of Natrona County High 
+School. He is also a recent graduate of the University of Wyoming, 
+where he earned a degree in political science. He has demonstrated a 
+strong work ethic, which has made him an invaluable asset to our 
+office. The quality of his work is reflected in his great efforts over 
+the last several months.
+  I want to thank Joel for the dedication he has shown while working 
+for me and my staff. It was a pleasure to have him as part of our team. 
+I know he will have continued success with all of his future endeavors. 
+I wish him all my best on his next journey.●
+
+                          ____________________
+```
