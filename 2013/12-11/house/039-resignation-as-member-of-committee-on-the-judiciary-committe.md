@@ -1,0 +1,44 @@
+---
+granule: CRECB-2013-pt13-Pg18405
+date: 2013-12-11
+edition: CRECB
+section: HOUSE
+page: 18405
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON THE JUDICIARY, COMMITTEE ON NATURAL RESOURCES, AND COMMITTEE ON VETERANS' AFFAIRS
+
+```
+   RESIGNATION AS MEMBER OF COMMITTEE ON THE JUDICIARY, COMMITTEE ON 
+         NATURAL RESOURCES, AND COMMITTEE ON VETERANS' AFFAIRS
+
+  The SPEAKER pro tempore (Mr. Poe of Texas) laid before the House the 
+following resignation as a member of the Committee on the Judiciary, 
+the Committee on Natural Resources, and the Committee on Veterans' 
+Affairs:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, December 9, 2013.
+     Hon. John Boehner,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Speaker Boehner: I wish to resign from my assignments 
+     to the House Committee on the Judiciary, the House Committee 
+     on Natural Resources, and the House Committee on Veterans' 
+     Affairs effective the week of December 9th, 2013. My 
+     resignation is in order to facilitate my appointment to the 
+     House Committee on Appropriations. Thank you for the 
+     opportunity.
+           Sincerely,
+                                                   Mark E. Amodei.
+
+  The SPEAKER pro tempore. Without objection, the resignations are 
+accepted.
+  There was no objection.
+
+                          ____________________
+```
