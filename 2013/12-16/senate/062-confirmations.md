@@ -1,0 +1,28 @@
+---
+granule: CRECB-2013-pt13-Pg19213-2
+date: 2013-12-16
+edition: CRECB
+section: SENATE
+page: 19213
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 16, 2013:
+
+
+                          DEPARTMENT OF STATE
+
+       ANNE W. PATTERSON, OF VIRGINIA, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF CAREER AMBASSADOR, TO BE AN 
+     ASSISTANT SECRETARY OF STATE (NEAR EASTERN AFFAIRS).
+
+
+                    DEPARTMENT OF HOMELAND SECURITY
+
+       JEH CHARLES JOHNSON, OF NEW JERSEY, TO BE SECRETARY OF 
+     HOMELAND SECURITY.
+```
