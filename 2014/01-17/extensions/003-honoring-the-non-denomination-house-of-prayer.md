@@ -1,0 +1,54 @@
+---
+granule: CREC-2014-01-17-pt1-PgE101-4
+date: 2014-01-17
+edition: CREC
+section: EXTENSIONS
+page: E101
+citation: 160 Cong. Rec. E101
+---
+
+# HONORING THE NON-DENOMINATION HOUSE OF PRAYER
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+             HONORING THE NON-DENOMINATION HOUSE OF PRAYER
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                        Friday, January 17, 2014
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor a 
+remarkable Christian organization, The Non-Denomination House of 
+Prayer.
+  The Non-Denomination House of Prayer was founded in 1948 by Pastor 
+Charity Waffer in the historical city of Mound Bayou, Mississippi. 
+Pastor Waffer was the first female pastor in the Mississippi Delta. As 
+a pastoral pioneer she was instrumental in opening doors for women and 
+youths through various church auxiliaries and functions. Her leadership 
+guided many to various freedoms and liberties.
+  The current overseer is Dr. Earnestine Flowers which over sees other 
+churches in Mississippi with the communities of Duncan, Batesville, 
+Sardis, Oxford and in Chicago, Illinois. The Non-Denomination House of 
+Prayer in the City of Mound Bayou current ministerial leaders are 
+Pastor Willie Joe Flowers, Assistant Pastor Carl Henry, and Minister 
+Martha Sanders.
+  They have increased the church membership and have embarked on 
+renovating and expanding their facilities in order to continue to be a 
+blessing to its members, community, and surrounding communities by 
+being able to be a place of refuge to those who are hungry physically 
+and spiritually and by offering comprehensive programs to meet the 
+needs of others.
+  Mr. Speaker, I ask my colleagues to join me in recognizing the Non-
+Denomination House of Prayer for their dedication in being a corner 
+stone in the Mound Bayou Community.
+
+                          ____________________
+```

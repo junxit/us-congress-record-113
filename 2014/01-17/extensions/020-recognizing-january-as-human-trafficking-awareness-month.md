@@ -1,0 +1,48 @@
+---
+granule: CREC-2014-01-17-pt1-PgE106
+date: 2014-01-17
+edition: CREC
+section: EXTENSIONS
+page: E106
+citation: 160 Cong. Rec. E106
+---
+
+# RECOGNIZING JANUARY AS HUMAN TRAFFICKING AWARENESS MONTH
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+        RECOGNIZING JANUARY AS HUMAN TRAFFICKING AWARENESS MONTH
+
+                                 ______
+                                 
+
+                           HON. LOIS FRANKEL
+
+                               of florida
+
+                    in the house of representatives
+
+                        Friday, January 17, 2014
+
+  Ms. FRANKEL of Florida. Mr. Speaker, I rise today to recognize 
+January as Human Trafficking Awareness Month. Human trafficking is 
+modern-day slavery. Although some may think that this only happens in 
+dark, remote corners of the world, human trafficking happens in our own 
+backyard. The sickening fact is that it is a big, booming business--
+trafficking a child for sex is often more lucrative than drug 
+trafficking. This horrific crime can happen to anyone--girl, boy, rich, 
+poor, U.S. citizen or not. We must work harder to protect our sons and 
+daughters, leveraging community resources to find and rehabilitate 
+victims and prosecute traffickers to the fullest extent of the law. In 
+honor of Human Trafficking Awareness Month, I would like to thank all 
+of the dedicated community advocates in south Florida including Palm 
+Beach County District Attorney Dave Aronberg, and the Junior Leagues of 
+the Palm Beaches and of Broward County. I would also like to thank 
+Katariina Rosenblatt--a courageous south Florida survivor of human 
+trafficking who uses her experience to help other victims get their 
+lives back. I look forward to working with all of them to protect 
+victims in Florida and around the world.
+
+                          ____________________
+```
