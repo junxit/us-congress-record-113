@@ -1,0 +1,23 @@
+---
+granule: CRECB-2014-pt2-Pg1827-4
+date: 2014-01-27
+edition: CRECB
+section: SENATE
+page: 1827
+---
+
+# MEASURES REFERRED
+
+```
+                           MEASURES REFERRED
+
+  The following bill was read the first and the second times by 
+unanimous consent, and referred as indicated:
+
+       H.R. 3362. An act to amend the Patient Protection and 
+     Affordable Care Act to require transparency in the operation 
+     of American Health Benefit Exchanges; to the Committee on 
+     Health, Education, Labor, and Pensions.
+
+                          ____________________
+```
