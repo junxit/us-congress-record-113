@@ -1,0 +1,24 @@
+---
+granule: CREC-2014-02-05-pt1-PgH1648-2
+date: 2014-02-05
+edition: CREC
+section: HOUSE
+page: H1648
+citation: 160 Cong. Rec. H1648
+---
+
+# HOUR OF MEETING ON TOMORROW
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                      HOUR OF MEETING ON TOMORROW
+
+  Mr. LaMALFA. Mr. Speaker, I ask unanimous consent that when the House 
+adjourns today, it adjourn to meet at 9 a.m. tomorrow.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+
+                          ____________________
+```
