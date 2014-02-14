@@ -1,0 +1,21 @@
+---
+granule: CRECB-2014-pt2-Pg2951-3
+date: 2014-02-14
+edition: CRECB
+section: HOUSE
+page: 2951
+---
+
+# ADJOURNMENT
+
+```
+                              ADJOURNMENT
+
+  The SPEAKER pro tempore. Pursuant to section 2(b) of House Resolution 
+475, the House stands adjourned until 2 p.m. on Tuesday, February 18, 
+2014.
+  Accordingly (at 2 o'clock and 7 minutes p.m.), under its previous 
+order, the House adjourned until Tuesday, February 18, 2014, at 2 p.m.
+
+                          ____________________
+```
