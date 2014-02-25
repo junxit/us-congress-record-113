@@ -1,0 +1,17317 @@
+---
+granule: CRECB-2014-pt3-Pg3152-2
+date: 2014-02-25
+edition: CRECB
+section: SENATE
+page: 3152
+---
+
+# TEXT OF AMENDMENTS
+
+```
+                           TEXT OF AMENDMENTS
+
+  SA 2744. Ms. COLLINS (for herself and Mr. King) submitted an 
+amendment intended to be proposed by her to the bill S. 1982, to 
+improve the provision of medical services and benefits to veterans, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       On page 76, between lines 8 and 9, insert the following:
+
+     SEC. 330. CANADIAN FORCES BASE GAGETOWN REGISTRY.
+
+       (a) Establishment.--Not later than one year after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall establish and maintain a registry to be known 
+     as the ``Canadian Forces Base Gagetown Health Registry'' (in 
+     this section referred to as the ``Registry'').
+       (b) Contents.--Except as provided in subsection (c), the 
+     Registry shall include the following information:
+       (1) A list containing the name of each individual who--
+       (A) while serving as a member of the Armed Forces, was 
+     stationed at or underwent training at Canadian Forces Base 
+     Gagetown, New Brunswick, Canada, at any time during the 
+     period beginning on January 1, 1956, and ending on December 
+     31, 2006; and
+       (B)(i) applies for care or services from the Department of 
+     Veterans Affairs under chapter 17 of title 38, United States 
+     Code;
+       (ii) files a claim for compensation under chapter 11 of 
+     such title on the basis of any disability that may be 
+     associated with such service;
+       (iii) dies and is survived by a spouse, child, or parent 
+     who files a claim for dependency and indemnity compensation 
+     under chapter 13 of such title on the basis of such service;
+       (iv) requests from the Secretary a health examination under 
+     subsection (d)(1); or
+       (v)(I) receives from the Secretary a health examination 
+     similar to the health examination under subsection (d)(1); 
+     and
+       (II) submits to the Secretary a request to be included in 
+     the Registry.
+       (2) Relevant medical data relating to the health status of, 
+     and other information that the Secretary considers relevant 
+     and appropriate with respect to, each individual described in 
+     paragraph (1) who--
+       (A) grants to the Secretary permission to include such 
+     information in the Registry; or
+       (B) at the time the name of the individual is added to the 
+     Registry, is deceased.
+       (c) Individuals Submitting Claims or Making Requests Before 
+     Date of Enactment.--If an application, claim, or request 
+     referred to in paragraph (1) of subsection (b) was submitted, 
+     filed, or made with respect to an individual described in 
+     that paragraph before the date of the enactment of this Act, 
+     the Secretary shall, to the extent feasible, include in the 
+     Registry the information described in that subsection 
+     relating to that individual.
+       (d) Examinations.--
+       (1) In general.--Upon the request of an individual 
+     described in subsection (b)(1)(A), the Secretary shall 
+     provide the individual with--
+       (A) a health examination (including any appropriate 
+     diagnostic tests); and
+       (B) consultation and counseling with respect to the results 
+     of the examination and tests.
+       (2) Consultation and counseling to family members.--In the 
+     case of an individual described in subsection (b)(1)(A) who 
+     is deceased, upon the request of a spouse, child, or parent 
+     of that individual, the Secretary shall provide that spouse, 
+     child, or parent with consultation and counseling with 
+     respect to the results of the examination and tests under 
+     paragraph (1)(A) or the results of an examination similar to 
+     that examination with respect to that individual.
+       (e) Outreach.--
+       (1) Ongoing outreach to individuals listed in the 
+     registry.--The Secretary shall, from time to time, notify 
+     individuals listed in the Registry of significant 
+     developments in research on the health consequences of 
+     potential exposure to a toxic substance or environmental 
+     hazard related to service at Canadian Forces Base Gagetown.
+       (2) Examination outreach.--The Secretary shall carry out 
+     appropriate outreach activities with respect to the provision 
+     of any health examinations (including any diagnostic tests) 
+     and consultation and counseling services under subsection 
+     (d).
+       (f) Department of Defense Information.--The Secretary of 
+     Defense shall furnish to the Secretary of Veterans Affairs 
+     such information maintained by the Secretary of Defense as 
+     the Secretary of Veterans Affairs considers necessary to 
+     establish and maintain the Registry.
+       (g) Independent Study.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     provide for a study on the potential exposure of individuals 
+     to toxic substances or environmental hazards related to 
+     service at Canadian Forces Base Gagetown at any time during 
+     the period beginning on January 1, 1956, and ending on 
+     December 31, 2006.
+       (2) Independent entity.--The study required by paragraph 
+     (1) shall be carried out by an entity that--
+       (A) has experience conducting studies with respect to the 
+     exposure of individuals to toxic substances or environmental 
+     hazards; and
+       (B) is not affiliated with the Department of Veterans 
+     Affairs.
+       (3) Deadline for completion.--The study required by 
+     paragraph (1) shall be completed not later than one year 
+     after the date of the enactment of this Act.
+       (h) Annual Report.--
+       (1) In general.--Not later than two years after the date of 
+     the enactment of this Act, and each year thereafter, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the Registry.
+       (2) Elements.--Each report required by paragraph (1) shall 
+     include the following:
+       (A) The number of veterans included in the Registry.
+       (B) Any trend in claims for compensation under chapter 11 
+     or 13 of title 38, United States Code, with respect to 
+     veterans included in the Registry.
+       (C) A description of the outreach efforts made by the 
+     Secretary under subsection (e) during the one-year period 
+     ending on the date of such report.
+       (D) Such other matters as the Secretary considers 
+     appropriate.
+
+[[Page 3153]]
+
+
+                                 ______
+                                 
+  SA 2745. Ms. COLLINS (for herself and Mr. King) submitted an 
+amendment intended to be proposed by her to the bill S. 1982, to 
+improve the provision of medical services and benefits to veterans, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       On page 61, between lines 5 and 6, insert the following:
+
+     SEC. 314. PROGRAM OF ENHANCED CONTRACT CARE AUTHORITY FOR 
+                   HEALTH CARE NEEDS OF VETERANS.
+
+       (a) In General.--Chapter 17 is amended by inserting after 
+     section 1703 the following new section:
+
+     ``Sec. 1703A. Program of enhanced contract care authority for 
+       health care needs of veterans
+
+       ``(a) Program Required.--(1) The Secretary shall conduct a 
+     program under which the Secretary provides covered health 
+     services to covered veterans through qualifying non-
+     Department health care providers.
+       ``(2) The Secretary shall commence the conduct of the 
+     program on October 1, 2014.
+       ``(b) Covered Veterans.--For purposes of the program under 
+     this section, a covered veteran is any veteran who--
+       ``(1) is--
+       ``(A) enrolled in the system of patient enrollment 
+     established and operated under section 1705(a) of this title 
+     as of the date of the commencement of the program under 
+     subsection (a)(2); or
+       ``(B) eligible for health care under section 1710(e)(3) of 
+     such title; and
+       ``(2) resides in a location that is--
+       ``(A) more than 60 minutes driving distance from the 
+     nearest Department health care facility providing primary 
+     care services, if the veteran is seeking such services;
+       ``(B) more than 120 minutes driving distance from the 
+     nearest Department health care facility providing acute 
+     hospital care, if the veteran is seeking such care; or
+       ``(C) more than 240 minutes driving distance from the 
+     nearest Department health care facility providing tertiary 
+     care, if the veteran is seeking such care.
+       ``(c) Covered Health Services.--For purposes of the program 
+     under this section, a covered health service with respect to 
+     a covered veteran is any hospital care, medical service, 
+     rehabilitative service, or preventative health service that 
+     is authorized to be provided by the Secretary to the veteran 
+     under this chapter or any other provision of law.
+       ``(d) Qualifying Non-department Health Care Providers.--For 
+     purposes of the program under this section, an entity or 
+     individual is a qualifying non-Department health care 
+     provider of a covered health service if the Secretary 
+     determines that the entity or individual is qualified to 
+     furnish such service to a covered veteran under the program.
+       ``(e) Locations.--The program shall be carried out within--
+       ``(1) of the areas at which the Secretary was carrying out 
+     the pilot program established under section 403 of the 
+     Veterans' Mental Health and Other Care Improvements Act of 
+     2008 (Public Law 110-387; 38 U.S.C. 1703 note) on the day 
+     before the date of the enactment of the Comprehensive 
+     Veterans Health and Benefits and Military Retirement Pay 
+     Restoration Act of 2014, those areas at which the Secretary 
+     has determined that such pilot program was carried out 
+     successfully; and
+       ``(2) any additional area that the Secretary may select for 
+     purposes of the program.
+       ``(f) Election.--A covered veteran seeking a covered health 
+     service from a qualifying non-Department health care provider 
+     under the program under this section shall submit to the 
+     Secretary an application therefor in such form, in such 
+     manner, and containing such information as the Secretary 
+     shall specify for purposes of the program.
+       ``(g) Provision of Services Through Contract.--The 
+     Secretary shall provide covered health services to veterans 
+     under the program under this section through contracts with 
+     qualifying non-Department health care providers for the 
+     provision of such services.
+       ``(h) Exchange of Medical Information.--In conducting the 
+     program under this section, the Secretary shall develop and 
+     utilize a functional capability to provide for the exchange 
+     of appropriate medical information between the Department and 
+     qualifying non-Department health care providers providing 
+     health services under the program.
+       ``(i) Reports.--Not later than the 30 days after the end of 
+     each year in which the program under this section is 
+     conducted, the Secretary shall submit to the Committee of 
+     Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report 
+     that includes--
+       ``(1) the assessment of the Secretary of the program during 
+     the preceding year, including its cost, volume, quality, 
+     patient satisfaction, benefit to veterans, and such other 
+     findings and conclusions with respect to the program as the 
+     Secretary considers appropriate; and
+       ``(2) such recommendations as the Secretary considers 
+     appropriate regarding--
+       ``(A) the continuation of the program; and
+       ``(B) extension of the program to other or all Veterans 
+     Integrated Service Networks of the Department.
+       ``(j) Source of Funds.--In carrying out the program under 
+     this section, such sums as may be necessary to carry out the 
+     program shall be derived from amounts appropriated or 
+     otherwise made available to the Office of Rural Health of the 
+     Department of Veterans Affairs after the date of the 
+     enactment of the Comprehensive Veterans Health and Benefits 
+     and Military Retirement Pay Restoration Act of 2014.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1703 the following new item:
+
+``1703A. Program of enhanced contract care authority for health care 
+              needs of veterans.''.
+       (c) Conforming Amendment.--Section 403 of the Veterans' 
+     Mental Health and Other Care Improvements Act of 2008 (Public 
+     Law 110-387; 38 U.S.C. 1703 note) is repealed.
+                                 ______
+                                 
+  SA 2746. Mrs. HAGAN (for herself and Mrs. Gillibrand) submitted an 
+amendment intended to be proposed by her to the bill S. 1982, to 
+improve the provision of medical services and benefits to veterans, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       On page 207, between lines 8 and 9, insert the following:
+
+                Subtitle F--Work Opportunity Tax Credit
+
+     SEC. 451. WORK OPPORTUNITY CREDIT TO SMALL BUSINESSES FOR 
+                   HIRING MEMBERS OF READY RESERVE OR NATIONAL 
+                   GUARD.
+
+       (a) In General.--Section 51 of the Internal Revenue Code of 
+     1986 is amended--
+       (1) in paragraph (3) of subsection (b), by inserting ``or 
+     any individual described in subparagraph (J) of subsection 
+     (d)(1) who has been certified as having aggregate periods of 
+     unemployment described in clause (ii)(III) of such 
+     subparagraph'' after ``subsection (d)(3)(A)(iv)'', and
+       (2) in paragraph (1) of subsection (d), by striking ``or'' 
+     at the end of subparagraph (H), by striking the period at the 
+     end of subparagraph (I) and inserting ``, or'', and by adding 
+     at the end the following new subparagraph:
+       ``(J) in the case of an eligible employer (as defined in 
+     section 408(p)(2)(C)(i)), an individual who--
+       ``(i) is a member of--
+
+       ``(I) the Ready Reserve (as described in section 10142 of 
+     title 10, United States Code), or
+       ``(II) the National Guard (as defined in section 101(c)(1) 
+     of such title 10), and
+
+       ``(ii) is certified by the designated local agency as--
+
+       ``(I) being a member of a family described in clause (i) of 
+     paragraph (3)(A),
+       ``(II) having aggregate periods of unemployment during the 
+     1-year period ending on the hiring date which equal or exceed 
+     4 weeks (but less than 6 months), or
+       ``(III) having aggregate periods of unemployment during the 
+     1-year period ending on the hiring date which equal or exceed 
+     6 months.''.
+
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to wages paid or incurred by the employer during 
+     the taxable year to individuals who begin work for the 
+     employer after the date of the enactment of this Act.
+
+     SEC. 452. PERMANENT EXTENSION OF WORK OPPORTUNITY CREDIT FOR 
+                   EMPLOYERS HIRING QUALIFIED VETERANS AND MEMBERS 
+                   OF READY RESERVE AND NATIONAL GUARD.
+
+       (a) In General.--Section 51(c)(4) of the Internal Revenue 
+     Code of 1986 is amended by inserting ``(other than any 
+     individual described in subparagraph (B) or (J) of subsection 
+     (d)(1))'' after ``individual''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to individuals who begin work for the employer 
+     after December 31, 2013.
+                                 ______
+                                 
+  SA 2747. Mr. SANDERS submitted an amendment intended to be proposed 
+by him to the bill S. 1982, to improve the provision of medical 
+services and benefits to veterans, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       Strike all after the first word and insert the following:
+
+     1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the 
+     ``Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. References to title 38, United States Code.
+Sec. 3. Budgetary effects.
+
+                TITLE I--SURVIVOR AND DEPENDENT MATTERS
+
+Sec. 101. Extension of initial period for increased dependency and 
+              indemnity compensation for surviving spouses with 
+              children.
+Sec. 102. Eligibility for dependency and indemnity compensation, 
+              educational assistance, and housing loans for surviving 
+              spouses who remarry after age 55.
+Sec. 103. Extension of marriage delimiting date for surviving spouses 
+              of Persian Gulf War veterans to qualify for death 
+              pension.
+
+[[Page 3154]]
+
+Sec. 104. Making effective date provision consistent with provision for 
+              benefits eligibility of a veteran's child based upon 
+              termination of remarriage by annulment.
+Sec. 105. Expansion of Marine Gunnery Sergeant John David Fry 
+              Scholarship.
+Sec. 106. Expansion of Yellow Ribbon G.I. Education Enhancement 
+              Program.
+Sec. 107. Benefits for children of certain Thailand service veterans 
+              born with spina bifida.
+Sec. 108. Program on assisted living for children of Vietnam veterans 
+              and certain Korea service veterans born with spina 
+              bifida.
+Sec. 109. Program on grief counseling in retreat settings for surviving 
+              spouses of members of the Armed Forces who die while 
+              serving on active duty in the Armed Forces.
+Sec. 110. Program evaluation on survivors' and dependents' educational 
+              assistance authorities.
+
+                      TITLE II--EDUCATION MATTERS
+
+Sec. 201. Approval of courses of education provided by public 
+              institutions of higher learning for purposes of All-
+              Volunteer Force Educational Assistance Program and Post-
+              9/11 Educational Assistance conditional on in-State 
+              tuition rate for veterans.
+Sec. 202. Extension and expansion of authority for certain qualifying 
+              work-study activities for purposes of the educational 
+              assistance programs of the Department of Veterans 
+              Affairs.
+Sec. 203. Prohibitions relating to references to GI Bill and Post-9/11 
+              GI Bill.
+Sec. 204. Review of utilization of educational assistance to pursue 
+              programs of training on the job and participating 
+              employers.
+Sec. 205. Report on debt management and collection.
+Sec. 206. Restoration of prior reporting fee multipliers.
+
+                     TITLE III--HEALTH CARE MATTERS
+
+      Subtitle A--Expansion and Improvements of Benefits Generally
+
+Sec. 301. Requirement for enrollment in patient enrollment system of 
+              the Department of Veterans Affairs of certain veterans 
+              eligible for enrollment by law but not currently 
+              permitted to enroll.
+Sec. 302. Further extension of period of eligibility for health care 
+              for veterans of combat service during certain periods of 
+              hostilities and war.
+Sec. 303. Extension to all veterans with a serious service-connected 
+              disability of eligibility for participation in family 
+              caregiver program.
+Sec. 304. Improved access to appropriate immunizations for veterans.
+Sec. 305. Expansion of provision of chiropractic care and services to 
+              veterans.
+Sec. 306. Modification of commencement date of period of service at 
+              Camp Lejeune, North Carolina, for eligibility for 
+              hospital care and medical services in connection with 
+              exposure to contaminated water.
+Sec. 307. Expansion of emergency treatment reimbursement for certain 
+              veterans.
+Sec. 308. Modification of determination of eligibility of veterans for 
+              treatment as a low-income family for purposes of 
+              enrollment in the patient enrollment system of the 
+              Department of Veterans Affairs.
+Sec. 309. Extension of sunset date regarding transportation of 
+              individuals to and from facilities of Department of 
+              Veterans Affairs and requirement of report.
+Sec. 310. Coverage of costs of care for veterans at medical foster 
+              homes.
+Sec. 311. Extension and modification of pilot program on assisted 
+              living services for veterans with traumatic brain injury.
+Sec. 312. Program on health promotion for overweight and obese veterans 
+              through support of fitness center memberships.
+Sec. 313. Program on health promotion for veterans through 
+              establishment of Department of Veterans Affairs fitness 
+              facilities.
+
+                 Subtitle B--Health Care Administration
+
+Sec. 321. Extension of Department of Veterans Affairs Health 
+              Professional Scholarship Program.
+Sec. 322. Expansion of availability of prosthetic and orthotic care for 
+              veterans.
+Sec. 323. Contracting for health care.
+Sec. 324. Limitation on expansion of dialysis pilot program.
+Sec. 325. Requirement for Department of Veterans Affairs policy on 
+              reporting cases of infectious diseases at facilities of 
+              the Department.
+Sec. 326. Independent assessment of the Veterans Integrated Service 
+              Networks and medical centers of Department of Veterans 
+              Affairs.
+Sec. 327. Requirements in connection with next update of current 
+              strategic plan for Office of Rural Health of the 
+              Department of Veterans Affairs.
+Sec. 328. Report on provision of telemedicine services.
+Sec. 329. Designation of Corporal Michael J. Crescenz Department of 
+              Veterans Affairs Medical Center.
+
+           Subtitle C--Complementary and Alternative Medicine
+
+Sec. 331. Expansion of research and education on and delivery of 
+              complementary and alternative medicine to veterans.
+Sec. 332. Program on integration of complementary and alternative 
+              medicine within Department of Veterans Affairs medical 
+              centers.
+Sec. 333. Studies of barriers encountered by veterans in receiving, and 
+              administrators and clinicians in providing, complementary 
+              and alternative medicine services furnished by the 
+              Department of Veterans Affairs.
+Sec. 334. Program on use of wellness programs as complementary approach 
+              to mental health care for veterans and family members of 
+              veterans.
+
+                     Subtitle D--Mental Health Care
+
+Sec. 341. Inclusion of mental health professionals in the education and 
+              training program for health personnel of the Department 
+              of Veterans Affairs.
+Sec. 342. Education program and peer support program for family members 
+              and caregivers of veterans with mental health disorders.
+Sec. 343. Report on provision of mental health services for families of 
+              certain veterans at facilities of the Department.
+Sec. 344. Annual report on community mental health partnership pilot 
+              program.
+
+     Subtitle E--Dental Care Eligibility Expansion and Enhancement
+
+Sec. 351. Restorative dental services for veterans.
+Sec. 352. Pilot program on expansion of furnishing of dental care to 
+              all enrolled veterans.
+Sec. 353. Program on education to promote dental health in veterans.
+Sec. 354. Information on dental services for inclusion in electronic 
+              medical records under dental insurance pilot program.
+Sec. 355. Authorization of appropriations.
+
+            Subtitle F--Health Care Related to Sexual Trauma
+
+Sec. 361. Expansion of eligibility for sexual trauma counseling and 
+              treatment to veterans on inactive duty training.
+Sec. 362. Provision of counseling and treatment for sexual trauma by 
+              the Department of Veterans Affairs to members of the 
+              Armed Forces.
+Sec. 363. Department of Veterans Affairs screening mechanism to detect 
+              incidents of domestic abuse.
+Sec. 364. Reports on military sexual trauma and domestic abuse.
+
+            Subtitle G--Reproductive Treatment and Services
+
+Sec. 371. Clarification that fertility counseling and treatment are 
+              medical services which the Secretary may furnish to 
+              veterans like other medical services.
+Sec. 372. Reproductive treatment and care for spouses and surrogates of 
+              veterans.
+Sec. 373. Adoption assistance for severely wounded veterans.
+Sec. 374. Regulations on furnishing of fertility counseling and 
+              treatment and adoption assistance by Department of 
+              Veterans Affairs.
+Sec. 375. Coordination between Department of Veterans Affairs and 
+              Department of Defense on furnishing of fertility 
+              counseling and treatment.
+Sec. 376. Facilitation of reproduction and infertility research.
+Sec. 377. Annual report on provision of fertility counseling and 
+              treatment furnished by Department of Veterans Affairs.
+Sec. 378. Program on assistance for child care for certain veterans.
+Sec. 379. Counseling in retreat settings for women veterans newly 
+              separated from service in the Armed Forces.
+
+               Subtitle H--Major Medical Facility Leases
+
+Sec. 381. Authorization of major medical facility leases.
+
+[[Page 3155]]
+
+Sec. 382. Budgetary treatment of Department of Veterans Affairs major 
+              medical facilities leases.
+
+                TITLE IV--EMPLOYMENT AND RELATED MATTERS
+
+Subtitle A--Training and Other Services for Veterans Seeking Employment
+
+Sec. 401. Reauthorization of veterans retraining assistance program.
+Sec. 402. Extension of authority of Secretary of Veterans Affairs to 
+              provide rehabilitation and vocational benefits to members 
+              of Armed Forces with severe injuries or illnesses.
+Sec. 403. Extension of additional rehabilitation programs for persons 
+              who have exhausted rights to unemployment benefits under 
+              State law.
+Sec. 404. Unified employment portal for veterans.
+Sec. 405. Report on unified Government Internet portal for veterans on 
+              jobs available through the Federal Government.
+Sec. 406. Information on disability-related employment and education 
+              protections in Transition Assistance Program.
+
+ Subtitle B--Employment of Veterans and Recognition of Veteran Status 
+               With Respect to Employment Related Matters
+
+Sec. 411. Employment of veterans with the Federal Government.
+Sec. 412. State recognition of military experience of veterans in 
+              issuing licenses and credentials to veterans.
+Sec. 413. Grants to hire veterans as first responders.
+Sec. 414. Employment of veterans as evaluation factor in the awarding 
+              of Federal contracts.
+Sec. 415. Report on discrimination against members of reserve 
+              components of Armed Forces and veterans in civilian labor 
+              market.
+
+                Subtitle C--Program on Career Transition
+
+Sec. 421. Program on provision of career transition services to young 
+              veterans.
+
+Subtitle D--Improving Employment and Reemployment Rights of Members of 
+                         the Uniformed Services
+
+Sec. 431. Enforcement of rights of members of uniformed services with 
+              respect to States and private employers.
+Sec. 432. Suspension, termination, or debarment of contractors for 
+              repeated violations of employment or reemployment rights 
+              of members of uniformed services.
+Sec. 433. Subpoena power for Special Counsel in enforcement of 
+              employment and reemployment rights of members of 
+              uniformed services with respect to Federal executive 
+              agencies.
+Sec. 434. Issuance and service of civil investigative demands by 
+              Attorney General.
+
+                   Subtitle E--Small Business Matters
+
+Sec. 441. Expansion of contracting goals and preferences of Department 
+              of Veterans Affairs to include conditionally owned small 
+              business concerns 100 percent owned by veterans.
+Sec. 442. Modification of treatment under contracting goals and 
+              preferences of Department of Veterans Affairs for small 
+              businesses owned by veterans of small businesses after 
+              death of disabled veteran owners.
+Sec. 443. Treatment of businesses after deaths of servicemember-owners 
+              for purposes of Department of Veterans Affairs 
+              contracting goals and preferences.
+Sec. 444. Special rule for treatment under contracting goals and 
+              preferences of Department of Veterans Affairs of small 
+              business concerns licensed in community property States.
+Sec. 445. Report on assistance for veterans in obtaining training on 
+              purchasing and operating a franchise.
+
+        TITLE V--ACCOUNTABILITY AND ADMINISTRATIVE IMPROVEMENTS
+
+Sec. 501. Administration of Veterans Integrated Service Networks.
+Sec. 502. Regional support centers for Veterans Integrated Service 
+              Networks.
+Sec. 503. Commission on Capital Planning for Department of Veterans 
+              Affairs Medical Facilities.
+Sec. 504. Advance appropriations for certain accounts of the Department 
+              of Veterans Affairs.
+Sec. 505. Public access to Department of Veterans Affairs research and 
+              data sharing between Departments.
+Sec. 506. Assessment by Comptroller General of the United States of 
+              information made available by Veterans Benefits 
+              Administration.
+Sec. 507. Comptroller general report on advisory committees of the 
+              Department of Veterans Affairs.
+
+     TITLE VI--IMPROVEMENT OF PROCESSING OF CLAIMS FOR COMPENSATION
+
+           Subtitle A--Claims Based on Military Sexual Trauma
+
+Sec. 601. Medical examination and opinion for disability compensation 
+              claims based on military sexual trauma.
+Sec. 602. Case representative officers for military sexual trauma 
+              support.
+Sec. 603. Report on standard of proof for service-connection of mental 
+              health conditions related to military sexual trauma.
+Sec. 604. Reports on claims for disabilities incurred or aggravated by 
+              military sexual trauma.
+
+      Subtitle B--Claims for Dependency and Indemnity Compensation
+
+Sec. 611. Program on treatment of certain applications for dependency 
+              and indemnity compensation as fully developed claims.
+Sec. 612. Report by Secretary of Veterans Affairs on improving 
+              timeliness and accuracy of administration of claims for 
+              dependency and indemnity compensation and pension for 
+              surviving spouses and children.
+
+              Subtitle C--Agency of Original Jurisdiction
+
+Sec. 621. Working group to improve employee work credit and work 
+              management systems of Veterans Benefits Administration in 
+              an electronic environment.
+Sec. 622. Task force on retention and training of Department of 
+              Veterans Affairs claims processors and adjudicators.
+Sec. 623. Reports on requests by the Department of Veterans Affairs for 
+              records of other Federal agencies.
+Sec. 624. Recognition of representatives of Indian tribes in the 
+              preparation, presentation, and prosecution of claims 
+              under laws administered by the Secretary of Veterans 
+              Affairs.
+Sec. 625. Program on participation of local and tribal governments in 
+              improving quality of claims for disability compensation 
+              submitted to Department of Veterans Affairs.
+Sec. 626. Department of Veterans Affairs notice of average times for 
+              processing compensation claims.
+Sec. 627. Quarterly reports on progress of Department of Veterans 
+              Affairs in eliminating backlog of claims for compensation 
+              that have not been adjudicated.
+Sec. 628. Reports on use of existing authorities to expedite benefits 
+              decisions.
+Sec. 629. Reports on Department disability medical examinations and 
+              prevention of unnecessary medical examinations.
+
+    Subtitle D--Board of Veterans' Appeals and Court of Appeals for 
+                            Veterans Claims
+
+Sec. 631. Treatment of certain misfiled documents as a notice of appeal 
+              to the Court of Appeals for Veterans Claims.
+Sec. 632. Determination of manner of appearance for hearings before 
+              Board of Veterans' Appeals.
+
+                      TITLE VII--OUTREACH MATTERS
+
+Sec. 701. Program to increase coordination of outreach efforts between 
+              the Department of Veterans Affairs and Federal, State, 
+              and local agencies and nonprofit organizations.
+Sec. 702. Cooperative agreements between Secretary of Veterans Affairs 
+              and States on outreach activities.
+Sec. 703. Advisory committee on outreach activities of Department of 
+              Veterans Affairs.
+Sec. 704. Advisory boards on outreach activities of Department of 
+              Veterans Affairs relating to health care.
+Sec. 705. Modification of requirement for periodic reports to Congress 
+              on outreach activities of Department of Veterans Affairs.
+Sec. 706. Budget transparency for outreach activities of Department of 
+              Veterans Affairs.
+
+TITLE VIII--ENHANCEMENT OF RIGHTS UNDER SERVICEMEMBERS CIVIL RELIEF ACT
+
+Sec. 801. Modification of period determining which actions are covered 
+              under stay of proceedings and adjustment of obligation 
+              protections concerning mortgages and trust deeds of 
+              members of uniformed services.
+Sec. 802. Protections for members of uniformed services regarding 
+              professional licenses.
+Sec. 803. Prohibition on denial of credit because of eligibility for 
+              protection.
+
+[[Page 3156]]
+
+Sec. 804. Interest rate limitation on debt entered into during military 
+              service to consolidate or refinance student loans 
+              incurred before military service.
+Sec. 805. Termination of residential leases after assignment or 
+              relocation to quarters of United States or housing 
+              facility under jurisdiction of uniformed service.
+Sec. 806. Protection of surviving spouse with respect to mortgage 
+              foreclosure.
+Sec. 807. Improved protection of members of uniformed services against 
+              default judgments.
+Sec. 808. Clarification regarding application of enforcement authority 
+              of Attorney General and private right of action under 
+              Servicemembers Civil Relief Act.
+Sec. 809. Clerical amendments.
+
+                        TITLE IX--OTHER MATTERS
+
+Sec. 901. Repeal of certain reductions made by Bipartisan Budget Act of 
+              2013.
+Sec. 902. Consideration by Secretary of Veterans Affairs of resources 
+              disposed of for less than fair market value by 
+              individuals applying for pension.
+Sec. 903. Extension of reduced pension for certain veterans covered by 
+              medicaid plans for services furnished by nursing 
+              facilities.
+Sec. 904. Conditions on award of per diem payments by Secretary of 
+              Veterans Affairs for provision of housing or services to 
+              homeless veterans.
+Sec. 905. Exception to certain recapture requirements and treatment of 
+              contracts and grants with State homes with respect to 
+              care for homeless veterans.
+Sec. 906. Extended period for scheduling of medical exams for veterans 
+              receiving temporary disability ratings for severe mental 
+              disorders.
+Sec. 907. Authority to issue Veterans ID Cards.
+Sec. 908. Honoring as veterans certain persons who performed service in 
+              the reserve components of the Armed Forces.
+Sec. 909. Extension of authority for Secretary of Veterans Affairs to 
+              obtain information from Secretary of Treasury and 
+              Commissioner of Social Security for income verification 
+              purposes.
+Sec. 910. Extension of authority for Secretary of Veterans Affairs to 
+              issue and guarantee certain loans.
+Sec. 911. Review of determination of certain service in Philippines 
+              during World War II.
+Sec. 912. Review of determination of certain service of merchant 
+              mariners during World War II.
+Sec. 913. Report on Laotian military support of Armed Forces of the 
+              United States during Vietnam War.
+Sec. 914. Report on practices of the Department of Veterans Affairs to 
+              adequately provide services to veterans with hearing 
+              loss.
+Sec. 915. Report on joint programs of Department of Veterans Affairs 
+              and Department of Defense with respect to hearing loss of 
+              members of the Armed Forces and veterans.
+Sec. 916. Limitation on aggregate amount of bonuses payable to 
+              personnel of the Department of Veterans Affairs during 
+              fiscal year 2014.
+Sec. 917. Amendment to OCO adjustments.
+
+     SEC. 2. REFERENCES TO TITLE 38, UNITED STATES CODE.
+
+       Except as otherwise expressly provided, whenever in this 
+     Act an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of title 38, United States Code.
+
+     SEC. 3. BUDGETARY EFFECTS.
+
+       (a) Paygo Scorecard.--The budgetary effects of this Act 
+     shall not be entered on either PAYGO scorecard maintained 
+     pursuant to section 4(d) of the Statutory Pay-As-You-Go Act 
+     of 2010 (2 U.S.C. 933(d)).
+       (b) Senate Paygo Scorecard.--The budgetary effects of this 
+     Act shall not be entered on any PAYGO scorecard maintained 
+     for purposes of section 201 of S. Con. Res. 21 (110th 
+     Congress).
+
+                TITLE I--SURVIVOR AND DEPENDENT MATTERS
+
+     SEC. 101. EXTENSION OF INITIAL PERIOD FOR INCREASED 
+                   DEPENDENCY AND INDEMNITY COMPENSATION FOR 
+                   SURVIVING SPOUSES WITH CHILDREN.
+
+       (a) In General.--Section 1311(f)(2) is amended by striking 
+     ``two-year'' and inserting ``three-year''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect as of September 30, 2014, and shall apply 
+     to any surviving spouse who was eligible for or in receipt of 
+     benefits under section 1311(f) of title 38, United States 
+     Code, on or after the date of the enactment of this Act.
+
+     SEC. 102. ELIGIBILITY FOR DEPENDENCY AND INDEMNITY 
+                   COMPENSATION, EDUCATIONAL ASSISTANCE, AND 
+                   HOUSING LOANS FOR SURVIVING SPOUSES WHO REMARRY 
+                   AFTER AGE 55.
+
+       (a) In General.--Paragraph (2)(B) of section 103(d) is 
+     amended to read as follows:
+       ``(B) The remarriage after age 55 of the surviving spouse 
+     of a veteran shall not bar the furnishing of benefits 
+     specified in paragraph (5) to such person as the surviving 
+     spouse of the veteran.''.
+       (b) Conforming Amendment.--Paragraph (5) of such section is 
+     amended by striking ``Paragraphs (2)(A)'' and inserting 
+     ``Paragraphs (2)''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 103. EXTENSION OF MARRIAGE DELIMITING DATE FOR SURVIVING 
+                   SPOUSES OF PERSIAN GULF WAR VETERANS TO QUALIFY 
+                   FOR DEATH PENSION.
+
+       Section 1541(f)(1)(E) is amended by striking ``January 1, 
+     2001'' and inserting ``the date that is 10 years and one day 
+     after the date on which the Persian Gulf War was terminated, 
+     as prescribed by Presidential proclamation or by law''.
+
+     SEC. 104. MAKING EFFECTIVE DATE PROVISION CONSISTENT WITH 
+                   PROVISION FOR BENEFITS ELIGIBILITY OF A 
+                   VETERAN'S CHILD BASED UPON TERMINATION OF 
+                   REMARRIAGE BY ANNULMENT.
+
+       Section 5110(l) is amended by striking ``, or of an award 
+     or increase of benefits based on recognition of a child upon 
+     termination of the child's marriage by death or divorce,''.
+
+     SEC. 105. EXPANSION OF MARINE GUNNERY SERGEANT JOHN DAVID FRY 
+                   SCHOLARSHIP.
+
+       (a) Expansion of Entitlement.--Subsection (b)(9) of section 
+     3311 is amended by inserting ``or spouse'' after ``child''.
+       (b) Limitation and Election on Certain Benefits.--
+     Subsection (f) of such section is amended--
+       (1) by redesignating paragraph (2) as paragraph (4); and
+       (2) by inserting after paragraph (1) the following new 
+     paragraphs:
+       ``(2) Limitation.--The entitlement of an individual to 
+     assistance under subsection (a) pursuant to paragraph (9) of 
+     subsection (b) because the individual was a spouse of a 
+     person described in such paragraph shall expire on the 
+     earlier of--
+       ``(A) the date that is 15 years after the date on which the 
+     person died; and
+       ``(B) the date on which the individual remarries.
+       ``(3) Election on receipt of certain benefits.--A surviving 
+     spouse entitled to assistance under subsection (a) pursuant 
+     to paragraph (9) of subsection (b) who is also entitled to 
+     educational assistance under chapter 35 of this title may not 
+     receive assistance under both this section and such chapter, 
+     but shall make an irrevocable election (in such form and 
+     manner as the Secretary may prescribe) under which section or 
+     chapter to receive educational assistance.''.
+       (c) Conforming Amendment.--Section 3321(b)(4) is amended--
+       (1) by striking ``an individual'' and inserting ``a 
+     child''; and
+       (2) by striking ``such individual's'' each time it appears 
+     and inserting ``such child's''.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is two years after the 
+     date of the enactment of this Act.
+
+     SEC. 106. EXPANSION OF YELLOW RIBBON G.I. EDUCATION 
+                   ENHANCEMENT PROGRAM.
+
+       (a) In General.--Section 3317(a) is amended by striking 
+     ``in paragraphs (1) and (2)'' and inserting ``in paragraphs 
+     (1), (2), and (9)''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall apply with respect to academic terms beginning after 
+     July 1, 2015.
+
+     SEC. 107. BENEFITS FOR CHILDREN OF CERTAIN THAILAND SERVICE 
+                   VETERANS BORN WITH SPINA BIFIDA.
+
+       (a) In General.--Subchapter III of chapter 18 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1822. Benefits for children of certain Thailand 
+       service veterans born with spina bifida
+
+       ``(a) Benefits Authorized.--The Secretary may provide to 
+     any child of a veteran of covered service in Thailand who is 
+     suffering from spina bifida the health care, vocational 
+     training and rehabilitation, and monetary allowance required 
+     to be paid to a child of a Vietnam veteran who is suffering 
+     from spina bifida under subchapter I of this chapter as if 
+     such child of a veteran of covered service in Thailand were a 
+     child of a Vietnam veteran who is suffering from spina bifida 
+     under such subchapter.
+       ``(b) Spina Bifida Conditions Covered.--This section 
+     applies with respect to all forms and manifestations of spina 
+     bifida, except spina bifida occulta.
+
+[[Page 3157]]
+
+       ``(c) Veteran of Covered Service in Thailand.--For purposes 
+     of this section, a veteran of covered service in Thailand is 
+     any individual, without regard to the characterization of 
+     that individual's service, who--
+       ``(1) served in the active military, naval, or air service 
+     in Thailand, as determined by the Secretary in consultation 
+     with the Secretary of Defense, during the period beginning on 
+     January 9, 1962, and ending on May 7, 1975; and
+       ``(2) is determined by the Secretary, in consultation with 
+     the Secretary of Defense, to have been exposed to a herbicide 
+     agent during such service in Thailand.
+       ``(d) Herbicide Agent.--For purposes of this section, the 
+     term `herbicide agent' means a chemical in a herbicide used 
+     in support of United States and allied military operations in 
+     Thailand, as determined by the Secretary in consultation with 
+     the Secretary of Defense, during the period beginning on 
+     January 9, 1962, and ending on May 7, 1975.''.
+       (b) Conforming Amendment to Definition of ``Child''.--
+     Section 1831(1) is amended--
+       (1) in subparagraph (B)--
+       (A) by striking ``subchapter III of this chapter'' and 
+     inserting ``section 1821 of this title''; and
+       (B) in clause (i), by striking ``section 1821 of this 
+     title'' and inserting ``that section''; and
+       (2) by adding at the end the following new subparagraph:
+       ``(C) For purposes of section 1822 of this title, an 
+     individual, regardless of age or marital status, who--
+       ``(i) is the natural child of a veteran of covered service 
+     in Thailand (as determined for purposes of that section); and
+       ``(ii) was conceived after the date on which that veteran 
+     first entered service described in subsection (c) of that 
+     section.''.
+       (c) Clerical Amendments.--
+       (1) Subchapter heading.--The heading for subchapter III of 
+     chapter 18 is amended by inserting ``AND THAILAND'' after 
+     ``KOREA''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 18 is amended--
+       (A) by striking the item relating to subchapter III and 
+     inserting the following new item:
+
+   ``subchapter iii--children of certain korea and thailand service 
+                   veterans born with spina bifida'';
+
+     and
+       (B) by inserting after the item relating to section 1821 
+     the following new item:
+
+``1822. Benefits for children of certain Thailand service veterans born 
+              with spina bifida.''.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 108. PROGRAM ON ASSISTED LIVING FOR CHILDREN OF VIETNAM 
+                   VETERANS AND CERTAIN KOREA SERVICE VETERANS 
+                   BORN WITH SPINA BIFIDA.
+
+       (a) Program.--Commencing not later than 180 days after the 
+     date on which this section takes effect, the Secretary of 
+     Veterans Affairs shall carry out a program to assess the 
+     feasibility and advisability of providing assisted living, 
+     group home care, or similar services in lieu of nursing home 
+     care to covered individuals.
+       (b) Covered Individuals.--For purposes of this section, a 
+     covered individual is any individual who is entitled to 
+     health care under subchapter I or III of chapter 18 of title 
+     38, United States Code.
+       (c) Duration.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the program shall be carried out during the 
+     three-year period beginning on the date of the commencement 
+     of the program.
+       (2) Continuation.--Subject to paragraph (3), the Secretary 
+     may continue the program for an additional two-year period as 
+     the Secretary considers appropriate.
+       (3) Termination.--The program may not operate after the 
+     date that is five years after the date of the commencement of 
+     the program.
+       (d) Scope of Services and Program.--Under the program, the 
+     Secretary shall provide covered individuals with integrated, 
+     comprehensive services, including the following:
+       (1) Assisted living, group home care, or such other similar 
+     services as the Secretary considers appropriate.
+       (2) Transportation services.
+       (3) Such other services as the Secretary considers 
+     appropriate for the care of covered individuals under the 
+     program.
+       (e) Program Requirements.--In carrying out the program, the 
+     Secretary shall--
+       (1) inform all covered individuals of the services 
+     available under the program;
+       (2) enter into agreements with appropriate providers of 
+     assisted living, group home care, or other similar services 
+     for provision of services under the program; and
+       (3) determine the appropriate number of covered individuals 
+     to be enrolled in the program and criteria for such 
+     enrollment.
+       (f) Reports.--
+       (1) Preliminary reports.--
+       (A) In general.--Not later than one year after the date of 
+     the commencement of the program and, if the program is 
+     continued under subsection (c)(2), not later than three years 
+     after the date of the commencement of the program, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the program.
+       (B) Contents.--Each report submitted under subparagraph (A) 
+     shall include the following:
+       (i) A description of the implementation and operation of 
+     the program.
+       (ii) The number of covered individuals receiving benefits 
+     under the program.
+       (iii) An analysis that compares the costs of furnishing 
+     assisted living, group home care, or similar services with 
+     the costs of furnishing nursing home care.
+       (iv) An analysis of the costs and benefits under the 
+     program.
+       (v) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (vi) Such recommendations for the continuation or expansion 
+     of the program as the Secretary may have.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (B) Contents.--The report submitted under subparagraph (A) 
+     shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (ii) Such recommendations for the continuation or expansion 
+     of the program as the Secretary may have.
+       (g) Funding.--Amounts to carry out the program shall be 
+     derived from amounts appropriated or otherwise made available 
+     for the furnishing of nursing home care under chapter 18 of 
+     title 38, United States Code.
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 109. PROGRAM ON GRIEF COUNSELING IN RETREAT SETTINGS FOR 
+                   SURVIVING SPOUSES OF MEMBERS OF THE ARMED 
+                   FORCES WHO DIE WHILE SERVING ON ACTIVE DUTY IN 
+                   THE ARMED FORCES.
+
+       (a) Program Required.--
+       (1) In general.--Commencing not later than 180 days after 
+     the date on which this section takes effect, the Secretary of 
+     Veterans Affairs shall carry out, through the Readjustment 
+     Counseling Service of the Veterans Health Administration, a 
+     program to assess the feasibility and advisability of 
+     providing grief counseling services described in subsection 
+     (b) in group retreat settings to surviving spouses of members 
+     of the Armed Forces who die while serving on active duty in 
+     the Armed Forces who would, as determined by the Readjustment 
+     Counseling Service, benefit from the services provided under 
+     the program.
+       (2) Participation at election of surviving spouse.--The 
+     participation of a surviving spouse in the program under this 
+     section shall be at the election of the surviving spouse.
+       (b) Covered Services.--The services provided to a surviving 
+     spouse under the program shall include the following:
+       (1) Information and counseling on coping with grief.
+       (2) Information about benefits and services available to 
+     surviving spouses under laws administered by the Secretary.
+       (3) Such other information and counseling as the Secretary 
+     considers appropriate to assist a surviving spouse under the 
+     program with adjusting to the death of a spouse.
+       (c) Events.--The Secretary shall carry out the program at 
+     not fewer than six events as follows:
+       (1) Three events at which surviving spouses with dependent 
+     children are encouraged to bring their children.
+       (2) Three events at which surviving spouses with dependent 
+     children are not encouraged to bring their children.
+       (d) Duration.--The program shall be carried out during the 
+     two-year period beginning on the date of the commencement of 
+     the program.
+       (e) Reports.--
+       (1) In general.--Not later than 180 days after the 
+     completion of the first year of the program and not later 
+     than 180 days after the completion of the program, the 
+     Secretary shall submit to Congress a report on the program.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall contain the findings and conclusions of the Secretary 
+     as a result of the program, and shall include such 
+     recommendations for the continuation or expansion of the 
+     program as the Secretary considers appropriate.
+       (f) Definitions.--In this section, the terms ``active 
+     duty'', ``Armed Forces'', and ``surviving spouse'' have the 
+     meanings given such terms in section 101 of title 38, United 
+     States Code.
+       (g) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 110. PROGRAM EVALUATION ON SURVIVORS' AND DEPENDENTS' 
+                   EDUCATIONAL ASSISTANCE AUTHORITIES.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     enter into a contract with
+
+[[Page 3158]]
+
+     an appropriate private sector entity to conduct a program 
+     evaluation of the authorities for survivors' and dependents' 
+     educational assistance under chapter 35 of title 38, United 
+     States Code.
+       (b) Report.--Not later than six months after the entry into 
+     the contract required by subsection (a), the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth the results of the 
+     program evaluation conducted pursuant to the contract, 
+     together with such comments on the results of the program 
+     evaluation as the Secretary considers appropriate.
+       (c) Effective Date.--This section shall take effect one 
+     year after the date of the enactment of this Act.
+
+                      TITLE II--EDUCATION MATTERS
+
+     SEC. 201. APPROVAL OF COURSES OF EDUCATION PROVIDED BY PUBLIC 
+                   INSTITUTIONS OF HIGHER LEARNING FOR PURPOSES OF 
+                   ALL-VOLUNTEER FORCE EDUCATIONAL ASSISTANCE 
+                   PROGRAM AND POST-9/11 EDUCATIONAL ASSISTANCE 
+                   CONDITIONAL ON IN-STATE TUITION RATE FOR 
+                   VETERANS.
+
+       (a) In General.--Section 3679 is amended by adding at the 
+     end the following new subsection:
+       ``(c)(1) Notwithstanding any other provision of this 
+     chapter and subject to paragraphs (3) through (6), the 
+     Secretary shall disapprove a course of education provided by 
+     a public institution of higher learning to a covered 
+     individual pursuing a course of education with educational 
+     assistance under chapter 30 or 33 of this title while living 
+     in the State in which the public institution of higher 
+     learning is located if the institution charges tuition and 
+     fees for that course for the covered individual at a rate 
+     that is higher than the rate the institution charges for 
+     tuition and fees for that course for residents of the State 
+     in which the institution is located, regardless of the 
+     covered individual's State of residence.
+       ``(2) For purposes of this subsection, a covered individual 
+     is any individual as follows:
+       ``(A) A veteran who was discharged or released from a 
+     period of not fewer than 90 days of service in the active 
+     military, naval, or air service less than three years before 
+     the date of enrollment in the course concerned.
+       ``(B) An individual who is entitled to assistance under 
+     section 3311(b)(9) or 3319 of this title by virtue of such 
+     individual's relationship to a veteran described in 
+     subparagraph (A).
+       ``(3) If after enrollment in a course of education that is 
+     subject to disapproval under paragraph (1) by reason of 
+     paragraph (2)(A) or (2)(B) a covered individual pursues one 
+     or more courses of education at the same public institution 
+     of higher learning while remaining continuously enrolled 
+     (other than during regularly scheduled breaks between 
+     courses, semesters or terms) at that institution of higher 
+     learning, any course so pursued by the covered individual at 
+     that institution of higher learning while so continuously 
+     enrolled shall also be subject to disapproval under paragraph 
+     (1).
+       ``(4) It shall not be grounds to disapprove a course of 
+     education under paragraph (1) if a public institution of 
+     higher learning requires a covered individual pursuing a 
+     course of education at the institution to demonstrate an 
+     intent, by means other than satisfying a physical presence 
+     requirement, to establish residency in the State in which the 
+     institution is located, or to satisfy other requirements not 
+     relating to the establishment of residency, in order to be 
+     charged tuition and fees for that course at a rate that is 
+     equal to or less than the rate the institution charges for 
+     tuition and fees for that course for residents of the State.
+       ``(5) The Secretary may waive such requirements of 
+     paragraph (1) as the Secretary considers appropriate.
+       ``(6) Disapproval under paragraph (1) shall apply only with 
+     respect to educational assistance under chapters 30 and 33 of 
+     this title.''.
+       (b) Effective Date.--Subsection (c) of section 3679 of 
+     title 38, United States Code (as added by subsection (a) of 
+     this section), shall apply with respect to educational 
+     assistance provided for pursuit of programs of education 
+     during academic terms that begin after July 1, 2015, through 
+     courses of education that commence on or after that date.
+
+     SEC. 202. EXTENSION AND EXPANSION OF AUTHORITY FOR CERTAIN 
+                   QUALIFYING WORK-STUDY ACTIVITIES FOR PURPOSES 
+                   OF THE EDUCATIONAL ASSISTANCE PROGRAMS OF THE 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Extension of Expiring Current Authority.--Section 
+     3485(a)(4) is amended by striking ``June 30, 2013'' each 
+     place it appears and inserting ``June 30, 2015''.
+       (b) Expansion to Outreach Services Provided Through 
+     Congressional Offices.--Such section is further amended by 
+     adding at the end the following new subparagraph:
+       ``(K) During the period beginning on June 30, 2013, and 
+     ending on June 30, 2015, the following activities carried out 
+     at the offices of Members of Congress for such Members:
+       ``(i) The distribution of information to members of the 
+     Armed Forces, veterans, and their dependents about the 
+     benefits and services under laws administered by the 
+     Secretary and other appropriate governmental and 
+     nongovernmental programs.
+       ``(ii) The preparation and processing of papers and other 
+     documents, including documents to assist in the preparation 
+     and presentation of claims for benefits under laws 
+     administered by the Secretary.''.
+       (c) Annual Reports.--
+       (1) In general.--Not later than June 30 of 2014 and 2015, 
+     the Secretary of Veterans Affairs shall submit to Congress a 
+     report on the work-study allowances paid under paragraph (1) 
+     of section 3485(a) of title 38, United States Code, during 
+     the most recent one-year period for qualifying work-study 
+     activities described in paragraph (4) of such section, as 
+     amended by subsections (a) and (b) of this section.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall include, for the year covered by such report, the 
+     following:
+       (A) A description of the recipients of such work-study 
+     allowances.
+       (B) A list of the locations where qualifying work-study 
+     activities were carried out.
+       (C) A description of the outreach conducted by the 
+     Secretary to increase awareness of the eligibility of such 
+     work-study activities for such work-study allowances.
+
+     SEC. 203. PROHIBITIONS RELATING TO REFERENCES TO GI BILL AND 
+                   POST-9/11 GI BILL.
+
+       (a) In General.--Subchapter II of chapter 36 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 3697B. Prohibition relating to references to GI Bill 
+       and Post-9/11 GI Bill
+
+       ``(a) Prohibition.--(1) No person may, except with the 
+     written permission of the Secretary, use the words and 
+     phrases covered by this subsection in connection with any 
+     promotion, goods, services, or commercial activity in a 
+     manner that reasonably and falsely suggests that such use is 
+     approved, endorsed, or authorized by the Department or any 
+     component thereof.
+       ``(2) For purposes of this subsection, the words and 
+     phrases covered by this subsection are as follows:
+       ``(A) `GI Bill'.
+       ``(B) `Post-9/11 GI Bill'.
+       ``(3) A determination that a use of one or more words and 
+     phrases covered by this subsection in connection with a 
+     promotion, goods, services, or commercial activity is not a 
+     violation of this subsection may not be made solely on the 
+     ground that such promotion, goods, services, or commercial 
+     activity includes a disclaimer of affiliation with the 
+     Department or any component thereof.
+       ``(b) Enforcement by Attorney General.--(1) When any person 
+     is engaged or is about to engage in an act or practice which 
+     constitutes or will constitute conduct prohibited by 
+     subsection (a), the Attorney General may initiate a civil 
+     proceeding in a district court of the United States to enjoin 
+     such act or practice.
+       ``(2) Such court may, at any time before final 
+     determination, enter such restraining orders or prohibitions, 
+     or take such other action as is warranted, to prevent injury 
+     to the United States or to any person or class of persons for 
+     whose protection the action is brought.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 36 is amended by inserting after the 
+     item relating to section 3697A the following new item:
+
+``3697B. Prohibition relating to references to GI Bill and Post-9/11 GI 
+              Bill.''.
+
+     SEC. 204. REVIEW OF UTILIZATION OF EDUCATIONAL ASSISTANCE TO 
+                   PURSUE PROGRAMS OF TRAINING ON THE JOB AND 
+                   PARTICIPATING EMPLOYERS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall commence a review of--
+       (1) the utilization of educational assistance under laws 
+     administered by the Secretary of Veterans Affairs to pursue 
+     programs of training on the job (other than programs of 
+     apprenticeship); and
+       (2) the availability of such programs to individuals 
+     seeking to pursue such programs with such educational 
+     assistance.
+       (b) Report.--
+       (1) In general.--Not later than two years after the date on 
+     which the Secretary commences the review required by 
+     subsection (a), the Secretary shall submit to Congress a 
+     report on such review.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The extent of utilization as described in paragraph (1) 
+     of subsection (a).
+       (B) An assessment of the availability of programs as 
+     described in paragraph (2) of such subsection.
+       (C) A description of any barriers the Secretary has 
+     identified to greater utilization of educational assistance 
+     for pursuit of a program of training on the job or 
+     availability of such programs.
+       (D) Such recommendations for legislative or administrative 
+     action as the Secretary may have to increase or decrease such 
+     utilization or availability.
+       (E) Such other matters as the Secretary considers 
+     appropriate.
+
+     SEC. 205. REPORT ON DEBT MANAGEMENT AND COLLECTION.
+
+       (a) Report.--Not later than one year after the effective 
+     date specified in subsection (c),
+
+[[Page 3159]]
+
+     the Comptroller General of the United States shall submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on processes used by the Department 
+     of Veterans Affairs to identify and resolve cases of 
+     incorrect payments associated with educational assistance 
+     under chapters 30 and 33 of title 38, United States Code.
+       (b) Issues Addressed.--The report required by subsection 
+     (a) shall, to the extent possible, address the following:
+       (1) The effectiveness of the processes referred to in 
+     subsection (a) in identifying and resolving incorrect 
+     payments associated with educational assistance under 
+     chapters 30 and 33 of title 38, United States Code.
+       (2) The accuracy of overpayment information provided to 
+     veterans by the Education Service and Debt Management Center 
+     of the Department.
+       (3) How well the Debt Management Center of the Department 
+     communicates and works with veterans to resolve disputed debt 
+     amounts.
+       (4) How the payment and debt collection processes of the 
+     Department compare to comparable programs in other Federal 
+     agencies.
+       (5) Any recommendations to improve the payment and debt 
+     collection processes of the Department that the Comptroller 
+     General considers appropriate.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 206. RESTORATION OF PRIOR REPORTING FEE MULTIPLIERS.
+
+       Section 3684(c) is amended--
+       (1) by striking ``$12'' and inserting ``$7''; and
+       (2) by striking ``$15'' and inserting ``$11''.
+
+                     TITLE III--HEALTH CARE MATTERS
+
+      Subtitle A--Expansion and Improvements of Benefits Generally
+
+     SEC. 301. REQUIREMENT FOR ENROLLMENT IN PATIENT ENROLLMENT 
+                   SYSTEM OF THE DEPARTMENT OF VETERANS AFFAIRS OF 
+                   CERTAIN VETERANS ELIGIBLE FOR ENROLLMENT BY LAW 
+                   BUT NOT CURRENTLY PERMITTED TO ENROLL.
+
+       (a) Requirement for Enrollment.--Section 1705 is amended by 
+     adding at the end the following new subsection:
+       ``(d)(1) The Secretary shall provide for the enrollment in 
+     the patient enrollment system of veterans specified in 
+     paragraph (2) by not later than December 31, 2014.
+       ``(2) Veterans specified in this paragraph are as follows:
+       ``(A) Veterans with noncompensable service-connected 
+     disabilities rated as zero percent disabling who--
+       ``(i) are not otherwise permitted to enroll in the system 
+     as of the date of the enactment of the Comprehensive Veterans 
+     Health and Benefits and Military Retirement Pay Restoration 
+     Act of 2014; and
+       ``(ii) as of the date of enrollment under this section, do 
+     not have access to health insurance except through a health 
+     exchange established pursuant to section 1311 of the Patient 
+     Protection and Affordable Care Act (42 U.S.C. 18031).
+       ``(B) Veterans without service-connected disability who--
+       ``(i) are not otherwise permitted to enroll in the system 
+     as of the date of the enactment of the Comprehensive Veterans 
+     Health and Benefits and Military Retirement Pay Restoration 
+     Act of 2014; and
+       ``(ii) as of the date of enrollment under this section, do 
+     not have access to health insurance except through a health 
+     exchange established pursuant to section 1311 of the Patient 
+     Protection and Affordable Care Act.
+       ``(3) A veteran who, after enrolling in the patient 
+     enrollment system pursuant to this subsection, obtains access 
+     to health insurance other than through a health exchange 
+     shall remain enrolled in the patient enrollment system 
+     notwithstanding obtaining access to such health insurance.
+       ``(4) A veteran enrolled in the patient enrollment system 
+     pursuant to this subsection shall maintain the priority for 
+     care of the veteran at the time of enrollment unless and 
+     until a change in circumstances of the veteran results in a 
+     higher priority for care of the veteran under subsection 
+     (a).''.
+       (b) Verification of Eligibility for Enrollment.--
+       (1) Use of information on health insurance coverage.--
+       (A) In general.--Chapter 53 is amended by inserting after 
+     section 5318 the following new section:
+
+     ``Sec. 5319. Review of reporting of health insurance coverage
+
+       ``The Secretary shall notify each veteran who enrolls under 
+     subsection (d) of section 1705 of this title in the patient 
+     enrollment system of veterans under such section that 
+     information on the veteran's access to health insurance that 
+     is furnished to the Secretary for purposes of such enrollment 
+     may be compared with information obtained by the Secretary of 
+     the Treasury under section 6103(l)(23) of the Internal 
+     Revenue Code of 1986.''.
+       (B) Clerical amendment.--The table of sections at the 
+     beginning of chapter 53 is amended by adding at the end the 
+     following new item:
+
+``5319. Review of reporting of health insurance coverage.''.
+       (2) Disclosure of return information by internal revenue 
+     service.--Section 6103(l) of the Internal Revenue Code of 
+     1986 is amended by adding at the end the following new 
+     paragraph:
+       ``(23) Disclosure of certain return information for 
+     verification of eligibility of veterans for enrollment in 
+     department of veterans affairs patient enrollment system.--
+       ``(A) Return information from internal revenue service.--
+     The Secretary shall, upon written request, disclose current 
+     return information from returns under section 6055 with 
+     respect to minimum essential coverage of individuals to the 
+     Secretary of Veterans Affairs for the purposes of verifying 
+     the eligibility of veterans for enrollment in the patient 
+     enrollment system of the Department of Veterans Affairs under 
+     section 1705(d) of title 38.
+       ``(B) Restriction on disclosure.--The Secretary shall 
+     disclose return information under subparagraph (A) only for 
+     purposes of, and to the extent necessary in, verifying the 
+     eligibility of veterans to enroll in the patient enrollment 
+     system described in that subparagraph.
+       ``(C) Restriction on use of disclosed information.--Return 
+     information disclosed under subparagraph (A) may be used by 
+     the Secretary of Veterans Affairs only for the purposes of, 
+     and to the extent necessary in, verifying the eligibility of 
+     veterans to enroll in the patient enrollment system described 
+     in that subparagraph.''.
+       (c) Public Notice of Commencement of Enrollment.--The 
+     Secretary of Veterans Affairs shall publish in the Federal 
+     Register, and shall make available to the public on an 
+     Internet website of the Department of Veterans Affairs, a 
+     notice regarding the date on which veterans covered by 
+     subsection (d) of section 1705 of title 38, United States 
+     Code (as added by subsection (a) of this section), may 
+     commence enrollment in the patient enrollment system required 
+     by that section.
+
+     SEC. 302. FURTHER EXTENSION OF PERIOD OF ELIGIBILITY FOR 
+                   HEALTH CARE FOR VETERANS OF COMBAT SERVICE 
+                   DURING CERTAIN PERIODS OF HOSTILITIES AND WAR.
+
+       Section 1710(e)(3) is amended--
+       (1) in subparagraph (A), by striking ``the date that is 
+     five years before the date of the enactment of the National 
+     Defense Authorization Act for Fiscal Year 2008, after a 
+     period of five years'' and inserting ``January 27, 2003, 
+     after a period of 10 years''; and
+       (2) in subparagraph (B), by striking ``more than five 
+     years'' and all that follows and inserting ``before January 
+     28, 2003, and who did not enroll in the patient enrollment 
+     system under section 1705 of this title before January 28, 
+     2008, after January 27, 2018.''.
+
+     SEC. 303. EXTENSION TO ALL VETERANS WITH A SERIOUS SERVICE-
+                   CONNECTED DISABILITY OF ELIGIBILITY FOR 
+                   PARTICIPATION IN FAMILY CAREGIVER PROGRAM.
+
+       (a) In General.--Section 1720G(a)(2)(B) is amended by 
+     striking ``on or after September 11, 2001''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect on September 30, 2014.
+
+     SEC. 304. IMPROVED ACCESS TO APPROPRIATE IMMUNIZATIONS FOR 
+                   VETERANS.
+
+       (a) Inclusion of Recommended Adult Immunizations as Medical 
+     Services.--
+       (1) Covered benefit.--Subparagraph (F) of section 1701(9) 
+     is amended to read as follows:
+       ``(F) immunizations against infectious diseases, including 
+     each immunization on the recommended adult immunization 
+     schedule at the time such immunization is indicated on that 
+     schedule;''.
+       (2) Recommended adult immunization schedule defined.--
+     Section 1701 is amended by adding after paragraph (9) the 
+     following new paragraph:
+       ``(10) The term `recommended adult immunization schedule' 
+     means the schedule established (and periodically reviewed 
+     and, as appropriate, revised) by the Advisory Committee on 
+     Immunization Practices established by the Secretary of Health 
+     and Human Services and delegated to the Centers for Disease 
+     Control and Prevention.''.
+       (b) Inclusion of Recommended Adult Immunizations in Annual 
+     Report.--Section 1704(1)(A) is amended--
+       (1) in clause (i), by striking ``and'' at the end;
+       (2) in clause (ii), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by inserting after clause (ii) the following new 
+     clause:
+       ``(iii) to provide veterans each immunization on the 
+     recommended adult immunization schedule at the time such 
+     immunization is indicated on that schedule.''.
+       (c) Report to Congress.--
+       (1) In general.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the development and 
+     implementation by the Department of Veterans Affairs of 
+     quality measures and metrics, including targets for 
+     compliance, to ensure that veterans receiving medical 
+     services under chapter 17 of title 38, United States Code, 
+     receive each immunization on the recommended
+
+[[Page 3160]]
+
+     adult immunization schedule at the time such immunization is 
+     indicated on that schedule.
+       (2) Recommended adult immunization schedule defined.--In 
+     this subsection, the term ``recommended adult immunization 
+     schedule'' has the meaning given that term in section 
+     1701(10) of title 38, United States Code, as added by 
+     subsection (a)(2).
+       (3) Effective date.--This subsection shall take effect on 
+     the date that is one year after the date of the enactment of 
+     this Act.
+
+     SEC. 305. EXPANSION OF PROVISION OF CHIROPRACTIC CARE AND 
+                   SERVICES TO VETERANS.
+
+       (a) Program for Provision of Chiropractic Care and Services 
+     to Veterans.--Section 204(c) of the Department of Veterans 
+     Affairs Health Care Programs Enhancement Act of 2001 (Public 
+     Law 107-135; 115 Stat. 2459; 38 U.S.C. 1710 note) is 
+     amended--
+       (1) by inserting ``(1)'' before ``The program''; and
+       (2) by adding at the end the following new paragraph:
+       ``(2) The program shall be carried out at not fewer than 
+     two medical centers or clinics in each Veterans Integrated 
+     Service Network by not later than one year after the 
+     effective date specified in section 305(c) of the 
+     Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014, and at not fewer than 
+     50 percent of all medical centers in each Veterans Integrated 
+     Service Network by not later than two years after such 
+     effective date.''.
+       (b) Expanded Chiropractor Services Available to Veterans.--
+       (1) Medical services.--Paragraph (6) of section 1701 is 
+     amended by adding at the end the following new subparagraph:
+       ``(H) Chiropractic services.''.
+       (2) Rehabilitative services.--Paragraph (8) of such section 
+     is amended by inserting ``chiropractic,'' after 
+     ``counseling,''.
+       (3) Preventive health services.--Paragraph (9) of such 
+     section is amended--
+       (A) by redesignating subparagraphs (F) through (K) as 
+     subparagraphs (G) through (L), respectively; and
+       (B) by inserting after subparagraph (E) the following new 
+     subparagraph (F):
+       ``(F) periodic and preventive chiropractic examinations and 
+     services;''.
+       (c) Effective Date.--This section and the amendments made 
+     by this section shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 306. MODIFICATION OF COMMENCEMENT DATE OF PERIOD OF 
+                   SERVICE AT CAMP LEJEUNE, NORTH CAROLINA, FOR 
+                   ELIGIBILITY FOR HOSPITAL CARE AND MEDICAL 
+                   SERVICES IN CONNECTION WITH EXPOSURE TO 
+                   CONTAMINATED WATER.
+
+       (a) Modification.--Section 1710(e)(1)(F) is amended by 
+     striking ``January 1, 1957,'' and inserting ``August 1, 1953 
+     (or such earlier date for the commencement of exposure to 
+     contaminated water at Camp Lejeune as the Secretary, in 
+     consultation with the Agency for Toxic Substances and Disease 
+     Registry, shall specify),''.
+       (b) Publication.--The Secretary of Veterans Affairs shall 
+     publish in the Federal Register a notice of any earlier date 
+     for the commencement of exposure to contaminated water at 
+     Camp Lejeune, North Carolina, for purposes of section 
+     1710(e)(1)(F) of title 38, United States Code, as amended by 
+     subsection (a).
+
+     SEC. 307. EXPANSION OF EMERGENCY TREATMENT REIMBURSEMENT FOR 
+                   CERTAIN VETERANS.
+
+       (a) In General.--Section 1725(b)(2)(B) is amended--
+       (1) by inserting ``(i)'' after ``(B)'';
+       (2) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(ii) the veteran was unable to receive care under this 
+     chapter within such 24-month period because of a waiting 
+     period imposed by the Department with respect to a new 
+     patient examination of such veteran.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 308. MODIFICATION OF DETERMINATION OF ELIGIBILITY OF 
+                   VETERANS FOR TREATMENT AS A LOW-INCOME FAMILY 
+                   FOR PURPOSES OF ENROLLMENT IN THE PATIENT 
+                   ENROLLMENT SYSTEM OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS.
+
+       (a) Areas of Residence.--The Secretary of Veterans Affairs 
+     shall modify the areas in which veterans reside as specified 
+     for purposes of determining whether veterans qualify for 
+     treatment as low-income families for enrollment in the 
+     patient enrollment system of the Department of Veterans 
+     Affairs under section 1705(a)(7) of title 38, United States 
+     Code, to meet the requirements as follows:
+       (1) Any area so specified shall be within only one State.
+       (2) Any area so specified shall be co-extensive with one or 
+     more counties (or similar political subdivisions) in the 
+     State concerned.
+       (b) Variable Income Thresholds.--The Secretary shall modify 
+     the thresholds for income as specified for purposes of 
+     determining whether veterans qualify for treatment as low-
+     income families for enrollment in the patient enrollment 
+     system referred to in subsection (a) to meet the requirements 
+     as follows:
+       (1) There shall be one income threshold for each State, 
+     equal to the highest income threshold among the counties 
+     within such State.
+       (2) The calculation of the highest income threshold of a 
+     county shall be consistent with the calculation used for 
+     purposes of section 3(b) of the United States Housing Act of 
+     1937 (42 U.S.C. 1437a(b)).
+       (3) The timing and methodology for implementing any 
+     modifications in geographic income thresholds pursuant to 
+     paragraph (1) shall be determined by the Secretary in such a 
+     manner as to permit the Department to build capacity for 
+     enrolling such additional veterans in the patient enrollment 
+     system of the Department as become eligible for enrollment as 
+     a result of such modifications, except that all required 
+     modifications shall be completed not later than five years 
+     after date of the enactment of this Act.
+
+     SEC. 309. EXTENSION OF SUNSET DATE REGARDING TRANSPORTATION 
+                   OF INDIVIDUALS TO AND FROM FACILITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS AND REQUIREMENT 
+                   OF REPORT.
+
+       (a) Extension of Sunset Date.--Subsection (a)(2) of section 
+     111A is amended by striking ``December 31, 2014'' and 
+     inserting ``September 30, 2015''.
+       (b) Funding Available.--Such section is further amended by 
+     adding at the end the following new subsection:
+       ``(c) Funding.--There is hereby authorized to be 
+     appropriated for each of fiscal years 2014 and 2015 for the 
+     Department, $4,000,000 to carry out this section.''.
+       (c) Report.--Not later than one year after the date of the 
+     enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on--
+       (1) the efforts of the Secretary to carry out the 
+     transportation services required by section 111A(a) of title 
+     38, United States Code;
+       (2) the utilization of those services by covered veterans; 
+     and
+       (3) the feasibility and advisability of the continuation of 
+     the provision of such services after September 30, 2015.
+
+     SEC. 310. COVERAGE OF COSTS OF CARE FOR VETERANS AT MEDICAL 
+                   FOSTER HOMES.
+
+       (a) In General.--In conducting the medical foster home 
+     program pursuant to section 17.73 of title 38, Code of 
+     Federal Regulations, the Secretary of Veterans Affairs may 
+     cover the costs associated with the care of veterans at 
+     medical foster homes.
+       (b) Effective Date.--Subsection (a) shall take effect on 
+     the date that is one year after the date of the enactment of 
+     this Act.
+
+     SEC. 311. EXTENSION AND MODIFICATION OF PILOT PROGRAM ON 
+                   ASSISTED LIVING SERVICES FOR VETERANS WITH 
+                   TRAUMATIC BRAIN INJURY.
+
+       (a) Extension of Program.--Subsection (a) of section 1705 
+     of the National Defense Authorization Act for Fiscal Year 
+     2008 (Public Law 110-181; 38 U.S.C. 1710C note) is amended by 
+     striking ``a five-year'' and inserting ``an eight-year''.
+       (b) Modification of Locations.--Subsection (b) of such 
+     section is amended--
+       (1) by redesignating paragraph (2) as paragraph (3); and
+       (2) by striking paragraph (1) and inserting the following 
+     new paragraphs:
+       ``(1) In general.--The pilot program shall be carried out 
+     at locations selected by the Secretary for purposes of the 
+     pilot program.
+       ``(2) Located in same region as polytrauma centers.--Of the 
+     locations selected under paragraph (1), at least one location 
+     shall be in each health care region of the Veterans Health 
+     Administration of the Department of Veterans Affairs that 
+     contains a polytrauma center of the Department of Veterans 
+     Affairs.''.
+       (c) Modification of Report Requirements.--Subsection (e) of 
+     such section is amended to read as follows:
+       ``(e) Reports.--
+       ``(1) Annual report.--
+       ``(A) In general.--Not later than two years after the date 
+     of the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     and not later than September 30 each year thereafter until 
+     2018, the Secretary shall submit to the Committee on 
+     Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the pilot program.
+       ``(B) Elements.--Each report submitted under subparagraph 
+     (A) shall include the following:
+       ``(i) The number of individuals that participated in the 
+     pilot program during the year preceding the submission of the 
+     report.
+       ``(ii) The number of individuals that successfully 
+     completed the pilot program during the year preceding the 
+     submission of the report.
+       ``(iii) The degree to which pilot program participants and 
+     family members of pilot program participants were satisfied 
+     with the pilot program.
+       ``(iv) The interim findings and conclusions of the 
+     Secretary with respect to the success of the pilot program 
+     and recommendations for improvement.
+       ``(2) Final report.--
+       ``(A) In general.--Not later than 60 days after the 
+     completion of the pilot program,
+
+[[Page 3161]]
+
+     the Secretary shall submit to the Committee on Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a final report on the pilot 
+     program.
+       ``(B) Elements.--The final report required by subparagraph 
+     (A) shall include the following:
+       ``(i) A description of the pilot program.
+       ``(ii) An assessment of the utility of the activities under 
+     the pilot program in enhancing the rehabilitation, quality of 
+     life, and community reintegration of veterans with traumatic 
+     brain injury, including complex mild traumatic brain injury.
+       ``(iii) Such recommendations as the Secretary considers 
+     appropriate regarding improving the pilot program.''.
+       (d) Modification of Definitions.--
+       (1) Community-based brain injury residential rehabilitative 
+     care services.--Such section is further amended--
+       (A) in the section heading, by striking ``assisted living'' 
+     and inserting ``community-based brain injury residential 
+     rehabilitative care'';
+       (B) in subsection (c), in the subsection heading, by 
+     striking ``Assisted Living'' and inserting ``Community-based 
+     Brain Injury Residential Rehabilitative Care'';
+       (C) by striking ``assisted living'' each place it appears, 
+     and inserting ``community-based brain injury rehabilitative 
+     care''; and
+       (D) in subsection (f)(1), by striking ``and personal care'' 
+     and inserting ``rehabilitation, and personal care''.
+       (2) Eligible veteran.--Subsection (f)(3) of such section is 
+     amended--
+       (A) in subparagraph (C), by striking ``; and'' and 
+     inserting a semicolon;
+       (B) in subparagraph (D), by striking the period at the end 
+     and inserting ``; and''; and
+       (C) by adding at the end the following new subparagraph:
+       ``(E) has a traumatic brain injury that is classified as 
+     complex-mild to severe.''.
+       (e) Authorization of Appropriations.--There is authorized 
+     to be appropriated for the Department of Veterans Affairs for 
+     fiscal year 2015 $46,000,000 to carry out the pilot program 
+     under section 1705 of the National Defense Authorization Act 
+     for Fiscal Year 2008 (Public Law 110-181; 38 U.S.C. 1710C 
+     note), as amended by this section. The amount so authorized 
+     to be appropriated shall be available for obligation for the 
+     three-year period beginning on the date that is one year 
+     after the date of the enactment of this Act.
+       (f) Effective Date.--The amendments made by this section 
+     shall take effect on October 1, 2014.
+
+     SEC. 312. PROGRAM ON HEALTH PROMOTION FOR OVERWEIGHT AND 
+                   OBESE VETERANS THROUGH SUPPORT OF FITNESS 
+                   CENTER MEMBERSHIPS.
+
+       (a) Program Required.--Commencing not later than 180 days 
+     after the date on which this section takes effect, the 
+     Secretary of Veterans Affairs shall, through the National 
+     Center for Preventive Health, carry out a program to assess 
+     the feasibility and advisability of promoting health in 
+     covered veterans, including achieving a healthy weight and 
+     reducing risks of chronic disease, through support for 
+     fitness center membership.
+       (b) Covered Veterans.--For purposes of this section, a 
+     covered veteran is any veteran who--
+       (1) is enrolled in the system of annual patient enrollment 
+     established and operated by the Secretary under section 1705 
+     of title 38, United States Code;
+       (2) is determined by a clinician of the Department of 
+     Veterans Affairs to be overweight or obese as of the date of 
+     the commencement of the program; and
+       (3) resides in a location that is more than 15 minutes 
+     driving distance from a fitness center at a facility of the 
+     Department that would otherwise be available to the veteran 
+     for at least eight hours per day during five or more days per 
+     week.
+       (c) Duration of Program.--The program shall be carried out 
+     during the two-year period beginning on the date of the 
+     commencement of the program.
+       (d) Locations.--
+       (1) In general.--In carrying out the program, the Secretary 
+     shall select--
+       (A) not less than five medical centers of the Department at 
+     which the Secretary shall cover the full reasonable cost of a 
+     fitness center membership for covered veterans within the 
+     catchment area of such centers; and
+       (B) not less than five medical centers of the Department at 
+     which the Secretary shall cover half the reasonable cost of a 
+     fitness center membership for covered veterans within the 
+     catchment area of such centers.
+       (2) Considerations.--In selecting locations for the 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in the following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas in different geographic locations.
+       (e) Participation.--
+       (1) Maximum number of participants.--The number of covered 
+     veterans who may participate in the program at each location 
+     selected under subsection (d) may not exceed 100.
+       (2) Voluntary participation.--The participation of a 
+     covered veteran in the program shall be at the election of 
+     the covered veteran in consultation with a clinician of the 
+     Department.
+       (f) Membership Payment.--
+       (1) In general.--Except as provided in paragraph (2), in 
+     carrying out the program, the Secretary shall pay the 
+     following:
+       (A) The full reasonable cost of a fitness center membership 
+     for covered veterans within the catchment area of centers 
+     selected under subsection (d)(1)(A) who are participating in 
+     the program.
+       (B) Half the reasonable cost of a fitness center membership 
+     for covered veterans within the catchment area of centers 
+     selected under subsection (d)(1)(B) who are participating in 
+     the program.
+       (2) Limitation.--Payment for a fitness center membership of 
+     a covered veteran may not exceed $50 per month of membership.
+       (g) Reports.--
+       (1)  Periodic reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on activities carried out to 
+     implement the program, including outreach activities to 
+     veterans and community organizations.
+       (2) Final report.--Not later than 180 days after the date 
+     of the completion of the program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program detailing--
+       (A) the findings and conclusions of the Secretary as a 
+     result of the program; and
+       (B) recommendations for the continuation or expansion of 
+     the program.
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 313. PROGRAM ON HEALTH PROMOTION FOR VETERANS THROUGH 
+                   ESTABLISHMENT OF DEPARTMENT OF VETERANS AFFAIRS 
+                   FITNESS FACILITIES.
+
+       (a) Program Required.--Commencing not later than 180 days 
+     after the date on which this section takes effect, the 
+     Secretary of Veterans Affairs shall carry out a program to 
+     assess the feasibility and advisability of promoting health 
+     in covered veterans, including achieving a healthy weight, 
+     through establishment of Department of Veterans Affairs 
+     fitness facilities.
+       (b) Covered Veterans.--For purposes of this section, a 
+     covered veteran is any veteran who is enrolled in the system 
+     of annual patient enrollment established and operated by the 
+     Secretary under section 1705 of title 38, United States Code.
+       (c) Duration of Program.--The program shall be carried out 
+     during the three-year period beginning on the date of the 
+     commencement of the program.
+       (d) Locations.--
+       (1) In general.--The Secretary shall carry out the program 
+     by establishing fitness facilities in Department facilities 
+     as follows:
+       (A) In not fewer than five Department of Veterans Affairs 
+     medical centers selected by the Secretary for purposes of the 
+     program.
+       (B) In not fewer than five outpatient clinics of the 
+     Department selected by the Secretary for purposes of the 
+     program.
+       (2) Considerations.--In selecting locations for the 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in the following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas in different geographic locations.
+       (e) Limitation on Expenses.--In establishing and supporting 
+     a fitness facility in a facility of the Department under the 
+     program, the Secretary may expend amounts as follows:
+       (1) For establishment and support of a fitness facility in 
+     a Department of Veterans Affairs medical center, not more 
+     than $60,000.
+       (2) For establishment and support of a fitness facility in 
+     an outpatient clinic of the Department, not more than 
+     $40,000.
+       (f) Repurposing of Physical Space and Purchases of 
+     Equipment.--
+       (1) In general.--Subject to subsection (e), the Secretary 
+     may, in carrying out the program, repurpose existing physical 
+     space of the Department and purchase such fitness equipment 
+     and supplies as the Secretary considers appropriate for 
+     purposes of the program.
+       (2) Repurposing exception.--Existing physical space used 
+     for the direct delivery of health care to patients may not be 
+     repurposed under paragraph (1).
+       (g) Prohibition on Assessment of User Fees.--The Secretary 
+     may not assess a fee upon a covered veteran for use of a 
+     fitness facility established under the program.
+       (h) Voluntary Participation.--The participation of a 
+     covered veteran in the program shall be at the election of 
+     the covered veteran.
+       (i) Reports.--
+       (1) Periodic reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on
+
+[[Page 3162]]
+
+     Veterans' Affairs of the House of Representatives a report on 
+     activities carried out to implement the program, including 
+     outreach activities to veterans and community organizations.
+       (2) Final report.--Not later than 180 days after the date 
+     of the completion of the program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program detailing--
+       (A) the findings and conclusions of the Secretary as a 
+     result of the program; and
+       (B) recommendations for the continuation or expansion of 
+     the program.
+       (j) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+                 Subtitle B--Health Care Administration
+
+     SEC. 321. EXTENSION OF DEPARTMENT OF VETERANS AFFAIRS HEALTH 
+                   PROFESSIONAL SCHOLARSHIP PROGRAM.
+
+       Section 7619 is amended by striking ``December 31, 2014'' 
+     and inserting ``December 31, 2019''.
+
+     SEC. 322. EXPANSION OF AVAILABILITY OF PROSTHETIC AND 
+                   ORTHOTIC CARE FOR VETERANS.
+
+       (a) Establishment or Expansion of Advanced Degree Programs 
+     To Expand Availability of Provision of Care.--The Secretary 
+     of Veterans Affairs shall work with institutions of higher 
+     education to develop partnerships for the establishment or 
+     expansion of programs of advanced degrees in prosthetics and 
+     orthotics in order to improve and enhance the availability of 
+     high quality prosthetic and orthotic care for veterans.
+       (b) Report.--Not later than one year after the date of the 
+     enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth a plan for carrying 
+     out subsection (a). The Secretary shall develop the plan in 
+     consultation with veterans service organizations, 
+     institutions of higher education with accredited degree 
+     programs in prosthetics and orthotics, and representatives of 
+     the prosthetics and orthotics field.
+       (c) Funding.--
+       (1) Authorization of appropriations.--There is hereby 
+     authorized to be appropriated for fiscal year 2015 for the 
+     Department of Veterans Affairs, $10,000,000 to carry out this 
+     section.
+       (2) Availability.--The amount authorized to be appropriated 
+     by paragraph (1) shall remain available for expenditure until 
+     September 30, 2017.
+
+     SEC. 323. CONTRACTING FOR HEALTH CARE.
+
+       (a) Use of Capitation-based Resource Allocation in Entry 
+     Into Contracts.--In entering into contracts for the 
+     furnishing of health care services under the laws 
+     administered by the Secretary of Veterans Affairs (including 
+     under this title and the amendments made by this title), the 
+     Secretary shall use the capitation-based resource allocation 
+     model of the Department of Veterans Affairs.
+       (b) Priority for Contracts With Certain Entities.--In 
+     entering into contracts for the furnishing of health care 
+     services under the laws administered by the Secretary, the 
+     Secretary shall afford a priority for entry into contracts 
+     for Federally Qualified Health Centers (FQHCs) and Community 
+     Health Centers (CHCs), whenever appropriate.
+       (c) Best Practices.--The Secretary shall modify the 
+     guidance of the Department of Veterans Affairs on contracts 
+     for health care services in order to provide for the 
+     incorporation into such contracts of standardized 
+     requirements for such best practices under such contracts, 
+     including the following:
+       (1) Requirements that contracts provide the Department on a 
+     regular basis information on scheduling and appearance for 
+     appointments for health care on per-patient basis.
+       (2) Such other best practices requirements as the Secretary 
+     considers appropriate.
+       (d) Federally Qualified Health Center Defined.--In this 
+     section the term ``Federally Qualified Health Center'' means 
+     a Federally-qualified health center as defined in section 
+     1905(l)(2)(B) of the Social Security Act (42 U.S.C. 
+     1396d(l)(2)(B)).
+
+     SEC. 324. LIMITATION ON EXPANSION OF DIALYSIS PILOT PROGRAM.
+
+       (a) Limitation.--The Secretary of Veterans Affairs shall 
+     not expand the dialysis pilot program to, or expand the 
+     capacity to provide additional dialysis care at, any facility 
+     owned or leased by the Department that is not an initial 
+     facility until after the date that--
+       (1) the Secretary has implemented the dialysis pilot 
+     program at each initial facility for a period of not less 
+     than two years;
+       (2) an independent analysis of the dialysis pilot program 
+     has been conducted at each initial facility, including a 
+     consideration and comparison of factors including--
+       (A) the ability of veterans to access care under the 
+     dialysis pilot program;
+       (B) the quality of care provided under the dialysis pilot 
+     program; and
+       (C) the satisfaction of veterans who have received 
+     treatment under the dialysis pilot program; and
+       (3) the report required by subsection (b) has been 
+     submitted.
+       (b) Report.--Not later than 60 days after the date of the 
+     completion of the independent analysis required by subsection 
+     (a)(2), the Secretary shall submit to Congress a report 
+     that--
+       (1) includes the results of that independent analysis; and
+       (2) addresses any recommendations with respect to the 
+     dialysis pilot program provided in a report prepared by the 
+     Government Accountability Office.
+       (c) Utilization of Existing Dialysis Resources.--In order 
+     to increase the access of veterans to dialysis care and 
+     decrease the travel time of such veterans to receive such 
+     care, the Secretary shall fully utilize existing dialysis 
+     resources of the Department, including any community dialysis 
+     provider with which the Department has entered into a 
+     contract or agreement for the provision of such care.
+       (d) Definitions.--In this section:
+       (1) Dialysis pilot program.--The term ``dialysis pilot 
+     program'' means the pilot demonstration program established 
+     by the Secretary in 2009 to provide dialysis care to patients 
+     at certain outpatient facilities operated by the Department 
+     of Veterans Affairs.
+       (2) Initial facility.--The term ``initial facility'' means 
+     one of the four outpatient facilities identified by the 
+     Secretary to participate in the dialysis pilot program prior 
+     to the date of the enactment of this Act.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 325. REQUIREMENT FOR DEPARTMENT OF VETERANS AFFAIRS 
+                   POLICY ON REPORTING CASES OF INFECTIOUS 
+                   DISEASES AT FACILITIES OF THE DEPARTMENT.
+
+       (a) In General.--Subchapter II of chapter 73 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 7330B. Reporting of infectious diseases
+
+       ``(a) Reporting.--The Secretary shall ensure that the 
+     Department has in effect an up-to-date policy on reporting a 
+     notifiable infectious disease diagnosed at a facility under 
+     the jurisdiction of the Secretary in accordance with the 
+     provisions of State and local law in effect where such 
+     facility is located.
+       ``(b) Notifiable Infectious Disease.--For purposes of this 
+     section, a notifiable infectious disease is any infectious 
+     disease that is--
+       ``(1) on the list of nationally notifiable diseases 
+     published by the Council of State and Territorial 
+     Epidemiologists and the Centers for Disease Control and 
+     Prevention; or
+       ``(2) covered by a provision of law of a State that 
+     requires the reporting of infectious diseases.
+       ``(c) Performance Measures.--The Secretary shall develop 
+     performance measures to assess whether and to what degree the 
+     directors of Veterans Integrated Service Networks and 
+     Department medical centers are complying with the policy 
+     required by subsection (a).''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 73 is amended by inserting after the 
+     item relating to section 7330A the following new item:
+
+``7330B. Reporting of infectious diseases.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 326. INDEPENDENT ASSESSMENT OF THE VETERANS INTEGRATED 
+                   SERVICE NETWORKS AND MEDICAL CENTERS OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Contract.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     seek to enter into a contract with an independent third-party 
+     to perform the services covered by this section.
+       (2) Timing.--The Secretary shall seek to enter into the 
+     contract described in paragraph (1) not later than 540 days 
+     after the date of the enactment of this Act.
+       (b) Independent Study.--
+       (1) In general.--Under a contract between the Secretary and 
+     an independent third-party under this section, the third 
+     party shall carry out a study--
+       (A) to assess the organizational structures of medical 
+     centers of the Department of Veterans Affairs; and
+       (B) to improve succession planning among key leadership 
+     roles at Veterans Integrated Service Networks and medical 
+     centers of the Department.
+       (2) Matters studied and proposed.--In carrying out the 
+     study, the third party shall--
+       (A) assess whether the organizational structure of the 
+     medical centers of the Department is effective for the 
+     furnishing of medical services, addressing issues that arise 
+     regarding the furnishing of medical services, and addressing 
+     standard business operations;
+       (B) propose one organizational chart for Department medical 
+     centers with a common set of base position descriptions;
+       (C) propose a base set of medical positions that should be 
+     filled to ensure that the
+
+[[Page 3163]]
+
+     health care provided to veterans by the Department is of good 
+     quality; and
+       (D) identify which key leadership positions at Veterans 
+     Integrated Service Networks and Department medical centers 
+     should have succession plans and propose how to implement 
+     such plans.
+       (3) Timing.--The third party shall complete the study under 
+     this section not later than 270 days after entering into the 
+     contract described in subsection (a).
+       (c) Report.--Not later than 90 days after the date on which 
+     the third party completes the study under this section, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the results of such 
+     study.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 327. REQUIREMENTS IN CONNECTION WITH NEXT UPDATE OF 
+                   CURRENT STRATEGIC PLAN FOR OFFICE OF RURAL 
+                   HEALTH OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Requirements.--
+       (1) In general.--The first update of the Strategic Plan 
+     Refresh for Fiscal Years 2012 through 2014 of the Office of 
+     Rural Health of the Department of Veterans Affairs after the 
+     date of the enactment of this Act, whether an update or 
+     refresh of such Strategic Plan Refresh or a strategic plan to 
+     supersede such Strategic Plan Refresh, shall be prepared in 
+     accordance with this section.
+       (2) Consultation.--The Director of the Office of Rural 
+     Health shall prepare the update in consultation with the 
+     following:
+       (A) The Director of the Health Care Retention and 
+     Recruitment Office of the Department.
+       (B) The Director of the Office of Quality and Performance 
+     of the Department.
+       (C) The Director of the Office of Care Coordination 
+     Services of the Department.
+       (b) Elements.--The update described in subsection (a) shall 
+     include, for the period covered by the update, the following:
+       (1) Goals and objectives for the recruitment and retention 
+     by the Veterans Health Administration of health care 
+     personnel in rural areas.
+       (2) Goals and objectives for ensuring timeliness and 
+     improving quality in the delivery of health care services by 
+     the Veterans Health Administration in rural areas through 
+     contract and fee-basis providers.
+       (3) Goals and objectives for the implementation, expansion, 
+     and enhanced use of telemedicine services by the Veterans 
+     Health Administration in rural areas, including through 
+     coordination with other appropriate offices of the 
+     Department.
+       (4) Goals and objectives for ensuring the full and 
+     effective use of mobile outpatient clinics by the Veterans 
+     Health Administration for the provision of health care 
+     services in rural areas, including goals and objectives for 
+     the use of such clinics on a fully mobile basis and for 
+     encouraging health care providers who provide services 
+     through such clinics to do so in rural areas.
+       (5) Procedures for soliciting from each Veterans Health 
+     Administration facility that serves a rural area the 
+     following:
+       (A) A statement of the clinical capacity of such facility.
+       (B) The procedures of such facility in the event of a 
+     medical, surgical, or mental health emergency outside the 
+     scope of the clinical capacity of such facility.
+       (C) The procedures and mechanisms of such facility for the 
+     provision and coordination of health care for women veterans, 
+     including procedures and mechanisms for coordination with 
+     local hospitals and health care facilities, oversight of 
+     primary care and fee-basis care, and management of specialty 
+     care.
+       (6) Goals and objectives for the modification of the 
+     funding allocation mechanisms of the Office of Rural Health 
+     in order to ensure that the Office distributes funds to 
+     components of the Department to best achieve the goals and 
+     objectives of the Office and in a timely manner.
+       (7) Goals and objectives for the coordination of, and 
+     sharing of resources with respect to, the provision of health 
+     care services to veterans in rural areas between the 
+     Department of Veterans Affairs, the Department of Defense, 
+     the Indian Health Service of the Department of Health and 
+     Human Services, and other Federal agencies, as appropriate 
+     and prudent.
+       (8) Specific milestones for the achievement of the goals 
+     and objectives developed for the update.
+       (9) Procedures for ensuring the effective implementation of 
+     the update.
+       (c) Transmittal to Congress.--Not later than 90 days after 
+     the date of the issuance of the update described in 
+     subsection (a), the Secretary of Veterans Affairs shall 
+     transmit the update to Congress, together with such comments 
+     and recommendations in connection with the update as the 
+     Secretary considers appropriate.
+
+     SEC. 328. REPORT ON PROVISION OF TELEMEDICINE SERVICES.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the following:
+       (1) Issues that may be impeding the provision by the 
+     Department of Veterans Affairs of telemedicine services for 
+     veterans, including the following:
+       (A) Statutory or regulatory restrictions.
+       (B) Licensure or credentialing issues for any provider 
+     practicing telemedicine with veterans who live in a different 
+     State than the provider.
+       (C) Limited broadband access in rural areas.
+       (D) Limited information technology resources or 
+     capabilities.
+       (E) Long distances veterans must travel to access a 
+     facility or clinic with telemedicine capabilities.
+       (F) Insufficient liability protection for providers.
+       (G) Reimbursement issues faced by providers.
+       (H) Travel limitations for providers that are unaffiliated 
+     with the Department and are participating or seeking to 
+     participate in a telemedicine program of the Department.
+       (2) Actions taken to address the issues identified in 
+     paragraph (1).
+       (3) An update on efforts by the Department to carry out the 
+     initiative of teleconsultation for the provision of remote 
+     mental health and traumatic brain injury assessments required 
+     by section 1709A of title 38, United States Code.
+       (4) An update on efforts by the Department to offer 
+     training opportunities in telemedicine to medical residents, 
+     as required by section 108(b) of the Janey Ensminger Act 
+     (Public Law 112-154; 38 U.S.C. 7406 note).
+       (5) An update on efforts by the Department to, in 
+     partnership with primary care providers, install video 
+     cameras and instruments to monitor weight, blood pressure, 
+     and other vital statistics in the homes of patients.
+       (b) Telemedicine Defined.--In this section, the term 
+     ``telemedicine'' means the use by a health care provider of 
+     telecommunications to assist in the diagnosis or treatment of 
+     a patient's medical condition.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 329. DESIGNATION OF CORPORAL MICHAEL J. CRESCENZ 
+                   DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER.
+
+       (a) Designation.--The medical center of the Department of 
+     Veterans Affairs located at 3900 Woodland Avenue in 
+     Philadelphia, Pennsylvania, shall after the date of the 
+     enactment of this Act be known and designated as the 
+     ``Corporal Michael J. Crescenz Department of Veterans Affairs 
+     Medical Center''.
+       (b) References.--Any reference in any law, regulation, map, 
+     document, paper, or other record of the United States to the 
+     medical center referred to in subsection (a) shall be 
+     considered to be a reference to the Corporal Michael J. 
+     Crescenz Department of Veterans Affairs Medical Center.
+
+           Subtitle C--Complementary and Alternative Medicine
+
+     SEC. 331. EXPANSION OF RESEARCH AND EDUCATION ON AND DELIVERY 
+                   OF COMPLEMENTARY AND ALTERNATIVE MEDICINE TO 
+                   VETERANS.
+
+       (a) Development of Plan To Expand Research, Education, and 
+     Delivery.--Not later than six months after the effective date 
+     specified in subsection (f), the Secretary of Veterans 
+     Affairs shall develop a plan to expand materially and 
+     substantially the scope of research and education on, and 
+     delivery and integration of, complementary and alternative 
+     medicine services into the health care services provided to 
+     veterans.
+       (b) Elements.--The plan required by subsection (a) shall 
+     provide for the following:
+       (1) Research on the following:
+       (A) The comparative effectiveness of various complementary 
+     and alternative medicine therapies.
+       (B) Approaches to integrating complementary and alternative 
+     medicine services into other health care services provided by 
+     the Department.
+       (2) Education and training for health care professionals of 
+     the Department on the following:
+       (A) Complementary and alternative medicine services 
+     selected by the Secretary for purposes of the plan.
+       (B) Appropriate uses of such services.
+       (C) Integration of such services into the delivery of 
+     health care to veterans.
+       (3) Research, education, and clinical activities on 
+     complementary and alternative medicine at centers of 
+     innovation at Department medical centers.
+       (4) Identification or development of metrics and outcome 
+     measures to evaluate the provision and integration of 
+     complementary and alternative medicine services into the 
+     delivery of health care to veterans.
+       (5) Integration and delivery of complementary and 
+     alternative medicine services with other health care services 
+     provided by the Department.
+       (c) Consultation.--
+       (1) In general.--In carrying out subsection (a), the 
+     Secretary shall consult with the following:
+       (A) The Director of the National Center on Complementary 
+     and Alternative Medicine of the National Institutes of 
+     Health.
+       (B) The Commissioner of Food and Drugs.
+       (C) Institutions of higher education, private research 
+     institutes, and individual researchers with extensive 
+     experience in complementary and alternative medicine and the
+
+[[Page 3164]]
+
+     integration of complementary and alternative medicine 
+     practices into the delivery of health care.
+       (D) Nationally recognized providers of complementary and 
+     alternative medicine.
+       (E) Such other officials, entities, and individuals with 
+     expertise on complementary and alternative medicine as the 
+     Secretary considers appropriate.
+       (2) Scope of consultation.--The Secretary shall undertake 
+     consultation under paragraph (1) in carrying out subsection 
+     (a) with respect to the following:
+       (A) To develop the plan.
+       (B) To identify specific complementary and alternative 
+     medicine practices that, on the basis of research findings or 
+     promising clinical interventions, are appropriate to include 
+     as services to veterans.
+       (C) To identify barriers to the effective provision and 
+     integration of complementary and alternative medicine 
+     services into the delivery of health care to veterans, and to 
+     identify mechanisms for overcoming such barriers.
+       (d) Funding.--There is authorized to be appropriated to the 
+     Secretary such sums as may be necessary to carry out this 
+     section.
+       (e) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in 
+     regulations the Secretary shall prescribe for purposes of 
+     this section, which shall, to the degree practicable, be 
+     consistent with the meaning given such term by the Secretary 
+     of Health and Human Services.
+       (f) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 332. PROGRAM ON INTEGRATION OF COMPLEMENTARY AND 
+                   ALTERNATIVE MEDICINE WITHIN DEPARTMENT OF 
+                   VETERANS AFFAIRS MEDICAL CENTERS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall--
+       (1) carry out, through the Office of Patient Centered Care 
+     and Cultural Transformation of the Department of Veterans 
+     Affairs, a program to assess the feasibility and advisability 
+     of integrating the delivery of complementary and alternative 
+     medicine services selected by the Secretary with other health 
+     care services provided by the Department for veterans with 
+     mental health conditions, chronic pain conditions, other 
+     chronic conditions, and such other conditions as the 
+     Secretary determines appropriate; and
+       (2) in developing the program, identify and resolve 
+     barriers to the provision of complementary and alternative 
+     medicine services selected by the Secretary and the 
+     integration of those services with other health care services 
+     provided by the Department.
+       (b) Duration of Program.--The program shall be carried out 
+     during the three-year period beginning on the effective date 
+     specified in subsection (j).
+       (c) Locations.--
+       (1) In general.--The Secretary shall carry out the program 
+     at not fewer than 15 separate Department medical centers.
+       (2) Polytrauma centers.--Not less than two of the medical 
+     centers designated under paragraph (1) shall be located at 
+     polytrauma rehabilitation centers of the Department.
+       (3) Selection of locations.--In carrying out the program, 
+     the Secretary shall select locations that include the 
+     following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas representing different geographic locations, such 
+     as census tracts established by the Bureau of the Census.
+       (d) Provision of Services.--Under the program, the 
+     Secretary shall provide covered services to covered veterans 
+     by integrating complementary and alternative medicine 
+     services with other services provided by the Department at 
+     the medical centers designated under subsection (c)(1).
+       (e) Covered Veterans.--For purposes of the program, a 
+     covered veteran is any veteran who--
+       (1) has a mental health condition diagnosed by a clinician 
+     of the Department;
+       (2) experiences chronic pain; or
+       (3) has a chronic condition being treated by a clinician of 
+     the Department.
+       (f) Covered Services.--
+       (1) In general.--For purposes of the program, covered 
+     services are services consisting of complementary and 
+     alternative medicine as selected by the Secretary.
+       (2) Administration of services.--Covered services shall be 
+     administered under the program as follows:
+       (A) Covered services shall be administered by clinicians 
+     employed by the Secretary for purposes of this section who, 
+     to the extent practicable, shall provide services consisting 
+     of complementary and alternative medicine, including those 
+     clinicians who solely provide such services.
+       (B) Covered services shall be included as part of the 
+     Patient Aligned Care Teams initiative of the Office of 
+     Patient Care Services, Primary Care Program Office, in 
+     coordination with the Office of Patient Centered Care and 
+     Cultural Transformation.
+       (C) Covered services shall be made available to both--
+       (i) covered veterans with mental health conditions, pain 
+     conditions, or chronic conditions described in subsection (e) 
+     who have received conventional treatments from the Department 
+     for such conditions; and
+       (ii) covered veterans with mental health conditions, pain 
+     conditions, or chronic conditions described in subsection (e) 
+     who have not received conventional treatments from the 
+     Department for such conditions.
+       (g) Voluntary Participation.--The participation of a 
+     veteran in the program shall be at the election of the 
+     veteran and in consultation with a clinician of the 
+     Department.
+       (h) Reports to Congress.--
+       (1) Quarterly reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter for the 
+     duration of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the efforts of the Secretary to 
+     carry out the program, including a description of the 
+     outreach conducted by the Secretary to veterans and community 
+     organizations to inform such organizations about the program.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (B) Contents.--The report submitted under subparagraph (A) 
+     shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program, including with respect to--
+
+       (I) the utilization and efficacy of the complementary and 
+     alternative medicine services established under the program;
+       (II) an assessment of the benefit of the program to covered 
+     veterans in mental health diagnoses, pain management, and 
+     treatment of chronic illness; and
+       (III) the comparative effectiveness of various 
+     complementary and alternative medicine therapies.
+
+       (ii) Barriers identified under subsection (a)(2) that were 
+     not resolved.
+       (iii) Such recommendations for the continuation or 
+     expansion of the program as the Secretary considers 
+     appropriate.
+       (i) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in section 
+     331(e) of this Act.
+       (j) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 333. STUDIES OF BARRIERS ENCOUNTERED BY VETERANS IN 
+                   RECEIVING, AND ADMINISTRATORS AND CLINICIANS IN 
+                   PROVIDING, COMPLEMENTARY AND ALTERNATIVE 
+                   MEDICINE SERVICES FURNISHED BY THE DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) Studies Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     conduct comprehensive studies of the barriers encountered by 
+     veterans in receiving, and administrators and clinicians in 
+     providing, complementary and alternative medicine services 
+     furnished by the Department of Veterans Affairs.
+       (2) Studies conducted.--
+       (A) Veterans.--In conducting the study of veterans, the 
+     Secretary shall--
+       (i) survey veterans who seek or receive hospital care or 
+     medical services furnished by the Department, as well as 
+     veterans who do not seek or receive such care or services;
+       (ii) administer the survey to a representative sample of 
+     veterans from each Veterans Integrated Service Network; and
+       (iii) ensure that the sample of veterans surveyed is of 
+     sufficient size for the study results to be statistically 
+     significant.
+       (B) Administrators and clinicians.--In conducting the study 
+     of clinicians and administrators, the Secretary shall--
+       (i) survey administrators of the Department who are 
+     involved in the provision of health care services;
+       (ii) survey clinicians that have provided complementary and 
+     alternative medicine services through the program established 
+     under section 332 of this Act, after those clinicians have 
+     provided those services through such program for at least 90 
+     days; and
+       (iii) administer the survey to administrators under clause 
+     (i)--
+
+       (I) before the introduction of complementary and 
+     alternative medicine services through such program; and
+       (II) not earlier than 90 days after the introduction of 
+     complementary and alternative medicine services through such 
+     program.
+
+       (b) Elements of Studies.--
+       (1) Veterans.--In conducting the study of veterans required 
+     by subsection (a), the Secretary shall study the following:
+       (A) The perceived barriers associated with obtaining 
+     complementary and alternative medicine services from the 
+     Department.
+       (B) The satisfaction of veterans with complementary and 
+     alternative medicine services in primary care.
+       (C) The degree to which veterans are aware of eligibility 
+     requirements for, and the scope of services available under, 
+     complementary and alternative medicine services furnished by 
+     the Department.
+       (D) The effectiveness of outreach to veterans on the 
+     availability of complementary and alternative medicine for 
+     veterans.
+       (E) Such other barriers as the Secretary considers 
+     appropriate.
+
+[[Page 3165]]
+
+       (2) Administrators and clinicians.--In conducting the study 
+     of administrators and clinicians required by subsection (a), 
+     the Secretary shall study the following:
+       (A) The extent of the integration of complementary and 
+     alternative medicine services within the services provided by 
+     the Department.
+       (B) The perception by administrators and clinicians of the 
+     structural and attitudinal barriers to the delivery of high 
+     quality complementary and alternative medicine services by 
+     the Department.
+       (C) Strategies that have been used to reduce or eliminate 
+     such barriers and the results of such strategies.
+       (D) The satisfaction of administrators and clinicians 
+     regarding the integration of complementary and alternative 
+     medicine services within the services provided by the 
+     Department.
+       (E) The perception by administrators and clinicians of the 
+     value of specific complementary and alternative medicine 
+     services for inpatient and outpatient veteran populations.
+       (c) Discharge by Contract.--The Secretary shall enter into 
+     a contract with a qualified independent entity or 
+     organization to carry out the studies required by this 
+     section.
+       (d) Mandatory Review of Data by the National Research 
+     Advisory Council.--
+       (1) In general.--The Secretary shall ensure that the head 
+     of the National Research Advisory Council reviews the results 
+     of the studies conducted under this section.
+       (2) Submittal of findings.--The head of the National 
+     Research Advisory Council shall submit findings with respect 
+     to the studies to the Under Secretary for Health and to other 
+     pertinent program offices within the Department with 
+     responsibilities relating to health care services for 
+     veterans.
+       (e) Reports.--
+       (1) Report on implementation.--Not later than one year 
+     after the date of the enactment of this Act, the Secretary 
+     shall submit to Congress a report on the status of the 
+     implementation of this section.
+       (2) Report on study.--
+       (A) In general.--Not later than 45 days after the date of 
+     the completion of the study, the Secretary shall submit to 
+     Congress a report on the study required by subsection (a).
+       (B) Contents.--The report required by subparagraph (A) 
+     shall include the following:
+       (i) Recommendations for such administrative and legislative 
+     proposals and actions as the Secretary considers appropriate.
+       (ii) The findings of the head of the National Research 
+     Advisory Council and of the Under Secretary for Health.
+       (f) Authorization of Appropriations.--There is authorized 
+     to be appropriated for fiscal year 2015 for the Department of 
+     Veterans Affairs, $2,000,000 to carry out this section.
+       (g) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in section 
+     331(e) of this Act.
+
+     SEC. 334. PROGRAM ON USE OF WELLNESS PROGRAMS AS 
+                   COMPLEMENTARY APPROACH TO MENTAL HEALTH CARE 
+                   FOR VETERANS AND FAMILY MEMBERS OF VETERANS.
+
+       (a) Program Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     carry out a program through the award of grants to public or 
+     private nonprofit entities to assess the feasibility and 
+     advisability of using wellness programs to complement the 
+     provision of mental health care to veterans and family 
+     members eligible for counseling under section 1712A(a)(1)(C) 
+     of title 38, United States Code.
+       (2) Matters to be addressed.--The program shall be carried 
+     out so as to assess the following:
+       (A) Means of improving coordination between Federal, State, 
+     local, and community providers of health care in the 
+     provision of mental health care to veterans and family 
+     members described in paragraph (1).
+       (B) Means of enhancing outreach, and coordination of 
+     outreach, by and among providers of health care referred to 
+     in subparagraph (A) on the mental health care services 
+     available to veterans and family members described in 
+     paragraph (1).
+       (C) Means of using wellness programs of providers of health 
+     care referred to in subparagraph (A) as complements to the 
+     provision by the Department of Veterans Affairs of mental 
+     health care to veterans and family members described in 
+     paragraph (1).
+       (D) Whether wellness programs described in subparagraph (C) 
+     are effective in enhancing the quality of life and well-being 
+     of veterans and family members described in paragraph (1).
+       (E) Whether wellness programs described in subparagraph (C) 
+     are effective in increasing the adherence of veterans 
+     described in paragraph (1) to the primary mental health 
+     services provided such veterans by the Department.
+       (F) Whether wellness programs described in subparagraph (C) 
+     have an impact on the sense of wellbeing of veterans 
+     described in paragraph (1) who receive primary mental health 
+     services from the Department.
+       (G) Whether wellness programs described in subparagraph (C) 
+     are effective in encouraging veterans receiving health care 
+     from the Department to adopt a more healthy lifestyle.
+       (b) Duration.--The Secretary shall carry out the program 
+     for a period of three years beginning on the date that is one 
+     year after the date of the enactment of this Act.
+       (c) Locations.--The Secretary shall carry out the program 
+     at facilities of the Department providing mental health care 
+     services to veterans and family members described in 
+     subsection (a)(1).
+       (d) Grant Proposals.--
+       (1) In general.--A public or private nonprofit entity 
+     seeking the award of a grant under this section shall submit 
+     an application therefor to the Secretary in such form and in 
+     such manner as the Secretary may require.
+       (2) Application contents.--Each application submitted under 
+     paragraph (1) shall include the following:
+       (A) A plan to coordinate activities under the program, to 
+     the extent possible, with the Federal, State, and local 
+     providers of services for veterans to enhance the following:
+       (i) Awareness by veterans of benefits and health care 
+     services provided by the Department.
+       (ii) Outreach efforts to increase the use by veterans of 
+     services provided by the Department.
+       (iii) Educational efforts to inform veterans of the 
+     benefits of a healthy and active lifestyle.
+       (B) A statement of understanding from the entity submitting 
+     the application that, if selected, such entity will be 
+     required to report to the Secretary periodically on 
+     standardized data and other performance data necessary to 
+     evaluate individual outcomes and to facilitate evaluations 
+     among entities participating in the program.
+       (C) Other requirements that the Secretary may prescribe.
+       (e) Grant Uses.--
+       (1) In general.--A public or private nonprofit entity 
+     awarded a grant under this section shall use the award for 
+     purposes prescribed by the Secretary.
+       (2) Eligible veterans and family.--In carrying out the 
+     purposes prescribed by the Secretary in paragraph (1), a 
+     public or private nonprofit entity awarded a grant under this 
+     section shall use the award to furnish services only to 
+     individuals specified in section 1712A(a)(1)(C) of title 38, 
+     United States Code.
+       (f) Reports.--
+       (1) Periodic reports.--
+       (A) In general.--Not later than 180 days after the date of 
+     the commencement of the program, and every 180 days 
+     thereafter, the Secretary shall submit to Congress a report 
+     on the program.
+       (B) Report elements.--Each report required by subparagraph 
+     (A) shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program during the 180-day period preceding 
+     the report.
+       (ii) An assessment of the benefits of the program to 
+     veterans and their family members during the 180-day period 
+     preceding the report.
+       (2) Final report.--Not later than 180 days after the end of 
+     the program, the Secretary shall submit to Congress a report 
+     detailing the recommendations of the Secretary as to the 
+     advisability of continuing or expanding the program.
+       (g) Wellness Defined.--In this section, the term 
+     ``wellness'' has the meaning given that term in regulations 
+     prescribed by the Secretary.
+
+                     Subtitle D--Mental Health Care
+
+     SEC. 341. INCLUSION OF MENTAL HEALTH PROFESSIONALS IN THE 
+                   EDUCATION AND TRAINING PROGRAM FOR HEALTH 
+                   PERSONNEL OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS.
+
+       (a) In General.--In carrying out the education and training 
+     program required under section 7302(a)(1) of title 38, United 
+     States Code, the Secretary of Veterans Affairs shall include 
+     education and training of marriage and family therapists and 
+     licensed professional mental health counselors.
+       (b) Funding.--The Secretary shall apportion funding for the 
+     education and training program equally among the professions 
+     included in the program.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 342. EDUCATION PROGRAM AND PEER SUPPORT PROGRAM FOR 
+                   FAMILY MEMBERS AND CAREGIVERS OF VETERANS WITH 
+                   MENTAL HEALTH DISORDERS.
+
+       (a) Programs.--
+       (1) In general.--Not later than one year after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall establish an education program (in this section 
+     referred to as the ``education program'') and a peer support 
+     program (in this section referred to as the ``peer support 
+     program'') for the education and training of family members 
+     and caregivers of eligible veterans with mental health 
+     disorders.
+       (2) Definitions.--In this section:
+       (A) Family member; caregiver.--The terms ``family member'' 
+     and ``caregiver'' have the meaning given those terms in 
+     section 1720G(d) of title 38, United States Code.
+       (B) Eligible veteran.--The term ``eligible veteran'' means 
+     a veteran who is enrolled in the health care system 
+     established under
+
+[[Page 3166]]
+
+     section 1705(a) of title 38, United States Code.
+       (b) Education Program.--
+       (1) In general.--Under the education program, the Secretary 
+     shall provide a course of education to family members and 
+     caregivers of eligible veterans on matters relating to coping 
+     with mental health disorders in veterans.
+       (2) Duration.--
+       (A) In general.--The education program shall be carried out 
+     during the four-year period beginning on the date of the 
+     commencement of the education program.
+       (B) Authority for extension.--The Secretary may extend the 
+     duration of the education program for an additional four 
+     years.
+       (3) Locations.--
+       (A) In general.--Except as required by subparagraph (D), 
+     the Secretary shall carry out the education program at the 
+     following facilities of the Department of Veterans Affairs:
+       (i) Not less than 10 medical centers of the Department.
+       (ii) Not less than 10 clinics of the Department.
+       (iii) Not less than 10 Vet Centers (as defined in section 
+     1712A(h) of title 38, United States Code).
+       (B) Solicitation of applications.--In selecting locations 
+     for the education program, the Secretary shall solicit 
+     applications from eligible facilities of the Department that 
+     are interested in carrying out the education program.
+       (C) Considerations.--In selecting locations for the 
+     education program, the Secretary shall consider the 
+     feasibility and advisability of selecting locations in the 
+     following areas:
+       (i) Rural areas.
+       (ii) Areas that are not in close proximity to an active 
+     duty installation.
+       (iii) Areas in different geographic locations.
+       (D) Expansion of locations.--Not later than two years after 
+     the date of the commencement of the education program, the 
+     Secretary shall expand the number of facilities at which the 
+     Secretary is carrying out the education program to include 
+     the following:
+       (i) Not less than 10 additional medical centers of the 
+     Department.
+       (ii) Not less than 10 additional clinics of the Department.
+       (iii) Not less than 10 additional Vet Centers.
+       (4) Contracts.--
+       (A) In general.--In carrying out the education program, the 
+     Secretary shall enter into contracts with qualified entities 
+     described in subparagraph (B) to offer the course of 
+     education described in paragraph (5) to family members and 
+     caregivers of eligible veterans and covered veterans.
+       (B) Qualified entity described.--A qualified entity 
+     described in this subparagraph is a non-profit entity with 
+     experience in mental health education and outreach, including 
+     work with children, teens, and young adults, that--
+       (i) uses high quality, relevant, and age-appropriate 
+     information in educational programming, materials, and 
+     coursework, including such programming, materials, and 
+     coursework for children, teens, and young adults; and
+       (ii) works with agencies, departments, nonprofit mental 
+     health organizations, early childhood educators, and mental 
+     health providers to develop educational programming, 
+     materials, and coursework.
+       (C) Priority.--In entering into contracts under this 
+     paragraph, the Secretary shall give priority to qualified 
+     entities that, to the maximum extent practicable, use 
+     Internet technology for the delivery of course content in an 
+     effort to expand the availability of support services, 
+     especially in rural areas.
+       (5) Elements.--The course of education described in this 
+     paragraph shall consist of not less than 10 weeks of 
+     education and shall include the following:
+       (A) General education on different mental health disorders, 
+     including information to improve understanding of the 
+     experiences of individuals suffering from those disorders.
+       (B) Techniques for handling crisis situations and 
+     administering mental health first aid to individuals 
+     suffering from mental health disorders.
+       (C) Techniques for coping with the stress of living with 
+     someone with a mental health disorder.
+       (D) Information on additional services available for family 
+     members and caregivers through the Department or community 
+     organizations and providers related to mental health 
+     disorders.
+       (E) Such other matters as the Secretary considers 
+     appropriate.
+       (6) Instructors.--
+       (A) Training.--Each instructor of the course of education 
+     described in paragraph (5) shall maintain a level of 
+     proficiency in the course of education as determined by the 
+     Secretary, and shall submit proof of that level of 
+     proficiency to the Secretary at such time and in such manner 
+     as the Secretary determines appropriate.
+       (B) Individuals who have completed the course as 
+     instructors.--Commencing as of the date that is two years 
+     after the date of the commencement of the education program, 
+     any individual who has successfully completed the course of 
+     education described in paragraph (5) and has successfully 
+     completed such additional training as is required for 
+     instructors pursuant to subparagraph (A) may act as an 
+     instructor in the course of education.
+       (c) Peer Support Program.--
+       (1) In general.--Under the peer support program, the 
+     Secretary shall provide peer support to family members and 
+     caregivers of eligible veterans on matters relating to coping 
+     with mental health disorders in veterans.
+       (2) Locations.--The Secretary shall provide peer support 
+     under the peer support program at each location at which the 
+     Secretary provides education under the education program.
+       (3) Elements.--Peer support under the peer support program 
+     shall consist of meetings in group settings between a peer 
+     support coordinator under paragraph (4) and family members 
+     and caregivers of eligible veterans on matters relating to 
+     coping with mental health disorders in veterans. At each 
+     location, those meetings shall be conducted not less often 
+     than twice each calendar quarter.
+       (4) Peer support coordinator.--
+       (A) In general.--The Secretary, acting through the director 
+     of each participating facility, may select an individual who 
+     has successfully completed the course of education described 
+     in subsection (b)(5) to serve as a peer support coordinator 
+     for each such facility to carry out the peer support program.
+       (B) Proficiency of instructors.--Each peer support 
+     coordinator shall maintain a level of proficiency in peer 
+     support as determined by the Secretary, and shall submit 
+     proof of that level of proficiency to the Secretary at such 
+     time and in such manner as the Secretary determines 
+     appropriate.
+       (d) Surveys.--
+       (1) In general.--The Secretary shall conduct a 
+     comprehensive and statistically significant survey of the 
+     satisfaction of individuals that have participated in the 
+     course of education described in subsection (b)(5) and 
+     individuals that have participated in the peer support 
+     program that includes the following:
+       (A) The general satisfaction of those individuals with the 
+     education and assistance provided in the education program 
+     and the peer support program.
+       (B) The perceived effectiveness of the education program 
+     and the peer support program in providing education and 
+     assistance that is useful for those individuals.
+       (C) The applicability of the education program and the peer 
+     support program to the issues faced by those individuals.
+       (D) Such other matters as the Secretary considers 
+     appropriate.
+       (E) A representative sample of the information required by 
+     subparagraphs (A) through (D) from each Veterans Integrated 
+     Service Network that is participating in the education 
+     program and the peer support program.
+       (2) Compilation of information.--The information compiled 
+     as a result of the surveys required by paragraph (1) shall be 
+     included in the annual report required by subsection (e)(1).
+       (e) Reports.--
+       (1) Annual report.--
+       (A) In general.--Not later than one year after the date of 
+     the commencement of the education program and not later than 
+     September 30 each year thereafter until 2017, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the education program and the 
+     peer support program.
+       (B) Elements.--Each report submitted under subparagraph (A) 
+     shall include the following:
+       (i) The number of individuals that participated in the 
+     course of education described in subsection (b)(5) during the 
+     year preceding the submission of the report.
+       (ii) The number of individuals that participated in the 
+     peer support program during the year preceding the submission 
+     of the report.
+       (iii) A detailed analysis of the surveys conducted under 
+     subsection (d) with respect to the individuals described in 
+     clause (i) and (ii).
+       (iv) The degree to which veterans and family members and 
+     caregivers of veterans are aware of the eligibility 
+     requirements for enrollment in the education program and the 
+     peer support program.
+       (v) Any plans for expansion of the education program and 
+     the peer support program.
+       (vi) The interim findings and conclusions of the Secretary 
+     with respect to the success of the education program and the 
+     peer support program.
+       (2) Final report.--
+       (A) In general.--Not later than one year after the 
+     completion of the education program, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the feasibility and advisability 
+     of continuing the education program and the peer support 
+     program.
+       (B) Elements.--The report submitted under subparagraph (A) 
+     shall include the following:
+       (i) A detailed analysis of the surveys conducted under 
+     subsection (d).
+
+[[Page 3167]]
+
+       (ii) The feasibility and advisability of continuing the 
+     education program without entering into contracts for the 
+     course of education described in subsection (b)(5) and 
+     instead using peer support coordinators selected under 
+     subsection (c)(4) as instructors of the course of education.
+       (iii) The feasibility and advisability of expanding the 
+     education program and the peer support program.
+
+     SEC. 343. REPORT ON PROVISION OF MENTAL HEALTH SERVICES FOR 
+                   FAMILIES OF CERTAIN VETERANS AT FACILITIES OF 
+                   THE DEPARTMENT.
+
+       Not later than one year after the date of the enactment of 
+     this Act, the Secretary of Veterans Affairs shall submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the feasibility and advisability 
+     of providing services under the program established by 
+     section 304(a) of the Caregivers and Veterans Omnibus Health 
+     Services Act of 2010 (Public Law 111-163; 38 U.S.C. 1712A 
+     note) at medical facilities of the Department of Veterans 
+     Affairs.
+
+     SEC. 344. ANNUAL REPORT ON COMMUNITY MENTAL HEALTH 
+                   PARTNERSHIP PILOT PROGRAM.
+
+       (a) In General.--Not later than one year after the date of 
+     the enactment of this Act and not later than September 30 
+     each year thereafter until the completion of the pilot 
+     program described in subsection (b), the Secretary of 
+     Veterans Affairs shall submit to the Committee on Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a report on that pilot 
+     program.
+       (b) Pilot Program Described.--The pilot program described 
+     in this subsection is the pilot program conducted by the 
+     Veterans Health Administration to connect medical centers of 
+     the Department of Veterans Affairs with community-based 
+     mental health care providers and substance abuse treatment 
+     providers for the purpose of assisting in the treatment of 
+     veterans with mental health disorders, commonly known as the 
+     ``Community Mental Health Partnership Pilot''.
+       (c) Elements.--Each report submitted under subsection (a) 
+     shall include the following:
+       (1) The number of sites participating in the pilot program.
+       (2) The number of individuals participating in the pilot 
+     program at each site.
+       (3) A detailed assessment of the effectiveness of, the 
+     participation of veterans in, and the satisfaction of 
+     veterans with the pilot program.
+       (4) An analysis of barriers to the effectiveness of, the 
+     participation of veterans in, and the satisfaction of 
+     veterans with the pilot program.
+       (5) A description of the plans of the Secretary to conduct 
+     outreach and provide information to veterans and community 
+     mental health providers with respect to the pilot program.
+       (6) A description of any plans to expand the pilot program, 
+     including plans that focus on the unique needs of veterans 
+     located in rural areas.
+       (7) An explanation of how the care provided under the pilot 
+     program is consistent with the minimum clinical mental health 
+     guidelines promulgated by the Veterans Health Administration, 
+     including clinical guidelines contained in the Uniform Mental 
+     Health Services Handbook of such Administration.
+
+     Subtitle E--Dental Care Eligibility Expansion and Enhancement
+
+     SEC. 351. RESTORATIVE DENTAL SERVICES FOR VETERANS.
+
+       (a) In General.--Section 1710(c) is amended--
+       (1) in the second sentence--
+       (A) by redesignating subparagraphs (A) and (B) as clauses 
+     (i) and (ii), respectively; and
+       (B) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively;
+       (2) by inserting ``(1)'' after ``(c)'';
+       (3) by striking ``The Secretary'' and inserting the 
+     following:
+       ``(2) The Secretary''; and
+       (4) by adding at the end the following new paragraph:
+       ``(3) In addition to the dental services, treatment, and 
+     appliances authorized to be furnished by paragraph (2), the 
+     Secretary may furnish dental services and treatment, and 
+     dental appliances, needed to restore functioning in a veteran 
+     that is lost as a result of any services or treatment 
+     furnished under this subsection.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 352. PILOT PROGRAM ON EXPANSION OF FURNISHING OF DENTAL 
+                   CARE TO ALL ENROLLED VETERANS.
+
+       (a) Pilot Program Required.--Commencing not later than 540 
+     days after the date of the enactment of this Act, the 
+     Secretary of Veterans Affairs shall carry out a pilot program 
+     to assess the feasibility and advisability of furnishing 
+     dental care to veterans enrolled in the system of patient 
+     enrollment under section 1705 of title 38, United States 
+     Code, who are not eligible for dental services and treatment, 
+     and related dental appliances, under current authorities.
+       (b) Duration of Pilot Program.--The pilot program shall be 
+     carried out during the three-year period beginning on the 
+     date of the commencement of the pilot program.
+       (c) Locations.--
+       (1) In general.--The Secretary shall carry out the pilot 
+     program at not fewer than 16 locations as follows:
+       (A) Four Department of Veterans Affairs medical centers 
+     with an established dental clinic.
+       (B) Four Department medical centers with a current contract 
+     for the furnishing of dental care.
+       (C) Four Community-Based Outpatient Clinics (CBOCs) with 
+     space available for the furnishing of services and treatment 
+     under the pilot program.
+       (D) Four facilities selected from among Federally Qualified 
+     Health Centers (FQHCs) and Indian Health Service facilities 
+     with established dental clinics, of which--
+       (i) at least one facility shall be such an Indian Health 
+     Service facility; and
+       (ii) any Indian Health Service facility so selected shall 
+     be selected in consultation with the Secretary of Health and 
+     Human Services.
+       (2) Considerations.--In selecting locations for the pilot 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in each of the following:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas representing different geographic locations, such 
+     as census tracts established by the Bureau of Census.
+       (d) Limitation on Number of Participating Veterans.--
+       (1) In general.--The total number of eligible veterans who 
+     may participate in the pilot program may not exceed 30,000.
+       (2) Distribution of limitation.--In applying the limitation 
+     in paragraph (1) to the pilot program, the Secretary shall 
+     distribute the limitation across and among locations selected 
+     for the pilot program in a manner that takes appropriate 
+     account of the size and need of veterans for dental services 
+     at each such location.
+       (e) Scope of Services.--The dental services and treatment 
+     furnished to veterans under the pilot program shall be 
+     consistent with the dental services and treatment furnished 
+     by the Secretary to veterans with service-connected 
+     disabilities rated 100 percent disabling under the laws 
+     administered by the Secretary.
+       (f) Voluntary Participation.--The participation of a 
+     veteran in the pilot program shall be at the election of the 
+     veteran.
+       (g) Limitation on Amount of Services.--
+       (1) In general.--The total amount the Secretary may expend 
+     furnishing dental services and treatment to a veteran 
+     participating in the pilot program during any one-year period 
+     may not exceed such amount as the Secretary determines 
+     appropriate. The amount so determined may not be less than 
+     $1,000.
+       (2) Consultation.--The Secretary shall make the 
+     determination under paragraph (1)--
+       (A) in consultation with the Director of the Indian Health 
+     Service; and
+       (B) in consultation with the Director of the Health 
+     Resources and Services Administration of the Department of 
+     Health and Human Services if one or more Federally Qualified 
+     Health Center is selected as a location for the pilot program 
+     under subsection (c)(1)(D).
+       (h) Copayments.--The Secretary may collect copayments for 
+     dental services and treatment furnished under the pilot 
+     program in accordance with authorities on the collection of 
+     copayments for medical care of veterans under chapter 17 of 
+     title 38, United States Code.
+       (i) Program Administration.--
+       (1) Notice to eligible veterans on pilot program.--In 
+     carrying out the pilot program, the Secretary shall inform 
+     all veterans eligible to participate in the pilot program of 
+     the services and treatment available under the pilot program.
+       (2) Contracts.--In carrying out the pilot program, the 
+     Secretary may enter into contracts with appropriate entities 
+     for the provision of dental services and treatment under the 
+     pilot program. Each such contract shall specify performance 
+     standards and metrics and processes for ensuring compliance 
+     of the contractor concerned with such performance standards.
+       (j) Reports.--
+       (1) Preliminary reports.--
+       (A) In general.--Not later than each of 540 days and three 
+     years after the date of the commencement of the pilot 
+     program, the Secretary shall submit to the Committee on 
+     Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the pilot program.
+       (B) Contents.--Each report under subparagraph (A) shall 
+     include the following:
+       (i) A description of the implementation and operation of 
+     the pilot program.
+       (ii) The number of veterans receiving services and 
+     treatment under the pilot program, and a description of the 
+     dental services and treatment furnished to such veterans.
+       (iii) An analysis of the costs and benefits of the pilot 
+     program, including a comparison of costs and benefits by 
+     location type.
+
+[[Page 3168]]
+
+       (iv) An assessment of the impact of the pilot program on 
+     medical care, wellness, employability, and perceived quality 
+     of life of veterans.
+       (v) The current findings and conclusions of the Secretary 
+     with respect to the pilot program.
+       (vi) Such recommendations for the continuation or expansion 
+     of the pilot program as the Secretary considers appropriate.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the pilot program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the pilot program.
+       (B) Contents.--The report under subparagraph (A) shall 
+     include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the pilot program.
+       (ii) Such recommendations for the continuation or expansion 
+     of the pilot program as the Secretary considers appropriate.
+       (k) Federally Qualified Health Center Defined.--In this 
+     section the term ``Federally Qualified Health Center'' means 
+     a Federally-qualified health center as defined in section 
+     1905(l)(2)(B) of the Social Security Act (42 U.S.C. 
+     1396d(l)(2)(B)).
+       (l) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 353. PROGRAM ON EDUCATION TO PROMOTE DENTAL HEALTH IN 
+                   VETERANS.
+
+       (a) Program Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     carry out a program of education to promote dental health for 
+     veterans who are enrolled in the system of patient enrollment 
+     of the Department of Veterans Affairs under section 1705 of 
+     title 38, United States Code.
+       (2) Construction.--Nothing in the program shall be deemed 
+     to alter or revise the eligibility of any veteran for dental 
+     care under the laws administered by the Secretary.
+       (b) Elements.--The program required by subsection (a) shall 
+     provide education for veterans on the following:
+       (1) The association between dental health and overall 
+     health and well-being.
+       (2) Proper techniques for dental care.
+       (3) Signs and symptoms of commonly occurring dental 
+     conditions.
+       (4) Treatment options for commonly occurring dental issues.
+       (5) Options for obtaining access to dental care, including 
+     information on eligibility for dental care through the 
+     Department and on purchasing private dental insurance.
+       (6) Available and accessible options for obtaining low or 
+     no-cost dental care, including through dental schools and 
+     Federally Qualified Health Centers (FQHCs).
+       (7) Such other matters relating to dental health as the 
+     Secretary considers appropriate.
+       (c) Delivery of Educational Materials.--
+       (1) In general.--The Secretary shall provide educational 
+     materials to veterans under the program required by 
+     subsection (a) through a variety of mechanisms, including the 
+     following:
+       (A) The availability and distribution of print materials at 
+     Department facilities (including at medical centers, clinics, 
+     Vet Centers, and readjustment counseling centers) and to 
+     providers (including members of Patient Aligned Care Teams).
+       (B) The availability and distribution of materials over the 
+     Internet, including through webinars and My Health eVet.
+       (C) Presentations of information, including both small 
+     group and large group presentations.
+       (2) Selection of mechanisms.--In selecting mechanisms for 
+     purposes of this subsection, the Secretary shall select 
+     mechanisms designed to maximize the number of veterans who 
+     receive education under the program.
+       (d) Federally Qualified Health Center Defined.--In this 
+     section the term ``Federally Qualified Health Center'' means 
+     a Federally-qualified health center as defined in section 
+     1905(l)(2)(B) of the Social Security Act (42 U.S.C. 
+     1396d(l)(2)(B)).
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 354. INFORMATION ON DENTAL SERVICES FOR INCLUSION IN 
+                   ELECTRONIC MEDICAL RECORDS UNDER DENTAL 
+                   INSURANCE PILOT PROGRAM.
+
+       (a) In General.--Commencing not later than 540 days after 
+     the date of the enactment of this Act, the Secretary of 
+     Veterans Affairs shall expand the dental insurance pilot 
+     program established by section 17.169 of title 38, Code of 
+     Federal Regulations, to establish a mechanism by which 
+     private sector dental care providers shall forward to the 
+     Department of Veterans Affairs information on dental care 
+     furnished to individuals under the pilot program for 
+     inclusion in the electronic medical records of the Department 
+     with respect to such individuals.
+       (b) Construction With Current Pilot Program Requirements.--
+       (1) In general.--Nothing in this section shall be construed 
+     to revise eligibility for participation in, or the locations 
+     of, the pilot program referred to in subsection (a).
+       (2) Duration.--The Secretary may continue the pilot program 
+     for two years in addition to the duration otherwise provided 
+     for the pilot program in section 17.169 of title 38, Code of 
+     Federal Regulations, if the Secretary determines that the 
+     continuation is needed to assess the mechanism required by 
+     subsection (a).
+       (3) Voluntary participation in mechanism.--The 
+     participation in the mechanism required by subsection (a) of 
+     an individual otherwise participating in the pilot program 
+     shall be at the election of the individual.
+       (c) Inclusion of Information on Mechanism in Reports.--Each 
+     report to Congress on the pilot program after the date of the 
+     commencement of the mechanism required by subsection (a) 
+     shall include information on the mechanism, including a 
+     current assessment of the feasability and advisability of 
+     using the mechanism to include information on dental care 
+     furnished individuals in the electronic medical records of 
+     the Department with respect to such individuals.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 355. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated for the Department 
+     of Veterans Affairs for fiscal year 2015 $305,000,000 to 
+     carry out this subtitle and the amendments made by this 
+     subtitle. The amount so authorized to be appropriated shall 
+     be available for obligation for the five-year period 
+     beginning on the date that is one year after the date of the 
+     enactment of this Act.
+
+            Subtitle F--Health Care Related to Sexual Trauma
+
+     SEC. 361. EXPANSION OF ELIGIBILITY FOR SEXUAL TRAUMA 
+                   COUNSELING AND TREATMENT TO VETERANS ON 
+                   INACTIVE DUTY TRAINING.
+
+       Section 1720D(a)(1) is amended by striking ``or active duty 
+     for training'' and inserting ``, active duty for training, or 
+     inactive duty training''.
+
+     SEC. 362. PROVISION OF COUNSELING AND TREATMENT FOR SEXUAL 
+                   TRAUMA BY THE DEPARTMENT OF VETERANS AFFAIRS TO 
+                   MEMBERS OF THE ARMED FORCES.
+
+       (a) Expansion of Coverage to Members of the Armed Forces.--
+     Subsection (a) of section 1720D is amended--
+       (1) by redesignating paragraph (2) as paragraph (3);
+       (2) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2)(A) In operating the program required by paragraph 
+     (1), the Secretary may, in consultation with the Secretary of 
+     Defense, provide counseling and care and services to members 
+     of the Armed Forces (including members of the National Guard 
+     and Reserves) on active duty to overcome psychological trauma 
+     described in that paragraph.
+       ``(B) A member described in subparagraph (A) shall not be 
+     required to obtain a referral before receiving counseling and 
+     care and services under this paragraph.''; and
+       (3) in paragraph (3), as redesignated by paragraph (1)--
+       (A) by striking ``a veteran'' and inserting ``an 
+     individual''; and
+       (B) by striking ``that veteran'' each place it appears and 
+     inserting ``that individual''.
+       (b) Information to Members on Availability of Counseling 
+     and Services.--Subsection (c) of such section is amended--
+       (1) by striking ``to veterans'' each place it appears; and
+       (2) in paragraph (3), by inserting ``members of the Armed 
+     Forces and'' before ``individuals''.
+       (c) Inclusion of Members in Reports on Counseling and 
+     Services.--Subsection (e) of such section is amended--
+       (1) in the matter preceding paragraph (1), by striking ``to 
+     veterans'';
+       (2) in paragraph (2)--
+       (A) by striking ``women veterans'' and inserting 
+     ``individuals''; and
+       (B) by striking ``training under subsection (d).'' and 
+     inserting ``training under subsection (d), disaggregated by--
+       ``(A) veterans;
+       ``(B) members of the Armed Forces (including members of the 
+     National Guard and Reserves) on active duty; and
+       ``(C) for each of subparagraphs (A) and (B)--
+       ``(i) men; and
+       ``(ii) women.'';
+       (3) in paragraph (4), by striking ``veterans'' and 
+     inserting ``individuals''; and
+       (4) in paragraph (5)--
+       (A) by striking ``women veterans'' and inserting 
+     ``individuals'' ; and
+       (B) by inserting ``, including specific recommendations for 
+     individuals specified in subparagraphs (A), (B), and (C) of 
+     paragraph (2)'' before the period at the end.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 363. DEPARTMENT OF VETERANS AFFAIRS SCREENING MECHANISM 
+                   TO DETECT INCIDENTS OF DOMESTIC ABUSE.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall develop and implement a screening mechanism to be used 
+     when a veteran seeks healthcare services from the Department 
+     of Veterans Affairs to detect if the veteran has been a 
+     victim of domestic abuse for purposes of improving the 
+     treatment of the veteran and assessing the prevalence of 
+     domestic abuse in the veteran population.
+
+[[Page 3169]]
+
+       (b) Readily Available Screening Tools.--In developing and 
+     implementing a screening mechanism under subsection (a), the 
+     Secretary may incorporate into the screening mechanism such 
+     readily available screening tools as the Secretary considers 
+     appropriate for the screening mechanism.
+       (c) Domestic Abuse Defined.--In this section, the term 
+     ``domestic abuse'' means behavior with respect to an 
+     individual that--
+       (1) constitutes--
+       (A) a pattern of behavior resulting in physical or 
+     emotional abuse, economic control, or interference with the 
+     personal liberty of that individual;
+       (B) a violation of Federal or State law involving the use, 
+     attempted use, or threatened use of force or violence against 
+     that individual; or
+       (C) a violation of a lawful order issued for the protection 
+     of that individual; and
+       (2) is committed by a person who--
+       (A) is a current or former spouse or domestic partner of 
+     that individual;
+       (B) shares a child in common with that individual;
+       (C) is a current or former intimate partner of that 
+     individual that shares or has shared a common domicile with 
+     that individual;
+       (D) is a caregiver or family caregiver of that individual 
+     (as such terms are defined in section 1720G(d) of title 38, 
+     United States Code); or
+       (E) is in any other type of relationship with that 
+     individual that the Secretary may specify for purposes of 
+     this section.
+
+     SEC. 364. REPORTS ON MILITARY SEXUAL TRAUMA AND DOMESTIC 
+                   ABUSE.
+
+       (a) Report on Services Available for Military Sexual Trauma 
+     in the Department of Veterans Affairs.--Not later than 630 
+     days after the date of the enactment of this Act, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the treatment and services available from the Department of 
+     Veterans Affairs for male veterans who experience military 
+     sexual trauma compared to such treatment and services 
+     available to female veterans who experience military sexual 
+     trauma.
+       (b) Report on Domestic Abuse Among Veterans.--Not later 
+     than two years after the implementation of the screening 
+     mechanism required by section 363(a) of this Act, the 
+     Secretary of Veterans Affairs and the Secretary of Health and 
+     Human Services, acting through the Director of the Centers 
+     for Disease Control and Prevention, shall jointly submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on domestic abuse among veterans 
+     that includes the following:
+       (1) A summary of the types, outcomes, and circumstances of 
+     incidents of domestic abuse that have been reported by 
+     veterans during the two-year period preceding the submission 
+     of the report.
+       (2) A summary of the treatments available from the 
+     Department of Veterans Affairs for veterans who experience 
+     domestic abuse and an assessment of the effectiveness of 
+     those treatments.
+       (3) Data and analysis on any correlation between an 
+     incident of military sexual trauma or sexual trauma 
+     experienced after the age of 18 and domestic abuse.
+       (4) Any other issues that the Secretary of Veterans Affairs 
+     or the Director of the Centers for Disease Control and 
+     Prevention determines appropriate.
+       (c) Reports on Transition of Military Sexual Trauma and 
+     Domestic Abuse Treatment From Department of Defense to 
+     Department of Veterans Affairs.--Not later than 630 days 
+     after the date of the enactment of this Act, and annually 
+     thereafter for five years, the Department of Veterans 
+     Affairs-Department of Defense Joint Executive Committee 
+     established by section 320(a) of title 38, United States 
+     Code, shall submit to the appropriate committees of Congress 
+     a report on military sexual trauma and domestic abuse that 
+     includes the following:
+       (1) The processes and procedures utilized by the Department 
+     of Veterans Affairs and the Department of Defense to 
+     facilitate transition of treatment of individuals who have 
+     experienced military sexual trauma or domestic abuse from 
+     treatment provided by the Department of Defense to treatment 
+     provided by the Department of Veterans Affairs.
+       (2) A description and assessment of the collaboration 
+     between the Department of Veterans Affairs and the Department 
+     of Defense in assisting veterans in filing claims for 
+     disabilities related to military sexual trauma or domestic 
+     abuse, including permitting veterans access to information 
+     and evidence necessary to develop or support such claims.
+       (d) Definitions.--In this section:
+       (1) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means--
+       (A) the Committee on Veterans' Affairs and the Committee on 
+     Armed Services of the Senate; and
+       (B) the Committee on Veterans' Affairs and the Committee on 
+     Armed Services of the House of Representatives.
+       (2) Domestic abuse.--The term ``domestic abuse'' has the 
+     meaning given that term in section 363(c) of this Act.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' means psychological trauma, which in the judgment of 
+     a mental health professional employed by the Department, 
+     resulted from a physical assault of a sexual nature, battery 
+     of a sexual nature, or sexual harassment which occurred while 
+     the veteran was serving on active duty or active duty for 
+     training.
+       (4) Sexual harassment.--The term ``sexual harassment'' 
+     means repeated, unsolicited verbal or physical contact of a 
+     sexual nature which is threatening in character.
+       (5) Sexual trauma.--The term ``sexual trauma'' shall have 
+     the meaning given that term by the Secretary of Veterans 
+     Affairs for purposes of this section.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is 270 days after the date of the enactment of this 
+     Act.
+
+            Subtitle G--Reproductive Treatment and Services
+
+     SEC. 371. CLARIFICATION THAT FERTILITY COUNSELING AND 
+                   TREATMENT ARE MEDICAL SERVICES WHICH THE 
+                   SECRETARY MAY FURNISH TO VETERANS LIKE OTHER 
+                   MEDICAL SERVICES.
+
+       Section 1701(6), as amended by section 305(b)(1) of this 
+     Act, is further amended by adding at the end the following 
+     new subparagraph:
+       ``(I) Fertility counseling and treatment, including 
+     treatment using assisted reproductive technology.''.
+
+     SEC. 372. REPRODUCTIVE TREATMENT AND CARE FOR SPOUSES AND 
+                   SURROGATES OF VETERANS.
+
+       (a) In General.--Subchapter VIII of chapter 17 is amended 
+     by adding at the end the following new section:
+
+     ``Sec. 1788. Reproductive treatment and care for spouses and 
+       surrogates of veterans
+
+       ``(a) In General.--The Secretary shall furnish fertility 
+     counseling and treatment, including through the use of 
+     assisted reproductive technology, to a spouse or surrogate of 
+     a severely wounded, ill, or injured veteran who has an 
+     infertility condition incurred or aggravated in line of duty 
+     in the active military, naval, or air service and who is 
+     enrolled in the system of annual patient enrollment 
+     established under section 1705(a) of this title if the spouse 
+     or surrogate and the veteran apply jointly for such 
+     counseling and treatment through a process prescribed by the 
+     Secretary.
+       ``(b) Coordination of Care for Other Spouses and 
+     Surrogates.--In the case of a spouse or surrogate of a 
+     veteran not described in subsection (a) who is seeking 
+     fertility counseling and treatment, the Secretary may 
+     coordinate fertility counseling and treatment for such spouse 
+     or surrogate.
+       ``(c) Construction.--Nothing in this section shall be 
+     construed to require the Secretary--
+       ``(1) to find or certify a surrogate for a veteran or to 
+     connect a surrogate with a veteran; or
+       ``(2) to furnish maternity care to a spouse or surrogate of 
+     a veteran.
+       ``(d) Assisted Reproductive Technology Defined.--In this 
+     section, the term `assisted reproductive technology' includes 
+     in vitro fertilization and other fertility treatments in 
+     which both eggs and sperm are handled when clinically 
+     appropriate.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1787 the following new item:
+
+``1788. Reproductive treatment and care for spouses and surrogates of 
+              veterans.''.
+
+     SEC. 373. ADOPTION ASSISTANCE FOR SEVERELY WOUNDED VETERANS.
+
+       (a) In General.--Subchapter VIII of chapter 17, as amended 
+     by section 372(a) of this Act, is further amended by adding 
+     at the end the following new section:
+
+     ``Sec. 1789. Adoption assistance
+
+       ``(a) In General.--The Secretary may pay an amount, not to 
+     exceed the limitation amount, to assist a covered veteran in 
+     the adoption of one or more children.
+       ``(b) Covered Veteran.--For purposes of this section, a 
+     covered veteran is any severely wounded, ill, or injured 
+     veteran who--
+       ``(1) has an infertility condition incurred or aggravated 
+     in line of duty in the active military, naval, or air 
+     service; and
+       ``(2) is enrolled in the system of annual patient 
+     enrollment established under section 1705(a) of this title.
+       ``(c) Limitation Amount.--For purposes of this section, the 
+     limitation amount is the amount equal to the lesser of--
+       ``(1) the cost the Department would incur if the Secretary 
+     were to provide a covered veteran with one cycle of fertility 
+     treatment through the use of assisted reproductive technology 
+     under section 1788 of this title, as determined by the 
+     Secretary; or
+       ``(2) the cost the Department would incur by paying the 
+     expenses of three adoptions by covered veterans, as 
+     determined by the Secretary.
+       ``(d) Assisted Reproductive Technology Defined.--In this 
+     section, the term `assisted reproductive technology' has the 
+     meaning given that term in section 1788 of this title.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 17, as
+
+[[Page 3170]]
+
+     amended by section 372(b) of this Act, is further amended by 
+     inserting after the item relating to section 1788 the 
+     following new item:
+
+``1789. Adoption assistance.''.
+
+     SEC. 374. REGULATIONS ON FURNISHING OF FERTILITY COUNSELING 
+                   AND TREATMENT AND ADOPTION ASSISTANCE BY 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Not later than 540 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall prescribe regulations--
+       (1) on the furnishing of fertility treatment to veterans 
+     using assisted reproductive technology;
+       (2) to carry out section 1788 of title 38, United States 
+     Code, as added by section 372 of this Act; and
+       (3) to carry out section 1789 of such title, as added by 
+     section 373 of this Act.
+       (b) Limitation.--Notwithstanding any other provision of 
+     law, during the period beginning on the date of the enactment 
+     of this Act and ending on the date on which the Secretary 
+     prescribes regulations under subsection (a), the Secretary 
+     may not furnish--
+       (1) to a veteran any fertility treatment that uses an 
+     assisted reproductive technology that the Secretary has not 
+     used in the provision of a fertility treatment to a veteran 
+     before the date of the enactment of this Act;
+       (2) any fertility counseling or treatment under section 
+     1788 of such title, as added by section 372 of this Act; or
+       (3) any assistance under section 1789 of such title, as 
+     added by section 373 of this Act.
+       (c) Assisted Reproductive Technology Defined.--In this 
+     section, the term ``assisted reproductive technology'' has 
+     the meaning given the term in section 1788 of such title, as 
+     added by section 372 of this Act.
+
+     SEC. 375. COORDINATION BETWEEN DEPARTMENT OF VETERANS AFFAIRS 
+                   AND DEPARTMENT OF DEFENSE ON FURNISHING OF 
+                   FERTILITY COUNSELING AND TREATMENT.
+
+       The Secretary of Veterans Affairs and the Secretary of 
+     Defense shall share best practices and facilitate referrals, 
+     as they consider appropriate, on the furnishing of fertility 
+     counseling and treatment.
+
+     SEC. 376. FACILITATION OF REPRODUCTION AND INFERTILITY 
+                   RESEARCH.
+
+       (a) In General.--Subchapter II of chapter 73, as amended by 
+     section 325(a) of this Act, is further amended by adding at 
+     the end the following new section:
+
+     ``Sec. 7330C. Facilitation of reproduction and infertility 
+       research
+
+       ``(a) Facilitation of Research Required.--The Secretary 
+     shall facilitate research conducted collaboratively by the 
+     Secretary of Defense and the Secretary of Health and Human 
+     Services to improve the ability of the Department of Veterans 
+     Affairs to meet the long-term reproductive health care needs 
+     of veterans who have a genitourinary service-connected 
+     disability or a condition that was incurred or aggravated in 
+     line of duty in the active military, naval, or air service, 
+     such as a spinal cord injury, that affects the veterans' 
+     ability to reproduce.
+       ``(b) Dissemination of Information.--The Secretary shall 
+     ensure that information produced by the research facilitated 
+     under this section that may be useful for other activities of 
+     the Veterans Health Administration is disseminated throughout 
+     the Veterans Health Administration.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 73, as amended by section 325(b) of this 
+     Act, is further amended by inserting after the item relating 
+     to section 7330B the following new item:
+
+``7330C. Facilitation of reproduction and infertility research.''.
+       (c) Report.--Not later than three years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to Congress a report on the research activities 
+     conducted by the Secretary under section 7330C of title 38, 
+     United States Code, as added by subsection (a).
+
+     SEC. 377. ANNUAL REPORT ON PROVISION OF FERTILITY COUNSELING 
+                   AND TREATMENT FURNISHED BY DEPARTMENT OF 
+                   VETERANS AFFAIRS.
+
+       (a) In General.--Not later than one year after the date of 
+     the enactment of this Act and not less frequently than 
+     annually thereafter, the Secretary of Veterans Affairs shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the fertility counseling and 
+     treatment furnished by the Department of Veterans Affairs 
+     during the year preceding the submittal of the report.
+       (b) Elements.--Each report submitted under subsection (a) 
+     shall include, for the period covered by the report, the 
+     following:
+       (1) The number of veterans who received fertility 
+     counseling or treatment furnished by the Department of 
+     Veterans Affairs, disaggregated by era of military service of 
+     such veterans.
+       (2) The number of spouses and surrogates of veterans who 
+     received fertility counseling or treatment furnished by the 
+     Department.
+       (3) The cost to the Department of furnishing fertility 
+     counseling and treatment, disaggregated by cost of services 
+     and administration.
+       (4) The average cost to the Department per recipient of 
+     such counseling and treatment.
+       (5) In cases in which the Department furnished fertility 
+     treatment through the use of assisted reproductive 
+     technology, the average number of cycles per person 
+     furnished.
+       (6) A description of how fertility counseling and treatment 
+     services of the Department are coordinated with similar 
+     services of the Department of Defense.
+
+     SEC. 378. PROGRAM ON ASSISTANCE FOR CHILD CARE FOR CERTAIN 
+                   VETERANS.
+
+       (a) Assistance for Child Care for Certain Veterans 
+     Receiving Health Care.--
+       (1) In general.--Subchapter I of chapter 17 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1709B. Assistance for child care for certain veterans 
+       receiving health care
+
+       ``(a) Program Required.--The Secretary shall carry out a 
+     program to provide, subject to subsection (b), assistance to 
+     qualified veterans described in subsection (c) to obtain 
+     child care so that such veterans can receive health care 
+     services described in subsection (c).
+       ``(b) Limitation on Period of Payments.--Assistance may 
+     only be provided to a qualified veteran under this section 
+     for receipt of child care during the period that the 
+     qualified veteran--
+       ``(1) receives health care services described in subsection 
+     (c) at a facility of the Department; and
+       ``(2) requires travel to and from such facility for the 
+     receipt of such health care services.
+       ``(c) Qualified Veterans.--For purposes of this section, a 
+     qualified veteran is a veteran who is--
+       ``(1) the primary caretaker of a child or children; and
+       ``(2)(A) receiving from the Department--
+       ``(i) regular mental health care services;
+       ``(ii) intensive mental health care services; or
+       ``(iii) such other intensive health care services that the 
+     Secretary determines that provision of assistance to the 
+     veteran to obtain child care would improve access to such 
+     health care services by the veteran; or
+       ``(B) in need of regular or intensive mental health care 
+     services from the Department, and but for lack of child care 
+     services, would receive such health care services from the 
+     Department.
+       ``(d) Locations.--The Secretary shall carry out the program 
+     in no fewer than three Veterans Integrated Service Networks 
+     selected by the Secretary for purposes of the program.
+       ``(e) Forms of Child Care Assistance.--(1) Child care 
+     assistance under this section may include the following:
+       ``(A) Stipends for the payment of child care offered by 
+     licensed child care centers (either directly or through a 
+     voucher program) which shall be, to the extent practicable, 
+     modeled after the Department of Veterans Affairs Child Care 
+     Subsidy Program established pursuant to section 630 of the 
+     Treasury and General Government Appropriations Act, 2002 
+     (Public Law 107-67; 115 Stat. 552).
+       ``(B) Direct provision of child care at an on-site facility 
+     of the Department.
+       ``(C) Payments to private child care agencies.
+       ``(D) Collaboration with facilities or programs of other 
+     Federal departments or agencies.
+       ``(E) Such other forms of assistance as the Secretary 
+     considers appropriate.
+       ``(2) In the case that child care assistance under this 
+     section is provided as a stipend under paragraph (1)(A), such 
+     stipend shall cover the full cost of such child care.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1709A the following new item:
+
+``1709B. Assistance for child care for certain veterans receiving 
+              health care.''.
+       (3) Conforming amendment.--Section 205(e) of the Caregivers 
+     and Veterans Omnibus Health Services Act of 2010 (Public Law 
+     111-163; 38 U.S.C. 1710 note) is amended by inserting ``but 
+     not after the date of the enactment of the Comprehensive 
+     Veterans Health and Benefits and Military Retirement Pay 
+     Restoration Act of 2014'' before the period at the end.
+       (b) Assistance for Child Care for Individuals Receiving 
+     Readjustment Counseling and Related Mental Health Services.--
+       (1) In general.--Subchapter I of chapter 17, as amended by 
+     subsection (a)(1) of this section, is further amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1709C. Assistance for child care for individuals 
+       receiving readjustment counseling and related mental health 
+       services
+
+       ``(a) Program Required.--The Secretary shall carry out a 
+     program to provide, subject to subsection (b), assistance to 
+     qualified individuals described in subsection (c) to obtain 
+     child care so that such individuals can receive readjustment 
+     counseling and related mental health services.
+       ``(b) Limitation on Period of Payments.--Assistance may 
+     only be provided to a qualified individual under this section 
+     for receipt of child care during the period that the 
+     qualified individual receives readjustment counseling and 
+     related health care services at a Vet Center.
+
+[[Page 3171]]
+
+       ``(c) Qualified Individuals.--For purposes of this section, 
+     a qualified individual is an individual who is--
+       ``(1) the primary caretaker of a child or children; and
+       ``(2)(A) receiving from the Department regular readjustment 
+     counseling and related mental health services; or
+       ``(B) in need of readjustment counseling and related mental 
+     health services from the Department, and but for lack of 
+     child care services, would receive such counseling and 
+     services from the Department.
+       ``(d) Locations.--The Secretary shall carry out the program 
+     under this section in no fewer than three Readjustment 
+     Counseling Service Regions selected by the Secretary for 
+     purposes of the program.
+       ``(e) Forms of Child Care Assistance.--(1) Child care 
+     assistance under this section may include the following:
+       ``(A) Stipends for the payment of child care offered by 
+     licensed child care centers (either directly or through a 
+     voucher program) which shall be, to the extent practicable, 
+     modeled after the Department of Veterans Affairs Child Care 
+     Subsidy Program established pursuant to section 630 of the 
+     Treasury and General Government Appropriations Act, 2002 
+     (Public Law 107-67; 115 Stat. 552).
+       ``(B) Payments to private child care agencies.
+       ``(C) Collaboration with facilities or programs of other 
+     Federal departments or agencies.
+       ``(D) Such other forms of assistance as the Secretary 
+     considers appropriate.
+       ``(2) In the case that child care assistance under this 
+     subsection is provided as a stipend under paragraph (1)(A), 
+     such stipend shall cover the full cost of such child care.
+       ``(f) Vet Center Defined.--In this section, the term `Vet 
+     Center' means a center for readjustment counseling and 
+     related mental health services for individuals under section 
+     1712A of this title.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17, as amended by subsection (a)(2) of 
+     this section, is further amended by inserting after the item 
+     relating to section 1709B the following new item:
+
+``1709C. Assistance for child care for individuals receiving 
+              readjustment counseling and related mental health 
+              services.''.
+
+     SEC. 379. COUNSELING IN RETREAT SETTINGS FOR WOMEN VETERANS 
+                   NEWLY SEPARATED FROM SERVICE IN THE ARMED 
+                   FORCES.
+
+       (a) Counseling in Retreat Settings.--
+       (1) In general.--Subchapter II of chapter 17 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1720H. Counseling in retreat settings for women 
+       veterans newly separated from service in the Armed Forces
+
+       ``(a) In General.--The Secretary shall provide, through the 
+     Readjustment Counseling Service of the Veterans Health 
+     Administration, reintegration and readjustment services 
+     described in subsection (c) in group retreat settings to 
+     women veterans who are recently separated from service in the 
+     Armed Forces after a prolonged deployment.
+       ``(b) Election of Veteran.--The receipt of services under 
+     this section by a woman veteran shall be at the election of 
+     the veteran.
+       ``(c) Covered Services.--The services provided to a woman 
+     veteran under this section shall include the following:
+       ``(1) Information on reintegration into the veteran's 
+     family, employment, and community.
+       ``(2) Financial counseling.
+       ``(3) Occupational counseling.
+       ``(4) Information and counseling on stress reduction.
+       ``(5) Information and counseling on conflict resolution.
+       ``(6) Such other information and counseling as the 
+     Secretary considers appropriate to assist the veteran in 
+     reintegration into the veteran's family, employment, and 
+     community.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1720G the following new item:
+
+``1720H. Counseling in retreat settings for women veterans newly 
+              separated from service in the Armed Forces.''.
+       (b) Repeal of Superseded Pilot Program Authority.--Section 
+     203 of the Caregivers and Veterans Omnibus Health Services 
+     Act of 2010 (Public Law 111-163; 38 U.S.C. 1712A note) is 
+     hereby repealed.
+
+               Subtitle H--Major Medical Facility Leases
+
+     SEC. 381. AUTHORIZATION OF MAJOR MEDICAL FACILITY LEASES.
+
+       The Secretary of Veterans Affairs may carry out the 
+     following major medical facility leases at the locations 
+     specified, and in an amount for each lease not to exceed the 
+     amount shown for such location (not including any estimated 
+     cancellation costs):
+       (1) For a clinical research and pharmacy coordinating 
+     center, Albuquerque, New Mexico, an amount not to exceed 
+     $9,560,000.
+       (2) For a community-based outpatient clinic, Brick, New 
+     Jersey, an amount not to exceed $7,280,000.
+       (3) For a new primary care and dental clinic annex, 
+     Charleston, South Carolina, an amount not to exceed 
+     $7,070,250.
+       (4) For the Cobb County community-based Outpatient Clinic, 
+     Cobb County, Georgia, an amount not to exceed $6,409,000.
+       (5) For the Leeward Outpatient Healthcare Access Center, 
+     Honolulu, Hawaii, including a co-located clinic with the 
+     Department of Defense and the co-location of the Honolulu 
+     Regional Office of the Veterans Benefits Administration and 
+     the Kapolei Vet Center of the Department of Veterans Affairs, 
+     an amount not to exceed $15,887,370.
+       (6) For a community-based outpatient clinic, Johnson 
+     County, Kansas, an amount not to exceed $2,263,000.
+       (7) For a replacement community-based outpatient clinic, 
+     Lafayette, Louisiana, an amount not to exceed $2,996,000.
+       (8) For a community-based outpatient clinic, Lake Charles, 
+     Louisiana, an amount not to exceed $2,626,000.
+       (9) For outpatient clinic consolidation, New Port Richey, 
+     Florida, an amount not to exceed $11,927,000.
+       (10) For an outpatient clinic, Ponce, Puerto Rico, an 
+     amount not to exceed $11,535,000.
+       (11) For lease consolidation, San Antonio, Texas, an amount 
+     not to exceed $19,426,000.
+       (12) For a community-based outpatient clinic, San Diego, 
+     California, an amount not to exceed $11,946,100.
+       (13) For an outpatient clinic, Tyler, Texas, an amount not 
+     to exceed $4,327,000.
+       (14) For the Errera Community Care Center, West Haven, 
+     Connecticut, an amount not to exceed $4,883,000.
+       (15) For the Worcester community-based Outpatient Clinic, 
+     Worcester, Massachusetts, an amount not to exceed $4,855,000.
+       (16) For the expansion of a community-based outpatient 
+     clinic, Cape Girardeau, Missouri, an amount not to exceed 
+     $4,232,060.
+       (17) For a multispecialty clinic, Chattanooga, Tennessee, 
+     an amount not to exceed $7,069,000.
+       (18) For the expansion of a community-based outpatient 
+     clinic, Chico, California, an amount not to exceed 
+     $4,534,000.
+       (19) For a community-based outpatient clinic, Chula Vista, 
+     California, an amount not to exceed $3,714,000.
+       (20) For a new research lease, Hines, Illinois, an amount 
+     not to exceed $22,032,000.
+       (21) For a replacement research lease, Houston, Texas, an 
+     amount not to exceed $6,142,000.
+       (22) For a community-based outpatient clinic, Lincoln, 
+     Nebraska, an amount not to exceed $7,178,400.
+       (23) For a community-based outpatient clinic, Lubbock, 
+     Texas, an amount not to exceed $8,554,000.
+       (24) For a community-based outpatient clinic consolidation, 
+     Myrtle Beach, South Carolina, an amount not to exceed 
+     $8,022,000.
+       (25) For a community-based outpatient clinic, Phoenix, 
+     Arizona, an amount not to exceed $20,757,000.
+       (26) For the expansion of a community-based outpatient 
+     clinic, Redding, California, an amount not to exceed 
+     $8,154,000.
+       (27) For the expansion of a community-based outpatient 
+     clinic, Tulsa, Oklahoma, an amount not to exceed $13,269,200.
+
+     SEC. 382. BUDGETARY TREATMENT OF DEPARTMENT OF VETERANS 
+                   AFFAIRS MAJOR MEDICAL FACILITIES LEASES.
+
+       (a) Findings.--Congress finds the following:
+       (1) Title 31, United States Code, requires the Department 
+     of Veterans Affairs to record the full cost of its 
+     contractual obligation against funds available at the time a 
+     contract is executed.
+       (2) Office of Management and Budget Circular A-11 provides 
+     guidance to agencies in meeting the statutory requirements 
+     under title 31, United States Code, with respect to leases.
+       (3) For operating leases, Office of Management and Budget 
+     Circular A-11 requires the Department of Veterans Affairs to 
+     record up-front budget authority in an ``amount equal to 
+     total payments under the full term of the lease or [an] 
+     amount sufficient to cover first year lease payments plus 
+     cancellation costs''.
+       (b) Requirement for Obligation of Full Cost.--Subject to 
+     the availability of appropriations provided in advance, in 
+     exercising the authority of the Secretary of Veterans Affairs 
+     to enter into leases provided in this Act, the Secretary 
+     shall record, pursuant to section 1501 of title 31, United 
+     States Code, as the full cost of the contractual obligation 
+     at the time a contract is executed either--
+       (1) an amount equal to total payments under the full term 
+     of the lease; or
+       (2) if the lease specifies payments to be made in the event 
+     the lease is terminated before its full term, an amount 
+     sufficient to cover the first year lease payments plus the 
+     specified cancellation costs.
+       (c) Transparency.--
+       (1) Compliance.--Subsection (b) of section 8104 is amended 
+     by adding at the end the following new paragraph:
+       ``(7) In the case of a prospectus proposing funding for a 
+     major medical facility lease, a detailed analysis of how the 
+     lease is expected to comply with Office of Management and 
+     Budget Circular A-11 and section 1341 of title 31 (commonly 
+     referred to as the `Anti-Deficiency Act'). Any such analysis 
+     shall include--
+
+[[Page 3172]]
+
+       ``(A) an analysis of the classification of the lease as a 
+     `lease-purchase', `capital lease', or `operating lease' as 
+     those terms are defined in Office of Management and Budget 
+     Circular A-11;
+       ``(B) an analysis of the obligation of budgetary resources 
+     associated with the lease; and
+       ``(C) an analysis of the methodology used in determining 
+     the asset cost, fair market value, and cancellation costs of 
+     the lease.''.
+       (2) Submittal to congress.--Such section 8104 is further 
+     amended by adding at the end the following new subsection:
+       ``(h)(1) Not less than 30 days before entering into a major 
+     medical facility lease, the Secretary shall submit to the 
+     Committees on Veterans' Affairs of the Senate and the House 
+     of Representatives--
+       ``(A) notice of the Secretary's intention to enter into the 
+     lease;
+       ``(B) a copy of the proposed lease;
+       ``(C) a description and analysis of any differences between 
+     the prospectus submitted pursuant to subsection (b) and the 
+     proposed lease; and
+       ``(D) a scoring analysis demonstrating that the proposed 
+     lease fully complies with Office of Management and Budget 
+     Circular A-11.
+       ``(2) Each committee described in paragraph (1) shall 
+     ensure that any information submitted to the committee under 
+     such paragraph is treated by the committee with the same 
+     level of confidentiality as is required by law of the 
+     Secretary and subject to the same statutory penalties for 
+     unauthorized disclosure or use as the Secretary.
+       ``(3) Not more than 30 days after entering into a major 
+     medical facility lease, the Secretary shall submit to each 
+     committee described in paragraph (1) a report on any material 
+     differences between the lease that was entered into and the 
+     proposed lease described under such paragraph, including how 
+     the lease that was entered into changes the previously 
+     submitted scoring analysis described in subparagraph (D) of 
+     such paragraph.''.
+       (d) Rule of Construction.--Nothing in this section, or the 
+     amendments made by this section, shall be construed to in any 
+     way relieve the Department of Veterans Affairs from any 
+     statutory or regulatory obligations or requirements existing 
+     prior to the enactment of this section and such amendments.
+
+                TITLE IV--EMPLOYMENT AND RELATED MATTERS
+
+Subtitle A--Training and Other Services for Veterans Seeking Employment
+
+     SEC. 401. REAUTHORIZATION OF VETERANS RETRAINING ASSISTANCE 
+                   PROGRAM.
+
+       (a) Extension.--Subsection (k) of section 211 of the VOW to 
+     Hire Heroes Act of 2011 (Public Law 112-56; 38 U.S.C. 4100 
+     note) is amended by striking ``March 31, 2014'' and inserting 
+     ``June 30, 2016''.
+       (b) Number of Eligible Veterans.--Subsection (a)(2) of such 
+     section is amended--
+       (1) in subparagraph (A), by striking ``and'' at the end;
+       (2) in subparagraph (B), by striking the period at the end 
+     and inserting a semicolon; and
+       (3) by adding at the end the following new subparagraphs:
+       ``(C) 50,000 during the period beginning April 1, 2014, and 
+     ending June 30, 2015; and
+       ``(D) 50,000 during the period beginning July 1, 2015, and 
+     ending June 30, 2016.''.
+       (c) Clarification of Limitation on Aggregate Amount of 
+     Assistance.--Subsection (b) of such section is amended by 
+     striking ``up to 12 months of retraining assistance provided 
+     by the Secretary of Veterans Affairs'' and inserting ``an 
+     aggregate of not more than 12 months of retraining assistance 
+     provided by the Secretary of Veterans Affairs under this 
+     section''.
+       (d) Providers of Retraining Assistance.--Subsection (b) of 
+     such section is further amended--
+       (1) by redesignating paragraphs (3), (4), and (5) as 
+     paragraphs (4), (5), and (6), respectively; and
+       (2) by inserting after paragraph (2) the following new 
+     paragraph (3):
+       ``(3) is offered by a four-year educational institution 
+     and, as determined by the Secretary, is not reasonably 
+     available at a community college or technical school;''.
+       (e) Extension of Application Date.--Subsection (e)(1)(G) of 
+     such section is amended by striking ``October 1, 2013'' and 
+     inserting ``October 1, 2015''.
+       (f) Reports.--Subsection (i) of such section is amended--
+       (1) in the subsection heading, by striking ``Report'' and 
+     inserting ``Reports'';
+       (2) by striking paragraph (1) and inserting the following 
+     new paragraph (1):
+       ``(1) In general.--The Secretary of Veterans Affairs shall 
+     submit to the appropriate committees of Congress reports on 
+     training assistance provided under this section as follows:
+       ``(A) By not later than October 1, 2015, for participants 
+     provided assistance through March 31, 2014.
+       ``(B) By not later than October 1, 2017, for participants 
+     provided assistance during the period beginning on April 1, 
+     2014, and ending on June 2016.''; and
+       (3) in paragraph (2), by striking ``The report required by 
+     paragraph (1) shall include'' and inserting ``Each report 
+     required by paragraph (1) shall include, for the period 
+     covered by such report,''.
+
+     SEC. 402. EXTENSION OF AUTHORITY OF SECRETARY OF VETERANS 
+                   AFFAIRS TO PROVIDE REHABILITATION AND 
+                   VOCATIONAL BENEFITS TO MEMBERS OF ARMED FORCES 
+                   WITH SEVERE INJURIES OR ILLNESSES.
+
+       (a) In General.--Section 1631(b)(2) of the Wounded Warrior 
+     Act (title XVI of Public Law 110-181; 10 U.S.C. 1071 note) is 
+     amended by striking ``December 31, 2014'' and inserting 
+     ``December 31, 2016''.
+       (b) Report.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the appropriate committees of Congress a 
+     report on the benefits provided by the Secretary under 
+     section 1631(b) of such Act.
+       (2) Appropriate committees of congress.--In this 
+     subsection, the term ``appropriate committees of Congress'' 
+     means--
+       (A) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the Senate; and
+       (B) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the House of Representatives.
+
+     SEC. 403. EXTENSION OF ADDITIONAL REHABILITATION PROGRAMS FOR 
+                   PERSONS WHO HAVE EXHAUSTED RIGHTS TO 
+                   UNEMPLOYMENT BENEFITS UNDER STATE LAW.
+
+       Section 3102(b)(4) is amended by striking ``March 31, 
+     2014'' and inserting ``March 31, 2016''.
+
+     SEC. 404. UNIFIED EMPLOYMENT PORTAL FOR VETERANS.
+
+       (a) In General.--Section 4105 is amended by adding at the 
+     end the following:
+       ``(c)(1) The Secretary shall develop a single, unified 
+     Federal web-based employment portal, for use by veterans, 
+     containing information regarding all Federal programs and 
+     activities concerning employment, unemployment, and training 
+     to the extent the programs and activities affect veterans.
+       ``(2) The Secretary shall work with representatives from 
+     the Department of Defense, the Department of Veterans 
+     Affairs, the Small Business Administration, and other Federal 
+     agencies and organizations concerned with veterans' issues, 
+     to determine an appropriate platform and implementing agency 
+     for the portal. The Secretary shall enter into an agreement 
+     with the other Federal agencies for the implementation of the 
+     portal.''.
+       (b) Implementation.--The Secretary of Labor shall implement 
+     the portal required by subsection (c) of section 4105 of 
+     title 38, United States Code (as added by subsection (a) of 
+     this section), by not later than January 1, 2015.
+
+     SEC. 405. REPORT ON UNIFIED GOVERNMENT INTERNET PORTAL FOR 
+                   VETERANS ON JOBS AVAILABLE THROUGH THE FEDERAL 
+                   GOVERNMENT.
+
+       (a) Identification of Internet Websites and Applications 
+     That Can Assist Veterans Seeking Employment.--
+       (1) In general.--The Secretary of Labor shall, in 
+     consultation with the Secretary of Veterans Affairs, the 
+     Secretary of Defense, and other appropriate public and 
+     private entities, take appropriate actions to identify 
+     Internet websites and applications that can assist veterans 
+     in seeking employment.
+       (2) Priority in identification of certain websites and 
+     applications.--In identifying websites and applications 
+     pursuant to paragraph (1), the Secretary shall place a 
+     particular priority on identifying websites and applications 
+     that do the following:
+       (A) Match veterans seeking employment with available jobs 
+     based on the skills the veterans acquired as members of the 
+     Armed Forces.
+       (B) Permit employers to post information about available 
+     jobs.
+       (b) Report.--Not later than 180 days after the effective 
+     date specified in subsection (c), the Secretary of Labor 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the actions of the Secretary 
+     under subsection (a). The report shall include an assessment 
+     of the feasibility and advisability of creating a single, 
+     unified Internet-based employment portal for the Federal 
+     Government for use by veterans regarding employment through 
+     the Federal Government, including the cost of creating the 
+     portal, the collaboration with other Federal agencies 
+     required to create the portal, and the anticipated use of the 
+     portal.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 406. INFORMATION ON DISABILITY-RELATED EMPLOYMENT AND 
+                   EDUCATION PROTECTIONS IN TRANSITION ASSISTANCE 
+                   PROGRAM.
+
+       (a) In General.--Section 1144(b) of title 10, United States 
+     Code, is amended by adding at the end the following new 
+     paragraph:
+       ``(9) Provide information about disability-related 
+     employment and education protections.''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+[[Page 3173]]
+
+
+
+ Subtitle B--Employment of Veterans and Recognition of Veteran Status 
+               With Respect to Employment Related Matters
+
+     SEC. 411. EMPLOYMENT OF VETERANS WITH THE FEDERAL GOVERNMENT.
+
+       (a) In General.--Section 4214 is amended--
+       (1) in subsection (b), by adding at the end the following:
+       ``(4)(A) The requirement under this paragraph is in 
+     addition to the appointment of qualified covered veterans 
+     under the authority under paragraph (1) by the Department of 
+     Veterans Affairs and the Department of Defense.
+       ``(B) The head of each agency, in consultation with the 
+     Director of the Office of Personnel Management, shall develop 
+     a plan for exercising the authority specified in subparagraph 
+     (C) during the five-year period beginning on the date of the 
+     enactment of the Comprehensive Veterans Health and Benefits 
+     and Military Retirement Pay Restoration Act of 2014.
+       ``(C) The authority specified in this subparagraph is the 
+     authority as follows:
+       ``(i) The authority under paragraph (1).
+       ``(ii) The authority available to the agency concerned 
+     under the Veterans Employment Opportunities Act of 1998 
+     (Public Law 105-339) and the amendments made by that Act.
+       ``(D) The Director of the Office of Personnel Management 
+     shall ensure that under the plans developed under 
+     subparagraph (B) agencies shall appoint to existing vacancies 
+     not fewer than 15,000 qualified covered veterans during the 
+     five-year period beginning on the date of the enactment of 
+     the Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014. For purposes of 
+     complying with this subparagraph, an appointment pursuant to 
+     the authority referred to in subparagraph (C)(ii) shall not 
+     count toward the number required by this subparagraph unless 
+     the appointment is to a vacancy in a full-time, permanent 
+     position.'';
+       (2) in subsection (d), in the third sentence, by inserting 
+     ``(including, during the 5-year period beginning on the date 
+     of the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     the development and implementation by each agency of the plan 
+     required under subsection (b)(4), which shall include 
+     information regarding the grade or pay level of appointments 
+     by the agency under the plan and whether the appointments 
+     are, or are converted to, career or career-conditional 
+     appointments)'' after ``subsection (b) of this section''; and
+       (3) in subsection (e)--
+       (A) in paragraph (1)--
+       (i) in the matter before subparagraph (A), by striking ``to 
+     the Congress'' and inserting ``to the appropriate committees 
+     of Congress''; and
+       (ii) in subparagraph (A), by inserting ``(including, during 
+     the 5-year period beginning on the date of the enactment of 
+     the Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014, the development and 
+     implementation by the agency of the plan required under 
+     subsection (b)(4), which shall include information regarding 
+     the grade or pay level of appointments by the agency under 
+     the plan and whether the appointments are, or are converted 
+     to, permanent appointments)'' before the period; and
+       (B) by adding at the end the following new paragraph:
+       ``(3) In this subsection, the term `appropriate committees 
+     of Congress' means--
+       ``(A) the Committee on Veterans' Affairs and the Committee 
+     on Homeland Security and Governmental Affairs of the Senate; 
+     and
+       ``(B) the Committee on Veterans' Affairs and the Committee 
+     on Oversight and Government Reform of the House of 
+     Representatives.''.
+       (b) Report.--Not later than 180 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Personnel Management shall submit to the appropriate 
+     committees of Congress (as defined under section 4214(e)(3) 
+     of title 38, United States Code, as amended by subsection 
+     (a)) regarding the development of a plan to carry out the 
+     amendments made by subsection (a).
+
+     SEC. 412. STATE RECOGNITION OF MILITARY EXPERIENCE OF 
+                   VETERANS IN ISSUING LICENSES AND CREDENTIALS TO 
+                   VETERANS.
+
+       (a) In General.--Section 4102A(c) is amended by striking 
+     paragraph (9) and inserting the following new paragraph (9):
+       ``(9)(A) As a condition of a grant or contract under which 
+     funds are made available to a State under subsection (b)(5) 
+     in order to carry out section 4103A or 4104 of this title, 
+     the State shall--
+       ``(i) establish a program under which the State administers 
+     an examination to each veteran seeking a license or 
+     credential issued by the State and issues such license or 
+     credential to such veteran without requiring such veteran to 
+     undergo any training or apprenticeship if the veteran--
+       ``(I) receives a satisfactory score on completion of such 
+     examination, as determined by the State;
+       ``(II) has been awarded a military occupational specialty 
+     that is substantially equivalent to or exceeds the 
+     requirements of the State for the issuance of such license or 
+     credential;
+       ``(III) has engaged in the active practice of the 
+     occupation for which the veteran is seeking such license or 
+     credential for at least two of the five years preceding the 
+     date of application; and
+       ``(IV) pays any customary or usual fees required by the 
+     State for such license or credential; and
+       ``(ii) submit each year to the Secretary a report on the 
+     exams administered under clause (i) during the most recently 
+     completed 12-month period that includes, for the period 
+     covered by the report the number of veterans who completed an 
+     exam administered by the State under clause (i) and a 
+     description of the results of such exams, disaggregated by 
+     occupational field.
+       ``(B) The Secretary may waive the requirement under 
+     subparagraph (A) that a State establish a program described 
+     in that subparagraph as a condition of a grant or contract if 
+     the State certifies to the Secretary that the State--
+       ``(i) takes into account previous military training for the 
+     purposes of issuing licenses or credentials;
+       ``(ii) permits veterans to completely satisfy through 
+     examination any training or testing requirements for a 
+     license or credential with respect to which a veteran has 
+     previously completed military training; and
+       ``(iii) for any credential or license for which a veteran 
+     is unable to completely satisfy such requirements through 
+     examination, the State substantially reduces training time 
+     required to satisfy such requirement based on the military 
+     training received by the veteran.
+       ``(C) Not less frequently than once each year, the 
+     Secretary shall submit to Congress and the Secretary of 
+     Defense a report summarizing the information received by the 
+     Secretary under subparagraph (A)(ii).''.
+       (b) Effective Date.--
+       (1) Exams.--Subparagraph (A) of section 4102A(c)(9) of 
+     title 38, United States Code, as added by subsection (a), 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act and shall apply with respect to 
+     grants and contracts described in such subparagraph awarded 
+     after such date.
+       (2) Reports.--Subparagraph (B) of such section 4102A(c)(9), 
+     as so added, shall take effect on the date that is one year 
+     after the date of the enactment of this Act and the Secretary 
+     of Labor shall submit the first report under such 
+     subparagraph not later than two years after the date of the 
+     enactment of this Act.
+
+     SEC. 413. GRANTS TO HIRE VETERANS AS FIRST RESPONDERS.
+
+       (a) Grants for Firefighters.--The Secretary of Homeland 
+     Security shall award grants under section 34 of the Federal 
+     Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) to 
+     hire veterans as firefighters.
+       (b) Grants for Law Enforcement Officers.--The Attorney 
+     General shall award grants under part Q of title I of the 
+     Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 
+     3796dd et seq.) to hire veterans as law enforcement officers.
+       (c) Priority.--In awarding grants under this section to 
+     hire veterans, the Secretary of Homeland Security and the 
+     Attorney General shall give priority to the hiring of 
+     veterans who served on active duty in the Armed Forces on or 
+     after September 11, 2001.
+       (d) Funding.--
+       (1) Department of homeland security.--There is authorized 
+     to be appropriated for fiscal year 2015 for the Department of 
+     Homeland Security, $125,000,000 to carry out subsection (a).
+       (2) Department of justice.--There is authorized to be 
+     appropriated for fiscal year 2015 for the Department of 
+     Justice, $125,000,000 to carry out subsection (b).
+       (3) Availability.--The amounts authorized to be 
+     appropriated by this subsection shall be available for 
+     expenditure through September 30, 2018.
+
+     SEC. 414. EMPLOYMENT OF VETERANS AS EVALUATION FACTOR IN THE 
+                   AWARDING OF FEDERAL CONTRACTS.
+
+       (a) Civilian Contracts.--
+       (1) In general.--Chapter 33 of title 41, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 3313. Employment of veterans as evaluation factor
+
+       ``The head of each executive agency shall consider 
+     favorably as an evaluation factor in solicitations for 
+     contracts and task or delivery order valued at or above 
+     $25,000,000 the employment by a prospective contractor of 
+     veterans constituting at least 5 percent of the contractor's 
+     workforce.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 33 of such title is amended by adding 
+     after the item relating to section 3312 the following new 
+     item:
+
+``3313. Employment of veterans as evaluation factor.''.
+       (b) Defense Contracts.--
+       (1) In general.--Chapter 137 of title 10, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 2338. Employment of veterans as evaluation factor
+
+       ``The head of each agency shall consider favorably as an 
+     evaluation factor in solicitations for contracts and task or 
+     delivery order valued at or above $25,000,000 the employment 
+     by a prospective contractor of veterans
+
+[[Page 3174]]
+
+     constituting at least 5 percent of the contractor's 
+     workforce.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 137 of such title is amended by adding 
+     after the item relating to section 2337 the following new 
+     item:
+
+``2338. Employment of veterans as evaluation factor.''.
+       (c) Regulations.--Not later than 180 days after the date of 
+     the enactment of this Act, the Federal Acquisition Regulatory 
+     Council shall amend the Federal Acquisition Regulation to 
+     carry out the provisions of section 3313 of title 41, United 
+     States Code, and section 2338 of title 10, United States 
+     Code, as added by subsections (a) and (b), respectively.
+
+     SEC. 415. REPORT ON DISCRIMINATION AGAINST MEMBERS OF RESERVE 
+                   COMPONENTS OF ARMED FORCES AND VETERANS IN 
+                   CIVILIAN LABOR MARKET.
+
+       (a) In General.--Not later than 570 days after the date of 
+     the enactment of this act, the Secretary of Labor, in 
+     coordination with the heads of such agencies as the Secretary 
+     considers appropriate, shall submit to the appropriate 
+     committees of Congress a report on barriers and potential 
+     discrimination facing veterans in the labor market.
+       (b) Contents.--The report required by subsection (a) shall 
+     include the following:
+       (1) An evaluation of the following:
+       (A) The extent to which members of the reserve components 
+     of the Armed Forces and veterans face barriers to entry into 
+     the civilian labor market, including whether such members and 
+     veterans face obstacles in obtaining employment, maintaining 
+     employment, or receiving promotions while employed.
+       (B) The extent to which a member of a reserve component of 
+     the Armed Forces or a veteran faces discrimination in the 
+     civilian labor market based on the member's or veteran's 
+     status as a member of a reserve component of the Armed Forces 
+     or as a veteran, as the case may be.
+       (C) The adequacy and effectiveness of Federal laws in 
+     effect on the day before the date of the enactment of this 
+     Act in preventing or ameliorating acts of discrimination 
+     against members of the reserve components of the Armed Forces 
+     and veterans seeking or retaining employment in the civilian 
+     labor market.
+       (D) The adequacy and effectiveness of programs of the 
+     Department of Labor in effect on the day before the date of 
+     the enactment of this Act in educating private sector 
+     employers on matters relevant to hiring and employing 
+     veterans and the military experience of veterans.
+       (2) Such recommendations as the Secretary may have for 
+     legislative or administrative action--
+       (A) to address barriers or discrimination that members of 
+     the reserve components of the Armed Forces and veterans may 
+     face in the civilian labor market;
+       (B) to improve education and outreach for employers in the 
+     civilian labor market on issues regarding hiring and 
+     employing such members and veterans; and
+       (C) to assist employers in the civilian labor market in 
+     matching the military experience of such members and veterans 
+     with the needs of such employers.
+       (3) Such other matters as the Secretary considers 
+     appropriate.
+       (c) Appropriate Committees of Congress.--In this section, 
+     the term ``appropriate committees of Congress'' means--
+       (1) the Committee on Veterans' Affairs and the Committee on 
+     Health, Education, Labor, and Pensions of the Senate; and
+       (2) the Committee on Veterans' Affairs and the Committee on 
+     Education and the Workforce of the House of Representatives.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+                Subtitle C--Program on Career Transition
+
+     SEC. 421. PROGRAM ON PROVISION OF CAREER TRANSITION SERVICES 
+                   TO YOUNG VETERANS.
+
+       (a) In General.--Commencing not later than 180 days after 
+     the date of the enactment of this Act, the Secretary of 
+     Veterans Affairs shall, in collaboration with the Secretary 
+     of Labor, carry out a program to assess the feasibility and 
+     advisability of establishing a program to provide career 
+     transition services to eligible individuals--
+       (1) to provide eligible individuals with work experience in 
+     the civilian sector;
+       (2) to increase the marketable skills of eligible 
+     individuals;
+       (3) to assist eligible individuals in obtaining long-term 
+     employment; and
+       (4) to assist in integrating eligible individuals into 
+     their local communities.
+       (b) Eligible Individuals.--For purposes of the program, an 
+     eligible individual is an individual who--
+       (1) is--
+       (A) a veteran of the Armed Forces who was discharged or 
+     released from service therein under conditions other than 
+     dishonorable; or
+       (B) a member of a reserve component of the Armed Forces 
+     (including the National Guard) who--
+       (i) served on active duty in the Armed Forces (other than 
+     active duty for training) for more than 180 consecutive days 
+     during the three-year period ending on the date of 
+     application for participation in the program; and
+       (ii) is not serving on active duty on the date of 
+     commencement of participation in the program;
+       (2) if discharged or released from the Armed Forces on the 
+     date of commencement of participation in the program, was so 
+     discharged or released not later than three years before 
+     application for participation in the program;
+       (3) is unemployed or underemployed, as determined by the 
+     Secretary; and
+       (4) is, at the time at which the individual applies for 
+     participation in the program, 18 years of age or older, but 
+     not more than 30 years of age.
+       (c) Eligible Employers.--
+       (1) In general.--For purposes of the program, an eligible 
+     employer is an employer determined by the Secretary to meet 
+     such criteria for participation in the program as the 
+     Secretary shall establish for purposes of the program.
+       (2) Past performance on certain matters.--The criteria 
+     established by the Secretary under paragraph (1) may include 
+     past performance of an employer with respect to the 
+     following:
+       (A) Job training, basic skills training, and related 
+     activities.
+       (B) Financial accountability.
+       (C) Demonstrated high potential for growth and long-term 
+     job creation.
+       (3) For-profit and not-for-profit employers.--The employers 
+     determined by the Secretary to be eligible employers under 
+     paragraph (1) may include both for-profit and not-for-profit 
+     employers.
+       (4) Small business concerns.--In determining employers to 
+     be eligible employers under paragraph (1), the Secretary 
+     shall ensure that small business concerns are afforded 
+     opportunities to participate in the program.
+       (5) Exclusions.--The following employers may not be 
+     determined to be an eligible employer under paragraph (1):
+       (A) An agency of the Federal Government or a State or local 
+     government.
+       (B) An employer that has previously participated in the 
+     program and, as determined by the Secretary, failed to abide 
+     by any requirement of the program.
+       (C) An employer that cannot give an assurance to the 
+     Secretary at the time of application for participation in the 
+     program under subsection (l), and in such manner as the 
+     Secretary shall specify pursuant to that subsection, on each 
+     matter as follows:
+       (i) That the employer has not been investigated or subject 
+     to a case or action by the Federal Trade Commission during 
+     the 180-day period ending on the date the employer would 
+     otherwise commence participation in the program.
+       (ii) That the employer has been in good standing with a 
+     State business bureau during the period described in clause 
+     (i).
+       (iii) That the employer is not delinquent with respect to 
+     payment of any taxes or employer contributions described 
+     under section 3301 and 3302 (a)(1) of the Internal Revenue 
+     Code of 1986 (26 U.S.C. 3301 and 3302(a)(1)).
+       (iv) That the employer would not request the placement of 
+     an additional eligible individual under the program, if after 
+     such additional placement, the number of eligible individuals 
+     placed in internships at such employer under the program 
+     would constitute more than 10 percent of the eligible 
+     employer's workforce. For purposes of the previous sentence, 
+     being an intern under the program placed at an employer shall 
+     be considered part of the employer's workforce.
+       (v) That the employer has the intention of retaining 
+     eligible participants after such participants have completed 
+     participation in the program.
+       (d) Duration.--The Secretary shall carry out the program 
+     during the three-year period beginning on the date of the 
+     commencement of the program.
+       (e) Career Transition Services.--For purposes of the 
+     program, career transition services are the following:
+       (1) Internships under subsection (f).
+       (2) Mentorship and job-shadowing under subsection (g).
+       (3) Volunteer opportunities under subsection (h).
+       (4) Professional skill workshops under subsection (i).
+       (5) Skills assessment under subsection (j).
+       (6) Additional services under subsection (k).
+       (f) Internships.--
+       (1) In general.--For each eligible individual whom the 
+     Secretary approves for participation in the program, the 
+     Secretary shall attempt to place such eligible individual in 
+     an internship on a full-time basis with an eligible employer 
+     whom the Secretary has approved for participation in the 
+     program.
+       (2) Duration.--Each internship under the program shall be 
+     for a period of one year.
+       (3) Wages.--
+       (A) In general.--The Secretary shall furnish pay and 
+     benefits to each eligible individual participating in an 
+     internship under the program for the duration of such 
+     participation in an aggregate amount not to exceed $25,000.
+       (4) Employment status.--For purposes of the Patient 
+     Protection and Affordable Care
+
+[[Page 3175]]
+
+     Act (Public Law 111-148), an eligible individual placed in an 
+     internship with an eligible employer under the program shall 
+     be considered an employee of the Department of Veterans 
+     Affairs and not the eligible employer during the period of 
+     such internship under the program.
+       (5) Relation to other federal assistance.--Notwithstanding 
+     any other provision of law, pay received by an individual 
+     under this subsection may not be used in any calculation to 
+     determine the eligibility of such individual for any Federal 
+     program for the purpose of obtaining child care assistance.
+       (g) Mentorship and Job-Shadowing.--
+       (1) In general.--As a condition of an eligible employer's 
+     participation in the program and the placement of an eligible 
+     individual in an internship at the eligible employer, the 
+     eligible employer shall provide each eligible individual 
+     placed in an internship at the eligible employer under the 
+     program with at least one mentor who is an employee of the 
+     eligible employer.
+       (2) Job-shadowing and career counseling.--To the extent 
+     practicable, a mentor assigned to an eligible individual 
+     participating in the program shall provide such eligible 
+     individual with job shadowing and career counseling.
+       (h) Volunteer Opportunities.--
+       (1) In general.--As a condition on participation in the 
+     program, each eligible individual who participates in the 
+     program shall, not less frequently than once each month in 
+     which the eligible individual participates in the program, 
+     engage in a qualifying volunteer activity in accordance with 
+     guidelines the Secretary shall establish.
+       (2) Qualifying volunteer activities.--For purposes of this 
+     subsection, a qualifying volunteer activity is any activity 
+     the Secretary considers related to providing assistance to, 
+     or for the benefit of, a veteran. Such activities may include 
+     the following:
+       (A) Outreach.
+       (B) Assisting an organization recognized by the Secretary 
+     for the representation of veterans under section 5902 of 
+     title 38, United States Code, on a volunteer basis.
+       (C) Service benefitting a veteran in a State home or a 
+     Department of Veterans Affairs medical facility.
+       (D) Service benefitting a veteran at an institution of 
+     higher education.
+       (i) Professional Skills Workshops.--
+       (1) In general.--The Secretary shall provide eligible 
+     individuals participating in the program with workshops for 
+     the development and improvement of the professional skills of 
+     such eligible individuals.
+       (2) Tailored.--The workshops provided by the Secretary 
+     shall be tailored to meet the particular needs of eligible 
+     individuals participating in the program as determined under 
+     subsection (j).
+       (3) Topics.--The workshops provided to eligible individuals 
+     participating in the program may include workshops for the 
+     development of such professional skills as the Secretary 
+     considers appropriate, which may include the following:
+       (A) Written and oral communication skills.
+       (B) Basic word processing and other computer skills.
+       (C) Interpersonal skills.
+       (4) Manner of presentation.--Workshops on particular topics 
+     shall be provided through such means as may be appropriate, 
+     effective, and approved of by the Secretary for purposes of 
+     the program. Such means may include use of electronic 
+     communication.
+       (5) Assessments.--The Secretary shall conduct an assessment 
+     of a participant in a workshop conducted under this 
+     subsection to assess the participant's knowledge acquired as 
+     a result of participating in the workshop.
+       (j) Skills Assessment.--
+       (1) In general.--Under the program, the Secretary shall 
+     develop and implement an objective assessment of eligible 
+     individuals participating in the program to assist in the 
+     placement of such individuals in internships under subsection 
+     (f) and to assist in the tailoring of workshops under 
+     subsection (i).
+       (2) Elements.--The assessment may include an assessment of 
+     the skill levels and service needs of each participant, which 
+     may include a review of basic professional entry-level 
+     skills, prior work experience, employability, and the 
+     individual's interests.
+       (k) Additional Services.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     Secretary shall, under the program, furnish the following 
+     services to an eligible individual participating in the 
+     program when assessment under subsection (j) indicates such 
+     services are appropriate:
+       (A) Counseling, such as job counseling and career 
+     counseling.
+       (B) Job search assistance.
+       (C) Follow-up services with participants that are offered 
+     unsubsidized employment by the employer with whom they were 
+     assigned.
+       (D) Transportation, as described in paragraph (3).
+       (2) Referrals.--In lieu of furnishing a service to an 
+     eligible individual under paragraph (1), the Secretary may 
+     refer such eligible individual to another Federal, State, or 
+     local government program that provides such service.
+       (3) Transportation.--In accordance with criteria 
+     established by the Secretary for purposes of the program, the 
+     Secretary may pay an allowance based upon mileage, of any 
+     eligible individual placed in an internship under the program 
+     not in excess of 75 miles to or from a facility of the 
+     eligible employer or other place in connection with such 
+     internship.
+       (l) Participation.--
+       (1) Application.--
+       (A) In general.--An eligible employer or eligible 
+     individual seeking to participate in the program shall submit 
+     to the Secretary an application therefor at such time, in 
+     such manner, and containing such information as the Secretary 
+     shall specify.
+       (B) Requirements for eligible employers.--An application 
+     submitted by an eligible employer under subparagraph (A) 
+     shall include a certification or other information, in such 
+     form and manner as the Secretary shall specify, on each of 
+     the assurances required by subsection (c)(5)(C), including 
+     the assurance that the employer has the intention of 
+     retaining eligible participants after they have completed 
+     participation in the program as provided in clause (v) of 
+     that subsection.
+       (2) Time of application for certain eligible individuals.--
+     A member of the Armed Forces on active duty who expects to be 
+     an eligible individual described in subsection (b)(1)(A) upon 
+     discharge or release from the Armed Forces may submit an 
+     application to participate in the program not earlier than 
+     180 days before the date on which the member expects to be 
+     discharged or released from the Armed Forces. A member who 
+     submits such an application shall be treated as unemployed or 
+     underemployed for purposes of subsection (b)(2) if the member 
+     has not accepted an offer of employment after discharge or 
+     release as of the time of the submittal of the application.
+       (3) Delimiting date for commencement of participation by 
+     individuals.--An eligible individual may not commence 
+     participation in the program after the date that is two years 
+     after the date of the commencement of the program.
+       (4) Selection.--The Secretary shall review each application 
+     submitted by an applicant under paragraph (1) and approve or 
+     disapprove the applicant for participation in the program.
+       (m) Grants.--
+       (1) In general.--The Secretary may award grants to eligible 
+     entities to assist the Secretary in carrying out the program.
+       (2) Eligible entities.--For purposes of the program, an 
+     eligible entity is a nonprofit organization.
+       (3) Considerations.--In awarding grants under this 
+     subsection, the Secretary may consider whether an eligible 
+     entity--
+       (A) has an understanding of the unemployment problems of 
+     eligible individuals and members of the Armed Forces 
+     transitioning from service in the Armed Forces to civilian 
+     life; and
+       (B) has the capability to assist the Secretary in 
+     administering effectively the program and providing career 
+     transition services to eligible individuals.
+       (4) Use of funds.--Amounts received by a recipient of a 
+     grant under this subsection may be used as the Secretary 
+     considers appropriate for purposes of the program, including 
+     as follows:
+       (A) To assist the Secretary in carrying out the program.
+       (B) To recruit eligible employers and eligible individuals 
+     to participate in the program.
+       (C) To match eligible individuals participating in the 
+     program with internship opportunities at eligible employers 
+     participating in the program.
+       (D) To coordinate and carry out job placement and other 
+     employer outreach activities.
+       (n) Outreach.--
+       (1) In general.--The Secretary of Veterans Affairs and the 
+     Secretary of Labor shall jointly carry out a program of 
+     outreach to inform eligible employers and eligible 
+     individuals about the program and the benefits of 
+     participating in the program.
+       (2) Included locations and groups.--The Secretary of 
+     Veterans Affairs and the Secretary of Labor shall ensure that 
+     any outreach program and activities conducted under paragraph 
+     (1) include, to the extent practicable, rural communities, 
+     tribal lands of the United States, Native Americans, and 
+     tribal organizations (as defined in section 3765 of title 38, 
+     United States Code).
+       (o) Awards for Outstanding Contributions to Program.--
+       (1) In general.--Each year of the program, the Secretary of 
+     Veterans Affairs may recognize one or more eligible employers 
+     or one or more eligible individuals participating in the 
+     program for demonstrating outstanding achievement in carrying 
+     out or in contributing to the success of the program.
+       (2) Criteria.--The Secretary shall establish such selection 
+     procedures and criteria as the Secretary considers 
+     appropriate for the award of recognition under this 
+     subsection.
+       (p) Minimization of Administrative Burden on Participating 
+     Employers.--The Secretary shall take such measures as may be 
+     necessary to minimize administrative burdens incurred by 
+     eligible employers due to participation in the program.
+       (q) Reports.--
+       (1) In general.--Not later than 45 days after the 
+     completion of the first year of the program and not later 
+     than 180 days after the
+
+[[Page 3176]]
+
+     completion of the second and third years of the program, the 
+     Secretary shall submit to Congress a report on the program.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall include the following:
+       (A) An evaluation of the program.
+       (B) The number and characteristics of participants in the 
+     program.
+       (C) The number and types of internships in which eligible 
+     individuals were placed under the program.
+       (D) The number of individuals who obtained long-term full-
+     time unsubsidized employment positions after participation in 
+     the program, the hourly wage and nature of such employment, 
+     and if available, whether such individuals were still 
+     employed in such positions three months after obtaining such 
+     positions.
+       (E) An assessment of the feasibility and advisability of 
+     providing career transition services to eligible individuals.
+       (F) An assessment of the effect of the program on earnings 
+     of eligible individuals and the employment of eligible 
+     individuals.
+       (G) Such recommendations for legislative and administrative 
+     action as the Secretary may have to improve the program, to 
+     expand the program, or to improve the employment of eligible 
+     individuals.
+       (r) Funding Limitations.--
+       (1) Wages for internships.--Not less than 95 percent of 
+     amounts authorized to be appropriated for the program by 
+     subsection (t) shall be used to provide pay under subsection 
+     (f)(3).
+       (2) Administration.--Not more than 5 percent of amounts 
+     authorized to be appropriated for the program by subsection 
+     (t) may be used to administer the program.
+       (s) Definitions.--In this section:
+       (1) Active duty, armed forces, reserve component, and 
+     veteran.--The terms ``active duty'', ``Armed Forces'', 
+     ``reserve component'', and ``veteran'' have the meanings 
+     given such terms in section 101 of title 38, United States 
+     Code.
+       (2) Full-time basis.--The term ``full-time basis'', with 
+     respect to an internship, means participation in the 
+     internship of not fewer than 30 hours per week and not more 
+     than 40 hours per week.
+       (3) Small business concern.--The term ``small business 
+     concern'' has the meaning given that term under section 3(a) 
+     of the Small Business Act (15 U.S.C. 632(a)).
+       (4) Unemployment compensation.--The term ``unemployment 
+     compensation'' means regular compensation (as defined in 
+     section 205 of the Federal-State Extended Unemployment 
+     Compensation Act of 1970), compensation under the Federal-
+     State Extended Compensation Act of 1970, and compensation 
+     under the emergency unemployment compensation program under 
+     title IV of the Supplemental Appropriations Act, 2008.
+       (t) Authorization of Appropriations.--There is hereby 
+     authorized to be appropriated for fiscal year 2015 for the 
+     Department of Veterans Affairs, $600,000,000 to carry out 
+     this section. The amount so authorized to be appropriated 
+     shall remain available until expended.
+
+Subtitle D--Improving Employment and Reemployment Rights of Members of 
+                         the Uniformed Services
+
+     SEC. 431. ENFORCEMENT OF RIGHTS OF MEMBERS OF UNIFORMED 
+                   SERVICES WITH RESPECT TO STATES AND PRIVATE 
+                   EMPLOYERS.
+
+       (a) Action for Relief.--Subsection (a) of section 4323 is 
+     amended--
+       (1) in paragraph (1)--
+       (A) by striking ``appear on behalf of, and act as attorney 
+     for, the person on whose behalf the complaint is submitted 
+     and'';
+       (B) by striking ``for such person'';
+       (C) by striking the fourth sentence; and
+       (D) by adding at the end the following: ``The person on 
+     whose behalf the complaint is referred may, upon timely 
+     application, intervene in such action, and may obtain such 
+     appropriate relief as is provided in subsections (d) and 
+     (e).'';
+       (2) by striking paragraph (2) and inserting the following 
+     new paragraph (2):
+       ``(2)(A) Not later than 60 days after the date the Attorney 
+     General receives a referral under paragraph (1), the Attorney 
+     General shall transmit, in writing, to the person on whose 
+     behalf the complaint is submitted--
+       ``(i) if the Attorney General has made a decision to 
+     commence an action for relief under paragraph (1) relating to 
+     the complaint of the person, notice of the decision; and
+       ``(ii) if the Attorney General has not made such a 
+     decision, notice of when the Attorney General expects to make 
+     such a decision.
+       ``(B) If the Attorney General notifies a person that the 
+     Attorney General expects to make a decision under 
+     subparagraph (A)(ii), the Attorney General shall, not later 
+     than 30 days after the date on which the Attorney General 
+     makes such decision, notify, in writing, the person of such 
+     decision.'';
+       (3) by redesignating paragraph (3) as paragraph (4);
+       (4) by inserting after paragraph (2) the following new 
+     paragraph (3):
+       ``(3) Whenever the Attorney General has reasonable cause to 
+     believe that a State (as an employer) or a private employer 
+     is engaged in a pattern or practice of resistance to the full 
+     enjoyment of any of the rights and benefits provided for 
+     under this chapter, and that the pattern or practice is of 
+     such a nature and is intended to deny the full exercise of 
+     such rights and benefits, the Attorney General may commence 
+     an action for relief under this chapter.''; and
+       (5) in paragraph (4), as redesignated by paragraph (3), by 
+     striking subparagraph (C) and inserting the following new 
+     subparagraph (C):
+       ``(C) has been notified by the Attorney General that the 
+     Attorney General does not intend to commence an action for 
+     relief under paragraph (1) with respect to the complaint 
+     under such paragraph.''.
+       (b) Standing.--Subsection (f) of such section is amended to 
+     read as follows:
+       ``(f) Standing.--An action under this chapter may be 
+     initiated only by the Attorney General or by a person 
+     claiming rights or benefits under this chapter under 
+     subsection (a).''.
+       (c) Conforming Amendment.--Subsection (h)(2) of such 
+     section is amended by striking ``under subsection (a)(2)'' 
+     and inserting ``under paragraph (1) or (4) of subsection 
+     (a)''.
+
+     SEC. 432. SUSPENSION, TERMINATION, OR DEBARMENT OF 
+                   CONTRACTORS FOR REPEATED VIOLATIONS OF 
+                   EMPLOYMENT OR REEMPLOYMENT RIGHTS OF MEMBERS OF 
+                   UNIFORMED SERVICES.
+
+       (a) In General.--Subchapter III of chapter 43 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 4328. Suspension, termination, or debarment of 
+       contractors
+
+       ``(a) Grounds for Suspension, Termination, or Debarment.--
+     Payment under a contract awarded by a Federal executive 
+     agency may be suspended and the contract may be terminated, 
+     and the contractor who made the contract with the agency may 
+     be suspended or debarred in accordance with the requirements 
+     of this section, if the head of the agency determines that 
+     the contractor as an employer has repeatedly been convicted 
+     of failing or refusing to comply with one or more provisions 
+     of this chapter.
+       ``(b) Effect of Debarment.--A contractor debarred by a 
+     final decision under this section is ineligible for award of 
+     a contract by a Federal executive agency, and for 
+     participation in a future procurement by a Federal executive 
+     agency, for a period specified in the decision, not to exceed 
+     5 years.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 43 is amended by inserting after the 
+     item relating to section 4327 the following new item:
+
+``4328. Suspension, termination, or debarment of contractor.''.
+       (c) Regulations.--Not later than 180 days after the date of 
+     the enactment of this Act, the Federal Acquisition Regulatory 
+     Council shall amend the Federal Acquisition Regulation to 
+     carry out section 4328 of title 38, United States Code, as 
+     added by subsection (a).
+       (d) Effective Date.--Section 4328 of title 38, United 
+     States Code, as added by subsection (a), shall apply with 
+     respect to failures and refusals to comply with provisions of 
+     chapter 43 of title 38, United States Code, occurring on or 
+     after the date of the enactment of this Act.
+       (e) Annual Report.--Section 4332(a) is amended--
+       (1) by redesignating paragraph (10) as paragraph (11); and
+       (2) by inserting after paragraph (9) the following new 
+     paragraph (10):
+       ``(10) The number of suspensions, terminations, and 
+     debarments under section 4328 of this title, disaggregated by 
+     the agency or department imposing the suspension or 
+     debarment.''.
+
+     SEC. 433. SUBPOENA POWER FOR SPECIAL COUNSEL IN ENFORCEMENT 
+                   OF EMPLOYMENT AND REEMPLOYMENT RIGHTS OF 
+                   MEMBERS OF UNIFORMED SERVICES WITH RESPECT TO 
+                   FEDERAL EXECUTIVE AGENCIES.
+
+       Section 4324 is amended by adding at the end the following 
+     new subsection:
+       ``(e)(1) In order to carry out the Special Counsel's 
+     responsibilities under this section, the Special Counsel may 
+     require by subpoena the attendance and testimony of Federal 
+     employees and the production of documents from Federal 
+     employees and Federal executive agencies.
+       ``(2) In the case of contumacy or failure to obey a 
+     subpoena issued under paragraph (1), upon application by the 
+     Special Counsel, the Merit Systems Protection Board may issue 
+     an order requiring a Federal employee or Federal executive 
+     agency to comply with a subpoena of the Special Counsel.
+       ``(3) An order issued under paragraph (2) may be enforced 
+     by the Merit Systems Protection Board in the same manner as 
+     any order issued under section 1204 of title 5.''.
+
+     SEC. 434. ISSUANCE AND SERVICE OF CIVIL INVESTIGATIVE DEMANDS 
+                   BY ATTORNEY GENERAL.
+
+       (a) In General.--Section 4323 is amended--
+       (1) by redesignating subsection (i) as subsection (j); and
+       (2) by inserting after subsection (h) the following new 
+     subsection (i):
+       ``(i) Issuance and Service of Civil Investigative 
+     Demands.--(1) Whenever the Attorney General has reason to 
+     believe that any person may be in possession, custody, or 
+     control of any documentary material relevant
+
+[[Page 3177]]
+
+     to an investigation under this subchapter, the Attorney 
+     General may, before commencing a civil action under 
+     subsection (a), issue in writing and serve upon such person, 
+     a civil investigative demand requiring--
+       ``(A) the production of such documentary material for 
+     inspection and copying;
+       ``(B) that the custodian of such documentary material 
+     answer in writing written questions with respect to such 
+     documentary material; or
+       ``(C) the production of any combination of such documentary 
+     material or answers.
+       ``(2) The provisions of section 3733 of title 31 governing 
+     the authority to issue, use, and enforce civil investigative 
+     demands shall apply with respect to the authority to issue, 
+     use, and enforce civil investigative demands under this 
+     section, except that, for purposes of applying such section 
+     3733--
+       ``(A) references to false claims law investigators or 
+     investigations shall be considered references to 
+     investigators or investigations under this subchapter;
+       ``(B) references to interrogatories shall be considered 
+     references to written questions, and answers to such need not 
+     be under oath;
+       ``(C) the definitions relating to `false claims law' shall 
+     not apply; and
+       ``(D) provisions relating to qui tam relators shall not 
+     apply.''.
+       (b) Effective Date.--Subsection (i) of section 4323 of 
+     title 38, United States Code, as added by subsection (a)(2), 
+     shall take effect on the date of the enactment of this Act 
+     and shall apply with respect to violations of chapter 43 of 
+     title 38, United States Code, alleged to have occurred on or 
+     after such date.
+       (c) Annual Reports.--Section 4332(b)(2) is amended--
+       (1) by striking ``Not later than'' and inserting the 
+     following:
+       ``(A) In general.--Not later than''; and
+       (2) by adding at the end the following new subparagraph:
+       ``(B) Annual supplement on civil investigative demands.--
+       ``(i) In general.--The Attorney General shall include with 
+     each report submitted under subparagraph (A) for the last 
+     quarter of each fiscal year a report on the issuance of civil 
+     investigative demands under section 4323(i) of this title 
+     during the most recently completed fiscal year.
+       ``(ii) Elements.--Each report submitted under clause (i) 
+     shall include the following for the fiscal year covered by 
+     the report:
+
+       ``(I) The number of times that a civil investigative demand 
+     was issued under section 4323(i) of this title.
+       ``(II) For each civil investigative demand issued under 
+     such section with respect to an investigation, whether such 
+     investigation resulted in a settlement, order, or 
+     judgment.''.
+
+                   Subtitle E--Small Business Matters
+
+     SEC. 441. EXPANSION OF CONTRACTING GOALS AND PREFERENCES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS TO INCLUDE 
+                   CONDITIONALLY OWNED SMALL BUSINESS CONCERNS 100 
+                   PERCENT OWNED BY VETERANS.
+
+       Section 8127(l) is amended--
+       (1) in paragraph (2), by inserting ``unconditionally'' 
+     before ``owned by'' each place it appears; and
+       (2) by adding at the end the following new paragraph:
+       ``(3) The term `unconditionally owned' includes, with 
+     respect to ownership of a small business concern, conditional 
+     ownership of such small business concern if such business 
+     concern is 100 percent owned by one or more veterans.''.
+
+     SEC. 442. MODIFICATION OF TREATMENT UNDER CONTRACTING GOALS 
+                   AND PREFERENCES OF DEPARTMENT OF VETERANS 
+                   AFFAIRS FOR SMALL BUSINESSES OWNED BY VETERANS 
+                   OF SMALL BUSINESSES AFTER DEATH OF DISABLED 
+                   VETERAN OWNERS.
+
+       (a) In General.--Section 8127(h) is amended--
+       (1) in paragraph (3), by striking ``rated as'' and all that 
+     follows through ``disability.'' and inserting a period; and
+       (2) in paragraph (2), by amending subparagraph (C) to read 
+     as follows:
+       ``(C) The date that--
+       ``(i) in the case of a surviving spouse of a veteran with a 
+     service-connected disability rated as 100 percent disabling 
+     or who dies as a result of a service-connected disability, is 
+     10 years after the date of the veteran's death; or
+       ``(ii) in the case of a surviving spouse of a veteran with 
+     a service-connected disability rated as less than 100 percent 
+     disabling who does not die as a result of a service-connected 
+     disability, is three years after the date of the veteran's 
+     death.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is 180 days after the date 
+     of the enactment of this Act and shall apply with respect to 
+     applications received pursuant to section 8127(f)(2) of title 
+     38, United States Code, that are verified on or after such 
+     date.
+
+     SEC. 443. TREATMENT OF BUSINESSES AFTER DEATHS OF 
+                   SERVICEMEMBER-OWNERS FOR PURPOSES OF DEPARTMENT 
+                   OF VETERANS AFFAIRS CONTRACTING GOALS AND 
+                   PREFERENCES.
+
+       (a) In General.--Section 8127 is amended--
+       (1) by redesignating subsections (i) through (l) as 
+     subsections (j) through (m), respectively; and
+       (2) by inserting after subsection (h) the following new 
+     subsection (i):
+       ``(i) Treatment of Businesses After Death of Servicemember-
+     Owner.--(1) If a member of the Armed Forces owns at least 51 
+     percent of a small business concern and such member is killed 
+     in line of duty in the active military, naval, or air 
+     service, the surviving spouse or dependent child of such 
+     member who acquires such ownership rights in such small 
+     business concern shall, for the period described in paragraph 
+     (2), be treated as if the surviving spouse or dependent child 
+     were a veteran with a service-connected disability for 
+     purposes of determining the status of the small business 
+     concern as a small business concern owned and controlled by 
+     veterans for purposes of contracting goals and preferences 
+     under this section.
+       ``(2) The period referred to in paragraph (1) is the period 
+     beginning on the date on which the member of the Armed Forces 
+     dies and ending on the date as follows:
+       ``(A) In the case of a surviving spouse, the earliest of 
+     the following dates:
+       ``(i) The date on which the surviving spouse remarries.
+       ``(ii) The date on which the surviving spouse relinquishes 
+     an ownership interest in the small business concern and no 
+     longer owns at least 51 percent of such small business 
+     concern.
+       ``(iii) The date that is ten years after the date of the 
+     member's death.
+       ``(B) In the case of a dependent child, the earliest of the 
+     following dates:
+       ``(i) The date on which the surviving dependent child 
+     relinquishes an ownership interest in the small business 
+     concern and no longer owns at least 51 percent of such small 
+     business concern.
+       ``(ii) The date that is ten years after the date of the 
+     member's death.''.
+       (b) Effective Date.--Subsection (i) of section 8127 of 
+     title 38, United States Code, as added by subsection (a), 
+     shall take effect on the date of the enactment of this Act 
+     and shall apply with respect to the deaths of members of the 
+     Armed Forces occurring on or after such date.
+
+     SEC. 444. SPECIAL RULE FOR TREATMENT UNDER CONTRACTING GOALS 
+                   AND PREFERENCES OF DEPARTMENT OF VETERANS 
+                   AFFAIRS OF SMALL BUSINESS CONCERNS LICENSED IN 
+                   COMMUNITY PROPERTY STATES.
+
+       Section 8127, as amended by section 443 of this Act, is 
+     further amended by adding at the end the following new 
+     subsection:
+       ``(n) Special Rule for Community Property States.--Whenever 
+     the Secretary assesses, for purposes of this section, the 
+     degree of ownership by an individual of a small business 
+     concern licensed in a community property State, the Secretary 
+     shall also assess what that degree of ownership would be if 
+     such small business concern had been licensed in a State 
+     other than a community property State. If the Secretary 
+     determines that such individual would have had a greater 
+     degree of ownership of the small business concern had such 
+     small business concern been licensed in a State other than a 
+     community property State, the Secretary shall treat, for 
+     purposes of this section, such small business concern as if 
+     it had been licensed in a State other than a community 
+     property State.''.
+
+     SEC. 445. REPORT ON ASSISTANCE FOR VETERANS IN OBTAINING 
+                   TRAINING ON PURCHASING AND OPERATING A 
+                   FRANCHISE.
+
+       (a) Report Required.--Not later than one year after the 
+     effective date specified in subsection (c), the Secretary of 
+     Labor shall, in consultation with the Secretary of Veterans 
+     Affairs, the Administrator of the Small Business 
+     Administration, and other appropriate entities, submit to 
+     Congress a report on the assistance available to veterans to 
+     obtain training necessary to purchase and operate a 
+     franchise.
+       (b) Elements.--The report required by subsection (a) shall 
+     include the following:
+       (1) A description of the assistance available for veterans 
+     through the Department of Labor, the Department of Veterans 
+     Affairs, the Small Business Administration, or any other 
+     agency of the Federal Government in order to obtain training 
+     necessary to purchase or operate a franchise.
+       (2) Information on the number of veterans who have sought 
+     and obtained the training described in paragraph (1) during 
+     the five calendar years preceding the report.
+       (3) A description of any barriers encountered by veterans 
+     in obtaining the training described in paragraph (1).
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+        TITLE V--ACCOUNTABILITY AND ADMINISTRATIVE IMPROVEMENTS
+
+     SEC. 501. ADMINISTRATION OF VETERANS INTEGRATED SERVICE 
+                   NETWORKS.
+
+       (a) Veterans Integrated Service Networks.--
+       (1) In general.--Subchapter I of chapter 73 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 7310. Veterans Integrated Service Networks
+
+       ``(a) Organization.--(1) The Secretary shall organize the 
+     Veterans Health Administration in geographically defined 
+     Veterans Integrated Service Networks.
+       ``(2) Each Veterans Integrated Service Network shall be 
+     organized in consideration of the following:
+
+[[Page 3178]]
+
+       ``(A) The size of the veteran population of the region of 
+     the network.
+       ``(B) The complexity of the medical needs of the veterans 
+     in such region.
+       ``(C) Patient referral patterns.
+       ``(D) The availability of a full continuum of health care 
+     services.
+       ``(E) The ability of the Department to furnish health care 
+     efficiently.
+       ``(F) Partnerships with non-Department health care 
+     entities.
+       ``(b) Staffing Model.--(1) The Secretary shall establish a 
+     staffing model for each Veterans Integrated Service Network 
+     that--
+       ``(A) is appropriate for the mission and responsibilities 
+     of the Veterans Integrated Service Network; and
+       ``(B) accounts for the specific health care needs of 
+     differing populations in the Veterans Integrated Service 
+     Network.
+       ``(2) The Secretary shall ensure that each Veterans 
+     Integrated Service Network complies with the staffing model 
+     established by the Secretary under paragraph (1) for such 
+     Veterans Integrated Service Network.
+       ``(c) Integrated Health Care System.--The Secretary shall 
+     ensure that each Veterans Integrated Service Network 
+     maintains a regional integrated healthcare system by--
+       ``(1) implementing alliances with such other governmental, 
+     public, and private health care organizations and 
+     practitioners as the Secretary considers appropriate to meet 
+     the needs of veterans in the Network;
+       ``(2) providing oversight and management of, and taking 
+     responsibility for, a regional budget for the activities of 
+     the Veterans Health Administration in the geographic area of 
+     the Network that is--
+       ``(A) aligned with the budget guidelines of the Department 
+     and the Veterans Health Administration;
+       ``(B) balanced at the end of each fiscal year; and
+       ``(C) sufficient to provide high-quality health care to 
+     veterans within the region and to meet any unique needs of 
+     the veterans of the region;
+       ``(3) using national metrics to develop systems to provide 
+     effective, efficient, and safe delivery of health care; and
+       ``(4) ensuring high-quality clinical programs and services 
+     are rendered in and through--
+       ``(A) the medical centers and outpatient clinics of the 
+     Department that are located in the Network; and
+       ``(B) other non-Department clinical or health care delivery 
+     settings located in the Network.
+       ``(d) Reduction in Duplicate Functions.--The Secretary 
+     shall ensure that the Veterans Integrated Service Networks 
+     identify and reduce, whenever practicable, the duplication of 
+     functions in clinical, administrative, and operational 
+     processes and practices of the Veterans Health 
+     Administration.
+       ``(e) Collaboration and Cooperation.--The Secretary shall 
+     ensure that each Veterans Integrated Service Network--
+       ``(1) works to achieve maximum effectiveness in patient 
+     care and safety, graduate medical education, and research; 
+     and
+       ``(2) assesses the consolidation or realignment of 
+     institutional functions, including capital asset, safety, and 
+     operational support functions, in collaboration and 
+     cooperation with other Veterans Integrated Service Networks 
+     and the following offices or entities within the geographical 
+     area of the Network:
+       ``(A) The offices of the Veterans Benefits Administration 
+     and the National Cemetery Administration.
+       ``(B) The offices, installations, and facilities of the 
+     Department of Defense, including the offices, installations, 
+     and facilities of each branch of the Armed Forces and the 
+     reserve components of the Armed Forces.
+       ``(C) The offices, installations, and facilities of the 
+     Coast Guard.
+       ``(D) Offices of State and local agencies that have a 
+     mission to provide assistance to veterans.
+       ``(E) Medical schools and other affiliates.
+       ``(F) Offices of Congress, offices of State and local 
+     elected officials, and other government offices.
+       ``(G) Federal, State, and local emergency preparedness 
+     organizations.
+       ``(H) Community and nonprofit organizations.
+       ``(I) Such other entities of the Federal Government as the 
+     Secretary considers appropriate.
+       ``(f) Headquarters.--(1) The Secretary shall ensure that 
+     each Veterans Integrated Service Network has only one 
+     headquarters office.
+       ``(2) The location of a headquarters office for a Veterans 
+     Integrated Service Network shall be determined by the 
+     Secretary and co-located with a Department of Veterans 
+     Affairs medical center.
+       ``(3)(A) The Secretary may employ or contract for the 
+     services of such full time equivalent employees and 
+     contractors at the headquarters of each Veterans Integrated 
+     Service Network as the Secretary considers appropriate in 
+     accordance with the staffing models established under 
+     subsection (b).
+       ``(B) Not later than December 31 each year, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on employment at the headquarters of 
+     Veterans Integrated Service Networks during the most recently 
+     completed fiscal year.
+       ``(C) Each report submitted under subparagraph (B) shall 
+     include the following for the year covered by the report:
+       ``(i) The number of individuals employed at each 
+     headquarters of a Veterans Integrated Service Network.
+       ``(ii) The number of individuals employed by the Veterans 
+     Health Administration in each Veterans Integrated Service 
+     Network who are not employed at the same location as the 
+     headquarters of the Network.
+       ``(iii) The title for each position of employment at a 
+     headquarters of a Veterans Integrated Service Network.
+       ``(iv) The title for each position of employment with the 
+     Veterans Health Administration in each Veterans Integrated 
+     Service Network that is not at the same location as the 
+     headquarters of the Network.
+       ``(v) An assessment of the impact on the budget of the 
+     Department by the employment of individuals at the 
+     headquarters of the Veterans Integrated Service Networks.
+       ``(g) Triennial Structure Review, Reassessment, and 
+     Report.--(1) Beginning three years after the date of the 
+     enactment of this section and not less frequently than once 
+     every three years thereafter, the Secretary shall conduct a 
+     review and assessment of the structure and operations of the 
+     Veterans Integrated Service Networks in order to identify 
+     recommendations--
+       ``(A) for streamlining and reducing costs associated with 
+     the operation of each headquarters of a Veterans Integrated 
+     Service Network; and
+       ``(B) for reducing costs of health care within the Veterans 
+     Health Administration.
+       ``(2) Not later than 180 days after conducting a review and 
+     assessment under paragraph (1), the Secretary shall submit to 
+     the Committee of Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on such review and assessment, which 
+     shall include such recommendations for legislative or 
+     administrative action as the Secretary considers appropriate 
+     to improve the Veterans Integrated Service Networks.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 73 is amended by inserting after the 
+     item relating to section 7309 the following new item:
+
+``7310. Veterans Integrated Service Networks.''.
+       (b) Relocation of Headquarters.--
+       (1) In general.--In the case of a headquarters office of a 
+     Veterans Integrated Service Network that on the day before 
+     the date of the enactment of this Act was in a location that 
+     was not co-located with a Department of Veterans Affairs 
+     medical center and the Secretary is engaged in a lease for 
+     such location, the Secretary may--
+       (A) relocate such headquarters upon the expiration of such 
+     lease so that such headquarters is co-located as required by 
+     section 7310(f)(2) of title 38, United States Code (as added 
+     by subsection (a)(1)); or
+       (B) notwithstanding such section 7310(f)(2) (as so added), 
+     renew such lease or enter into a new lease to keep such 
+     headquarters in such location.
+       (2) Report.--If the Secretary renews a lease or engages in 
+     a new lease under paragraph (1)(B), the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives, before renewing such lease or engaging in 
+     such lease, a report describing the reasons for such renewal 
+     or engagement. Such report shall include the following:
+       (A) A list of Department of Veterans Affairs medical 
+     centers in the Veterans Integrated Service Network of the 
+     headquarters with underutilized buildings, the number of such 
+     buildings, and the total underutilized square footage for 
+     each such medical center.
+       (B) The cost of the current lease (the annual amount of 
+     rent, the total cost over the life of the lease, and the 
+     total cost per square foot) and the current square footage 
+     being leased.
+       (C) The cost of the new lease (the annual amount of rent, 
+     the total cost over the life of the lease, and the total cost 
+     per square foot) and the square footage to be leased.
+       (c) Construction.--Nothing in this section shall be 
+     construed to require any change in the location or type of 
+     medical care or service provided by a Department of Veterans 
+     Affairs medical center, a Department community based 
+     outpatient clinic, a center for readjustment counseling and 
+     related mental health services for veterans under section 
+     1712A of title 38, United States Code (known as a ``vet 
+     center''), or other facility that provides direct care or 
+     services under a law administered by the Secretary of 
+     Veterans Affairs.
+       (d) Effective Date.--This section, and the amendments made 
+     by this section, shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 502. REGIONAL SUPPORT CENTERS FOR VETERANS INTEGRATED 
+                   SERVICE NETWORKS.
+
+       (a) In General.--Subchapter I of chapter 73, as amended by 
+     section 501(a)(1) of this Act, is further amended by adding 
+     at the end the following new section:
+
+[[Page 3179]]
+
+
+
+     ``Sec. 7310A. Regional support centers for Veterans 
+       Integrated Service Networks
+
+       ``(a) Establishment.--The Secretary shall establish not 
+     more than four regional support centers within the Veterans 
+     Health Administration to assess the effectiveness and 
+     efficiency of the Veterans Integrated Service Networks. The 
+     head of each regional support center shall report to the 
+     Under Secretary of Health.
+       ``(b) Functions.--The functions of the regional support 
+     centers established under subsection (a) are as follows:
+       ``(1) To assess the quality of work performed within 
+     finance operations and other compliance related activities of 
+     the Veterans Integrated Service Networks.
+       ``(2) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts outreach to 
+     veterans who served in Operation Enduring Freedom, Operation 
+     Iraqi Freedom, Operation New Dawn, or any other contingency 
+     operation (as that term is defined in section 101 of title 
+     10).
+       ``(3) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts programs for the 
+     benefit of women veterans.
+       ``(4) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts programs that 
+     address homelessness among veterans.
+       ``(5) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network consumes energy.
+       ``(6) To assess such other matters concerning the 
+     operations and activities of the Veterans Integrated Service 
+     Networks as the Secretary considers appropriate.
+       ``(c) Staff.--The Secretary may hire such employees and 
+     contractors as the Secretary considers appropriate to carry 
+     out the functions of the regional support centers.
+       ``(d) Location of Regional Support Centers.--(1) Except as 
+     provided in paragraph (2), the location of each regional 
+     support center established under subsection (a) shall be 
+     determined by the Secretary and co-located with a medical 
+     center of the Department.
+       ``(2) The Secretary may choose a location for a regional 
+     support center established under subsection (a) that is not 
+     co-located with a medical center of the Department if the 
+     Secretary submits to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives, before entering into a contract for 
+     a location that is not co-located with a medical center, a 
+     report describing the reasons for choosing a location for the 
+     regional support center that is not co-located with a medical 
+     center of the Department. Such report shall include the 
+     following:
+       ``(A) A list of medical centers of the Department in the 
+     Veterans Integrated Service Network of the regional support 
+     center with underutilized buildings, the number of all 
+     Veterans Health Administration buildings in such Network, and 
+     the total underutilized square footage for each medical 
+     center of the Department in such Network.
+       ``(B) The estimated cost of such lease (the annual amount 
+     of rent, the total cost over the life of the lease, and the 
+     total cost per square foot) and the square footage to be 
+     leased.''.
+       (b) Initial Staffing.--In providing for the initial staff 
+     of each regional support center established under section 
+     7310A(a) of title 38, United States Code, as added by 
+     subsection (a), the Secretary of Veterans Affairs shall, to 
+     the degree practicable, transfer employees from headquarters 
+     of Veterans Integrated Service Networks to regional support 
+     centers who were employed in positions at such headquarters 
+     that covered functions similar to those described in section 
+     7310A(b) of such title, as so added.
+       (c) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 73, as amended by section 501(a)(2) of 
+     this Act, is further amended by inserting after the item 
+     relating to section 7310 the following new item:
+
+``7310A. Regional support centers for Veterans Integrated Service 
+              Networks.''.
+       (d) Construction.--Nothing in this section shall be 
+     construed to require any change in the location or type of 
+     medical care or service provided by a Department of Veterans 
+     Affairs medical center, a Department community based 
+     outpatient clinic, a center for readjustment counseling and 
+     related mental health services for veterans under section 
+     1712A of title 38, United States Code (known as a ``vet 
+     center''), or other facility that provides direct care or 
+     services under a law administered by the Secretary of 
+     Veterans Affairs.
+       (e) Effective Date.--This section, and the amendments made 
+     by this section, shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 503. COMMISSION ON CAPITAL PLANNING FOR DEPARTMENT OF 
+                   VETERANS AFFAIRS MEDICAL FACILITIES.
+
+       (a) Establishment of Commission.--
+       (1) Establishment.--There is established the Commission on 
+     Capital Planning for Department of Veterans Affairs Medical 
+     Facilities (in this section referred to as the 
+     ``Commission'').
+       (2) Membership.--
+       (A) Voting members.--The Commission shall, subject to 
+     subparagraph (B), be composed of 10 voting members as 
+     follows:
+       (i) 1 shall be appointed by the President.
+       (ii) 1 shall be appointed by the Administrator of General 
+     Services.
+       (iii) 3 shall be appointed by the Secretary of Veterans 
+     Affairs, of whom--
+
+       (I) 1 shall be an employee of the Veterans Health 
+     Administration;
+       (II) 1 shall be an employee of the Office of Asset 
+     Enterprise Management of the Department of Veterans Affairs; 
+     and
+       (III) 1 shall be an employee of the Office of Construction 
+     and Facilities Management of the Department of Veterans 
+     Affairs.
+
+       (iv) 1 shall be appointed by the Secretary of Defense from 
+     among employees of the Army Corps of Engineers.
+       (v) 1 shall be appointed by the majority leader of the 
+     Senate.
+       (vi) 1 shall be appointed by the minority leader of the 
+     Senate.
+       (vii) 1 shall be appointed by the Speaker of the House of 
+     Representatives.
+       (viii) 1 shall be appointed by the minority leader of the 
+     House of Representatives.
+       (B) Requirement relating to certain appointments of voting 
+     members.--Of the members appointed pursuant to clause (i), 
+     (ii), and (iv) through (viii) of subparagraph (A), all shall 
+     have expertise in capital leasing, construction, or health 
+     facility management planning.
+       (C) Non-voting members.--The Commission shall be assisted 
+     by 10 non-voting members, appointed by the vote of a majority 
+     of members of the Commission under subparagraph (A), of 
+     whom--
+       (i) 6 shall be representatives of veterans service 
+     organizations recognized by the Secretary of Veterans 
+     Affairs; and
+       (ii) 4 shall be individuals from outside the Department of 
+     Veterans Affairs with experience and expertise in matters 
+     relating to management, construction, and leasing of capital 
+     assets.
+       (D) Date of appointment of voting members.--The 
+     appointments of the members of the Commission under 
+     subparagraph (A) shall be made not later than 60 days after 
+     the date of the enactment of this Act.
+       (3) Period of appointment; vacancies.--Members shall be 
+     appointed for the life of the Commission. Any vacancy in the 
+     Commission shall not affect its powers, but shall be filled 
+     in the same manner as the original appointment.
+       (4) Initial meeting.--Not later than 15 days after the date 
+     on which 7 members of the Commission have been appointed, the 
+     Commission shall hold its first meeting.
+       (5) Meetings.--The Commission shall meet at the call of the 
+     Chair.
+       (6) Quorum.--A majority of the members of the Commission 
+     shall constitute a quorum, but a lesser number of members may 
+     hold hearings.
+       (7) Chair and vice chair.--The Commission shall select a 
+     Chair and Vice Chair from among its members.
+       (b) Duties of Commission.--
+       (1) In general.--The Commission shall undertake a 
+     comprehensive evaluation and assessment of various options 
+     for capital planning for Department of Veterans Affairs 
+     medical facilities, including an evaluation and assessment of 
+     the mechanisms by which the Department currently selects 
+     means for the delivery of health care, whether by major 
+     construction, major medical facility leases, sharing 
+     agreements with the Department of Defense, the Indian Health 
+     Service, and Federally Qualified Health Clinics under section 
+     330 of the Public Health Service Act (42 U.S.C. 254b), 
+     contract care, multisite care, telemedicine, extended hours 
+     for care, or other means.
+       (2) Context of evaluation and assessment.--In undertaking 
+     the evaluation and assessment, the Commission shall 
+     consider--
+       (A) the importance of access to health care through the 
+     Department, including associated guidelines of the Department 
+     on access to, and drive time for, health care;
+       (B) limitations and requirements applicable to the 
+     construction and leasing of medical facilities for the 
+     Department, including applicable laws, regulations, and costs 
+     as determined by both the Congressional Budget Office and the 
+     Office of Management and Budget;
+       (C) the nature of capital planning for Department medical 
+     facilities in an era of fiscal uncertainty;
+       (D) projected future fluctuations in the population of 
+     veterans; and
+       (E) the extent to which the Department was able to meet the 
+     mandates of the Capital Asset Realignment for Enhanced 
+     Services Commission.
+       (3) Particular considerations.--In undertaking the 
+     evaluation and assessment, the Commission shall address, in 
+     particular, the following:
+       (A) The Major Medical Facility Lease Program of the 
+     Department, including an identification of potential 
+     improvements to the lease authorization processes under that 
+     Program.
+       (B) The management processes of the Department for its 
+     Major Medical Facility Construction Program, including 
+     processes relating to contract award and management, project 
+     management, and processing of change orders.
+       (C) The overall capital planning program of the Department 
+     for medical facilities, including an evaluation and 
+     assessment of--
+
+[[Page 3180]]
+
+       (i) the manner in which the Department determines whether 
+     to use capital or non-capital means to expand access to 
+     health care;
+       (ii) the manner in which the Department determines the 
+     disposition of under-utilized and un-utilized buildings on 
+     campuses of Department medical centers, and any barriers to 
+     disposition;
+       (iii) the effectiveness of the facility master planning 
+     initiative of the Department; and
+       (iv) the extent to which sustainable attributes are planned 
+     for to decrease operating costs for Department medical 
+     facilities.
+       (D) The current backlog of construction projects for 
+     Department medical facilities, including an identification of 
+     the most effective means to quickly secure the most critical 
+     repairs required, including repairs relating to facility 
+     condition deficiencies, structural safety, and compliance 
+     with the Americans With Disabilities Act of 1990.
+       (4) Reports.--Subject to paragraph (5), the Commission 
+     shall submit to the Secretary of Veterans Affairs, and to the 
+     Committee Veterans' Affairs of the Senate and the Committee 
+     on Veterans' Affairs of the House of Representatives, reports 
+     as follows:
+       (A) Not later than six months after its initial meeting 
+     under subsection (a)(4), a report on the Major Medical 
+     Facility Lease Program and the Congressional lease 
+     authorization process.
+       (B) Not later than one year after its initial meeting, a 
+     report--
+       (i) on the management processes of the Department for the 
+     construction of Department medical facilities; and
+       (ii) setting forth an update of any matters covered in the 
+     report under subparagraph (A).
+       (C) Not later than 18 months after its initial meeting, a 
+     report--
+       (i) on the overall capital planning program of the 
+     Department for medical facilities; and
+       (ii) setting forth an update of any matters covered in 
+     earlier reports under this paragraph.
+       (D) Not later than two years after its initial meeting, a 
+     report--
+       (i) on the current backlog of construction projects for 
+     Department medical facilities;
+       (ii) setting forth an update of any matters covered in 
+     earlier reports under this paragraph; and
+       (iii) including such other matters relating to the duties 
+     of the Commission that the Commission considers appropriate.
+       (E) Not later than 27 months after its initial meeting, a 
+     report on the implementation by the Secretary of Veterans 
+     Affairs pursuant to subsection (g) of the recommendations 
+     included pursuant to paragraph (5) in the reports under this 
+     paragraph.
+       (5) Recommendations.--Each report under paragraph (4) shall 
+     include, for the aspect of the capital asset planning process 
+     of the Department covered by such report, such 
+     recommendations as the Commission considers appropriate for 
+     the improvement and enhancement of such aspect of the capital 
+     asset planning process.
+       (c) Powers of Commission.--
+       (1) Hearings.--The Commission may hold such hearings, sit 
+     and act at such times and places, take such testimony, and 
+     receive such evidence as the Commission considers advisable 
+     to carry out this section.
+       (2) Information from federal agencies.--The Commission may 
+     secure directly from any Federal department or agency such 
+     information as the Commission considers necessary to carry 
+     out this section. Upon request of the Chair of the 
+     Commission, the head of such department or agency shall 
+     furnish such information to the Commission.
+       (d) Commission Personnel Matters.--
+       (1) Compensation of members.--Each member of the Commission 
+     who is not an officer or employee of the Federal Government 
+     shall be compensated at a rate equal to the daily equivalent 
+     of the annual rate of basic pay prescribed for level IV of 
+     the Executive Schedule under section 5315 of title 5, United 
+     States Code, for each day (including travel time) during 
+     which such member is engaged in the performance of the duties 
+     of the Commission. All members of the Commission who are 
+     officers or employees of the United States shall serve 
+     without compensation in addition to that received for their 
+     services as officers or employees of the United States.
+       (2) Travel expenses.--The members of the Commission shall 
+     be allowed travel expenses, including per diem in lieu of 
+     subsistence, at rates authorized for employees of agencies 
+     under subchapter I of chapter 57 of title 5, United States 
+     Code, while away from their homes or regular places of 
+     business in the performance of services for the Commission.
+       (3) Staff.--
+       (A) In general.--The Chair of the Commission may, without 
+     regard to the civil service laws and regulations, appoint and 
+     terminate an executive director and such other additional 
+     personnel as may be necessary to enable the Commission to 
+     perform its duties. The employment of an executive director 
+     shall be subject to confirmation by the Commission.
+       (B) Compensation.--The Chair of the Commission may fix the 
+     compensation of the executive director and other personnel 
+     without regard to chapter 51 and subchapter III of chapter 53 
+     of title 5, United States Code, relating to classification of 
+     positions and General Schedule pay rates, except that the 
+     rate of pay for the executive director and other personnel 
+     may not exceed the rate payable for level V of the Executive 
+     Schedule under section 5316 of such title.
+       (4) Detail of government employees.--Any Federal Government 
+     employee may be detailed to the Commission without 
+     reimbursement, and such detail shall be without interruption 
+     or loss of civil service status or privilege.
+       (5) Procurement of temporary and intermittent services.--
+     The Chair of the Commission may procure temporary and 
+     intermittent services under section 3109(b) of title 5, 
+     United States Code, at rates for individuals which do not 
+     exceed the daily equivalent of the annual rate of basic pay 
+     prescribed for level V of the Executive Schedule under 
+     section 5316 of such title.
+       (e) Termination of Commission.--The Commission shall 
+     terminate 60 days after the date on which the Commission 
+     submits its report under subsection (b)(4)(E).
+       (f) Funding.--The Secretary of Veterans Affairs shall make 
+     available to the Commission such amounts as the Secretary and 
+     the Chair of the Commission jointly consider appropriate for 
+     the Commission to perform its duties under this section.
+       (g) Action on Recommendations.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     implement each recommendation included in a report under 
+     subsection (b)(4) that the Secretary considers feasible and 
+     advisable and can be implemented without further legislative 
+     action.
+       (2) Reports.--Not later than 120 days after receipt of a 
+     report under subparagraphs (A) through (D) of subsection 
+     (b)(4), the Secretary shall submit to the Committee Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a report setting forth the 
+     following:
+       (A) An assessment of the feasibility and advisability of 
+     each recommendation contained in such report.
+       (B) For each recommendation assessed as feasible and 
+     advisable--
+       (i) if such recommendation does not require further 
+     legislative action for implementation, a description of the 
+     actions taken, and to be taken, by the Secretary to implement 
+     such recommendation; and
+       (ii) if such recommendation requires further legislative 
+     action for implementation, recommendations for such 
+     legislative action.
+
+     SEC. 504. ADVANCE APPROPRIATIONS FOR CERTAIN ACCOUNTS OF THE 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Section 117 is amended--
+       (1) by striking ``medical care accounts of the Department'' 
+     each place it appears and inserting ``covered accounts of the 
+     Department'';
+       (2) in subsection (c)--
+       (A) by striking ``medical care accounts of the Veterans 
+     Health Administration, Department of Veterans Affairs 
+     account'' and inserting ``accounts of the Department of 
+     Veterans Affairs account'';
+       (B) in paragraph (1), by inserting ``Veterans Health 
+     Administration,'' after ``(1)'';
+       (C) in paragraph (2), by inserting ``Veterans Health 
+     Administration,'' after ``(2)'';
+       (D) in paragraph (3), by inserting ``Veterans Health 
+     Administration,'' after ``(3)'';
+       (E) by redesignating paragraphs (1) through (3) as 
+     paragraphs (7) through (9), respectively;
+       (F) by inserting before paragraph (7), as redesignated by 
+     subparagraph (E), the following new paragraphs:
+       ``(1) Veterans Benefits Administration, Compensation and 
+     Pensions.
+       ``(2) Veterans Benefits Administration, Readjustment 
+     Benefits.
+       ``(3) Veterans Benefits Administration, Veterans Insurance 
+     and Indemnities.
+       ``(4) Veterans Benefits Administration, Veterans Housing 
+     Benefit Program Fund.
+       ``(5) Veterans Benefits Administration, Vocational 
+     Rehabilitation Loans Program Account.
+       ``(6) Veterans Benefits Administration, Native American 
+     Veteran Housing Loan Program Account.''; and
+       (G) in the subsection heading, by striking ``Medical Care 
+     Accounts'' and inserting ``Covered Accounts''; and
+       (3) in the section heading, by striking ``certain medical 
+     care accounts'' and inserting ``certain accounts''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall apply with respect to fiscal year 2016 and each 
+     subsequent fiscal year.
+       (c) Conforming Amendment.--Section 1105 of title 31, United 
+     States Code, is amended by striking the first paragraph (37) 
+     and inserting the following:
+       ``(37) information on estimates of appropriations for the 
+     fiscal year following the fiscal year for which the budget is 
+     submitted for the following accounts of the Department of 
+     Veterans Affairs:
+       ``(A) Veterans Benefits Administration, Compensation and 
+     Pensions.
+       ``(B) Veterans Benefits Administration, Readjustment 
+     Benefits.
+       ``(C) Veterans Benefits Administration, Veterans Insurance 
+     and Indemnities.
+       ``(D) Veterans Benefits Administration, Veterans Housing 
+     Benefit Program Fund.
+
+[[Page 3181]]
+
+       ``(E) Veterans Benefits Administration, Vocational 
+     Rehabilitation Loans Program Account.
+       ``(F) Veterans Benefits Administration, Native American 
+     Veteran Housing Loan Program Account.
+       ``(G) Veterans Health Administration, Medical Services.
+       ``(H) Veterans Health Administration, Medical Support and 
+     Compliance.
+       ``(I) Veterans Health Administration, Medical 
+     Facilities.''.
+       (d) Technical Correction.--Such section is further amended 
+     by redesignating the second paragraph (37), as added by 
+     section 11(a)(2) of the GPRA Modernization Act of 2010 
+     (Public Law 111-352; 124 Stat. 3881), as paragraph (39).
+
+     SEC. 505. PUBLIC ACCESS TO DEPARTMENT OF VETERANS AFFAIRS 
+                   RESEARCH AND DATA SHARING BETWEEN DEPARTMENTS.
+
+       (a) Establishment of Internet Website.--The Secretary of 
+     Veterans Affairs shall make available on an Internet website 
+     of the Department of Veterans Affairs available to the public 
+     the following:
+       (1) Data files that contain information on research of the 
+     Department.
+       (2) A data dictionary on each data file.
+       (3) Instructions for how to obtain access to each data file 
+     for use in research.
+       (b) Public Access to Manuscripts on Department Funded 
+     Research.--
+       (1) In general.--Beginning not later than 540 days after 
+     the effective date specified in subsection (e), the Secretary 
+     shall require, as a condition on the use of any data gathered 
+     or formulated from research funded by the Department, that 
+     any final, peer-reviewed manuscript prepared for publication 
+     that uses such data be submitted to the Secretary for deposit 
+     in the digital archive under paragraph (2) and publication 
+     under paragraph (3).
+       (2) Digital archive.--Not later than 540 days after the 
+     effective date specified in subsection (e), the Secretary 
+     shall--
+       (A) establish a digital archive consisting of manuscripts 
+     described in paragraph (1); or
+       (B) partner with another executive agency to compile such 
+     manuscripts in a digital archive.
+       (3) Public availability.--
+       (A) Availability of archive.--The Secretary shall ensure 
+     that the digital archive under paragraph (2) and the contents 
+     of such archive are available to the public via a publicly 
+     accessible Internet website at no cost to the public.
+       (B) Availability of manuscripts.--The Secretary shall 
+     ensure that each manuscript submitted to the Secretary under 
+     paragraph (1) is available to the public under subparagraph 
+     (A) not later than one year after the official date on which 
+     the manuscript is otherwise published.
+       (4) Consistent with copyright law.--The Secretary shall 
+     carry out this subsection in a manner consistent with 
+     applicable copyright law.
+       (5) Annual report.--
+       (A) In general.--Not later than one year after the date the 
+     Secretary begins making manuscripts available to the public 
+     under this subsection and not less frequently than once each 
+     year thereafter, the Secretary shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the implementation of this subsection during the most recent 
+     one-year period.
+       (B) Contents.--Each report submitted under subparagraph (A) 
+     shall include for the period of the report:
+       (i) The number of manuscripts submitted under paragraph 
+     (1).
+       (ii) The titles of such manuscripts.
+       (iii) The authors of such manuscripts.
+       (iv) For each such manuscript, the name and issue number or 
+     volume number, as the case may be, of the journal or other 
+     publication in which such manuscript was published.
+       (c) Recommendations for Data Sharing Between Department of 
+     Veterans Affairs and Department of Defense.--Not later than 
+     one year after the effective date specified in subsection 
+     (e), the Department of Veterans Affairs-Department of Defense 
+     Joint Executive Committee established by section 320(a) of 
+     title 38, United States Code, shall submit to the Secretary 
+     of Veterans Affairs and the Secretary of Defense options and 
+     recommendations for the establishment of a program for long-
+     term cooperation and data sharing between and within the 
+     Department of Veterans Affairs and the Department of Defense 
+     to facilitate research on outcomes of military service, 
+     readjustment after combat deployment, and other topics of 
+     importance to the following:
+       (1) Veterans.
+       (2) Members of the Armed Forces.
+       (3) Family members of veterans.
+       (4) Family members of members of the Armed Forces.
+       (5) Members of communities that have a significant 
+     population of veterans or members of the Armed Forces.
+       (d) Executive Agency Defined.--In this section, the term 
+     ``executive agency'' has the meaning given that term in 
+     section 133 of title 41, United States Code.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 506. ASSESSMENT BY COMPTROLLER GENERAL OF THE UNITED 
+                   STATES OF INFORMATION MADE AVAILABLE BY 
+                   VETERANS BENEFITS ADMINISTRATION.
+
+       (a) Assessment of Information Currently Available.--Not 
+     later than two years after the date of the enactment of this 
+     Act, the Comptroller General of the United States shall--
+       (1) conduct an assessment of the process by which the 
+     Veterans Benefits Administration informs veterans, veterans 
+     service organizations, and such other persons as the 
+     Comptroller General considers appropriate regarding the 
+     furnishing of benefits under laws administered by the 
+     Secretary of Veterans Affairs to determine the extent to 
+     which the process results in disseminated information that--
+       (A) adequately supports and improves the timeliness and 
+     accuracy of decisions made by the Administration with respect 
+     to claims for disability compensation and such other benefits 
+     furnished under laws administered by the Secretary of 
+     Veterans Affairs as the Comptroller General considers 
+     appropriate; and
+       (B) encourages the filing of fully developed claims for 
+     benefits under laws administered by the Secretary; and
+       (2) assess how the Veterans Benefits Administration 
+     notifies each claimant during, and as part of, any electronic 
+     filing process established by the Secretary for the filing of 
+     applications for disability compensation and such other 
+     benefits under laws administered by the Secretary as the 
+     Comptroller General considers appropriate that services may 
+     be available to the claimant from a veterans service 
+     organization.
+       (b) Report.--Not later than two years after the date of the 
+     enactment of this Act, the Comptroller General shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the findings of the Comptroller 
+     General under subsection (a). Such report shall include such 
+     recommendations as the Comptroller General may have for 
+     legislative or administrative action to improve the 
+     availability of information made available to the public by 
+     the Veterans Benefits Administration regarding the furnishing 
+     of benefits under laws administered by the Secretary of 
+     Veterans Affairs.
+       (c) Veterans Service Organization Defined.--In this 
+     section, the term ``veterans service organization'' means an 
+     organization recognized by the Secretary of Veterans Affairs 
+     for the representation of veterans under section 5902 of 
+     title 38, United States Code.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 507. COMPTROLLER GENERAL REPORT ON ADVISORY COMMITTEES 
+                   OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Not later than one year after the 
+     effective date specified in subsection (c), the Comptroller 
+     General shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the advisory committees 
+     of the Department of Veterans Affairs.
+       (b) Contents.--The report required by subsection (a)--
+       (1) shall include--
+       (A) recommendations or proposals for continuing, modifying, 
+     or terminating certain advisory committees, including noting 
+     areas of overlap and duplication among the advisory 
+     committees; and
+       (B) such other information as the Comptroller General 
+     considers appropriate; and
+       (2) may include--
+       (A) a description of each advisory committee, including 
+     with respect to each committee--
+       (i) the purpose of the committee;
+       (ii) the commencement date of the committee; and
+       (iii) the anticipated termination date of the committee;
+       (B) a summary of the anticipated expenses and the actual 
+     expenses incurred for each advisory committee during the most 
+     recent three fiscal years ending before the date of the 
+     enactment of this Act; and
+       (C) with respect to meetings held by each advisory 
+     committee--
+       (i) the frequency with which each committee has met during 
+     the shorter of--
+
+       (I) the most recent three fiscal years ending before the 
+     date of the enactment of this Act; and
+       (II) the life of the committee;
+
+       (ii) the date of the most recent meeting held by the 
+     committee before such date of enactment; and
+       (iii) the date of the most recent report or other written 
+     product developed by the committee before such date of 
+     enactment.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+[[Page 3182]]
+
+
+
+     TITLE VI--IMPROVEMENT OF PROCESSING OF CLAIMS FOR COMPENSATION
+
+           Subtitle A--Claims Based on Military Sexual Trauma
+
+     SEC. 601. MEDICAL EXAMINATION AND OPINION FOR DISABILITY 
+                   COMPENSATION CLAIMS BASED ON MILITARY SEXUAL 
+                   TRAUMA.
+
+       (a) In General.--Section 5103A(d) is amended by adding at 
+     the end the following new paragraph:
+       ``(3)(A) In the case of a claim for disability compensation 
+     based on a mental health condition related to military sexual 
+     trauma, the Secretary shall treat an examination or opinion 
+     as being necessary to make a decision on a claim for purposes 
+     of paragraph (1) if the evidence of record before the 
+     Secretary, taking into consideration all information and lay 
+     or medical evidence (including statements of the claimant)--
+       ``(i)(I) contains competent evidence that the claimant has 
+     a current disability, or persistent or recurrent symptoms of 
+     disability; and
+       ``(II) indicates that the disability or symptoms may be 
+     associated with the claimant's active military, naval, or air 
+     service; but
+       ``(ii) does not contain a diagnosis or opinion by a mental 
+     health professional that may assist in corroborating the 
+     occurrence of a military sexual trauma stressor related to a 
+     diagnosable mental health condition.
+       ``(B) In this paragraph, the term `military sexual trauma' 
+     shall have the meaning specified by the Secretary for 
+     purposes of this paragraph, and shall include `sexual 
+     harassment' (as so specified).''.
+       (b) Report.--Not later than 18 months after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the number of examinations and 
+     opinions conducted by the Secretary pursuant to paragraph (3) 
+     of section 5103A(d) of title 38, United States Code (as added 
+     by subsection (a)), including the following:
+       (1) The number of examinations conducted using a 
+     standardized disability assessment.
+       (2) The number of examinations conducted using a non-
+     standardized clinical interview.
+
+     SEC. 602. CASE REPRESENTATIVE OFFICERS FOR MILITARY SEXUAL 
+                   TRAUMA SUPPORT.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     assign to each individual seeking compensation under the laws 
+     administered by the Secretary based on military sexual trauma 
+     a case representative officer who shall provide advice and 
+     general information to such individual on the claims process 
+     for such compensation. Each case representative officer so 
+     assigned shall be assigned from among current personnel of 
+     the Department of Veterans Affairs.
+       (b) Liaison.--A case representative officer assigned to an 
+     individual under subsection (a) shall be responsible for 
+     serving as a liaison between the individual, an authorized 
+     agent or attorney of the individual under section 5904 of 
+     title 38, United States Code, or an otherwise accredited 
+     representative of the individual, and the Department of 
+     Veterans Affairs on matters relating to the claim of the 
+     individual for compensation under the laws administered by 
+     the Secretary.
+       (c) Case Representative Officer Requirements.--
+       (1) Competence and knowledge.--Each case representative 
+     officer assigned under subsection (a) shall be competent and 
+     knowledgeable about the following:
+       (A) The claims adjudication process and applicable laws, 
+     regulations, and other authority applicable to the 
+     adjudication of disability claims based on military sexual 
+     trauma.
+       (B) Such other services to victims of sexual trauma as the 
+     Secretary considers appropriate.
+       (2) Limitation on number of individuals to which 
+     assigned.--A case representative officer may not be assigned 
+     to more individuals described in subsection (a) than, as 
+     determined by the Secretary, is appropriate for the provision 
+     of individual case management assistance by such officer.
+       (d) Information on Benefits and Programs Relating to 
+     Military Sexual Trauma.--
+       (1) In general.--The Secretary shall make available to the 
+     public information on the availability of case representative 
+     officers under subsection (a) to assist in the application 
+     for benefits based on military sexual trauma. The Secretary 
+     shall revise and update the information so made available in 
+     order to ensure that the information is as current as 
+     possible.
+       (2) Individuals separating from military service.--The 
+     Secretary shall, in consultation with the Secretary of 
+     Defense, ensure that individuals who are being separated from 
+     the active military, naval, or air service are provided 
+     appropriate information about programs, requirements, and 
+     procedures for applying for benefits based on military sexual 
+     trauma and the availability of case representative officers 
+     under subsection (a).
+       (e) Information on Training for Agents and Representatives 
+     of Individuals Assigned Case Representative Officer.--The 
+     Secretary shall make available to the authorized agent or 
+     attorney of an individual assigned a case representative 
+     under subsection (a), or to the otherwise accredited 
+     representative of the individual, any relevant materials used 
+     to train such case representative officer for the duties of 
+     such position.
+       (f) Advisory Committee on Women Veterans Consideration of 
+     Mechanisms To Enhance Coordination Between VBA and VHA on 
+     Benefits for Military Sexual Trauma.--The Advisory Committee 
+     on Women Veterans established under section 542 of title 38, 
+     United States Code, shall undertake actions to identify 
+     mechanisms to enhance coordination between the Veterans 
+     Benefits Administration and the Veterans Health 
+     Administration in the provision of benefits based on military 
+     sexual trauma, including the identification of barriers to 
+     the appropriate provision of benefits for military sexual 
+     trauma by such Administrations and of means of eliminating or 
+     reducing such barriers.
+       (g) Annual Reports.--Not less frequently than annually, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report 
+     setting forth the following:
+       (1) A certification whether or not the case representative 
+     officers assigned under subsection (a) during the preceding 
+     year met the requirements specified in subsection (c).
+       (2) A description of the current training the Secretary 
+     provides to employees of the Veterans Benefits Administration 
+     on claims for benefits based on military sexual trauma, 
+     including the frequency, length, and content of such 
+     training.
+       (3) A description of current policies and procedures on the 
+     training the Secretary provides to case representative 
+     officers, including the current position descriptions for 
+     case representative officers.
+       (4) A description of current efforts to coordinate 
+     activities and assistance provided to individuals who seek 
+     care or benefits for military sexual trauma between the 
+     Veterans Health Administration and Veterans Benefits 
+     Administration, including the efforts of the Advisory 
+     Committee on Women Veterans under subsection (f).
+       (h) Sunset.--
+       (1) In general.--No case representative officer may be 
+     assigned under subsection (a) after December 31, 2018.
+       (2) Continuation of duties after sunset date.--Paragraph 
+     (1) shall not be construed to prohibit any case 
+     representative officer assigned to an individual before the 
+     date specified in that paragraph from performing duties 
+     pursuant to this section after that date with respect to a 
+     claim for which that case representative officer was assigned 
+     to such individual before that date.
+       (i) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+       (2) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+     SEC. 603. REPORT ON STANDARD OF PROOF FOR SERVICE-CONNECTION 
+                   OF MENTAL HEALTH CONDITIONS RELATED TO MILITARY 
+                   SEXUAL TRAUMA.
+
+       (a) In General.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the current standard of proof for 
+     service-connection under chapter 11 of title 38, United 
+     States Code, for covered mental health conditions based on 
+     military sexual trauma.
+       (b) Recommendations.--The Secretary shall include in the 
+     report under subsection (a) any recommendations the Secretary 
+     considers appropriate to improve the adjudication of claims 
+     for compensation based on military sexual trauma, including--
+       (1) recommendations for an appropriate standard of proof 
+     for such claims if the Secretary considers such 
+     recommendations advisable; and
+       (2) recommendations for legislative action, if necessary, 
+     to carry out such improvement.
+       (c) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+       (2) Covered mental health condition.--The term ``covered 
+     mental health condition'' means post-traumatic stress 
+     disorder, anxiety, depression, or other mental health 
+     diagnosis that the Secretary determines to be related to 
+     military sexual trauma.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+     SEC. 604. REPORTS ON CLAIMS FOR DISABILITIES INCURRED OR 
+                   AGGRAVATED BY MILITARY SEXUAL TRAUMA.
+
+       (a) Reports.--Not later than December 1, 2014, and each 
+     year thereafter through 2018, the Secretary of Veterans 
+     Affairs shall submit to Congress a report on the covered 
+     claims submitted to the Secretary during the previous fiscal 
+     year.
+
+[[Page 3183]]
+
+       (b) Elements.--Each report under subsection (a) shall 
+     include the following:
+       (1) The number of covered claims submitted to or considered 
+     by the Secretary during the fiscal year covered by the 
+     report.
+       (2) Of the covered claims under paragraph (1), the number 
+     and percentage of such claims--
+       (A) submitted by each gender;
+       (B) that were approved, including the number and percentage 
+     of such approved claims submitted by each gender; and
+       (C) that were denied, including the number and percentage 
+     of such denied claims submitted by each gender.
+       (3) Of the covered claims under paragraph (1) that were 
+     approved, the number and percentage, listed by each gender, 
+     of claims assigned to each rating percentage of disability.
+       (4) Of the covered claims under paragraph (1) that were 
+     denied--
+       (A) the three most common reasons given by the Secretary 
+     under section 5104(b)(1) of title 38, United States Code, for 
+     such denials; and
+       (B) the number of denials that were based on the failure of 
+     a veteran to report for a medical examination.
+       (5) Of the covered claims under paragraph (1) that were 
+     resubmitted to the Secretary after denial in a previous 
+     adjudication--
+       (A) the number of such claims submitted to or considered by 
+     the Secretary during the fiscal year covered by the report;
+       (B) the number and percentage of such claims--
+       (i) submitted by each gender;
+       (ii) that were approved, including the number and 
+     percentage of such approved claims submitted by each gender; 
+     and
+       (iii) that were denied, including the number and percentage 
+     of such denied claims submitted by each gender;
+       (C) the number and percentage, listed by each gender, of 
+     claims assigned to each rating percentage of disability; and
+       (D) of such claims that were again denied--
+       (i) the three most common reasons given by the Secretary 
+     under section 5104(b)(1) of such title for such denials; and
+       (ii) the number of denials that were based on the failure 
+     of a veteran to report for a medical examination.
+       (6) The number of covered claims that, as of the end of the 
+     fiscal year covered by the report, are pending and, 
+     separately, the number of such claims on appeal.
+       (7) For the fiscal year covered by the report, the average 
+     number of days that covered claims take to complete beginning 
+     on the date on which the claim is submitted.
+       (c) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+       (2) Covered claims.--The term ``covered claims'' means 
+     claims for disability compensation submitted to the Secretary 
+     based on post traumatic stress disorder alleged to have been 
+     incurred or aggravated by military sexual trauma.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+      Subtitle B--Claims for Dependency and Indemnity Compensation
+
+     SEC. 611. PROGRAM ON TREATMENT OF CERTAIN APPLICATIONS FOR 
+                   DEPENDENCY AND INDEMNITY COMPENSATION AS FULLY 
+                   DEVELOPED CLAIMS.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     carry out a program to assess the feasibility and 
+     advisability of expediting the treatment of a covered 
+     dependency and indemnity compensation claim.
+       (b) Covered Dependency and Indemnity Compensation Claims.--
+     For purposes of this section, a covered dependency and 
+     indemnity compensation claim is a claim submitted to the 
+     Secretary for compensation under chapter 13 of title 38, 
+     United States Code, for which the claimant--
+       (1) applies for such compensation within one-year of the 
+     death of the veteran upon whose service the claim is based;
+       (2) was the dependent on the claim of a veteran who was 
+     receiving benefits for one or more service-connected 
+     conditions as of the date of death;
+       (3) submits a death certificate or other evidence with the 
+     claim indicating that the veteran's death was due to a 
+     service-connected or compensable disability; and
+       (4) in the case that the claimant is the spouse of the 
+     deceased veteran, certifies that he or she has not remarried 
+     since the date of the veteran's death.
+       (c) Duration.--The program shall be carried out during the 
+     one-year period beginning on the date that is 90 days after 
+     the date of the enactment of this Act.
+       (d) Locations.--The program shall be carried out at the 
+     Pension Management Center of the Department of Veterans 
+     Affairs or such centers selected by the Secretary for 
+     purposes of the program.
+       (e) Report.--
+       (1) In general.--Not later than 270 days after the date on 
+     which the program is completed, the Secretary shall submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The number of covered dependency and indemnity 
+     compensation claims that were adjudicated under the program, 
+     disaggregated by the following:
+       (i) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     spouse of a deceased veteran.
+       (ii) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     child of a deceased veteran.
+       (iii) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     parent of a deceased veteran.
+       (B) The number of covered dependency and indemnity 
+     compensation claims that were adjudicated under the program 
+     and for which compensation was not awarded, disaggregated by 
+     clauses (i) through (iii) of subparagraph (A).
+       (C) A comparison of the accuracy and timeliness of claims 
+     adjudicated under the program with claims submitted to the 
+     Secretary for compensation under chapter 13 of title 38, 
+     United States Code, that were not provided expeditious 
+     treatment under the program.
+       (D) The findings of the Secretary with respect to the 
+     program.
+       (E) Such recommendations as the Secretary may have for 
+     legislative or administrative action to improve the 
+     adjudication of claims submitted to the Secretary for 
+     compensation under chapter 13 of title 38, United States 
+     Code.
+
+     SEC. 612. REPORT BY SECRETARY OF VETERANS AFFAIRS ON 
+                   IMPROVING TIMELINESS AND ACCURACY OF 
+                   ADMINISTRATION OF CLAIMS FOR DEPENDENCY AND 
+                   INDEMNITY COMPENSATION AND PENSION FOR 
+                   SURVIVING SPOUSES AND CHILDREN.
+
+       (a) In General.--Not later than 455 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report with recommendations for legislative 
+     or administrative actions to improve the timeliness and 
+     accuracy with which the Secretary processes and adjudicates 
+     claims for compensation under chapter 13 of title 38, United 
+     States Code, and pension under sections 1541 and 1542 of such 
+     title.
+       (b) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+              Subtitle C--Agency of Original Jurisdiction
+
+     SEC. 621. WORKING GROUP TO IMPROVE EMPLOYEE WORK CREDIT AND 
+                   WORK MANAGEMENT SYSTEMS OF VETERANS BENEFITS 
+                   ADMINISTRATION IN AN ELECTRONIC ENVIRONMENT.
+
+       (a) Establishment.--Not later than 90 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall establish a working group to assess and develop 
+     recommendations for the improvement of the employee work 
+     credit and work management systems of the Veterans Benefits 
+     Administration in an electronic environment.
+       (b) Composition.--The working group shall be composed of 
+     the following:
+       (1) The Secretary or the Secretary's designee.
+       (2) Individuals selected by the Secretary from among 
+     employees of the Department of Veterans Affairs who handle 
+     claims for compensation and pension benefits and are 
+     recommended to the Secretary by a labor organization for 
+     purposes of this section, including at least one of each of 
+     the following individuals:
+       (A) A veterans service representative.
+       (B) A rating veterans service representative.
+       (C) A decision review officer.
+       (3) Not fewer than three individuals selected by the 
+     Secretary to represent different organizations recognized by 
+     the Secretary for the representation of veterans under 
+     section 5902 of title 38, United States Code.
+       (4) Individuals selected by the Secretary--
+       (A) that are not employees of the Department; and
+       (B) that are experts in work credit and work management 
+     systems.
+       (c) Duties.--The duties of the working group are to assess 
+     and develop recommendations for the following:
+       (1) The improvement of the employee work credit and work 
+     management systems of the Veterans Benefits Administration in 
+     an electronic environment.
+       (2) A scientific, data based methodology to be used in 
+     revising the employee work credit system of the Department to 
+     improve the quality and quantity of work produced by 
+     employees of the Department.
+       (3) The improvement of the resource allocation model of the 
+     Veterans Benefits Administration, with a focus on the 
+     processing of claims in an electronic environment.
+
+[[Page 3184]]
+
+       (4) A schedule by which the revisions referred to in 
+     paragraph (2) will be implemented by the Department.
+       (d) Review and Incorporation of Findings From Prior 
+     Study.--In carrying out its duties under subsection (c), the 
+     working group shall review the findings and conclusions of 
+     previous studies of the employee work credit and work 
+     management systems of the Veterans Benefits Administration.
+       (e) Role of the Secretary.--The Secretary shall consider 
+     the recommendations of the working group and implement such 
+     recommendations as the Secretary determines appropriate.
+       (f) Reports.--
+       (1) Interim report.--Not later than 180 days after the date 
+     of the establishment of the working group, the working group 
+     shall submit to Congress a report on the progress of the 
+     working group.
+       (2) Final report.--Not later than one year after the date 
+     of the establishment of the working group, the Secretary 
+     shall submit to Congress the methodology described in 
+     subsection (c)(2) and the schedule described in subsection 
+     (c)(4) that the Secretary has decided to implement pursuant 
+     to subsection (e).
+       (g) Implementation of Methodology and Schedule.--After 
+     submitting the report under subsection (f), the Secretary 
+     shall take such actions as may be necessary to apply the 
+     methodology described in subsection (c)(2) and the schedule 
+     described in subsection (c)(4) that the Secretary has decided 
+     to implement pursuant to subsection (e).
+
+     SEC. 622. TASK FORCE ON RETENTION AND TRAINING OF DEPARTMENT 
+                   OF VETERANS AFFAIRS CLAIMS PROCESSORS AND 
+                   ADJUDICATORS.
+
+       (a) Establishment.--The Secretary of Veterans Affairs shall 
+     establish a task force to assess retention and training of 
+     claims processors and adjudicators that are employed by the 
+     Department of Veterans Affairs and other departments and 
+     agencies of the Federal Government.
+       (b) Composition.--The task force shall be composed of the 
+     following:
+       (1) The Secretary of Veterans Affairs or designee.
+       (2) The Director of the Office of Personnel Management or 
+     designee.
+       (3) The Commissioner of Social Security or designee.
+       (4) An individual selected by the Secretary of Veterans 
+     Affairs who represents an organization recognized by the 
+     Secretary for the representation of veterans under section 
+     5902 of title 38, United States Code.
+       (5) Such other individuals selected by the Secretary who 
+     represent such other organizations and institutions as the 
+     Secretary considers appropriate.
+       (c) Duration.--The task force established under subsection 
+     (a) shall terminate not later than two years after the date 
+     on which the task force is established under such subsection.
+       (d) Duties.--The duties of the task force are as follows:
+       (1) To identify key skills required by claims processors 
+     and adjudicators to perform the duties of claims processors 
+     and adjudicators in the various claims processing and 
+     adjudication positions throughout the Federal Government.
+       (2) To identify reasons for employee attrition from claims 
+     processing positions.
+       (3) To coordinate with educational institutions to develop 
+     training and programs of education for members of the Armed 
+     Forces to prepare such members for employment in claims 
+     processing and adjudication positions in the Federal 
+     Government.
+       (4) To identify and coordinate offices of the Department of 
+     Defense and the Department of Veterans Affairs located 
+     throughout the United States to provide information about, 
+     and promotion of, available claims processing positions to 
+     members of the Armed Forces transitioning to civilian life 
+     and to veterans with disabilities.
+       (5) To establish performance measures to evaluate the 
+     effectiveness of the task force.
+       (6) Not later than one year after the date of the 
+     establishment of the task force, to develop a Government-wide 
+     strategic and operational plan for promoting employment of 
+     veterans in claims processing positions in the Federal 
+     Government.
+       (7) To establish performance measures to assess the plan 
+     developed under paragraph (6), to assess the implementation 
+     of such plan, and to revise such plan as the task force 
+     considers appropriate.
+       (e) Reports.--
+       (1) Submittal of plan.--Not later than one year after the 
+     date of the establishment of the task force, the Secretary of 
+     Veterans Affairs shall submit to Congress a report on the 
+     plan developed by the task force under subsection (d)(6).
+       (2) Assessment of implementation.--Not later than 120 days 
+     after the termination of the task force, the Secretary shall 
+     submit to Congress a report that assesses the implementation 
+     of the plan developed by the task force under subsection 
+     (d)(6).
+
+     SEC. 623. REPORTS ON REQUESTS BY THE DEPARTMENT OF VETERANS 
+                   AFFAIRS FOR RECORDS OF OTHER FEDERAL AGENCIES.
+
+       (a) Reports Required.--Not later than 180 days after the 
+     date of the enactment of this Act, and every 180 days 
+     thereafter through the date that is 910 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the attempts of the 
+     Department of Veterans Affairs to obtain records necessary to 
+     adjudicate claims for benefits from another department or 
+     agency of the Federal Government during the 180-day period 
+     ending on the date of such report.
+       (b) Elements.--
+       (1) In general.--Each report shall set forth the following:
+       (A) For the period covered by such report, the following:
+       (i) The total number of requests made by the Department.
+       (ii) The types of records requested.
+       (iii) The number of requests made before the receipt of 
+     each record.
+       (iv) The amount of time between the initial request for 
+     each record and the receipt of each record.
+       (v) The number of occurrences of the receipt of a record 
+     after the adjudication of the claim for which the record was 
+     sought.
+       (vi) A description of the efforts of the Secretary to 
+     expedite the delivery of records to the Department from other 
+     departments and agencies of the Federal Government.
+       (B) Such recommendations for legislative or administrative 
+     action as the Secretary considers appropriate in light of 
+     such report.
+       (2) Presentation.--The information in a report under clause 
+     (i) through (v) of paragraph (1)(A) shall be set forth 
+     separately for each department and agency of the Federal 
+     Government covered by such report.
+
+     SEC. 624. RECOGNITION OF REPRESENTATIVES OF INDIAN TRIBES IN 
+                   THE PREPARATION, PRESENTATION, AND PROSECUTION 
+                   OF CLAIMS UNDER LAWS ADMINISTERED BY THE 
+                   SECRETARY OF VETERANS AFFAIRS.
+
+       Section 5902(a)(1) is amended by inserting ``, including 
+     Indian tribes (as defined in section 4 of the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 
+     450b))'' after ``as the Secretary may approve''.
+
+     SEC. 625. PROGRAM ON PARTICIPATION OF LOCAL AND TRIBAL 
+                   GOVERNMENTS IN IMPROVING QUALITY OF CLAIMS FOR 
+                   DISABILITY COMPENSATION SUBMITTED TO DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall carry out a program to assess the feasibility and 
+     advisability of entering into memoranda of understanding with 
+     local governments and tribal organizations--
+       (1) to improve the quality of claims submitted to the 
+     Secretary for compensation under chapter 11 of title 38, 
+     United States Code, and pension under chapter 15 of such 
+     title; and
+       (2) to provide assistance to veterans who may be eligible 
+     for such compensation or pension in submitting such claims.
+       (b) Minimum Number of Participating Tribal Organizations.--
+     In carrying out the program required by subsection (a), the 
+     Secretary shall enter into, or maintain existing, memoranda 
+     of understanding with at least--
+       (1) two tribal organizations; and
+       (2) 10 State or local governments.
+       (c) Duration.--The program shall be carried out during the 
+     two-year period beginning on the date of the commencement of 
+     the program.
+       (d) Report.--
+       (1) Initial report.--Not later than one year after the date 
+     of the commencement of the program, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report that includes the following:
+       (A) A description of the implementation and operation of 
+     the program, including a description of outreach conducted by 
+     the Secretary to tribal organizations and State and local 
+     governments.
+       (B) An evaluation of the program, including the total 
+     number of memoranda of understanding entered into or 
+     maintained by the Secretary.
+       (2) Final report.--Not later than 180 days after the 
+     termination of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report that includes the following:
+       (A) A description of the implementation and operation of 
+     the program, including a description of outreach conducted by 
+     the Secretary to tribal organizations and State and local 
+     governments.
+       (B) An evaluation of the program, including the total 
+     number of memoranda of understanding entered into or 
+     maintained by the Secretary.
+       (C) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (D) Such recommendations for continuation or expansion of 
+     the program as the Secretary considers appropriate.
+       (e) Tribal Organization Defined.--In this section, the term 
+     ``tribal organization'' has the meaning given that term in 
+     section 3765 of title 38, United States Code.
+
+[[Page 3185]]
+
+
+
+     SEC. 626. DEPARTMENT OF VETERANS AFFAIRS NOTICE OF AVERAGE 
+                   TIMES FOR PROCESSING COMPENSATION CLAIMS.
+
+       (a) Public Notice.--The Secretary of Veterans Affairs 
+     shall, to the extent practicable, post the information 
+     described in subsection (b)--
+       (1) in physical locations, such as Regional Offices or 
+     other claims in-take facilities, that the Secretary considers 
+     appropriate;
+       (2) on the Internet website of the Department; and
+       (3) through other mediums or using such other methods, 
+     including collaboration with veterans service organizations, 
+     as the Secretary considers appropriate.
+       (b) Information Described.--
+       (1) In general.--The information described in this 
+     subsection is the average processing time of the claims 
+     described in paragraph (2).
+       (2) Claims described.--The claims described in this 
+     paragraph are each of the following types of claims for 
+     benefits under the laws administered by the Secretary of 
+     Veterans Affairs:
+       (A) A fully developed claim.
+       (B) A claim that is not fully developed.
+       (3) Update of information.--The information described in 
+     this subsection shall be updated not less frequently than 
+     once each fiscal quarter.
+       (c) Expiration of Requirements.--The requirements of 
+     subsection (a) shall expire on December 31, 2015.
+       (d) Veterans Service Organization Defined.--In this 
+     section, the term ``veterans service organization'' means an 
+     organization recognized by the Secretary of Veterans Affairs 
+     for the representation of veterans under section 5902 of 
+     title 38, United States Code.
+
+     SEC. 627. QUARTERLY REPORTS ON PROGRESS OF DEPARTMENT OF 
+                   VETERANS AFFAIRS IN ELIMINATING BACKLOG OF 
+                   CLAIMS FOR COMPENSATION THAT HAVE NOT BEEN 
+                   ADJUDICATED.
+
+       (a) In General.--Not later than 90 days after the date of 
+     the enactment of this Act and not less frequently than 
+     quarterly thereafter through calendar year 2015, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the backlog of claims filed with the Department of Veterans 
+     Affairs for compensation that have not been adjudicated by 
+     the Department.
+       (b) Contents.--Each report submitted under subsection (a) 
+     shall include the following:
+       (1) For each month through calendar year 2015, a projection 
+     of the following:
+       (A) The number of claims completed.
+       (B) The number of claims received.
+       (C) The number of claims on backlog at the end of the 
+     month.
+       (D) The number of claims pending at the end of the month.
+       (E) The number of appeals pending at the end of the month.
+       (F) A description of the status of the implementation of 
+     initiatives carried out by the Secretary to address the 
+     backlog, including the expected impact of those initiatives 
+     on accuracy and timeliness of adjudication of claims.
+       (2) For each quarter through calendar year 2015, a 
+     projection of the average accuracy of disability 
+     determinations for compensation claims that require a 
+     disability rating (or disability decision).
+       (3) For each month during the most recently completed 
+     quarter, the following:
+       (A) The number of claims completed.
+       (B) The number of claims received.
+       (C) The number of claims on backlog at the end of the 
+     month.
+       (D) The number of claims pending at the end of the month.
+       (E) The number of appeals pending at the end of the month.
+       (F) A description of the status of the implementation of 
+     initiatives carried out by the Secretary to address the 
+     backlog, including the impact of those initiatives on 
+     accuracy and timeliness of adjudication of claims.
+       (G) An assessment of the accuracy of disability 
+     determinations for compensation claims that require a 
+     disability rating (or disability decision).
+       (4) For the most recently completed quarter--
+       (A) the number of cases physically received at the Board of 
+     Veterans' Appeals and docketed;
+       (B) the number of cases pending at the Board of Veterans' 
+     Appeals at the end of the quarter;
+       (C) the number of cases physically at the Board of 
+     Veterans' Appeals at the end of the quarter;
+       (D) the number of notices of disagreement and appeals filed 
+     to the agency of original jurisdiction referred to in section 
+     7105(b)(1) of title 38, United States Code; and
+       (E) the number of decisions made by the Board of Veterans' 
+     Appeals and the percentage of such decisions that were 
+     allowed, remanded, denied, or otherwise disposed of.
+       (c) Availability to Public.--The Secretary shall make each 
+     report submitted under subsection (a) available to the 
+     public.
+       (d) On Backlog and Pending Defined.--In this section, the 
+     terms ``on backlog'' and ``pending'', with respect to a claim 
+     for compensation received by the Secretary, shall have the 
+     meaning specified by the Secretary for purposes of this 
+     section.
+
+     SEC. 628. REPORTS ON USE OF EXISTING AUTHORITIES TO EXPEDITE 
+                   BENEFITS DECISIONS.
+
+       (a) Report on Current Use of Temporary, Intermediate, and 
+     Provisional Rating Decisions.--
+       (1) Report required.--Not later than 180 days after the 
+     date of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the use of temporary, 
+     intermediate, and provisional rating decisions to expedite 
+     the benefits decisions of the Department of Veterans Affairs.
+       (2) Report elements.--The report required by paragraph (1) 
+     shall include the following:
+       (A) With respect to temporary and intermediate rating 
+     decisions, the following:
+       (i) The number of temporary and intermediate rating 
+     decisions issued by the Department during each of fiscal 
+     years 2011, 2012, and 2013.
+       (ii) A description of any reasons or obstacles that prevent 
+     use of existing authorities to issue temporary or 
+     intermediate rating decisions.
+       (iii) A description of the Quick Pay Disability initiative, 
+     including the rationale for not expanding the initiative 
+     beyond pilot program status.
+       (B) With respect to provisional rating decisions, the 
+     following:
+       (i) The number of provisional rating decisions issued by 
+     the Department during the oldest claims first initiative.
+       (ii) Of the provisional rating decisions issued during the 
+     oldest claims first initiative--
+
+       (I) the number of such decisions that involved a claim 
+     granted;
+       (II) the number of such decisions that involved a claim 
+     denied; and
+       (III) the number of such decisions that involved a claim 
+     granted in part or a claim denied in part.
+
+       (iii) A statement of the most common reasons claims were 
+     not granted earlier under the oldest claims first initiative 
+     when there was sufficient evidence to render an award of 
+     benefits in the provisional rating decision.
+       (iv) The average number of days to issue a provisional 
+     rating decision under the oldest claims first initiative.
+       (v) Of the total number of decisions that were completed 
+     under the oldest claims first initiative--
+
+       (I) the number that were Category 1 claims and received a 
+     final rating decision; and
+       (II) the number that were Category 2 claims and received a 
+     provisional rating decision.
+
+       (vi) The number of rating decisions issued during the 
+     oldest claims first imitative that involved a brokered claim, 
+     set forth by number of such claims by Regional Office of the 
+     Department, including--
+
+       (I) the number of brokered claims received by each Regional 
+     Office; and
+       (II) the number of brokered claims issued by each Regional 
+     Office.
+
+       (vii) The number of provisional rating decisions issued 
+     during the oldest claims first initiative with respect to 
+     which the veteran requested that the provisional decision 
+     become final in order to appeal.
+       (viii) The number of provisional rating decisions issued 
+     during the oldest claims first initiative with respect to 
+     which the veteran requested an appeal after the expiration of 
+     the 1-year period beginning on the date of notification of 
+     the provisional rating decision.
+       (ix) An assessment of the accuracy of provisional rating 
+     decisions issued during the oldest claims first initiative, 
+     set forth by Category 1 claims and Category 2 claims.
+       (C) Such other matters as the Secretary considers 
+     appropriate for purposes of the report.
+       (3) Supplemental information.--If the Secretary continues 
+     to obtain information on rating decisions under clauses (vii) 
+     and (viii) of paragraph (2)(B) after the date of the 
+     submittal of the report required by paragraph (1), the 
+     Secretary shall submit to the committees of Congress referred 
+     to in paragraph (1) a report on such information that 
+     supplements the information on such clauses in the report 
+     under paragraph (1) when the Secretary completes accumulation 
+     of such information.
+       (b) Plan for Increase in Use of Temporary or Intermediate 
+     Rating Decisions.--
+       (1) Report on plan required.--Not later than 180 days after 
+     the date of the enactment of this Act, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth a plan to increase the 
+     use of temporary or intermediate rating decisions to expedite 
+     benefit decisions of the Department when the record contains 
+     sufficient evidence to grant any claim at issue, including 
+     service connection.
+       (2) Plan elements.--The plan required under paragraph (1) 
+     shall include the following:
+       (A) Mechanisms to overcome obstacles to the use of 
+     temporary or intermediate rating decisions, including 
+     mechanisms (such as upgrades) to assure the ability of the 
+     Veterans
+
+[[Page 3186]]
+
+     Benefits Management System to facilitate the issuance of 
+     temporary or intermediate rating decisions.
+       (B) Mechanisms to ensure that appropriate claimant 
+     populations, such as claimants who file complex or multi-
+     issue disability compensation claims, benefit from the 
+     availability of temporary or intermediate rating decisions.
+       (C) Mechanisms to provide for the use of temporary or 
+     intermediate rating decisions, including mechanisms to 
+     resolve whether a request by a claimant or claimant 
+     representative should trigger use of a temporary or 
+     intermediate rating decision depending on the circumstances 
+     of the claimant.
+       (D) Mechanisms to prevent the use of temporary or 
+     intermediate rating decisions in lieu of a final rating 
+     decision when a final rating decision could be made with 
+     little or no additional claim development.
+       (E) Such recommendations for legislative or administrative 
+     action as the Secretary considers appropriate to increase the 
+     use of temporary or intermediate rating decisions to expedite 
+     benefit decisions of the Department.
+
+     SEC. 629. REPORTS ON DEPARTMENT DISABILITY MEDICAL 
+                   EXAMINATIONS AND PREVENTION OF UNNECESSARY 
+                   MEDICAL EXAMINATIONS.
+
+       (a) Report on Disability Medical Examinations Furnished by 
+     Department of Veterans Affairs.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the furnishing of general medical 
+     and specialty medical examinations by the Department of 
+     Veterans Affairs for purposes of adjudicating claims for 
+     benefits under laws administered by the Secretary.
+       (2) Contents.--The report submitted under paragraph (1) 
+     shall include the following:
+       (A) The number of general medical examinations furnished by 
+     the Department during the period of fiscal years 2009 through 
+     2012 for purposes of adjudicating claims for benefits under 
+     laws administered by the Secretary.
+       (B) The number of general medical examinations furnished by 
+     the Department during the period of fiscal years 2009 through 
+     2012 for purposes of adjudicating a claim in which a 
+     comprehensive joint examination was conducted, but for which 
+     no disability relating to a joint, bone, or muscle had been 
+     asserted as an issue in the claim.
+       (C) The number of specialty medical examinations furnished 
+     by the Department during the period of fiscal years 2009 
+     through 2012 for purposes of adjudicating a claim.
+       (D) The number of specialty medical examinations furnished 
+     by the Department during the period of fiscal years 2009 
+     through 2012 for purposes of adjudicating a claim in which 
+     one or more joint examinations were conducted.
+       (E) A summary with citations to any medical and scientific 
+     studies that provide a basis for determining that three 
+     repetitions is adequate to determine the effect of repetitive 
+     use on functional impairments.
+       (F) The names of all examination reports, including general 
+     medical examinations and Disability Benefits Questionnaires, 
+     used for evaluation of compensation and pension disability 
+     claims which require measurement of repeated ranges of motion 
+     testing and the number of examinations requiring such 
+     measurements which were conducted in fiscal year 2012.
+       (G) The average amount of time taken by an individual 
+     conducting a medical examination to perform the three 
+     repetitions of movement of each joint.
+       (H) A discussion of whether there are more efficient and 
+     effective scientifically reliable methods of testing for 
+     functional loss on repetitive use of an extremity other than 
+     the three time repetition currently used by the Department.
+       (I) Recommendations as to the continuation of the practice 
+     of measuring functional impairment by using three repetitions 
+     of movement of each joint during the examination as a 
+     criteria for evaluating the effect of repetitive motion on 
+     functional impairment with supporting rationale.
+       (b) Report and Plan to Prevent the Ordering of Unnecessary 
+     Medical Examinations.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the efforts of the Secretary in 
+     reducing the necessity for in-person disability examinations 
+     and other efforts to comply with the provisions of section 
+     5125 of title 38, United States Code.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) Criteria used by the Secretary to determine if a claim 
+     is eligible for the Acceptable Clinical Evidence initiative.
+       (B) The number of claims determined to be eligible for the 
+     Acceptable Clinical Evidence initiative during the period 
+     beginning on the date of the initiation of the initiative and 
+     ending on the date of the enactment of this Act, 
+     disaggregated--
+       (i) by fiscal year; and
+       (ii) by claims determined eligible based in whole or in 
+     part on medical evidence provided by a private health care 
+     provider.
+       (C) The total number of claims determined to be eligible 
+     for the Acceptable Clinical Evidence initiative that required 
+     an employee of the Department to supplement the evidence with 
+     information obtained during a telephone interview with a 
+     claimant or health care provider.
+       (D) Information on any other initiatives or efforts, 
+     including disability benefits questionnaires, of the 
+     Department to further encourage the use of medical evidence 
+     provided by a private health care provider and reliance upon 
+     reports of a medical examination administered by a private 
+     physician if the report is sufficiently complete to be 
+     adequate for the purposes of adjudicating a claim.
+       (E) A plan--
+       (i) to measure, track, and prevent the ordering of 
+     unnecessary medical examinations when the provision by a 
+     claimant of a medical examination administered by a private 
+     physician in support of a claim for benefits under chapter 11 
+     or 15 of title 38, United States Code, is adequate for the 
+     purpose of making a decision on that claim; and
+       (ii) that includes the actions the Secretary will take to 
+     eliminate any request by the Department for a medical 
+     examination in the case of a claim for benefits under chapter 
+     11 or 15 of such title in support of which a claimant submits 
+     medical evidence or a medical opinion provided by a private 
+     health care provider that is competent, credible, probative, 
+     and otherwise adequate for purposes of making a decision on 
+     that claim.
+
+    Subtitle D--Board of Veterans' Appeals and Court of Appeals for 
+                            Veterans Claims
+
+     SEC. 631. TREATMENT OF CERTAIN MISFILED DOCUMENTS AS A NOTICE 
+                   OF APPEAL TO THE COURT OF APPEALS FOR VETERANS 
+                   CLAIMS.
+
+       Section 7266 is amended by adding at the end the following 
+     new subsection:
+       ``(e)(1) If a person adversely affected by a final decision 
+     of the Board, who has not filed a notice of appeal with the 
+     United States Court of Appeals for Veterans Claims under 
+     subsection (a), misfiles a document with the Board or the 
+     agency of original jurisdiction referred to in section 
+     7105(b)(1) of this title that expresses disagreement with 
+     such decision and a clear intent to seek review of such 
+     decision by the United States Court of Appeals for Veterans 
+     Claims, not later than 120 days after the date of such 
+     decision, such document shall be treated as timely filed 
+     under subsection (a).
+       ``(2) The treatment of misfiled documents under paragraph 
+     (1) does not limit equitable relief that may be otherwise 
+     available to a person described in that paragraph.''.
+
+     SEC. 632. DETERMINATION OF MANNER OF APPEARANCE FOR HEARINGS 
+                   BEFORE BOARD OF VETERANS' APPEALS.
+
+       (a) In General.--Section 7107 is amended--
+       (1) in subsection (a)(1), by striking ``in subsection (f)'' 
+     and inserting ``in subsection (g)'';
+       (2) by redesignating subsection (f) as subsection (g); and
+       (3) by striking subsections (d) and (e) and inserting the 
+     following new subsections:
+       ``(d)(1) Except as provided in paragraph (2), a hearing 
+     before the Board shall be conducted through picture and voice 
+     transmission, by electronic or other means, in such a manner 
+     that the appellant is not present in the same location as the 
+     members of the Board during the hearing.
+       ``(2)(A) A hearing before the Board shall be conducted in 
+     person upon the request of an appellant.
+       ``(B) In the absence of a request under subparagraph (A), a 
+     hearing before the Board may also be conducted in person as 
+     the Board considers appropriate.
+       ``(e)(1) In a case in which a hearing before the Board is 
+     to be held as described in subsection (d)(1), the Secretary 
+     shall provide suitable facilities and equipment to the Board 
+     or other components of the Department to enable an appellant 
+     located at an appropriate facility within the area served by 
+     a regional office to participate as so described.
+       ``(2) Any hearing conducted as described in subsection 
+     (d)(1) shall be conducted in the same manner as, and shall be 
+     considered the equivalent of, a personal hearing.
+       ``(f)(1) In a case in which a hearing before the Board is 
+     to be held as described in subsection (d)(2), the appellant 
+     may request that the hearing be held at the principal 
+     location of the Board or at a facility of the Department 
+     located within the area served by a regional office of the 
+     Department.
+       ``(2) A hearing to be held within an area served by a 
+     regional office of the Department shall (except as provided 
+     in paragraph (3)) be scheduled to be held in accordance with 
+     the place of the case on the docket under subsection (a) 
+     relative to other cases on the docket for which hearings are 
+     scheduled to be held within that area.
+       ``(3) A hearing to be held within an area served by a 
+     regional office of the Department may, for cause shown, be 
+     advanced on motion for an earlier hearing. Any such motion 
+     shall set forth succinctly the grounds upon
+
+[[Page 3187]]
+
+     which the motion is based. Such a motion may be granted 
+     only--
+       ``(A) if the case involves interpretation of law of general 
+     application affecting other claims;
+       ``(B) if the appellant is seriously ill or is under severe 
+     financial hardship; or
+       ``(C) for other sufficient cause shown.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall apply with respect to cases received by the Board of 
+     Veterans' Appeals pursuant to notices of disagreement 
+     submitted on or after the date of the enactment of this Act.
+
+                      TITLE VII--OUTREACH MATTERS
+
+     SEC. 701. PROGRAM TO INCREASE COORDINATION OF OUTREACH 
+                   EFFORTS BETWEEN THE DEPARTMENT OF VETERANS 
+                   AFFAIRS AND FEDERAL, STATE, AND LOCAL AGENCIES 
+                   AND NONPROFIT ORGANIZATIONS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall carry out a program to assess the feasibility and 
+     advisability of using State and local government agencies and 
+     nonprofit organizations--
+       (1) to increase awareness of veterans regarding benefits 
+     and services for veterans; and
+       (2) to improve coordination of outreach activities 
+     regarding such benefits and services between the Secretary 
+     and Federal, State, and local government and nonprofit 
+     providers of health care and benefit services for veterans.
+       (b) Duration.--The Secretary shall carry out the program 
+     for a two-year period.
+       (c) Grants.--
+       (1) In general.--The Secretary shall carry out the program 
+     through the competitive award of grants to State and local 
+     government agencies and nonprofit organizations--
+       (A) to increase the awareness of veterans regarding 
+     benefits and services for veterans; and
+       (B) to improve coordination of outreach activities 
+     regarding such benefits and services between the Secretary 
+     and Federal, State, and local government and nonprofit 
+     providers of health care and benefit services for veterans.
+       (2) Application.--
+       (A) In general.--A State or local government agency or 
+     nonprofit organization seeking a grant under the program 
+     shall submit to the Secretary an application therefor in such 
+     form and in such manner as the Secretary considers 
+     appropriate.
+       (B) Elements.--Each application submitted under 
+     subparagraph (A) shall include the following:
+       (i) A description of the consultations, if any, with the 
+     Department of Veterans Affairs in the development of any 
+     proposal under the application.
+       (ii) A description of the project for which the applicant 
+     is seeking a grant under the program, including a plan to 
+     coordinate under the program, to the greatest extent 
+     possible, the outreach activities of Federal, State, and 
+     local government agencies that provide health care, benefits, 
+     and services for veterans and nonprofit organizations that 
+     provide such care, benefits, and services to enhance the 
+     awareness and availability of such care, benefits, and 
+     services.
+       (iii) An agreement to report to the Secretary standardized 
+     data and other performance measures necessary for the 
+     Secretary to evaluate the program and to facilitate 
+     evaluation of projects for which grants are awarded under the 
+     program.
+       (iv) Such other information as the Secretary may require.
+       (3) Considerations.--
+       (A) In general.--In awarding grants under the program to 
+     carry out projects, the Secretary shall consider--
+       (i) where the projects will be carried out and which 
+     populations are targeted; and
+       (ii) the likelihood that each potential grantee will 
+     successfully carry out the grant proposal.
+       (B) Considerations regarding location and target 
+     population.--In taking the matters specified in subparagraph 
+     (A)(ii) into consideration, the Secretary shall consider in 
+     particular the advisability of awarding grants for projects--
+       (i) carried out in areas with populations that have a high 
+     proportion of veteran representation;
+       (ii) carried out in a variety of geographic areas, 
+     including urban, rural, and highly rural areas; and
+       (iii) that target a variety of veteran populations, 
+     including racial and ethnic minorities, low-income 
+     populations, and older populations.
+       (4) Use of funds.--The Secretary shall establish 
+     appropriate uses of grant amounts received under the program.
+       (5) Oversight of use of funds.--The Secretary shall 
+     establish appropriate mechanisms for oversight of the use of 
+     grant amounts received under the program, including the 
+     evidence grantees must submit to demonstrate use of grant 
+     amounts and procedures for the recovery of grant amounts that 
+     were improperly used.
+       (6) Limitation.--In a fiscal year, not more than 20 percent 
+     of all grant amounts awarded in that fiscal year may be 
+     awarded to a single State entity.
+       (d) State Matching Requirement.--The Secretary may not make 
+     a grant to a State under subsection (c) unless that State 
+     agrees that, with respect to the costs to be incurred by the 
+     State in carrying out the program or projects for which the 
+     grant was awarded, the State will make available (directly or 
+     through donations from public or private entities) non-
+     Federal contributions in an amount equal to 50 percent of 
+     Federal funds provided under the grant.
+       (e) Authorization of Appropriations.--There is hereby 
+     authorized to be appropriated to carry out this section the 
+     following:
+       (1) $2,500,000 for fiscal year 2015.
+       (2) $2,500,000 for fiscal year 2016.
+       (f) Annual Report.--
+       (1) In general.--Not later than 120 days after the 
+     completion of the first calendar year beginning after the 
+     date of the commencement of the program, and not less 
+     frequently than once every year thereafter for the duration 
+     of the program, the Secretary shall submit to Congress a 
+     report evaluating the program and the projects supported by 
+     grants awarded under the program.
+       (2) Elements.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (B) An assessment of the benefit to veterans of the 
+     program.
+       (C) The performance measures used by the Secretary for 
+     purposes of the program and data showing the performance of 
+     grantees under the program under such measures.
+       (D) The recommendations of the Secretary as to the 
+     feasibility and advisability of continuing or expanding or 
+     modifying the program.
+       (g) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 702. COOPERATIVE AGREEMENTS BETWEEN SECRETARY OF 
+                   VETERANS AFFAIRS AND STATES ON OUTREACH 
+                   ACTIVITIES.
+
+       (a) In General.--Chapter 63 is amended by inserting after 
+     section 6306 the following new section:
+
+     ``Sec. 6306A. Cooperative agreements with States
+
+       ``(a) In General.--The Secretary may enter into cooperative 
+     agreements and arrangements with various State agencies and 
+     State departments to carry out this chapter and to otherwise 
+     carry out, coordinate, improve, or enhance outreach 
+     activities of the Department and the States.
+       ``(b) Report.--The Secretary shall include in each report 
+     submitted under section 6308 of this title a description of 
+     the agreements and arrangements entered into by the Secretary 
+     under subsection (a).''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 63 is amended by inserting after the 
+     item relating to section 6306 the following new item:
+
+``6306A. Cooperative agreements with States.''.
+
+     SEC. 703. ADVISORY COMMITTEE ON OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Establishment.--Not later than 180 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall establish an advisory committee on outreach 
+     activities of the Department of Veterans Affairs.
+       (b) Membership.--The advisory committee shall be composed 
+     of individuals selected by the Secretary from among the 
+     following:
+       (1) To the maximum extent practicable, individuals who are 
+     eminent in their respective fields of public relations.
+       (2) Representatives of organizations with offices that 
+     focus on communications and distribute messages through major 
+     media news outlets and social media.
+       (3) To the maximum extent practicable, individuals with 
+     experience communicating financial results and business 
+     strategy for purposes of shaping a confident brand image.
+       (4) To the maximum extent practicable, individuals with 
+     experience with consumer and lifestyle imaging and creating 
+     publicity for a particular product or service.
+       (5) To the maximum extent practicable, veterans who have 
+     experience in press and public relations.
+       (c) Duties.--The advisory committee shall advise the 
+     Assistant Secretary for Public and Intergovernmental 
+     Affairs--
+       (1) to ensure that the Department of Veterans Affairs is 
+     strategically and effectively--
+       (A) engaging the public and Department stakeholders to 
+     increase awareness nationally regarding all benefits and 
+     services furnished by the Department;
+       (B) explaining new or changing policies of the Department;
+       (C) improving the image and reputation of the Department; 
+     and
+       (D) coordinating and collaborating with national community-
+     based organizations, nonprofits, and State and local 
+     government agencies;
+       (2) to assist the Secretary in conducting such other press 
+     or public relations activities relating to outreach 
+     activities of the Department as the Secretary and the 
+     Assistant Secretary for Public and Intergovernmental Affairs 
+     consider appropriate; and
+       (3) to ensure coordination and collaboration on efforts 
+     within the Department for the development, implementation, 
+     and review of local outreach with respect to benefits that 
+     include the following:
+
+[[Page 3188]]
+
+       (A) Compensation and pension benefits.
+       (B) Insurance benefits.
+       (C) Burial and memorial benefits.
+       (D) Education benefits.
+       (E) Vocational rehabilitation and employment benefits.
+       (F) Readjustment counseling benefits.
+       (G) Loan guarantee benefits.
+       (H) Such other benefits as the Secretary considers 
+     appropriate.
+       (d) Location of Meetings.--Each meeting of the advisory 
+     committee shall take place at a location that is property of 
+     the Department and shall, to the maximum extent practicable, 
+     use teleconference technology.
+       (e) Consultation.--The Secretary shall consult with and 
+     seek the advice of the advisory committee not less frequently 
+     than quarterly on matters relating to the duties of the 
+     advisory committee under subsection (c).
+       (f) Reports.--
+       (1) In general.--Not less frequently than once every 90 
+     days for the first year and semiannually thereafter, the 
+     advisory committee shall submit to Congress and to the 
+     Secretary a report on outreach activities of the Department.
+       (2) Recommendations.--Each report submitted under paragraph 
+     (1) shall include such recommendations for legislative and 
+     administrative action as the advisory committee considers 
+     appropriate to improve the press and public relations of the 
+     Department relating to outreach.
+       (g) Termination.--The advisory committee shall terminate on 
+     October 1, 2015, and the requirements and authorities under 
+     this section shall terminate on such date.
+       (h) Outreach Defined.--In this section, the term 
+     ``outreach'' has the meaning given the term in section 6301 
+     of title 38, United States Code.
+
+     SEC. 704. ADVISORY BOARDS ON OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS RELATING TO 
+                   HEALTH CARE.
+
+       (a) Establishment.--
+       (1) In general.--For each entity described in paragraph 
+     (2), the Secretary of Veterans Affairs shall, acting through 
+     the director of that entity, establish not later than 180 
+     days after the effective date specified in subsection (h) an 
+     advisory board at that entity on matters relating to outreach 
+     activities of the Department of Veterans Affairs at that 
+     entity.
+       (2) Entity described.--An entity described in this 
+     paragraph is--
+       (A) a healthcare system of the Department; or
+       (B) a Veterans Integrated System Network, if such Veterans 
+     Integrated System Network does not contain a healthcare 
+     system.
+       (b) Membership.--
+       (1) In general.--Each advisory board established under 
+     subsection (a)(1) shall be, to the maximum extent 
+     practicable, composed of individuals selected by the 
+     Secretary from among the following:
+       (A) Individuals who are eminent in their respective fields 
+     of public relations.
+       (B) Representatives of organizations with offices that 
+     focus on communications and distribute messages through major 
+     media news outlets and social media.
+       (C) Individuals with experience communicating financial 
+     results and business strategy for purposes of shaping a 
+     confident brand image.
+       (D) Individuals with experience with consumer and lifestyle 
+     imaging and creating publicity for a particular product or 
+     service.
+       (E) Employees of the Department who are involved in press 
+     and public relations strategy for an entity described in 
+     subsection (a)(2).
+       (F) To the maximum extent practicable, veterans who have 
+     experience in press and public relations.
+       (2) Voluntary participation.--The participation of an 
+     individual selected under paragraph (1) shall be at the 
+     election of the individual.
+       (c) Duties.--Each advisory board established under 
+     subsection (a)(1) at an entity described in subsection (a)(2) 
+     shall advise the Assistant Secretary for Public and 
+     Intergovernmental Affairs--
+       (1) to ensure that the Department of Veterans Affairs is 
+     strategically and effectively--
+       (A) engaging the public and Department stakeholders to 
+     increase awareness nationally regarding benefits and services 
+     furnished by the Department;
+       (B) explaining new or changing policies of the Department;
+       (C) improving the image and reputation of the Department;
+       (D) coordinating and collaborating with national community-
+     based organizations, nonprofits, and State and local 
+     government agencies; and
+       (E) coordinating and collaborating on efforts within the 
+     Department for the development, implementation, and review of 
+     local outreach with respect to benefits that include--
+       (i) compensation and pension benefits;
+       (ii) insurance benefits;
+       (iii) burial and memorial benefits;
+       (iv) education benefits;
+       (v) vocational rehabilitation and employment benefits;
+       (vi) readjustment counseling benefits;
+       (vii) loan guarantee benefits; and
+       (viii) such other benefits as the Secretary considers 
+     appropriate; and
+       (2) to assist the director of that entity in conducting 
+     such other press or public relations activities relating to 
+     outreach activities of the Department as that advisory board 
+     considers appropriate.
+       (d) Meeting Location.--
+       (1) In general.--If teleconference technology is not used, 
+     meetings of each advisory board established under subsection 
+     (a)(1) shall be held at a location that is property of the 
+     Department.
+       (2) Teleconference technology.--Each advisory board shall 
+     use, to the maximum extent practicable, teleconference 
+     technology.
+       (e) Consultation.--Each director of an entity described in 
+     subsection (a)(2) shall consult with and seek the advice of 
+     the advisory board established at such entity not less 
+     frequently than once every two months on matters relating to 
+     the duties of the advisory board under subsection (c).
+       (f) Annual Reports.--Not less frequently than each year, 
+     each advisory board established under subsection (a)(1) shall 
+     submit to the Secretary a report with such information as may 
+     be beneficial to the Secretary in preparing the reports 
+     required by section 6308 of title 38, United States Code.
+       (g) Termination.--Each advisory board established under 
+     subsection (a)(1) and the authorities and requirements of 
+     this section shall terminate three years after the effective 
+     date specified in subsection (h).
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 705. MODIFICATION OF REQUIREMENT FOR PERIODIC REPORTS TO 
+                   CONGRESS ON OUTREACH ACTIVITIES OF DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) In General.--Section 6308 is amended--
+       (1) in subsection (a), by striking ``even-numbered''; and
+       (2) in subsection (b)--
+       (A) in paragraph (1), by striking ``biennial'';
+       (B) in paragraph (2), by inserting ``for legislative and 
+     administrative action'' after ``Recommendations''; and
+       (C) by adding at the end the following new paragraph:
+       ``(3) Recommendations that such administrative actions as 
+     may be taken--
+       ``(A) to maximize resources for outreach activities of the 
+     Department; and
+       ``(B) to focus outreach efforts on activities that are 
+     proven to be more effective.''.
+       (b) Clerical Amendments.--
+       (1) Section heading.--The heading for section 6308 is 
+     amended by striking ``Biennial'' and inserting ``Annual''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 63 is amended by striking the item 
+     relating to section 6308 and inserting the following new 
+     item:
+
+``6308. Annual report to Congress.''.
+
+     SEC. 706. BUDGET TRANSPARENCY FOR OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Chapter 63 is amended by inserting after 
+     section 6308 the following new section:
+
+     ``Sec. 6309. Budget transparency
+
+       ``(a) Budget Requirements.--In the budget justification 
+     materials submitted to Congress in support of the Department 
+     budget for a fiscal year (as submitted with the budget of the 
+     President under section 1105(a) of title 31), the Secretary 
+     shall include a separate statement of the amount requested 
+     for such fiscal year for activities of the Office of Public 
+     and Intergovernmental Affairs as follows:
+       ``(1) For outreach activities of the Department in 
+     aggregate.
+       ``(2) For outreach activities of each element of the 
+     Department specified in subsection (b)(1).
+       ``(b) Procedures for Effective Coordination and 
+     Collaboration.--(1) Not later than 180 days after the date of 
+     the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     the Secretary shall establish and maintain procedures for the 
+     Office of Public and Intergovernmental Affairs to ensure the 
+     effective coordination and collaboration of outreach 
+     activities of the Department between and among the following:
+       ``(A) Office of the Secretary.
+       ``(B) Veterans Health Administration.
+       ``(C) Veterans Benefits Administration.
+       ``(D) National Cemetery Administration.
+       ``(2) The Secretary shall--
+       ``(A) beginning after the date on which the Secretary 
+     establishes procedures under paragraph (1), not less 
+     frequently than once every two years conduct a review of the 
+     procedures established and maintained under paragraph (1) to 
+     ensure that such procedures meet the requirements of such 
+     paragraph;
+       ``(B) make such modifications to such procedures as the 
+     Secretary considers appropriate based upon reviews conducted 
+     under subparagraph (A) in order to better meet such 
+     requirements; and
+       ``(C) not later than 45 days after completing a review 
+     under subparagraph (A), submit to Congress a report on the 
+     findings of such review.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 63 is amended by inserting after the 
+     item relating to section 6308 the following new item:
+
+
+[[Page 3189]]
+
+
+``6309. Budget transparency.''.
+
+TITLE VIII--ENHANCEMENT OF RIGHTS UNDER SERVICEMEMBERS CIVIL RELIEF ACT
+
+     SEC. 801. MODIFICATION OF PERIOD DETERMINING WHICH ACTIONS 
+                   ARE COVERED UNDER STAY OF PROCEEDINGS AND 
+                   ADJUSTMENT OF OBLIGATION PROTECTIONS CONCERNING 
+                   MORTGAGES AND TRUST DEEDS OF MEMBERS OF 
+                   UNIFORMED SERVICES.
+
+       (a) In General.--Section 303(b) of the Servicemembers Civil 
+     Relief Act (50 U.S.C. App. 533(b)) is amended by striking 
+     ``filed'' and inserting ``pending''.
+       (b) Conforming Amendments.--Section 710(d) of the Honoring 
+     America's Veterans and Caring for Camp Lejeune Families Act 
+     of 2012 (Public Law 112-154; 126 Stat. 1208) is amended--
+       (1) by striking paragraph (1) and inserting the following 
+     new paragraph (1):
+       ``(1) Sunset and revival.--
+       ``(A) In general.--Subsections (b) and (c) of section 303 
+     of the Servicemembers Civil Relief Act (50 U.S.C. App. 533), 
+     as amended by subsections (a) and (b) of this section, are 
+     amended by striking `within one year' each place it appears 
+     and inserting `within 90 days'.
+       ``(B) Effective date.--The amendments made by subparagraph 
+     (A) shall take effect on January 1, 2015.''; and
+       (2) by striking paragraph (3).
+
+     SEC. 802. PROTECTIONS FOR MEMBERS OF UNIFORMED SERVICES 
+                   REGARDING PROFESSIONAL LICENSES.
+
+       (a) In General.--Title VII of the Servicemembers Civil 
+     Relief Act (50 U.S.C. App. 701 et seq.) is amended by adding 
+     at the end the following new section:
+
+     ``SEC. 707. PROFESSIONAL LICENSES.
+
+       ``(a) Expiration During Period in Which Servicemembers Are 
+     Eligible for Hostile Fire or Imminent Danger Special Pay.--If 
+     a license issued by a State or local licensing authority to a 
+     servicemember would otherwise expire during a period in which 
+     such servicemember is eligible for hostile fire or imminent 
+     danger special pay under section 310 of title 37, United 
+     States Code, such State or local licensing authority shall 
+     delay the expiration of such license until not earlier than 
+     the date that is 180 days after the date on which such period 
+     of eligibility ends.
+       ``(b) Continuing Education Requirements During Period in 
+     Which Servicemembers Are Eligible for Hostile Fire or 
+     Imminent Danger Special Pay.--If a State or local licensing 
+     authority otherwise requires a servicemember to meet any 
+     continuing education requirements to maintain a license for a 
+     trade or profession during a period in which such 
+     servicemember is eligible for hostile fire or imminent danger 
+     special pay under section 310 of title 37, United States 
+     Code, such State or local licensing authority shall delay 
+     such continuing education requirement until not earlier than 
+     the date that is 180 days after the date on which such period 
+     of eligibility ends.''.
+       (b) Clerical Amendment.--The table of contents in section 
+     1(b) of such Act (50 U.S.C. App. 501(b)) is amended by 
+     inserting after the item relating to section 706 the 
+     following new item:
+
+``Sec. 707. Professional licenses and certifications.''.
+
+     SEC. 803. PROHIBITION ON DENIAL OF CREDIT BECAUSE OF 
+                   ELIGIBILITY FOR PROTECTION.
+
+       Section 108 of the Servicemembers Civil Relief Act (50 
+     U.S.C. App. 518) is amended--
+       (1) by striking ``Application by'' and inserting the 
+     following:
+       ``(a) Application or Receipt.--Application by''; and
+       (2) by adding at the end the following new subsection:
+       ``(b) Eligibility.--
+       ``(1) In general.--In addition to the protections under 
+     subsection (a), an individual who is entitled to any right or 
+     protection provided under this Act may not be denied or 
+     refused credit or be subject to any other action described 
+     under paragraphs (1) through (6) of subsection (a) solely by 
+     reason of such entitlement.
+       ``(2) Construction.--Nothing in this subsection shall be 
+     construed to prohibit a lender from considering all relevant 
+     factors, other than the entitlement of an individual to a 
+     right or protection provided under this Act, in making a 
+     determination as to whether it is appropriate to extend 
+     credit.''.
+
+     SEC. 804. INTEREST RATE LIMITATION ON DEBT ENTERED INTO 
+                   DURING MILITARY SERVICE TO CONSOLIDATE OR 
+                   REFINANCE STUDENT LOANS INCURRED BEFORE 
+                   MILITARY SERVICE.
+
+       (a) In General.--Subsection (a) of section 207 of the 
+     Servicemembers Civil Relief Act (50 U.S.C. App. 527) is 
+     amended--
+       (1) in paragraph (1), by inserting ``on debt incurred 
+     before service'' after ``Limitation to 6 percent'';
+       (2) by redesignating paragraphs (2) and (3) as paragraphs 
+     (3) and (4), respectively;
+       (3) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2) Limitation to 6 percent on debt incurred during 
+     service to consolidate or refinance student loans incurred 
+     before service.--An obligation or liability bearing interest 
+     at a rate in excess of 6 percent per year that is incurred by 
+     a servicemember, or the servicemember and the servicemember's 
+     spouse jointly, during military service to consolidate or 
+     refinance one or more student loans incurred by the 
+     servicemember before such military service shall not bear an 
+     interest at a rate in excess of 6 percent during the period 
+     of military service.'';
+       (4) in paragraph (3), as redesignated by paragraph (2) of 
+     this subsection, by inserting ``or (2)'' after ``paragraph 
+     (1)''; and
+       (5) in paragraph (4), as so redesignated, by striking 
+     ``paragraph (2)'' and inserting ``paragraph (3)''.
+       (b) Implementation of Limitation.--Subsection (b) of such 
+     section is amended--
+       (1) in paragraph (1), by striking ``the interest rate 
+     limitation in subsection (a)'' and inserting ``an interest 
+     rate limitation in paragraph (1) or (2) of subsection (a)''; 
+     and
+       (2) in paragraph (2)--
+       (A) in the paragraph heading, by striking ``as of date of 
+     order to active duty''; and
+       (B) by inserting before the period at the end the 
+     following: ``in the case of an obligation or liability 
+     covered by subsection (a)(1), or as of the date the 
+     servicemember (or servicemember and spouse jointly) incurs 
+     the obligation or liability concerned under subsection 
+     (a)(2)''.
+       (c) Student Loan Defined.--Subsection (d) of such section 
+     is amended by adding at the end the following new paragraph:
+       ``(3) Student loan.--The term `student loan' means the 
+     following:
+       ``(A) A Federal student loan made, insured, or guaranteed 
+     under title IV of the Higher Education Act of 1965 (20 U.S.C. 
+     1070 et seq.).
+       ``(B) A private student loan as that term is defined in 
+     section 140(a) of the Truth in Lending Act (15 U.S.C. 
+     1650(a)).''.
+
+     SEC. 805. TERMINATION OF RESIDENTIAL LEASES AFTER ASSIGNMENT 
+                   OR RELOCATION TO QUARTERS OF UNITED STATES OR 
+                   HOUSING FACILITY UNDER JURISDICTION OF 
+                   UNIFORMED SERVICE.
+
+       (a) Termination of Residential Leases.--
+       (1) In general.--Section 305 of the Servicemembers Civil 
+     Relief Act (50 U.S.C. App. 535) is amended--
+       (A) in subsection (a)(1)--
+       (i) in subparagraph (A), by striking ``or'' at the end;
+       (ii) in subparagraph (B), by striking the period at the end 
+     and inserting ``; or''; and
+       (iii) by adding at the end the following new subparagraph:
+       ``(C) in the case of a lease described in subsection (b)(1) 
+     and subparagraph (C) of such subsection, the date the lessee 
+     is assigned to or otherwise relocates to quarters or a 
+     housing facility as described in such subparagraph.''; and
+       (B) in subsection (b)(1)--
+       (i) in subparagraph (A), by striking ``or'' at the end;
+       (ii) in subparagraph (B), by striking the period at the end 
+     and inserting ``; or''; and
+       (iii) by adding at the end the following new subparagraph:
+       ``(C) the lease is executed by or on behalf of a person who 
+     thereafter and during the term of the lease is assigned to or 
+     otherwise relocates to quarters of the United States or a 
+     housing facility under the jurisdiction of a uniformed 
+     service (as defined in section 101 of title 37, United States 
+     Code), including housing provided under the Military Housing 
+     Privatization Initiative.''.
+       (2) Manner of termination.--Subsection (c)(1) of such 
+     section is amended--
+       (A) in subparagraph (A)--
+       (i) by inserting ``in the case of a lease described in 
+     subsection (b)(1) and subparagraph (A) or (B) of such 
+     subsection,'' before ``by delivery''; and
+       (ii) by striking ``and'' at the end;
+       (B) by redesignating subparagraph (B) as subparagraph (C); 
+     and
+       (C) by inserting after subparagraph (A) the following new 
+     subparagraph (B):
+       ``(B) in the case of a lease described in subsection (b)(1) 
+     and subparagraph (C) of such subsection, by delivery by the 
+     lessee of written notice of such termination, and a letter 
+     from the servicemember's commanding officer indicating that 
+     the servicemember has been assigned to or is otherwise 
+     relocating to quarters of the United States or a housing 
+     facility under the jurisdiction of a uniformed service (as 
+     defined in section 101 of title 37, United States Code), to 
+     the lessor (or the lessor's grantee), or to the lessor's 
+     agent (or the agent's grantee); and''.
+       (b) Definition of Military Orders and Continental United 
+     States for Purposes of Act.--
+       (1) Transfer of definitions.--Such Act is further amended 
+     by transferring paragraphs (1) and (2) of section 305(i) (50 
+     U.S.C. App. 535(i)) to the end of section 101 (50 U.S.C. App. 
+     511) and redesignating such paragraphs, as so transferred, as 
+     paragraphs (10) and (11).
+       (2) Conforming amendments.--Such Act is further amended--
+       (A) in section 305 (50 U.S.C. App. 535), as amended by 
+     paragraph (1), by striking subsection (i); and
+       (B) in section 705 (50 U.S.C. App. 595), by striking ``or 
+     naval'' both places it appears.
+
+     SEC. 806. PROTECTION OF SURVIVING SPOUSE WITH RESPECT TO 
+                   MORTGAGE FORECLOSURE.
+
+       (a) In General.--Title III of the Servicemembers Civil 
+     Relief Act (50 U.S.C.
+
+[[Page 3190]]
+
+     App. 531 et seq.) is amended by inserting after section 303 
+     (50 U.S.C. App. 533) the following new section:
+
+     ``SEC. 303A. PROTECTION OF SURVIVING SPOUSE WITH RESPECT TO 
+                   MORTGAGE FORECLOSURE.
+
+       ``(a) In General.--Subject to subsection (b), with respect 
+     to a servicemember who dies while in military service and who 
+     has a surviving spouse who is the servicemember's successor 
+     in interest to property covered under section 303(a), section 
+     303 shall apply to the surviving spouse with respect to that 
+     property during the one-year period beginning on the date of 
+     such death in the same manner as if the servicemember had not 
+     died.
+       ``(b) Notice Required.--
+       ``(1) In general.--To be covered under this section with 
+     respect to property, a surviving spouse shall submit written 
+     notice that such surviving spouse is so covered to the 
+     mortgagee, trustee, or other creditor of the mortgage, trust 
+     deed, or other security in the nature of a mortgage with 
+     which the property is secured.
+       ``(2) Time.--Notice provided under paragraph (1) shall be 
+     provided with respect to a surviving spouse anytime during 
+     the one-year period beginning on the date of death of the 
+     servicemember with respect to whom the surviving spouse is to 
+     receive coverage under this section.
+       ``(3) Address.--Notice provided under paragraph (1) with 
+     respect to property shall be provided via e-mail, facsimile, 
+     standard post, or express mail to facsimile numbers and 
+     addresses, as the case may be, designated by the servicer of 
+     the mortgage, trust deed, or other security in the nature of 
+     a mortgage with which the property is secured.
+       ``(4) Manner.--Notice provided under paragraph (1) shall be 
+     provided in writing by using a form designed under paragraph 
+     (5) or submitting a copy of a Department of Defense or 
+     Department of Veterans Affairs document evidencing the 
+     military service-related death of a spouse while in military 
+     service.
+       ``(5) Official forms.--The Secretary of Defense shall 
+     design and distribute an official Department of Defense form 
+     that can be used by an individual to give notice under 
+     paragraph (1).''.
+       (b) Effective Date.--Section 303A of such Act, as added by 
+     subsection (a), shall apply with respect to deaths that occur 
+     on or after the date of the enactment of this Act.
+       (c) Clerical Amendment.--The table of contents in section 
+     1(b) of such Act (50 U.S.C. App. 501) is amended by inserting 
+     after the item relating to section 303 the following new 
+     item:
+
+``Sec. 303A. Protection of surviving spouse with respect to mortgage 
+              foreclosure.''.
+
+     SEC. 807. IMPROVED PROTECTION OF MEMBERS OF UNIFORMED 
+                   SERVICES AGAINST DEFAULT JUDGMENTS.
+
+       (a) Modification of Plaintiff Affidavit Filing 
+     Requirement.--Paragraph (1) of section 201(b) of the 
+     Servicemembers Civil Relief Act (50 U.S.C. App. 521(b)) is 
+     amended--
+       (1) by redesignating subparagraphs (A) and (B) as clauses 
+     (i) and (ii), respectively, and indenting such clauses two 
+     ems to the right;
+       (2) in the matter before clause (i), as redesignated by 
+     paragraph (1), by striking ``In any'' and inserting the 
+     following:
+       ``(A) In general.--In any''; and
+       (3) by adding at the end the following new subparagraph 
+     (B):
+       ``(B) Due diligence.--Before filing the affidavit, the 
+     plaintiff shall conduct a diligent and reasonable 
+     investigation to determine whether or not the defendant is in 
+     military service, including a search of available records of 
+     the Department of Defense and any other information 
+     reasonably available to the plaintiff. The affidavit shall 
+     set forth all steps taken to determine the defendant's 
+     military status and shall have attached copies of the records 
+     on which the plaintiff relied in drafting the affidavit.''.
+       (b) Appointment of Attorney to Represent Defendant in 
+     Military Service.--Paragraph (2) of such section (50 U.S.C. 
+     App. 521(b)) is amended--
+       (1) by striking ``If in an action'' and inserting the 
+     following:
+       ``(A) In general.--If in an action'';
+       (2) in subparagraph (A), as designated by paragraph (1), by 
+     striking ``If an attorney'' and inserting the following:
+       ``(C) Limitations on appointed attorney.--If an attorney'';
+       (3) by inserting after subparagraph (A), as designated by 
+     paragraph (1), the following new subparagraph:
+       ``(B) Due diligence.--If the court appoints an attorney to 
+     represent the defendant--
+       ``(i) the attorney shall conduct a diligent and reasonable 
+     investigation to determine whether or not the defendant is in 
+     military service, including a search of available records of 
+     the Department of Defense and any other information 
+     reasonably available to the attorney; and
+       ``(ii) the plaintiff shall submit to the attorney such 
+     information as the plaintiff may have concerning the 
+     whereabouts or identity of the defendant.''; and
+       (4) by adding at the end the following new subparagraph:
+       ``(D) Treatment of attorneys fees.--The reasonable fees of 
+     an attorney appointed to represent a servicemember shall be 
+     treated as costs of court for court cost purposes, unless the 
+     creditor seeks relief from such charges from the court.''.
+
+     SEC. 808. CLARIFICATION REGARDING APPLICATION OF ENFORCEMENT 
+                   AUTHORITY OF ATTORNEY GENERAL AND PRIVATE RIGHT 
+                   OF ACTION UNDER SERVICEMEMBERS CIVIL RELIEF 
+                   ACT.
+
+       Sections 801 and 802 of the Servicemembers Civil Relief Act 
+     (50 U.S.C. App. 597 and 597a) shall apply as if such sections 
+     were included in the enactment of the Soldiers' and Sailors' 
+     Civil Relief Act of 1940 (54 Stat. 1178, chapter 888) and 
+     included in the restatement of such Act in Public Law 108-
+     189.
+
+     SEC. 809. CLERICAL AMENDMENTS.
+
+       (a) In General.--The heading for section 305 of the 
+     Servicemembers Civil Relief Act (50 U.S.C. App. 535) is 
+     amended by striking ``residential or motor vehicle leases'' 
+     and inserting ``leases of premises occupied and motor 
+     vehicles used''.
+       (b) Table of Contents.--The table of contents in section 
+     1(b) of such Act (50 U.S.C. App. 501(b)) is amended by 
+     striking the item relating to section 305 and inserting the 
+     following new item:
+
+``Sec. 305. Termination of leases of premises occupied and motor 
+              vehicles used.''.
+
+                        TITLE IX--OTHER MATTERS
+
+     SEC. 901. REPEAL OF CERTAIN REDUCTIONS MADE BY BIPARTISAN 
+                   BUDGET ACT OF 2013.
+
+       (a) Adjustment of Retirement Pay.--Section 403 of the 
+     Bipartisan Budget Act of 2013 (Public Law 113-76) is repealed 
+     as of the date of the enactment of such Act.
+       (b) Conforming Amendments.--
+       (1) Applicability to disability and survivor benefits.--
+     Title X of the Department of Defense Appropriations Act, 2014 
+     (division C of Public Law 113-76) is repealed.
+       (2) Applicability to members of the armed forces who joined 
+     after january 1, 2014.--Section 2 of Public Law 113-82 is 
+     repealed.
+
+     SEC. 902. CONSIDERATION BY SECRETARY OF VETERANS AFFAIRS OF 
+                   RESOURCES DISPOSED OF FOR LESS THAN FAIR MARKET 
+                   VALUE BY INDIVIDUALS APPLYING FOR PENSION.
+
+       (a) Veterans.--Section 1522 is amended--
+       (1) in subsection (a)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a veteran otherwise eligible for payment of 
+     pension under section 1513 or 1521 of this title or the 
+     spouse of such veteran disposes of covered resources for less 
+     than fair market value on or after the look-back date 
+     described in subparagraph (C)(i), the Secretary shall deny or 
+     discontinue the payment of pension to such veteran under 
+     section 1513 or 1521 of this title, as the case may be, for 
+     months during the period beginning on the date described in 
+     subparagraph (D) and equal to the number of months calculated 
+     as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the veteran or, if the veteran has a spouse, the corpus of 
+     the estates of the veteran and of the veteran's spouse, that 
+     the Secretary considers that under all the circumstances, if 
+     the veteran or spouse had not disposed of such resource, it 
+     would be reasonable that the resource (or some portion of the 
+     resource) be consumed for the veteran's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the veteran or, if the veteran has a 
+     spouse, the corpus of the estates of the veteran and of the 
+     veteran's spouse, that the Secretary considers, under all the 
+     circumstances, would be reasonable to be consumed for the 
+     veteran's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the veteran applies for pension under section 1513 or 
+     1521 of this title or, if later, the date on which the 
+     veteran (or the spouse of the veteran) disposes of covered 
+     resources for less than fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of covered resources so disposed of by the veteran 
+     (or the spouse of the veteran) on or after the look-back date 
+     described in subparagraph (C)(i) that the Secretary 
+     determines would reasonably have been consumed for the 
+     veteran's maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a veteran under
+
+[[Page 3191]]
+
+     section 1513 or 1521 of this title, including the maximum 
+     amount of increased pension payable under such sections on 
+     account of family members, but not including any amount of 
+     pension payable under such sections because a veteran is in 
+     need of regular aid and attendance or is permanently 
+     housebound,
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (2) in subsection (b)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a veteran otherwise eligible for payment of 
+     increased pension under subsection (c), (d), (e), or (f) of 
+     section 1521 of this title on account of a child, the spouse 
+     of the veteran, or the child disposes of covered resources 
+     for less than fair market value on or after the look-back 
+     date described in subparagraph (C)(i), the Secretary shall 
+     deny or discontinue payment of such increased pension for 
+     months during the period beginning on the date described in 
+     subparagraph (D) and equal to the number of months calculated 
+     as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the child that the Secretary considers that under all the 
+     circumstances, if the veteran, the spouse of the veteran, or 
+     the child had not disposed of such resource, it would be 
+     reasonable that the resource (or some portion of the 
+     resource) be consumed for the child's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the child that the Secretary 
+     considers, under all the circumstances, would be reasonable 
+     to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the veteran applies for payment of increased pension 
+     under subsection (c), (d), (e), or (f) of section 1521 of 
+     this title on account of a child or, if later, the date on 
+     which the veteran, the spouse of the veteran, or the child 
+     disposes of covered resources for less than fair market 
+     value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     veteran, the spouse of the veteran, or the child on or after 
+     the look-back date described in subparagraph (C)(i) that the 
+     Secretary determines would reasonably have been consumed for 
+     the child's maintenance; divided by
+       ``(ii) the maximum amount of increased monthly pension that 
+     is payable to a veteran under subsection (c), (d), (e), or 
+     (f) of section 1521 of this title on account of a child,
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.''; 
+     and
+       (3) by adding at the end the following new subsection:
+       ``(c)(1)(A) The Secretary shall not deny or discontinue 
+     payment of pension under section 1513 or 1521 of this title 
+     or payment of increased pension under subsection (c), (d), 
+     (e), or (f) of section 1521 of this title on account of a 
+     child by reason of the application of subsection (a)(2) or 
+     (b)(2) of this section to the disposal of resources by an 
+     individual--
+       ``(i) if--
+       ``(I) a satisfactory showing is made to the Secretary (in 
+     accordance with regulations promulgated by the Secretary) 
+     that all resources disposed of for less than fair market 
+     value have been returned to the individual who disposed of 
+     the resources; or
+       ``(II) the Secretary determines, under procedures 
+     established by the Secretary in accordance with subparagraph 
+     (B), that the denial or discontinuance of payment would work 
+     an undue hardship; or
+       ``(ii) to the extent that any portion of the resources 
+     disposed of for less than fair market value have been 
+     returned to the individual who disposed of the resources.
+       ``(B) Undue hardship would be worked by the denial or 
+     discontinuance of payment for purposes of subparagraph 
+     (A)(i)(II) if the denial or discontinuance of payment would 
+     deprive the individual during the period of denial or 
+     discontinuance--
+       ``(i) of medical care such that the individual's life or 
+     health would be endangered;
+       ``(ii) of necessary food or clothing, or other necessities 
+     of life; or
+       ``(iii) on such other basis as the Secretary shall specify 
+     in the procedures required by subparagraph (A)(i)(II).
+       ``(C) If payment of pension or increased pension that would 
+     otherwise be denied or discontinued by reason of the 
+     application of subsection (a)(2) or (b)(2) is denied or 
+     discontinued only in part by reason of the return of 
+     resources as described in subparagraph (A)(ii), the period of 
+     the denial or discontinuance as determined pursuant to 
+     subparagraph (E) of subsection (a)(2) or (b)(2), as 
+     applicable, shall be recalculated to take into account such 
+     return of resources.
+       ``(2) At the time a veteran applies for pension under 
+     section 1513 or 1521 of this title or increased pension under 
+     subsection (c), (d), (e), or (f) of section 1521 of this 
+     title on account of a child, and at such other times as the 
+     Secretary considers appropriate, the Secretary shall--
+       ``(A) inform such veteran of the provisions of subsections 
+     (a)(2) and (b)(2) providing for a period of ineligibility for 
+     payment of pension under such sections for individuals who 
+     make certain dispositions of resources for less than fair 
+     market value, including the exception for hardship from such 
+     period of ineligibility;
+       ``(B) obtain from such veteran information which may be 
+     used in determining whether or not a period of ineligibility 
+     for such payments would be required by reason of such 
+     subsections; and
+       ``(C) provide such veteran a timely process for determining 
+     whether or not the exception for hardship shall apply to such 
+     veteran.''.
+       (b) Surviving Spouses and Children.--Section 1543 is 
+     amended--
+       (1) in subsection (a)--
+       (A) by redesignating paragraph (2) as paragraph (3);
+       (B) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2)(A) If a surviving spouse otherwise eligible for 
+     payment of pension under section 1541 of this title disposes 
+     of covered resources for less than fair market value on or 
+     after the look-back date described in subparagraph (C)(i), 
+     the Secretary shall deny or discontinue the payment of 
+     pension to such surviving spouse under section 1541 of this 
+     title for months during the period beginning on the date 
+     described in subparagraph (D) and equal to the number of 
+     months calculated as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the surviving spouse that the Secretary considers that 
+     under all the circumstances, if the surviving spouse had not 
+     disposed of such resource, it would be reasonable that the 
+     resource (or some portion of the resource) be consumed for 
+     the surviving spouse's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the surviving spouse that the 
+     Secretary considers, under all the circumstances, would be 
+     reasonable to be consumed for the surviving spouse's 
+     maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the surviving spouse applies for pension under section 
+     1541 of this title or, if later, the date on which the 
+     surviving spouse disposes of covered resources for less than 
+     fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     surviving spouse on or after the look-back date described in 
+     subparagraph (C)(i) that the Secretary determines would 
+     reasonably have been consumed for the surviving spouse's 
+     maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a surviving spouse under section 1541 of this 
+     title, including the maximum amount of increased pension 
+     payable under such section on account of a child, but not 
+     including any amount of pension payable under such section 
+     because a surviving spouse is in need of regular aid and 
+     attendance or is permanently housebound,
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (C) by adding at the end the following new paragraph:
+       ``(4)(A) If a surviving spouse otherwise eligible for 
+     payment of increased pension under subsection (c), (d), or 
+     (e) of section 1541 of this title on account of a child or 
+     the child disposes of covered resources for less than fair 
+     market value on or after the look-back date described in 
+     subparagraph (C)(i), the Secretary shall deny or discontinue 
+     payment of such increased pension for months during the 
+     period beginning on the date described in subparagraph (D) 
+     and equal to the number of months calculated as provided in 
+     subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a
+
+[[Page 3192]]
+
+     part of the corpus of the estate of the child that the 
+     Secretary considers that under all the circumstances, if the 
+     surviving spouse or the child had not disposed of such 
+     resource, it would be reasonable that the resource (or some 
+     portion of the resource) be consumed for the child's 
+     maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the child that the Secretary 
+     considers, under all the circumstances, would be reasonable 
+     to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the surviving spouse applies for payment of increased 
+     pension under subsection (c), (d), or (e) of section 1541 of 
+     this title on account of a child or, if later, the date on 
+     which the surviving spouse (or the child) disposes of covered 
+     resources for less than fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this clause 
+     shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     surviving spouse (or the child) on or after the look-back 
+     date described in subparagraph (C)(i) that the Secretary 
+     determines would reasonably have been consumed for the 
+     child's maintenance; divided by
+       ``(ii) the maximum amount of increased monthly pension that 
+     is payable to a surviving spouse under subsection (c), (d), 
+     or (e) of section 1541 of this title on account of a child,
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (2) in subsection (b)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a child otherwise eligible for payment of 
+     pension under section 1542 of this title or any person with 
+     whom such child is residing who is legally responsible for 
+     such child's support disposes of covered resources for less 
+     than fair market value on or after the look-back date 
+     described in subparagraph (C)(i), the Secretary shall deny or 
+     discontinue the payment of pension to such child under 
+     section 1542 of this title for months during the period 
+     beginning on the date described in subparagraph (D) and equal 
+     to the number of months calculated as provided in 
+     subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the child or the corpus of the estate of any person with 
+     whom such child is residing who is legally responsible for 
+     such child's support that the Secretary considers that under 
+     all the circumstances, if the child or person had not 
+     disposed of such resource, it would be reasonable that the 
+     resource (or some portion of the resource) be consumed for 
+     the child's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate described in clause (i) that the 
+     Secretary considers, under all the circumstances, would be 
+     reasonable to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the child applies for pension under section 1542 of 
+     this title or, if later, the date on which the child (or 
+     person described in subparagraph (B)) disposes of covered 
+     resources for less than fair market value.
+       ``(D) The date described in this clause is the first day of 
+     the first month in or after which covered resources were 
+     disposed of for less than fair market value and which does 
+     not occur in any other period of ineligibility under this 
+     paragraph.
+       ``(E) The number of months calculated under this clause 
+     shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the child 
+     (or person described in subparagraph (B)) on or after the 
+     look-back date described in subparagraph (C)(i) that the 
+     Secretary determines would reasonably have been consumed for 
+     the child's maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a child under section 1542 of this title,
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.''; 
+     and
+       (3) by adding at the end the following new subsection:
+       ``(c)(1)(A) The Secretary shall not deny or discontinue 
+     payment of pension under section 1541 or 1542 of this title 
+     or payment of increased pension under subsection (c), (d), or 
+     (e) of section 1541 of this title on account of a child by 
+     reason of the application of subsection (a)(2), (a)(4), or 
+     (b)(2) of this section to the disposal of resources by an 
+     individual--
+       ``(i) if--
+       ``(I) a satisfactory showing is made to the Secretary (in 
+     accordance with regulations promulgated by the Secretary) 
+     that all resources disposed of for less than fair market 
+     value have been returned to the individual who disposed of 
+     the resources; or
+       ``(II) the Secretary determines, under procedures 
+     established by the Secretary in accordance with subparagraph 
+     (B), that the denial or discontinuance of payment would work 
+     an undue hardship; or
+       ``(ii) to the extent that any portion of the resources 
+     disposed of for less than fair market value have been 
+     returned to the individual who disposed of the resources.
+       ``(B) Undue hardship would be worked by the denial or 
+     discontinuance of payment for purposes of subparagraph 
+     (A)(i)(II) if the denial or discontinuance of payment would 
+     deprive the individual during the period of denial or 
+     discontinuance--
+       ``(i) of medical care such that the individual's life or 
+     health would be endangered;
+       ``(ii) of necessary food or clothing, or other necessities 
+     of life; or
+       ``(iii) on such other basis as the Secretary shall specify 
+     in the procedures required by subparagraph (A)(i)(II).
+       ``(C) If payment of pension or increased pension that would 
+     otherwise be denied or discontinued by reason of the 
+     application of subsection (a)(2), (a)(4), or (b)(2) is denied 
+     or discontinued only in part by reason of the return of 
+     resources as described in subparagraph (A)(ii), the period of 
+     the denial or discontinuance as determined pursuant to 
+     subparagraph (E) of subsection (a)(2), (a)(4), or (b)(2), as 
+     applicable, shall be recalculated to take into account such 
+     return of resources.
+       ``(2) At the time a surviving spouse or child applies for 
+     pension under section 1541 or 1542 of this title or increased 
+     pension under subsection (c), (d), or (e) of section 1541 of 
+     this title on account of a child, and at such other times as 
+     the Secretary considers appropriate, the Secretary shall--
+       ``(A) inform such surviving spouse or child of the 
+     provisions of subsections (a)(2), (a)(4), and (b)(2), as 
+     applicable, providing for a period of ineligibility for 
+     payment of pension or increased pension under such sections 
+     for individuals who make certain dispositions of resources 
+     for less than fair market value, including the exception for 
+     hardship from such period of ineligibility;
+       ``(B) obtain from such surviving spouse or child 
+     information which may be used in determining whether or not a 
+     period of ineligibility for such payments would be required 
+     by reason of such subsections; and
+       ``(C) provide such surviving spouse or child a timely 
+     process for determining whether or not the exception for 
+     hardship shall apply to such surviving spouse or child.''.
+       (c) Effective Date.--Subsections (a)(2), (b)(2), and (c) of 
+     section 1522 of title 38, United States Code, as added by 
+     subsection (a), and subsections (a)(2), (a)(4), (b)(2), and 
+     (c) of section 1543 of such title, as added by subsection 
+     (b), shall take effect on the date that is one year after the 
+     date of the enactment of this Act and shall apply with 
+     respect to payments of pension and increased pension applied 
+     for after such date and to payments of pension and increased 
+     pension for which eligibility is redetermined after such 
+     date, except that no reduction in pension shall be made under 
+     such subsections because of any disposal of covered resources 
+     made before such date.
+       (d) Annual Reports.--
+       (1) In general.--Not later than 30 months after the date of 
+     the enactment of this Act and not less frequently than once 
+     each year thereafter through 2018, the Secretary of Veterans 
+     Affairs shall submit to the appropriate committees of 
+     Congress a report on the administration of subsections 
+     (a)(2), (b)(2), and (c) of section 1522 of title 38, United 
+     States Code, as added by subsection (a), and subsections 
+     (a)(2), (a)(4), (b)(2), and (c) of section 1543 of such 
+     title, as added by subsection (b), during the most recent 12-
+     month period.
+       (2) Elements.--Each report submitted under paragraph (1) 
+     shall include the following, for the period covered by the 
+     report:
+       (A) The number of individuals who applied for pension under 
+     chapter 15 of such title.
+       (B) The number of individuals who received pension under 
+     such chapter.
+       (C) The number of individuals with respect to whom the 
+     Secretary denied or discontinued payment of pension under the 
+     subsections referred to in paragraph (1).
+       (D) A description of any trends identified by the Secretary 
+     regarding pension payments that have occurred as a result of 
+     the amendments made by this section.
+       (E) Such other information as the Secretary considers 
+     appropriate.
+
+[[Page 3193]]
+
+       (3) Appropriate committees of congress defined.--In this 
+     subsection, the term ``appropriate committees of Congress'' 
+     means--
+       (A) the Committee on Veterans' Affairs and the Select 
+     Committee on Aging of the Senate; and
+       (B) the Committee on Veterans' Affairs of the House of 
+     Representatives.
+
+     SEC. 903. EXTENSION OF REDUCED PENSION FOR CERTAIN VETERANS 
+                   COVERED BY MEDICAID PLANS FOR SERVICES 
+                   FURNISHED BY NURSING FACILITIES.
+
+       (a) In General.--Subsection (d)(7) of section 5503 is 
+     amended by striking ``November 30, 2016'' and inserting 
+     ``September 30, 2023''.
+       (b) Clerical Amendments.--
+       (1) Section heading.--The section heading of such section 
+     is amended to read as follows: ``Reduced pension for certain 
+     hospitalized veterans and certain veterans receiving 
+     domiciliary, nursing home, or nursing facility care''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 55 is amended by striking the item 
+     relating to section 5503 and inserting the following new 
+     item:
+
+``5503. Reduced pension for certain hospitalized veterans and certain 
+              veterans receiving domiciliary, nursing home, or nursing 
+              facility care.''.
+
+     SEC. 904. CONDITIONS ON AWARD OF PER DIEM PAYMENTS BY 
+                   SECRETARY OF VETERANS AFFAIRS FOR PROVISION OF 
+                   HOUSING OR SERVICES TO HOMELESS VETERANS.
+
+       (a) Condition.--
+       (1) In general.--Section 2012(c)(1) is amended by striking 
+     ``unless the facilities'' and all that follows through ``may 
+     specify.'' and inserting the following: ``unless the 
+     Secretary certifies the following:
+       ``(A) That the building where the grant recipient or 
+     eligible entity provides housing or services for which the 
+     grant recipient or eligible entity would receive such payment 
+     is in compliance with the codes relevant to the operations 
+     and level of care provided, including applicable provisions 
+     of the most recently published version of the Life Safety 
+     Code of the National Fire Protection Association or such 
+     other comparable fire and safety requirements as the 
+     Secretary may specify.
+       ``(B) That such building and such housing or services are 
+     in compliance with licensing requirements, fire and safety 
+     requirements, and any other requirements in the jurisdiction 
+     in which the building is located regarding the condition of 
+     the building and the provision of such housing or 
+     services.''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall apply with respect to an application for a per diem 
+     payment under section 2012 of title 38, United States Code, 
+     submitted on or after the date of the enactment of this Act.
+       (b) Annual Inspections Required.--Section 2012 is amended 
+     by striking subsection (b) and inserting the following new 
+     subsection (b):
+       ``(b)(1) Not less frequently than once each fiscal year, 
+     the Secretary shall inspect each facility of each grant 
+     recipient or entity eligible for payments under subsection 
+     (a) at which the recipients and entities provide services 
+     under section 2011 of this title or this section.
+       ``(2) Except as provided in paragraph (1), inspections made 
+     under such paragraph shall be made at such times as the 
+     Secretary considers necessary.
+       ``(3) An inspection of a facility of a recipient or entity 
+     described in paragraph (1) made under such paragraph may be 
+     made with or without prior notice to the recipient or entity, 
+     as the Secretary considers appropriate.
+       ``(4) No per diem payment may be provided to a grant 
+     recipient or eligible entity under this section unless the 
+     facilities of the grant recipient or eligible entity meet 
+     such standards as the Secretary shall prescribe.''.
+       (c) Revocation of Certification Authorized.--Subsection (c) 
+     of such section is amended--
+       (1) by redesignating paragraphs (2) and (3) as paragraphs 
+     (4) and (5), respectively;
+       (2) in paragraph (1), as amended by subsection (a)(1), by 
+     striking ``in paragraph (2)'' and inserting ``in paragraph 
+     (4)''; and
+       (3) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2) The Secretary may revoke any certification made under 
+     paragraph (1) if the Secretary determines that such 
+     certification is no longer accurate.''.
+       (d) Congressional Notification of Termination of Per Diem 
+     Required.--Such subsection is further amended by inserting 
+     after paragraph (2) the following new paragraph (3):
+       ``(3) Not later than 30 days after the date on which the 
+     Secretary terminates provision of per diem payment under this 
+     section to a grant recipient or an eligible entity, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives notice of such termination if such 
+     termination were made because a facility of the grant 
+     recipient or eligible entity did not comply with--
+       ``(A) an applicable provision of the most recently 
+     published version of the Life Safety Code of the National 
+     Fire Protection Association or such other comparable fire and 
+     safety requirement as the Secretary has specified; or
+       ``(B) a licensing requirement, fire or safety requirement, 
+     or another requirement in the jurisdiction in which the 
+     facility is located regarding the condition of the 
+     facility.''.
+       (e) Treatment of Current Recipients of Per Diem Payments.--
+       (1) Assessment.--In the case of the recipient of a per diem 
+     payment under section 2012 of title 38, United States Code, 
+     that receives such a payment during the year in which this 
+     Act is enacted for the provision of housing or services, the 
+     Secretary of Veterans Affairs shall assess whether the 
+     building where such housing or services are provided is and 
+     whether the housing and services are in compliance as 
+     required by section 2012(c)(1) of such title, as amended by 
+     subsection (a)(1).
+       (2) Failure to comply.--In the case described in paragraph 
+     (1), if the Secretary does not certify the compliance of the 
+     building and the housing or services under such section 
+     before the date that is two years after the date of the 
+     enactment of this Act, the Secretary may not make any 
+     additional per diem payments to the recipient for the 
+     provision of such housing or services under section 2012 of 
+     such title until the Secretary certifies that such building 
+     is and such housing or services are in compliance.
+       (f) Conforming Condition on Award of Grants by Secretary of 
+     Veterans Affairs for Comprehensive Service Programs.--Section 
+     2011(b)(5)(A) is amended by inserting ``, including housing 
+     and building codes,''.
+
+     SEC. 905. EXCEPTION TO CERTAIN RECAPTURE REQUIREMENTS AND 
+                   TREATMENT OF CONTRACTS AND GRANTS WITH STATE 
+                   HOMES WITH RESPECT TO CARE FOR HOMELESS 
+                   VETERANS.
+
+       (a) Exception to Certain Recapture Requirements.--Section 
+     8136(b) is amended by inserting ``, or the provision of 
+     services or conduct of a program pursuant to a contract or 
+     grant issued or awarded by the Secretary under subchapter II 
+     of chapter 20 or section 2031(a)(2) of this title,'' after 
+     ``outpatient clinic''.
+       (b) Construction.--The amendment made by subsection (a) may 
+     not be construed to authorize the Secretary of Veterans 
+     Affairs to enter into a contract with a State home or award a 
+     grant to a State home for the furnishing of residential care 
+     for a veteran without--
+       (1) identifying a substantial need for such care; and
+       (2) determining that the State home is the most appropriate 
+     provider of such care.
+
+     SEC. 906. EXTENDED PERIOD FOR SCHEDULING OF MEDICAL EXAMS FOR 
+                   VETERANS RECEIVING TEMPORARY DISABILITY RATINGS 
+                   FOR SEVERE MENTAL DISORDERS.
+
+       Section 1156(a)(3) is amended by striking ``six months'' 
+     and inserting ``18 months''.
+
+     SEC. 907. AUTHORITY TO ISSUE VETERANS ID CARDS.
+
+       (a) Authority.--
+       (1) In general.--The Secretary of Veterans Affairs may 
+     issue a card to a veteran that identifies the veteran as a 
+     veteran and includes a photo of the veteran and the name of 
+     the veteran.
+       (2) No requirement for enrollment or receipt of benefits.--
+     The Secretary may issue a card under paragraph (1) to a 
+     veteran, whether or not such veteran is--
+       (A) enrolled in the system of annual patient enrollment 
+     established under section 1705(a) of title 38, United States 
+     Code; or
+       (B) in receipt of educational assistance, compensation, or 
+     pension under laws administered by the Secretary.
+       (3) Designation.--A card issued under paragraph (1) may be 
+     known as a ``Veterans ID Card''.
+       (b) Recognition of Veterans ID Cards for Reduced Pricing of 
+     Pharmaceuticals, Consumer Products, and Services.--The 
+     Secretary may work with national retail chains that offer 
+     reduced prices on pharmaceuticals, consumer products, and 
+     services to veterans to ensure that such retail chains 
+     recognize cards issued under subsection (a)(1) for purposes 
+     of offering reduced prices on pharmaceuticals, consumer 
+     products, and services.
+       (c) Veteran Defined.--In this section, the term ``veteran'' 
+     has the meaning given the term in section 101 of title 38, 
+     United States Code.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 908. HONORING AS VETERANS CERTAIN PERSONS WHO PERFORMED 
+                   SERVICE IN THE RESERVE COMPONENTS OF THE ARMED 
+                   FORCES.
+
+       Any person who is entitled under chapter 1223 of title 10, 
+     United States Code, to retired pay for nonregular service or, 
+     but for age, would be entitled under such chapter to retired 
+     pay for nonregular service shall be honored as a veteran but 
+     shall not be entitled to any benefit by reason of this honor.
+
+     SEC. 909. EXTENSION OF AUTHORITY FOR SECRETARY OF VETERANS 
+                   AFFAIRS TO OBTAIN INFORMATION FROM SECRETARY OF 
+                   TREASURY AND COMMISSIONER OF SOCIAL SECURITY 
+                   FOR INCOME VERIFICATION PURPOSES.
+
+       Section 5317(g) is amended by striking ``September 30, 
+     2016'' and inserting ``September 30, 2018''.
+
+[[Page 3194]]
+
+
+
+     SEC. 910. EXTENSION OF AUTHORITY FOR SECRETARY OF VETERANS 
+                   AFFAIRS TO ISSUE AND GUARANTEE CERTAIN LOANS.
+
+       Section 3729(b)(2) is amended--
+       (1) in subparagraph (A)--
+       (A) in clause (iii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (iv), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023'';
+       (2) in subparagraph (B)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023'';
+       (3) in subparagraph (C)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (4) in subparagraph (D)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''.
+
+     SEC. 911. REVIEW OF DETERMINATION OF CERTAIN SERVICE IN 
+                   PHILIPPINES DURING WORLD WAR II.
+
+       (a) In General.--The Secretary of Veterans Affairs, in 
+     consultation with the Secretary of Defense and such military 
+     historians as the Secretary of Defense recommends, shall 
+     review the process used to determine whether a covered 
+     individual served in support of the Armed Forces of the 
+     United States during World War II in accordance with section 
+     1002(d) of title X of Division A of the American Recovery and 
+     Reinvestment Act of 2009 (Public Law 111-5; 38 U.S.C. 107 
+     note) for purposes of determining whether such covered 
+     individual is eligible for payments described in such 
+     section.
+       (b) Covered Individuals.--In this section, a covered 
+     individual is any individual who timely submitted a claim for 
+     benefits under subsection (c) of section 1002 of title X of 
+     Division A of the American Recovery and Reinvestment Act of 
+     2009 (Public Law 111-5; 38 U.S.C. 107 note) based on service 
+     as described in subsection (d) of that section.
+       (c) Report.--Not later than 90 days after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report detailing any findings, actions 
+     taken, or recommendations for legislative action with respect 
+     to the review conducted under subsection (a).
+       (d) Prohibition on Benefits for Disqualifying Conduct Under 
+     New Process Pursuant to Review.--If pursuant to the review 
+     conducted under subsection (a) the Secretary of Veterans 
+     Affairs determines to establish a new process for the making 
+     of payments as described in that subsection, the process 
+     shall include mechanisms to ensure that individuals are not 
+     treated as covered individuals for purposes of such payments 
+     if such individuals engaged in any disqualifying conduct 
+     during service described in that subsection, including 
+     collaboration with the enemy or criminal conduct.
+
+     SEC. 912. REVIEW OF DETERMINATION OF CERTAIN SERVICE OF 
+                   MERCHANT MARINERS DURING WORLD WAR II.
+
+       (a) In General.--The Secretary of Veterans Affairs, in 
+     consultation with the Secretary of Defense, the Secretary of 
+     Homeland Security and such military historians as the 
+     Secretary of Defense recommends, shall review the process 
+     used to determine whether an individual performed service 
+     under honorable conditions that satisfies the requirements of 
+     a coastwise merchant seaman who is recognized pursuant to 
+     section 401 of the GI Bill Improvement Act of 1977 (Public 
+     Law 95-202; 38 U.S.C. 106 note) as having performed active 
+     duty service .
+       (b) Report.--Not later than 90 days after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report detailing any findings, actions 
+     taken, or recommendations for legislative action with respect 
+     to the review conducted under subsection (a).
+
+     SEC. 913. REPORT ON LAOTIAN MILITARY SUPPORT OF ARMED FORCES 
+                   OF THE UNITED STATES DURING VIETNAM WAR.
+
+       (a) In General.--Not later than one year after the 
+     effective date specified in subsection (c), the Secretary of 
+     Veterans Affairs, in consultation with the Secretary of 
+     Defense and such agencies and individuals as the Secretary of 
+     Veterans Affairs considers appropriate, shall submit to the 
+     appropriate committees of Congress a report on--
+       (1) the extent to which Laotian military forces provided 
+     combat support to the Armed Forces of the United States 
+     between February 28, 1961, and May 15, 1975;
+       (2) whether the current classification by the Civilian/
+     Military Service Review Board of the Department of Defense of 
+     service by individuals of Hmong ethnicity is appropriate; and
+       (3) any recommendations for legislative action.
+       (b) Appropriate Committees of Congress.--In this section, 
+     the term ``appropriate committees of Congress'' means--
+       (1) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the Senate; and
+       (2) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the House of Representatives.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 914. REPORT ON PRACTICES OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS TO ADEQUATELY PROVIDE SERVICES TO 
+                   VETERANS WITH HEARING LOSS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the actions taken by the 
+     Secretary to implement the findings and recommendations 
+     included in the 2006 report by the Institute of Medicine of 
+     the National Academies entitled ``Noise and Military Service: 
+     Implications for Hearing Loss and Tinnitus'' that was 
+     prepared pursuant to section 104 of the Veterans Benefits Act 
+     of 2002 (Public Law 107-330; 116 Stat. 2822).
+       (b) Effect of Duty Military Occupational Specialty Noise 
+     Exposure Listing on Receipt of Benefits by Veterans.--
+       (1) In general.--The Secretary shall include in the report 
+     required by subsection (a) an evaluation of the extent to 
+     which veterans who had a military occupational specialty 
+     during service as a member of the Armed Forces that is not 
+     included on the Duty Military Occupational Specialty Noise 
+     Exposure Listing (in this subsection referred to as the ``MOS 
+     List'') are precluded from receiving benefits related to 
+     hearing loss from the Department of Veterans Affairs.
+       (2) Data.--The Secretary shall include in the evaluation 
+     required by paragraph (1) the following:
+       (A) With respect to veterans who had a military 
+     occupational specialty included on the MOS List--
+       (i) the number of claims for benefits related to hearing 
+     loss from the Department of Veterans Affairs that were 
+     granted; and
+       (ii) the number of claims for benefits related to hearing 
+     loss from the Department that were denied.
+       (B) With respect to veterans who had a military 
+     occupational specialty not included on the MOS List--
+       (i) the number of claims for benefits related to hearing 
+     loss from the Department that were granted;
+       (ii) the number of claims for benefits related to hearing 
+     loss from the Department that were denied;
+       (iii) of the number of denied claims under clause (ii), the 
+     number of those claims that were appealed; and
+       (iv) of the number of appealed claims under clause (iii), 
+     the number of those appealed claims that were successfully 
+     appealed.
+       (c) Additional Matters.--The Secretary shall include in the 
+     report required by subsection (a) the following:
+       (1) In the case of a veteran with unilateral hearing loss, 
+     an explanation of the scientific basis for the practice of 
+     the Department of determining a disability rating level with 
+     respect to hearing based on an examination of that veteran's 
+     healthy ear instead of the injured ear.
+       (2) An analysis of the reduction in earning capacity for 
+     veterans as a result of unilateral hearing loss, with a focus 
+     on the ability of those veterans--
+       (A) to detect the direction of sound; and
+       (B) to understand speech.
+       (3) An explanation of the rationale for the practice of the 
+     Department of not issuing a compensable rating for hearing 
+     loss at certain levels that are severe enough to require the 
+     use of hearing aids.
+       (4) A survey of the audiologists that conduct compensation 
+     and pension examinations for the Department to assess the 
+     implementation of the most recent edition of the best 
+     practices manual for hearing loss and tinnitus examinations 
+     that includes the following:
+       (A) A description of the training received by those 
+     audiologists compared to the methods described in the most 
+     recent edition of the best practices manual for hearing loss 
+     and tinnitus examinations.
+       (B) An assessment of how those audiologists have complied 
+     with that training.
+       (C) Whether those audiologists are using a range of tones 
+     up to 8000 hertz to test the hearing of veterans.
+       (d) Construction.--Nothing in this section shall be 
+     construed to authorize or require the Secretary to defer, 
+     delay, or replace the ongoing efforts of the Secretary to 
+     update the schedule of ratings required by section 1155 of 
+     title 38, United States Code.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 915. REPORT ON JOINT PROGRAMS OF DEPARTMENT OF VETERANS 
+                   AFFAIRS AND DEPARTMENT OF DEFENSE WITH RESPECT 
+                   TO HEARING LOSS OF MEMBERS OF THE ARMED FORCES 
+                   AND VETERANS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall, in consultation with the Secretary of Defense, submit 
+     to Congress a report that identifies the following:
+
+[[Page 3195]]
+
+       (1) Goals for the Department of Veterans Affairs and the 
+     Department of Defense for the prevention, early detection, 
+     and treatment of hearing loss by the National Center for 
+     Rehabilitative Auditory Research of the Department of 
+     Veterans Affairs and the Hearing Center of Excellence of the 
+     Department of Defense.
+       (2) Resources of the Department of Veterans Affairs that 
+     could be made available to assist the Department of Defense 
+     in conducting audiometric tests and tinnitus screenings for 
+     members of the Armed Forces.
+       (3) Barriers to information being added to the Hearing Loss 
+     and Auditory System Injury Registry required under section 
+     721(c)(1) of the Duncan Hunter National Defense Authorization 
+     Act for Fiscal Year 2009 (Public Law 110-417; 122 Stat. 
+     4506).
+       (4) Recommendations for any legislative or administrative 
+     actions necessary with respect to the Hearing Loss and 
+     Auditory System Injury Registry--
+       (A) to assist in achieving the goals specified in paragraph 
+     (1);
+       (B) to improve the adjudication of claims for benefits with 
+     respect to hearing loss; and
+       (C) to further the research objectives of the National 
+     Center for Rehabilitative Auditory Research of the Department 
+     of Veterans Affairs and the Hearing Center of Excellence of 
+     the Department of Defense.
+       (b) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 916. LIMITATION ON AGGREGATE AMOUNT OF BONUSES PAYABLE 
+                   TO PERSONNEL OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS DURING FISCAL YEAR 2014.
+
+       The aggregate amount of bonuses and awards payable to 
+     personnel of the Department of Veterans Affairs under chapter 
+     45 or 53 of title 5, United States Code, or any other 
+     provision of such title, during fiscal year 2014 may not 
+     exceed $368,000,000.
+
+     SEC. 917. AMENDMENT TO OCO ADJUSTMENTS.
+
+       Section 251 of the Balanced Budget and Emergency Deficit 
+     Control Act of 1985 (2 U.S.C. 901) is amended--
+       (1) in subsection (a), by striking paragraph (2) and 
+     inserting the following:
+       ``(2) Eliminating a breach.--
+       ``(A) In general.--Each non-exempt account within a 
+     category shall be reduced by a dollar amount calculated by 
+     multiplying the enacted level of sequestrable budgetary 
+     resources in that account at that time by the uniform 
+     percentage necessary to eliminate a breach within that 
+     category.
+       ``(B) Overseas contingencies.--Any amount of budget 
+     authority designated as for Overseas Contingency Operations/
+     Global War on Terrorism for any of fiscal years 2018 through 
+     2021 in excess of the levels set in subsection (b)(2)(E) 
+     shall be counted in determining whether a breach has occurred 
+     in the revised security category during the fiscal year.''; 
+     and
+       (2) in subsection (b)(2)--
+       (A) in subparagraph (A)(ii), by inserting ``for fiscal 
+     years 2012 through 2017,'' before ``the Congress''; and
+       (B) by adding at the end the following:
+       ``(E) Overseas contingency operations/global war on 
+     terrorism.--If, for fiscal years 2018 through 2021, 
+     appropriations for discretionary accounts are enacted that 
+     Congress designates for Overseas Contingency Operations/
+     Global War on Terrorism in statute on an account by account 
+     basis and the President subsequently so designates, the 
+     adjustment for the fiscal year shall be the total of such 
+     appropriations for the fiscal year in discretionary accounts 
+     designated as being for Overseas Contingency Operations/
+     Global War on Terrorism, but not to exceed--
+       ``(i) for fiscal year 2018, $94,740,000,000 in additional 
+     new budget authority;
+       ``(ii) for fiscal year 2019, $96,807,000,000 in additional 
+     new budget authority;
+       ``(iii) for fiscal year 2020, $98,983,000,000 in additional 
+     new budget authority; and
+       ``(iv) for fiscal year 2021, $101,167,000,000 in additional 
+     new budget authority.''.
+                                 ______
+                                 
+  SA 2748. Mr. RUBIO submitted an amendment intended to be proposed by 
+him to the bill S. 1982, to improve the provision of medical services 
+and benefits to veterans, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       On page 367, after line 14, add the following:
+
+     SEC. 918. REMOVAL OF SENIOR EXECUTIVE SERVICE EMPLOYEES OF 
+                   THE DEPARTMENT OF VETERANS AFFAIRS FOR 
+                   PERFORMANCE.
+
+       (a) In General.--Chapter 7 is amended by adding at the end 
+     the following new section:
+
+     ``Sec. 713. Senior Executive Service: removal based on 
+       performance
+
+       ``(a) In General.--(1) Notwithstanding subchapter V of 
+     chapter 35 of title 5, subchapter V of chapter 75 of title 5, 
+     or any other provision of law, the Secretary may remove any 
+     individual who is an employee of the Department from a Senior 
+     Executive Service position (as defined in section 3132(a) of 
+     title 5) if the Secretary determines the performance of the 
+     individual warrants such removal.
+       ``(2) If the Secretary so removes such an individual, the 
+     Secretary may--
+       ``(A) remove the individual from the civil service (as 
+     defined in section 2101 of title 5); or
+       ``(B) appoint the individual to a General Schedule position 
+     at any grade of the General Schedule the Secretary determines 
+     appropriate.
+       ``(b) Notice to Congress.--Not later than 30 days after 
+     removing an individual from the Senior Executive Service 
+     under subsection (a), the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives notice in writing of such removal and the 
+     reason for such removal.
+       ``(c) Manner of Removal.--A removal under this section 
+     shall be done in the same manner as the removal of a 
+     professional staff member employed by a Member of 
+     Congress.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of such chapter is amended by adding at the end the 
+     following new item:
+
+``713. Senior Executive Service: removal based on performance.''.
+                                 ______
+                                 
+  SA 2749. Mrs. GILLIBRAND submitted an amendment intended to be 
+proposed by her to the bill S. 1982, to improve the provision of 
+medical services and benefits to veterans, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       On page 367, after line 14, add the following:
+
+     SEC. 918. CLARIFICATION OF PRESUMPTIONS OF EXPOSURE FOR 
+                   VETERANS WHO SERVED IN VICINITY OF REPUBLIC OF 
+                   VIETNAM.
+
+       (a) Compensation.--Subsections (a)(1) and (f) of section 
+     1116 are amended by inserting ``(including the territorial 
+     seas of such Republic)'' after ``served in the Republic of 
+     Vietnam'' each place it appears.
+       (b) Health Care.--Section 1710(e)(4) is amended by 
+     inserting ``(including the territorial seas of such 
+     Republic)'' after ``served on active duty in the Republic of 
+     Vietnam''.
+       (c) Effective Date.--The amendments made by subsections (a) 
+     and (b) shall take effect as of September 25, 1985.
+                                 ______
+                                 
+  SA 2750. Mrs. GILLIBRAND submitted an amendment intended to be 
+proposed by her to the bill S. 1982, to improve the provision of 
+medical services and benefits to veterans, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       At the end of title IX, add the following:
+
+     SEC. 918. REVIEW OF OPERATION OF CERTAIN SHIPS DURING THE 
+                   VIETNAM ERA.
+
+       (a) Review Required.--By not later than one year after the 
+     date of the enactment of this Act, the Secretary of Defense 
+     shall review the logs of each ship under the authority of the 
+     Secretary of the Navy that is known to have operated in the 
+     waters near Vietnam during the Vietnam Era (as that term is 
+     defined in section 101(29) of title 38, United States Code) 
+     to determine--
+       (1) whether each such ship operated in the territorial 
+     waters of the Republic of Vietnam during the period beginning 
+     on January 9, 1962, and ending on May 7, 1975; and
+       (2) for each such ship that so operated--
+       (A) the date or dates when the ship so operated; and
+       (B) the distance from the shore of the location where the 
+     ship operated that was the closest proximity to shore.
+       (b) Provision of Information to the Secretary of Veterans 
+     Affairs.--Upon a determination that any such ship so 
+     operated, the Secretary of Defense shall provide such 
+     determination, together with the information described in 
+     subsection (a)(2) about the ship, to the Secretary of 
+     Veterans Affairs.
+       (c) Public Availability of Information.--The Secretary of 
+     Veterans Affairs shall make publicly available all 
+     unclassified information provided to the Secretary under 
+     subsection (b).
+                                 ______
+                                 
+  SA 2751. Mrs. GILLIBRAND submitted an amendment intended to be 
+proposed by her to the bill S. 1982, to improve the provision of 
+medical services and benefits to veterans, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       At the end, add the following:
+
+                   TITLE X--MILITARY JUSTICE MATTERS
+
+     SEC. 1001. SHORT TITLE.
+
+       This title may be cited as the ``Military Justice 
+     Improvement Act of 2014''.
+
+     SEC. 1002. MODIFICATION OF AUTHORITY TO DETERMINE TO PROCEED 
+                   TO TRIAL BY COURT-MARTIAL ON CHARGES ON CERTAIN 
+                   OFFENSES WITH AUTHORIZED MAXIMUM SENTENCE OF 
+                   CONFINEMENT OF MORE THAN ONE YEAR.
+
+       (a) Modification of Authority.--
+       (1) In general.--
+       (A) Military departments.--With respect to charges under 
+     chapter 47 of title 10, United States Code (the Uniform Code 
+     of Military Justice), that allege an offense specified in 
+     paragraph (2) and not excluded under paragraph (3), the 
+     Secretary of Defense shall require the Secretaries of the 
+     military departments to provide for the determination under 
+     section 830(b) of such chapter (article 30(b) of the Uniform 
+     Code of Military
+
+[[Page 3196]]
+
+     Justice) on whether to try such charges by court-martial as 
+     provided in paragraph (4).
+       (B) Homeland security.--With respect to charges under 
+     chapter 47 of title 10, United States Code (the Uniform Code 
+     of Military Justice), that allege an offense specified in 
+     paragraph (2) and not excluded under paragraph (3) against a 
+     member of the Coast Guard (when it is not operating as a 
+     service in the Navy), the Secretary of Homeland Security 
+     shall provide for the determination under section 830(b) of 
+     such chapter (article 30(b) of the Uniform Code of Military 
+     Justice) on whether to try such charges by court-martial as 
+     provided in paragraph (4).
+       (2) Covered offenses.--An offense specified in this 
+     paragraph is an offense as follows:
+       (A) An offense under chapter 47 of title 10, United States 
+     Code (the Uniform Code of Military Justice), that is triable 
+     by court-martial under that chapter for which the maximum 
+     punishment authorized under that chapter includes confinement 
+     for more than one year.
+       (B) A conspiracy to commit an offense specified in 
+     subparagraph (A) as punishable under section 881 of title 10, 
+     United States Code (article 81 of the Uniform Code of 
+     Military Justice).
+       (C) A solicitation to commit an offense specified in 
+     subparagraph (A) as punishable under section 882 of title 10, 
+     United States Code (article 82 of the Uniform Code of 
+     Military Justice).
+       (D) An attempt to commit an offense specified in 
+     subparagraphs (A) through (C) as punishable under section 880 
+     of title 10, United States Code (article 80 of the Uniform 
+     Code of Military Justice).
+       (3) Excluded offenses.--Paragraph (1) does not apply to an 
+     offense as follows:
+       (A) An offense under sections 883 through 917 of title 10, 
+     United States Code (articles 83 through 117 of the Uniform 
+     Code of Military Justice).
+       (B) An offense under section 933 or 934 of title 10, United 
+     States Code (articles 133 and 134 of the Uniform Code of 
+     Military Justice).
+       (C) A conspiracy to commit an offense specified in 
+     subparagraph (A) or (B) as punishable under section 881 of 
+     title 10, United States Code (article 81 of the Uniform Code 
+     of Military Justice).
+       (D) A solicitation to commit an offense specified in 
+     subparagraph (A) or (B) as punishable under section 882 of 
+     title 10, United States Code (article 82 of the Uniform Code 
+     of Military Justice).
+       (E) An attempt to commit an offense specified in 
+     subparagraph (A) through (D) as punishable under section 880 
+     of title 10, United States Code (article 80 of the Uniform 
+     Code of Military Justice).
+       (4) Requirements and limitations.--The disposition of 
+     charges pursuant to paragraph (1) shall be subject to the 
+     following:
+       (A) The determination whether to try such charges by court-
+     martial shall be made by a commissioned officer of the Armed 
+     Forces designated in accordance with regulations prescribed 
+     for purposes of this subsection from among commissioned 
+     officers of the Armed Forces in grade O-6 or higher who--
+       (i) are available for detail as trial counsel under section 
+     827 of title 10, United States Code (article 27 of the 
+     Uniform Code of Military Justice);
+       (ii) have significant experience in trials by general or 
+     special court-martial; and
+       (iii) are outside the chain of command of the member 
+     subject to such charges.
+       (B) Upon a determination under subparagraph (A) to try such 
+     charges by court-martial, the officer making that 
+     determination shall determine whether to try such charges by 
+     a general court-martial convened under section 822 of title 
+     10, United States Code (article 22 of the Uniform Code of 
+     Military Justice), or a special court-martial convened under 
+     section 823 of title 10, United States Code (article 23 of 
+     the Uniform Code of Military Justice).
+       (C) A determination under subparagraph (A) to try charges 
+     by court-martial shall include a determination to try all 
+     known offenses, including lesser included offenses.
+       (D) The determination to try such charges by court-martial 
+     under subparagraph (A), and by type of court-martial under 
+     subparagraph (B), shall be binding on any applicable 
+     convening authority for a trial by court-martial on such 
+     charges.
+       (E) The actions of an officer described in subparagraph (A) 
+     in determining under that subparagraph whether or not to try 
+     charges by court-martial shall be free of unlawful or 
+     unauthorized influence or coercion.
+       (F) The determination under subparagraph (A) not to proceed 
+     to trial of such charges by general or special court-martial 
+     shall not operate to terminate or otherwise alter the 
+     authority of commanding officers to refer such charges for 
+     trial by summary court-martial convened under section 824 of 
+     title 10, United States Code (article 24 of the Uniform Code 
+     of Military Justice), or to impose non-judicial punishment in 
+     connection with the conduct covered by such charges as 
+     authorized by section 815 of title 10, United States Code 
+     (article 15 of the Uniform Code of Military Justice).
+       (5) Construction with charges on other offenses.--Nothing 
+     in this subsection shall be construed to alter or affect the 
+     disposition of charges under chapter 47 of title 10, United 
+     States Code (the Uniform Code of Military Justice), that 
+     allege an offense triable by court-martial under that chapter 
+     for which the maximum punishment authorized under that 
+     chapter includes confinement for one year or less.
+       (6) Policies and procedures.--
+       (A) In general.--The Secretaries of the military 
+     departments and the Secretary of Homeland Security (with 
+     respect to the Coast Guard when it is not operating as a 
+     service in the Navy) shall revise policies and procedures as 
+     necessary to comply with this subsection.
+       (B) Uniformity.--The General Counsel of the Department of 
+     Defense and the General Counsel of the Department of Homeland 
+     Security shall jointly review the policies and procedures 
+     revised under this paragraph in order to ensure that any lack 
+     of uniformity in policies and procedures, as so revised, 
+     among the military departments and the Department of Homeland 
+     Security does not render unconstitutional any policy or 
+     procedure, as so revised.
+       (7) Manual for courts-martial.--The Secretary of Defense 
+     shall recommend such changes to the Manual for Courts-Martial 
+     as are necessary to ensure compliance with this subsection.
+       (b) Effective Date and Applicability.--Subsection (a), and 
+     the revisions required by that subsection, shall take effect 
+     on the date that is 180 days after the date of the enactment 
+     of this Act, and shall apply with respect to charges 
+     preferred under section 830 of title 10, United States Code 
+     (article 30 of the Uniform Code of Military Justice), on or 
+     after such effective date.
+
+     SEC. 1003. MODIFICATION OF OFFICERS AUTHORIZED TO CONVENE 
+                   GENERAL AND SPECIAL COURTS-MARTIAL.
+
+       (a) In General.--Subsection (a) of section 822 of title 10, 
+     United States Code (article 22 of the Uniform Code of 
+     Military Justice), is amended--
+       (1) by redesignating paragraphs (8) and (9) as paragraphs 
+     (9) and (10), respectively; and
+       (2) by inserting after paragraph (7) the following new 
+     paragraph (8):
+       ``(8) the officers in the offices established pursuant to 
+     section 1003(c) of the Military Justice Improvement Act of 
+     2014 or officers in the grade of O-6 or higher who are 
+     assigned such responsibility by the Chief of Staff of the 
+     Army, the Chief of Naval Operations, the Chief of Staff of 
+     the Air Force, the Commandant of the Marine Corps, or the 
+     Commandant of the Coast Guard, but only with respect to 
+     offenses to which section 1002(a)(1) of the Military Justice 
+     Improvement Act of 2014 applies;''.
+       (b) No Exercise by Officers in Chain of Command of Accused 
+     or Victim.--Such section (article) is further amended by 
+     adding at the end the following new subsection:
+       ``(c) An officer specified in subsection (a)(8) may not 
+     convene a court-martial under this section if the officer is 
+     in the chain of command of the accused or the victim.''.
+       (c) Offices of Chiefs of Staff on Courts-Martial.--
+       (1) Offices required.--Each Chief of Staff of the Armed 
+     Forces or Commandant specified in paragraph (8) of section 
+     822(a) of title 10, United States Code (article 22(a) of the 
+     Uniform Code of Military Justice), as amended by subsection 
+     (a), shall establish an office to do the following:
+       (A) To convene general and special courts-martial under 
+     sections 822 and 823 of title 10, United States Code 
+     (articles 22 and 23 of the Uniform Code of Military Justice), 
+     pursuant to paragraph (8) of section 822(a) of title 10, 
+     United States Code (article 22(a) of the Uniform Code of 
+     Military Justice), as so amended, with respect to offenses to 
+     which section 1002(a)(1) applies.
+       (B) To detail under section 825 of title 10, United States 
+     Code (article 25 of the Uniform Code of Military Justice), 
+     members of courts-martial convened as described in 
+     subparagraph (A).
+       (2) Personnel.--The personnel of each office established 
+     under paragraph (1) shall consist of such members of the 
+     Armed Forces and civilian personnel of the Department of 
+     Defense, or such members of the Coast Guard or civilian 
+     personnel of the Department of Homeland Security, as may be 
+     detailed or assigned to the office by the Chief of Staff or 
+     Commandant concerned. The members and personnel so detailed 
+     or assigned, as the case may be, shall be detailed or 
+     assigned from personnel billets in existence on the date of 
+     the enactment of this Act.
+
+     SEC. 1004. DISCHARGE USING OTHERWISE AUTHORIZED PERSONNEL AND 
+                   RESOURCES.
+
+       (a) In General.--The Secretaries of the military 
+     departments and the Secretary of Homeland Security (with 
+     respect to the Coast Guard when it is not operating as a 
+     service in the Navy) shall carry out sections 1002 and 1003 
+     (and the amendments made by section 1003) using personnel, 
+     funds, and resources otherwise authorized by law.
+       (b) No Authorization of Additional Personnel or 
+     Resources.--Sections 1002 and 1003 (and the amendments made 
+     by section 1003) shall not be construed as authorizations for 
+     personnel, personnel billets, or funds for the discharge of 
+     the requirements in such sections.
+
+[[Page 3197]]
+
+
+
+     SEC. 1005. MONITORING AND ASSESSMENT OF MODIFICATION OF 
+                   AUTHORITIES ON COURTS-MARTIAL BY INDEPENDENT 
+                   PANEL ON REVIEW AND ASSESSMENT OF PROCEEDINGS 
+                   UNDER THE UNIFORM CODE OF MILITARY JUSTICE.
+
+       Section 576(d)(2) of the National Defense Authorization Act 
+     for Fiscal Year 2013 (Public Law 112-239; 126 Stat. 1762) is 
+     amended--
+       (1) by redesignating subparagraph (J) as subparagraph (K); 
+     and
+       (2) by inserting after subparagraph (I) the following new 
+     subparagraph (J):
+       ``(J) Monitor and assess the implementation and efficacy of 
+     sections 1002 through 1004 of the Military Justice 
+     Improvement Act of 2014, and the amendments made by such 
+     sections.''.
+                                 ______
+                                 
+  SA 2752. Mr. BURR (for himself, Mr. McConnell, and Mr. Inhofe) 
+submitted an amendment intended to be proposed by him to the bill S. 
+1982, to improve the provision of medical services and benefits to 
+veterans, and for other purposes; which was ordered to lie on the 
+table; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the 
+     ``Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. References to title 38, United States Code.
+
+                TITLE I--SURVIVOR AND DEPENDENT MATTERS
+
+Sec. 101. Extension of initial period for increased dependency and 
+              indemnity compensation for surviving spouses with 
+              children.
+Sec. 102. Eligibility for dependency and indemnity compensation, 
+              educational assistance, and housing loans for surviving 
+              spouses who remarry after age 55.
+Sec. 103. Extension of marriage delimiting date for surviving spouses 
+              of Persian Gulf War veterans to qualify for death 
+              pension.
+Sec. 104. Making effective date provision consistent with provision for 
+              benefits eligibility of a veteran's child based upon 
+              termination of remarriage by annulment.
+Sec. 105. Expansion of Marine Gunnery Sergeant John David Fry 
+              Scholarship.
+Sec. 106. Expansion of Yellow Ribbon G.I. Education Enhancement 
+              Program.
+Sec. 107. Benefits for children of certain Thailand service veterans 
+              born with spina bifida.
+Sec. 108. Program on assisted living for children of Vietnam veterans 
+              and certain Korea service veterans born with spina 
+              bifida.
+Sec. 109. Program on grief counseling in retreat settings for surviving 
+              spouses of members of the Armed Forces who die while 
+              serving on active duty in the Armed Forces.
+Sec. 110. Program evaluation on survivors' and dependents' educational 
+              assistance authorities.
+
+                      TITLE II--EDUCATION MATTERS
+
+Sec. 201. Approval of courses of education provided by public 
+              institutions of higher learning for purposes of All-
+              Volunteer Force Educational Assistance Program and Post-
+              9/11 Educational Assistance conditional on in-State 
+              tuition rate for veterans.
+Sec. 202. Extension and expansion of authority for certain qualifying 
+              work-study activities for purposes of the educational 
+              assistance programs of the Department of Veterans 
+              Affairs.
+Sec. 203. Prohibitions relating to references to GI Bill and Post-9/11 
+              GI Bill.
+Sec. 204. Review of utilization of educational assistance to pursue 
+              programs of training on the job and participating 
+              employers.
+Sec. 205. Report on debt management and collection.
+Sec. 206. Restoration of prior reporting fee multipliers.
+
+                     TITLE III--HEALTH CARE MATTERS
+
+      Subtitle A--Expansion and Improvements of Benefits Generally
+
+Sec. 301. Improved access to appropriate immunizations for veterans.
+Sec. 302. Expansion of provision of chiropractic care and services to 
+              veterans.
+Sec. 303. Modification of commencement date of period of service at 
+              Camp Lejeune, North Carolina, for eligibility for 
+              hospital care and medical services in connection with 
+              exposure to contaminated water.
+Sec. 304. Expansion of emergency treatment reimbursement for certain 
+              veterans.
+Sec. 305. Extension of sunset date regarding transportation of 
+              individuals to and from facilities of Department of 
+              Veterans Affairs and requirement of report.
+Sec. 306. Extension and modification of pilot program on assisted 
+              living services for veterans with traumatic brain injury.
+Sec. 307. Program on health promotion for overweight and obese veterans 
+              through support of fitness center memberships.
+Sec. 308. Program on health promotion for veterans through 
+              establishment of Department of Veterans Affairs fitness 
+              facilities.
+
+                 Subtitle B--Health Care Administration
+
+Sec. 311. Extension of Department of Veterans Affairs Health 
+              Professional Scholarship Program.
+Sec. 312. Expansion of availability of prosthetic and orthotic care for 
+              veterans.
+Sec. 313. Limitation on expansion of dialysis pilot program.
+Sec. 314. Requirement for Department of Veterans Affairs policy on 
+              reporting cases of infectious diseases at facilities of 
+              the Department.
+Sec. 315. Independent assessment of the Veterans Integrated Service 
+              Networks and medical centers of Department of Veterans 
+              Affairs.
+Sec. 316. Requirements in connection with next update of current 
+              strategic plan for Office of Rural Health of the 
+              Department of Veterans Affairs.
+Sec. 317. Report on provision of telemedicine services.
+Sec. 318. Report on expansion of patient enrollment.
+Sec. 319. Report on expansion of program of comprehensive assistance 
+              for family caregivers.
+Sec. 320. Designation of Corporal Michael J. Crescenz Department of 
+              Veterans Affairs Medical Center.
+
+           Subtitle C--Complementary and Alternative Medicine
+
+Sec. 321. Expansion of research and education on and delivery of 
+              complementary and alternative medicine to veterans.
+Sec. 322. Program on integration of complementary and alternative 
+              medicine within Department of Veterans Affairs medical 
+              centers.
+Sec. 323. Studies of barriers encountered by veterans in receiving, and 
+              administrators and clinicians in providing, complementary 
+              and alternative medicine services furnished by the 
+              Department of Veterans Affairs.
+Sec. 324. Program on use of wellness programs as complementary approach 
+              to mental health care for veterans and family members of 
+              veterans.
+
+                     Subtitle D--Mental Health Care
+
+Sec. 331. Inclusion of mental health professionals in the education and 
+              training program for health personnel of the Department 
+              of Veterans Affairs.
+Sec. 332. Report on provision of mental health services for families of 
+              certain veterans at facilities of the Department.
+Sec. 333. Annual report on community mental health partnership pilot 
+              program.
+
+     Subtitle E--Dental Care Eligibility Expansion and Enhancement
+
+Sec. 341. Restorative dental services for veterans.
+Sec. 342. Pilot program on expansion of furnishing of dental care to 
+              all enrolled veterans.
+Sec. 343. Program on education to promote dental health in veterans.
+Sec. 344. Information on dental services for inclusion in electronic 
+              medical records under dental insurance pilot program.
+Sec. 345. Authorization of appropriations.
+
+            Subtitle F--Health Care Related to Sexual Trauma
+
+Sec. 351. Expansion of eligibility for sexual trauma counseling and 
+              treatment to veterans on inactive duty training.
+Sec. 352. Provision of counseling and treatment for sexual trauma by 
+              the Department of Veterans Affairs to members of the 
+              Armed Forces.
+Sec. 353. Department of Veterans Affairs screening mechanism to detect 
+              incidents of domestic abuse.
+Sec. 354. Reports on military sexual trauma and domestic abuse.
+
+ Subtitle G--Adoption Assistance, Child Care Assistance, and Counseling
+
+Sec. 361. Adoption assistance for severely wounded veterans.
+
+[[Page 3198]]
+
+Sec. 362. Coordination between Department of Veterans Affairs and 
+              Department of Defense on furnishing of fertility 
+              counseling and treatment.
+Sec. 363. Program on assistance for child care for certain veterans.
+Sec. 364. Counseling in retreat settings for women veterans newly 
+              separated from service in the Armed Forces.
+
+               Subtitle H--Major Medical Facility Leases
+
+Sec. 371. Authorization of major medical facility leases.
+Sec. 372. Budgetary treatment of Department of Veterans Affairs major 
+              medical facilities leases.
+
+                TITLE IV--EMPLOYMENT AND RELATED MATTERS
+
+Subtitle A--Training and Other Services for Veterans Seeking Employment
+
+Sec. 401. Extension of authority of Secretary of Veterans Affairs to 
+              provide rehabilitation and vocational benefits to members 
+              of Armed Forces with severe injuries or illnesses.
+Sec. 402. Consolidated and coordinated Federal Government Internet 
+              portal to connect current and former members of the Armed 
+              Forces with employers seeking employees with skills and 
+              experience developed through military service.
+
+ Subtitle B--Employment of Veterans and Recognition of Veteran Status 
+               With Respect to Employment Related Matters
+
+Sec. 411. Employment of veterans with the Federal Government.
+Sec. 412. State recognition of military experience of veterans in 
+              issuing licenses and credentials to veterans.
+Sec. 413. Employment of veterans as evaluation factor in the awarding 
+              of Federal contracts.
+Sec. 414. Report on discrimination against members of reserve 
+              components of Armed Forces and veterans in civilian labor 
+              market.
+
+Subtitle C--Improving Employment and Reemployment Rights of Members of 
+                         the Uniformed Services
+
+Sec. 421. Suspension, termination, or debarment of contractors for 
+              repeated violations of employment or reemployment rights 
+              of members of uniformed services.
+
+                   Subtitle D--Small Business Matters
+
+Sec. 431. Expansion of contracting goals and preferences of Department 
+              of Veterans Affairs to include conditionally owned small 
+              business concerns 100 percent owned by veterans.
+Sec. 432. Modification of treatment under contracting goals and 
+              preferences of Department of Veterans Affairs for small 
+              businesses owned by veterans of small businesses after 
+              death of disabled veteran owners.
+Sec. 433. Treatment of businesses after deaths of servicemember-owners 
+              for purposes of Department of Veterans Affairs 
+              contracting goals and preferences.
+Sec. 434. Special rule for treatment under contracting goals and 
+              preferences of Department of Veterans Affairs of small 
+              business concerns licensed in community property States.
+Sec. 435. Report on assistance for veterans in obtaining training on 
+              purchasing and operating a franchise.
+
+        TITLE V--ACCOUNTABILITY AND ADMINISTRATIVE IMPROVEMENTS
+
+Sec. 501. Administration of Veterans Integrated Service Networks.
+Sec. 502. Regional support centers for Veterans Integrated Service 
+              Networks.
+Sec. 503. Commission on Capital Planning for Department of Veterans 
+              Affairs Medical Facilities.
+Sec. 504. Advance appropriations for certain accounts of the Department 
+              of Veterans Affairs.
+Sec. 505. Public access to Department of Veterans Affairs research and 
+              data sharing between Departments.
+Sec. 506. Assessment by Comptroller General of the United States of 
+              information made available by Veterans Benefits 
+              Administration.
+Sec. 507. Comptroller general report on advisory committees of the 
+              Department of Veterans Affairs.
+
+     TITLE VI--IMPROVEMENT OF PROCESSING OF CLAIMS FOR COMPENSATION
+
+           Subtitle A--Claims Based on Military Sexual Trauma
+
+Sec. 601. Medical examination and opinion for disability compensation 
+              claims based on military sexual trauma.
+Sec. 602. Case representative officers for military sexual trauma 
+              support.
+Sec. 603. Report on standard of proof for service-connection of mental 
+              health conditions related to military sexual trauma.
+Sec. 604. Reports on claims for disabilities incurred or aggravated by 
+              military sexual trauma.
+
+      Subtitle B--Claims for Dependency and Indemnity Compensation
+
+Sec. 611. Program on treatment of certain applications for dependency 
+              and indemnity compensation as fully developed claims.
+Sec. 612. Report by Secretary of Veterans Affairs on improving 
+              timeliness and accuracy of administration of claims for 
+              dependency and indemnity compensation and pension for 
+              surviving spouses and children.
+
+              Subtitle C--Agency of Original Jurisdiction
+
+Sec. 621. Working group to improve employee work credit and work 
+              management systems of Veterans Benefits Administration in 
+              an electronic environment.
+Sec. 622. Task force on retention and training of Department of 
+              Veterans Affairs claims processors and adjudicators.
+Sec. 623. Reports on requests by the Department of Veterans Affairs for 
+              records of other Federal agencies.
+Sec. 624. Recognition of representatives of Indian tribes in the 
+              preparation, presentation, and prosecution of claims 
+              under laws administered by the Secretary of Veterans 
+              Affairs.
+Sec. 625. Program on participation of local and tribal governments in 
+              improving quality of claims for disability compensation 
+              submitted to Department of Veterans Affairs.
+Sec. 626. Department of Veterans Affairs notice of average times for 
+              processing compensation claims.
+Sec. 627. Quarterly reports on progress of Department of Veterans 
+              Affairs in eliminating backlog of claims for compensation 
+              that have not been adjudicated.
+Sec. 628. Reports on use of existing authorities to expedite benefits 
+              decisions.
+Sec. 629. Reports on Department disability medical examinations and 
+              prevention of unnecessary medical examinations.
+
+    Subtitle D--Board of Veterans' Appeals and Court of Appeals for 
+                            Veterans Claims
+
+Sec. 631. Treatment of certain misfiled documents as a notice of appeal 
+              to the Court of Appeals for Veterans Claims.
+Sec. 632. Determination of manner of appearance for hearings before 
+              Board of Veterans' Appeals.
+
+                      TITLE VII--OUTREACH MATTERS
+
+Sec. 701. Program to increase coordination of outreach efforts between 
+              the Department of Veterans Affairs and Federal, State, 
+              and local agencies and nonprofit organizations.
+Sec. 702. Cooperative agreements between Secretary of Veterans Affairs 
+              and States on outreach activities.
+Sec. 703. Advisory committee on outreach activities of Department of 
+              Veterans Affairs.
+Sec. 704. Advisory boards on outreach activities of Department of 
+              Veterans Affairs relating to health care.
+Sec. 705. Modification of requirement for periodic reports to Congress 
+              on outreach activities of Department of Veterans Affairs.
+Sec. 706. Budget transparency for outreach activities of Department of 
+              Veterans Affairs.
+
+                   TITLE VIII--OTHER VETERANS MATTERS
+
+Sec. 801. Repeal of certain reductions made by Bipartisan Budget Act of 
+              2013.
+Sec. 802. Consideration by Secretary of Veterans Affairs of resources 
+              disposed of for less than fair market value by 
+              individuals applying for pension.
+Sec. 803. Extension of reduced pension for certain veterans covered by 
+              medicaid plans for services furnished by nursing 
+              facilities.
+Sec. 804. Conditions on award of per diem payments by Secretary of 
+              Veterans Affairs for provision of housing or services to 
+              homeless veterans.
+Sec. 805. Exception to certain recapture requirements and treatment of 
+              contracts and grants with State homes with respect to 
+              care for homeless veterans.
+
+[[Page 3199]]
+
+Sec. 806. Extended period for scheduling of medical exams for veterans 
+              receiving temporary disability ratings for severe mental 
+              disorders.
+Sec. 807. Authority to issue Veterans ID Cards.
+Sec. 808. Honoring as veterans certain persons who performed service in 
+              the reserve components of the Armed Forces.
+Sec. 809. Extension of authority for Secretary of Veterans Affairs to 
+              obtain information from Secretary of Treasury and 
+              Commissioner of Social Security for income verification 
+              purposes.
+Sec. 810. Extension of authority for Secretary of Veterans Affairs to 
+              issue and guarantee certain loans.
+Sec. 811. Review of determination of certain service in Philippines 
+              during World War II.
+Sec. 812. Review of determination of certain service of merchant 
+              mariners during World War II.
+Sec. 813. Report on Laotian military support of Armed Forces of the 
+              United States during Vietnam War.
+Sec. 814. Report on practices of the Department of Veterans Affairs to 
+              adequately provide services to veterans with hearing 
+              loss.
+Sec. 815. Report on joint programs of Department of Veterans Affairs 
+              and Department of Defense with respect to hearing loss of 
+              members of the Armed Forces and veterans.
+Sec. 816. Limitation on aggregate amount of bonuses payable to 
+              personnel of the Department of Veterans Affairs during 
+              fiscal year 2014.
+Sec. 817. Designation of American World War II Cities.
+
+                        TITLE IX--IRAN SANCTIONS
+
+Sec. 901. Short title.
+Sec. 902. Sense of Congress on nuclear weapon capabilities of Iran.
+
+           Subtitle A--Expansion and Imposition of Sanctions
+
+Sec. 911. Applicability of sanctions with respect to petroleum 
+              transactions.
+Sec. 912. Ineligibility for exception to certain sanctions for 
+              countries that do not reduce purchases of petroleum from 
+              Iran or of Iranian origin to a de minimis level.
+Sec. 913. Imposition of sanctions with respect to ports, special 
+              economic zones, and strategic sectors of Iran.
+Sec. 914. Identification of, and imposition of sanctions with respect 
+              to, certain Iranian individuals.
+Sec. 915. Imposition of sanctions with respect to transactions in 
+              foreign currencies with or for certain sanctioned 
+              persons.
+Sec. 916. Sense of Congress on prospective sanctions.
+
+                  Subtitle B--Enforcement of Sanctions
+
+Sec. 921. Sense of Congress on the provision of specialized financial 
+              messaging services to the Central Bank of Iran and other 
+              sanctioned Iranian financial institutions.
+Sec. 922. Inclusion of transfers of goods, services, and technologies 
+              to strategic sectors of Iran for purposes of identifying 
+              Destinations of Diversion Concern.
+Sec. 923. Authorization of additional measures with respect to 
+              Destinations of Diversion Concern.
+Sec. 924. Sense of Congress on increased staffing for agencies involved 
+              in the implementation and enforcement of sanctions 
+              against Iran.
+
+                Subtitle C--Implementation of Sanctions
+
+Sec. 931. Suspension of sanctions to facilitate a diplomatic solution.
+
+                     Subtitle D--General Provisions
+
+Sec. 941. Exception for Afghanistan reconstruction.
+Sec. 942. Exception for import restrictions.
+Sec. 943. Applicability to certain intelligence activities.
+Sec. 944. Applicability to certain natural gas projects.
+Sec. 945. Rule of construction with respect to the use of force against 
+              Iran.
+
+     SEC. 2. REFERENCES TO TITLE 38, UNITED STATES CODE.
+
+       Except as otherwise expressly provided, whenever in this 
+     Act an amendment or repeal is expressed in terms of an 
+     amendment to, or repeal of, a section or other provision, the 
+     reference shall be considered to be made to a section or 
+     other provision of title 38, United States Code.
+
+                TITLE I--SURVIVOR AND DEPENDENT MATTERS
+
+     SEC. 101. EXTENSION OF INITIAL PERIOD FOR INCREASED 
+                   DEPENDENCY AND INDEMNITY COMPENSATION FOR 
+                   SURVIVING SPOUSES WITH CHILDREN.
+
+       (a) In General.--Section 1311(f)(2) is amended by striking 
+     ``two-year'' and inserting ``three-year''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect as of September 30, 2014, and shall apply 
+     to any surviving spouse who was eligible for or in receipt of 
+     benefits under section 1311(f) of title 38, United States 
+     Code, on or after the date of the enactment of this Act.
+
+     SEC. 102. ELIGIBILITY FOR DEPENDENCY AND INDEMNITY 
+                   COMPENSATION, EDUCATIONAL ASSISTANCE, AND 
+                   HOUSING LOANS FOR SURVIVING SPOUSES WHO REMARRY 
+                   AFTER AGE 55.
+
+       (a) In General.--Paragraph (2)(B) of section 103(d) is 
+     amended to read as follows:
+       ``(B) The remarriage after age 55 of the surviving spouse 
+     of a veteran shall not bar the furnishing of benefits 
+     specified in paragraph (5) to such person as the surviving 
+     spouse of the veteran.''.
+       (b) Conforming Amendment.--Paragraph (5) of such section is 
+     amended by striking ``Paragraphs (2)(A)'' and inserting 
+     ``Paragraphs (2)''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 103. EXTENSION OF MARRIAGE DELIMITING DATE FOR SURVIVING 
+                   SPOUSES OF PERSIAN GULF WAR VETERANS TO QUALIFY 
+                   FOR DEATH PENSION.
+
+       Section 1541(f)(1)(E) is amended by striking ``January 1, 
+     2001'' and inserting ``the date that is 10 years and one day 
+     after the date on which the Persian Gulf War was terminated, 
+     as prescribed by Presidential proclamation or by law''.
+
+     SEC. 104. MAKING EFFECTIVE DATE PROVISION CONSISTENT WITH 
+                   PROVISION FOR BENEFITS ELIGIBILITY OF A 
+                   VETERAN'S CHILD BASED UPON TERMINATION OF 
+                   REMARRIAGE BY ANNULMENT.
+
+       Section 5110(l) is amended by striking ``, or of an award 
+     or increase of benefits based on recognition of a child upon 
+     termination of the child's marriage by death or divorce,''.
+
+     SEC. 105. EXPANSION OF MARINE GUNNERY SERGEANT JOHN DAVID FRY 
+                   SCHOLARSHIP.
+
+       (a) Expansion of Entitlement.--Subsection (b)(9) of section 
+     3311 is amended by inserting ``or spouse'' after ``child''.
+       (b) Limitation and Election on Certain Benefits.--
+     Subsection (f) of such section is amended--
+       (1) by redesignating paragraph (2) as paragraph (4); and
+       (2) by inserting after paragraph (1) the following new 
+     paragraphs:
+       ``(2) Limitation.--The entitlement of an individual to 
+     assistance under subsection (a) pursuant to paragraph (9) of 
+     subsection (b) because the individual was a spouse of a 
+     person described in such paragraph shall expire on the 
+     earlier of--
+       ``(A) the date that is 15 years after the date on which the 
+     person died; and
+       ``(B) the date on which the individual remarries.
+       ``(3) Election on receipt of certain benefits.--A surviving 
+     spouse entitled to assistance under subsection (a) pursuant 
+     to paragraph (9) of subsection (b) who is also entitled to 
+     educational assistance under chapter 35 of this title may not 
+     receive assistance under both this section and such chapter, 
+     but shall make an irrevocable election (in such form and 
+     manner as the Secretary may prescribe) under which section or 
+     chapter to receive educational assistance.''.
+       (c) Conforming Amendment.--Section 3321(b)(4) is amended--
+       (1) by striking ``an individual'' and inserting ``a 
+     child''; and
+       (2) by striking ``such individual's'' each time it appears 
+     and inserting ``such child's''.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is two years after the 
+     date of the enactment of this Act.
+
+     SEC. 106. EXPANSION OF YELLOW RIBBON G.I. EDUCATION 
+                   ENHANCEMENT PROGRAM.
+
+       (a) In General.--Section 3317(a) is amended by striking 
+     ``in paragraphs (1) and (2)'' and inserting ``in paragraphs 
+     (1), (2), and (9)''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall apply with respect to academic terms beginning after 
+     July 1, 2015.
+
+     SEC. 107. BENEFITS FOR CHILDREN OF CERTAIN THAILAND SERVICE 
+                   VETERANS BORN WITH SPINA BIFIDA.
+
+       (a) In General.--Subchapter III of chapter 18 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1822. Benefits for children of certain Thailand 
+       service veterans born with spina bifida
+
+       ``(a) Benefits Authorized.--The Secretary may provide to 
+     any child of a veteran of covered service in Thailand who is 
+     suffering from spina bifida the health care, vocational 
+     training and rehabilitation, and monetary allowance required 
+     to be paid to a child of a Vietnam veteran who is suffering 
+     from spina bifida under subchapter I of this chapter as if 
+     such child of a veteran of covered service in Thailand were a 
+     child of a Vietnam veteran who is suffering from spina bifida 
+     under such subchapter.
+
+[[Page 3200]]
+
+       ``(b) Spina Bifida Conditions Covered.--This section 
+     applies with respect to all forms and manifestations of spina 
+     bifida, except spina bifida occulta.
+       ``(c) Veteran of Covered Service in Thailand.--For purposes 
+     of this section, a veteran of covered service in Thailand is 
+     any individual, without regard to the characterization of 
+     that individual's service, who--
+       ``(1) served in the active military, naval, or air service 
+     in Thailand, as determined by the Secretary in consultation 
+     with the Secretary of Defense, during the period beginning on 
+     January 9, 1962, and ending on May 7, 1975; and
+       ``(2) is determined by the Secretary, in consultation with 
+     the Secretary of Defense, to have been exposed to a herbicide 
+     agent during such service in Thailand.
+       ``(d) Herbicide Agent.--For purposes of this section, the 
+     term `herbicide agent' means a chemical in a herbicide used 
+     in support of United States and allied military operations in 
+     Thailand, as determined by the Secretary in consultation with 
+     the Secretary of Defense, during the period beginning on 
+     January 9, 1962, and ending on May 7, 1975.''.
+       (b) Conforming Amendment to Definition of ``Child''.--
+     Section 1831(1) is amended--
+       (1) in subparagraph (B)--
+       (A) by striking ``subchapter III of this chapter'' and 
+     inserting ``section 1821 of this title''; and
+       (B) in clause (i), by striking ``section 1821 of this 
+     title'' and inserting ``that section''; and
+       (2) by adding at the end the following new subparagraph:
+       ``(C) For purposes of section 1822 of this title, an 
+     individual, regardless of age or marital status, who--
+       ``(i) is the natural child of a veteran of covered service 
+     in Thailand (as determined for purposes of that section); and
+       ``(ii) was conceived after the date on which that veteran 
+     first entered service described in subsection (c) of that 
+     section.''.
+       (c) Clerical Amendments.--
+       (1) Subchapter heading.--The heading for subchapter III of 
+     chapter 18 is amended by inserting ``AND THAILAND'' after 
+     ``KOREA''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 18 is amended--
+       (A) by striking the item relating to subchapter III and 
+     inserting the following new item:
+
+   ``subchapter iii--children of certain korea and thailand service 
+                   veterans born with spina bifida'';
+
+     and
+       (B) by inserting after the item relating to section 1821 
+     the following new item:
+
+``1822. Benefits for children of certain Thailand service veterans born 
+              with spina bifida.''.
+
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 108. PROGRAM ON ASSISTED LIVING FOR CHILDREN OF VIETNAM 
+                   VETERANS AND CERTAIN KOREA SERVICE VETERANS 
+                   BORN WITH SPINA BIFIDA.
+
+       (a) Program.--Commencing not later than 180 days after the 
+     date on which this section takes effect, the Secretary of 
+     Veterans Affairs shall carry out a program to assess the 
+     feasibility and advisability of providing assisted living, 
+     group home care, or similar services in lieu of nursing home 
+     care to covered individuals.
+       (b) Covered Individuals.--For purposes of this section, a 
+     covered individual is any individual who is entitled to 
+     health care under subchapter I or III of chapter 18 of title 
+     38, United States Code.
+       (c) Duration.--
+       (1) In general.--Except as otherwise provided in this 
+     subsection, the program shall be carried out during the 
+     three-year period beginning on the date of the commencement 
+     of the program.
+       (2) Continuation.--Subject to paragraph (3), the Secretary 
+     may continue the program for an additional two-year period as 
+     the Secretary considers appropriate.
+       (3) Termination.--The program may not operate after the 
+     date that is five years after the date of the commencement of 
+     the program.
+       (d) Scope of Services and Program.--Under the program, the 
+     Secretary shall provide covered individuals with integrated, 
+     comprehensive services, including the following:
+       (1) Assisted living, group home care, or such other similar 
+     services as the Secretary considers appropriate.
+       (2) Transportation services.
+       (3) Such other services as the Secretary considers 
+     appropriate for the care of covered individuals under the 
+     program.
+       (e) Program Requirements.--In carrying out the program, the 
+     Secretary shall--
+       (1) inform all covered individuals of the services 
+     available under the program;
+       (2) enter into agreements with appropriate providers of 
+     assisted living, group home care, or other similar services 
+     for provision of services under the program; and
+       (3) determine the appropriate number of covered individuals 
+     to be enrolled in the program and criteria for such 
+     enrollment.
+       (f) Reports.--
+       (1) Preliminary reports.--
+       (A) In general.--Not later than one year after the date of 
+     the commencement of the program and, if the program is 
+     continued under subsection (c)(2), not later than three years 
+     after the date of the commencement of the program, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the program.
+       (B) Contents.--Each report submitted under subparagraph (A) 
+     shall include the following:
+       (i) A description of the implementation and operation of 
+     the program.
+       (ii) The number of covered individuals receiving benefits 
+     under the program.
+       (iii) An analysis that compares the costs of furnishing 
+     assisted living, group home care, or similar services with 
+     the costs of furnishing nursing home care.
+       (iv) An analysis of the costs and benefits under the 
+     program.
+       (v) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (vi) Such recommendations for the continuation or expansion 
+     of the program as the Secretary may have.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (B) Contents.--The report submitted under subparagraph (A) 
+     shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (ii) Such recommendations for the continuation or expansion 
+     of the program as the Secretary may have.
+       (g) Funding.--Amounts to carry out the program shall be 
+     derived from amounts appropriated or otherwise made available 
+     for the furnishing of nursing home care under chapter 18 of 
+     title 38, United States Code.
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 109. PROGRAM ON GRIEF COUNSELING IN RETREAT SETTINGS FOR 
+                   SURVIVING SPOUSES OF MEMBERS OF THE ARMED 
+                   FORCES WHO DIE WHILE SERVING ON ACTIVE DUTY IN 
+                   THE ARMED FORCES.
+
+       (a) Program Required.--
+       (1) In general.--Commencing not later than 180 days after 
+     the date on which this section takes effect, the Secretary of 
+     Veterans Affairs shall carry out, through the Readjustment 
+     Counseling Service of the Veterans Health Administration, a 
+     program to assess the feasibility and advisability of 
+     providing grief counseling services described in subsection 
+     (b) in group retreat settings to surviving spouses of members 
+     of the Armed Forces who die while serving on active duty in 
+     the Armed Forces who would, as determined by the Readjustment 
+     Counseling Service, benefit from the services provided under 
+     the program.
+       (2) Participation at election of surviving spouse.--The 
+     participation of a surviving spouse in the program under this 
+     section shall be at the election of the surviving spouse.
+       (b) Covered Services.--The services provided to a surviving 
+     spouse under the program shall include the following:
+       (1) Information and counseling on coping with grief.
+       (2) Information about benefits and services available to 
+     surviving spouses under laws administered by the Secretary.
+       (3) Such other information and counseling as the Secretary 
+     considers appropriate to assist a surviving spouse under the 
+     program with adjusting to the death of a spouse.
+       (c) Events.--The Secretary shall carry out the program at 
+     not fewer than six events as follows:
+       (1) Three events at which surviving spouses with dependent 
+     children are encouraged to bring their children.
+       (2) Three events at which surviving spouses with dependent 
+     children are not encouraged to bring their children.
+       (d) Duration.--The program shall be carried out during the 
+     two-year period beginning on the date of the commencement of 
+     the program.
+       (e) Reports.--
+       (1) In general.--Not later than 180 days after the 
+     completion of the first year of the program and not later 
+     than 180 days after the completion of the program, the 
+     Secretary shall submit to Congress a report on the program.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall contain the findings and conclusions of the Secretary 
+     as a result of the program, and shall include such 
+     recommendations for the continuation or expansion of the 
+     program as the Secretary considers appropriate.
+       (f) Definitions.--In this section, the terms ``active 
+     duty'', ``Armed Forces'', and ``surviving spouse'' have the 
+     meanings given such terms in section 101 of title 38, United 
+     States Code.
+       (g) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+[[Page 3201]]
+
+
+
+     SEC. 110. PROGRAM EVALUATION ON SURVIVORS' AND DEPENDENTS' 
+                   EDUCATIONAL ASSISTANCE AUTHORITIES.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     enter into a contract with an appropriate private sector 
+     entity to conduct a program evaluation of the authorities for 
+     survivors' and dependents' educational assistance under 
+     chapter 35 of title 38, United States Code.
+       (b) Report.--Not later than six months after the entry into 
+     the contract required by subsection (a), the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth the results of the 
+     program evaluation conducted pursuant to the contract, 
+     together with such comments on the results of the program 
+     evaluation as the Secretary considers appropriate.
+       (c) Effective Date.--This section shall take effect one 
+     year after the date of the enactment of this Act.
+
+                      TITLE II--EDUCATION MATTERS
+
+     SEC. 201. APPROVAL OF COURSES OF EDUCATION PROVIDED BY PUBLIC 
+                   INSTITUTIONS OF HIGHER LEARNING FOR PURPOSES OF 
+                   ALL-VOLUNTEER FORCE EDUCATIONAL ASSISTANCE 
+                   PROGRAM AND POST-9/11 EDUCATIONAL ASSISTANCE 
+                   CONDITIONAL ON IN-STATE TUITION RATE FOR 
+                   VETERANS.
+
+       (a) In General.--Section 3679 is amended by adding at the 
+     end the following new subsection:
+       ``(c)(1) Notwithstanding any other provision of this 
+     chapter and subject to paragraphs (3) through (6), the 
+     Secretary shall disapprove a course of education provided by 
+     a public institution of higher learning to a covered 
+     individual pursuing a course of education with educational 
+     assistance under chapter 30 or 33 of this title while living 
+     in the State in which the public institution of higher 
+     learning is located if the institution charges tuition and 
+     fees for that course for the covered individual at a rate 
+     that is higher than the rate the institution charges for 
+     tuition and fees for that course for residents of the State 
+     in which the institution is located, regardless of the 
+     covered individual's State of residence.
+       ``(2) For purposes of this subsection, a covered individual 
+     is any individual as follows:
+       ``(A) A veteran who was discharged or released from a 
+     period of not fewer than 90 days of service in the active 
+     military, naval, or air service less than three years before 
+     the date of enrollment in the course concerned.
+       ``(B) An individual who is entitled to assistance under 
+     section 3311(b)(9) or 3319 of this title by virtue of such 
+     individual's relationship to a veteran described in 
+     subparagraph (A).
+       ``(3) If after enrollment in a course of education that is 
+     subject to disapproval under paragraph (1) by reason of 
+     paragraph (2)(A) or (2)(B) a covered individual pursues one 
+     or more courses of education at the same public institution 
+     of higher learning while remaining continuously enrolled 
+     (other than during regularly scheduled breaks between 
+     courses, semesters or terms) at that institution of higher 
+     learning, any course so pursued by the covered individual at 
+     that institution of higher learning while so continuously 
+     enrolled shall also be subject to disapproval under paragraph 
+     (1).
+       ``(4) It shall not be grounds to disapprove a course of 
+     education under paragraph (1) if a public institution of 
+     higher learning requires a covered individual pursuing a 
+     course of education at the institution to demonstrate an 
+     intent, by means other than satisfying a physical presence 
+     requirement, to establish residency in the State in which the 
+     institution is located, or to satisfy other requirements not 
+     relating to the establishment of residency, in order to be 
+     charged tuition and fees for that course at a rate that is 
+     equal to or less than the rate the institution charges for 
+     tuition and fees for that course for residents of the State.
+       ``(5) The Secretary may waive such requirements of 
+     paragraph (1) as the Secretary considers appropriate.
+       ``(6) Disapproval under paragraph (1) shall apply only with 
+     respect to educational assistance under chapters 30 and 33 of 
+     this title.''.
+       (b) Effective Date.--Subsection (c) of section 3679 of 
+     title 38, United States Code (as added by subsection (a) of 
+     this section), shall apply with respect to educational 
+     assistance provided for pursuit of programs of education 
+     during academic terms that begin after July 1, 2015, through 
+     courses of education that commence on or after that date.
+
+     SEC. 202. EXTENSION AND EXPANSION OF AUTHORITY FOR CERTAIN 
+                   QUALIFYING WORK-STUDY ACTIVITIES FOR PURPOSES 
+                   OF THE EDUCATIONAL ASSISTANCE PROGRAMS OF THE 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Extension of Expiring Current Authority.--Section 
+     3485(a)(4) is amended by striking ``June 30, 2013'' each 
+     place it appears and inserting ``June 30, 2015''.
+       (b) Expansion to Outreach Services Provided Through 
+     Congressional Offices.--Such section is further amended by 
+     adding at the end the following new subparagraph:
+       ``(K) During the period beginning on June 30, 2013, and 
+     ending on June 30, 2015, the following activities carried out 
+     at the offices of Members of Congress for such Members:
+       ``(i) The distribution of information to members of the 
+     Armed Forces, veterans, and their dependents about the 
+     benefits and services under laws administered by the 
+     Secretary and other appropriate governmental and 
+     nongovernmental programs.
+       ``(ii) The preparation and processing of papers and other 
+     documents, including documents to assist in the preparation 
+     and presentation of claims for benefits under laws 
+     administered by the Secretary.''.
+       (c) Annual Reports.--
+       (1) In general.--Not later than June 30 of 2014 and 2015, 
+     the Secretary of Veterans Affairs shall submit to Congress a 
+     report on the work-study allowances paid under paragraph (1) 
+     of section 3485(a) of title 38, United States Code, during 
+     the most recent one-year period for qualifying work-study 
+     activities described in paragraph (4) of such section, as 
+     amended by subsections (a) and (b) of this section.
+       (2) Contents.--Each report submitted under paragraph (1) 
+     shall include, for the year covered by such report, the 
+     following:
+       (A) A description of the recipients of such work-study 
+     allowances.
+       (B) A list of the locations where qualifying work-study 
+     activities were carried out.
+       (C) A description of the outreach conducted by the 
+     Secretary to increase awareness of the eligibility of such 
+     work-study activities for such work-study allowances.
+
+     SEC. 203. PROHIBITIONS RELATING TO REFERENCES TO GI BILL AND 
+                   POST-9/11 GI BILL.
+
+       (a) In General.--Subchapter II of chapter 36 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 3697B. Prohibition relating to references to GI Bill 
+       and Post-9/11 GI Bill
+
+       ``(a) Prohibition.--(1) No person may, except with the 
+     written permission of the Secretary, use the words and 
+     phrases covered by this subsection in connection with any 
+     promotion, goods, services, or commercial activity in a 
+     manner that reasonably and falsely suggests that such use is 
+     approved, endorsed, or authorized by the Department or any 
+     component thereof.
+       ``(2) For purposes of this subsection, the words and 
+     phrases covered by this subsection are as follows:
+       ``(A) `GI Bill'.
+       ``(B) `Post-9/11 GI Bill'.
+       ``(3) A determination that a use of one or more words and 
+     phrases covered by this subsection in connection with a 
+     promotion, goods, services, or commercial activity is not a 
+     violation of this subsection may not be made solely on the 
+     ground that such promotion, goods, services, or commercial 
+     activity includes a disclaimer of affiliation with the 
+     Department or any component thereof.
+       ``(b) Enforcement by Attorney General.--(1) When any person 
+     is engaged or is about to engage in an act or practice which 
+     constitutes or will constitute conduct prohibited by 
+     subsection (a), the Attorney General may initiate a civil 
+     proceeding in a district court of the United States to enjoin 
+     such act or practice.
+       ``(2) Such court may, at any time before final 
+     determination, enter such restraining orders or prohibitions, 
+     or take such other action as is warranted, to prevent injury 
+     to the United States or to any person or class of persons for 
+     whose protection the action is brought.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 36 is amended by inserting after the 
+     item relating to section 3697A the following new item:
+
+``3697B. Prohibition relating to references to GI Bill and Post-9/11 GI 
+              Bill.''.
+
+     SEC. 204. REVIEW OF UTILIZATION OF EDUCATIONAL ASSISTANCE TO 
+                   PURSUE PROGRAMS OF TRAINING ON THE JOB AND 
+                   PARTICIPATING EMPLOYERS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall commence a review of--
+       (1) the utilization of educational assistance under laws 
+     administered by the Secretary of Veterans Affairs to pursue 
+     programs of training on the job (other than programs of 
+     apprenticeship); and
+       (2) the availability of such programs to individuals 
+     seeking to pursue such programs with such educational 
+     assistance.
+       (b) Report.--
+       (1) In general.--Not later than two years after the date on 
+     which the Secretary commences the review required by 
+     subsection (a), the Secretary shall submit to Congress a 
+     report on such review.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The extent of utilization as described in paragraph (1) 
+     of subsection (a).
+       (B) An assessment of the availability of programs as 
+     described in paragraph (2) of such subsection.
+       (C) A description of any barriers the Secretary has 
+     identified to greater utilization of educational assistance 
+     for pursuit of a program of training on the job or 
+     availability of such programs.
+       (D) Such recommendations for legislative or administrative 
+     action as the Secretary may have to increase or decrease such 
+     utilization or availability.
+       (E) Such other matters as the Secretary considers 
+     appropriate.
+
+[[Page 3202]]
+
+
+
+     SEC. 205. REPORT ON DEBT MANAGEMENT AND COLLECTION.
+
+       (a) Report.--Not later than one year after the effective 
+     date specified in subsection (c), the Comptroller General of 
+     the United States shall submit to the Committee on Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a report on processes used by 
+     the Department of Veterans Affairs to identify and resolve 
+     cases of incorrect payments associated with educational 
+     assistance under chapters 30 and 33 of title 38, United 
+     States Code.
+       (b) Issues Addressed.--The report required by subsection 
+     (a) shall, to the extent possible, address the following:
+       (1) The effectiveness of the processes referred to in 
+     subsection (a) in identifying and resolving incorrect 
+     payments associated with educational assistance under 
+     chapters 30 and 33 of title 38, United States Code.
+       (2) The accuracy of overpayment information provided to 
+     veterans by the Education Service and Debt Management Center 
+     of the Department.
+       (3) How well the Debt Management Center of the Department 
+     communicates and works with veterans to resolve disputed debt 
+     amounts.
+       (4) How the payment and debt collection processes of the 
+     Department compare to comparable programs in other Federal 
+     agencies.
+       (5) Any recommendations to improve the payment and debt 
+     collection processes of the Department that the Comptroller 
+     General considers appropriate.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 206. RESTORATION OF PRIOR REPORTING FEE MULTIPLIERS.
+
+       Section 3684(c) is amended--
+       (1) by striking ``$12'' and inserting ``$7''; and
+       (2) by striking ``$15'' and inserting ``$11''.
+
+                     TITLE III--HEALTH CARE MATTERS
+
+      Subtitle A--Expansion and Improvements of Benefits Generally
+
+     SEC. 301. IMPROVED ACCESS TO APPROPRIATE IMMUNIZATIONS FOR 
+                   VETERANS.
+
+       (a) Inclusion of Recommended Adult Immunizations as Medical 
+     Services.--
+       (1) Covered benefit.--Subparagraph (F) of section 1701(9) 
+     is amended to read as follows:
+       ``(F) immunizations against infectious diseases, including 
+     each immunization on the recommended adult immunization 
+     schedule at the time such immunization is indicated on that 
+     schedule;''.
+       (2) Recommended adult immunization schedule defined.--
+     Section 1701 is amended by adding after paragraph (9) the 
+     following new paragraph:
+       ``(10) The term `recommended adult immunization schedule' 
+     means the schedule established (and periodically reviewed 
+     and, as appropriate, revised) by the Advisory Committee on 
+     Immunization Practices established by the Secretary of Health 
+     and Human Services and delegated to the Centers for Disease 
+     Control and Prevention.''.
+       (b) Inclusion of Recommended Adult Immunizations in Annual 
+     Report.--Section 1704(1)(A) is amended--
+       (1) in clause (i), by striking ``and'' at the end;
+       (2) in clause (ii), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by inserting after clause (ii) the following new 
+     clause:
+       ``(iii) to provide veterans each immunization on the 
+     recommended adult immunization schedule at the time such 
+     immunization is indicated on that schedule.''.
+       (c) Report to Congress.--
+       (1) In general.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the development and 
+     implementation by the Department of Veterans Affairs of 
+     quality measures and metrics, including targets for 
+     compliance, to ensure that veterans receiving medical 
+     services under chapter 17 of title 38, United States Code, 
+     receive each immunization on the recommended adult 
+     immunization schedule at the time such immunization is 
+     indicated on that schedule.
+       (2) Recommended adult immunization schedule defined.--In 
+     this subsection, the term ``recommended adult immunization 
+     schedule'' has the meaning given that term in section 
+     1701(10) of title 38, United States Code, as added by 
+     subsection (a)(2).
+       (3) Effective date.--This subsection shall take effect on 
+     the date that is one year after the date of the enactment of 
+     this Act.
+
+     SEC. 302. EXPANSION OF PROVISION OF CHIROPRACTIC CARE AND 
+                   SERVICES TO VETERANS.
+
+       (a) Program for Provision of Chiropractic Care and Services 
+     to Veterans.--Section 204(c) of the Department of Veterans 
+     Affairs Health Care Programs Enhancement Act of 2001 (Public 
+     Law 107-135; 115 Stat. 2459; 38 U.S.C. 1710 note) is 
+     amended--
+       (1) by inserting ``(1)'' before ``The program''; and
+       (2) by adding at the end the following new paragraph:
+       ``(2) The program shall be carried out at not fewer than 
+     two medical centers or clinics in each Veterans Integrated 
+     Service Network by not later than one year after the 
+     effective date specified in section 302(c) of the 
+     Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014, and at not fewer than 
+     50 percent of all medical centers in each Veterans Integrated 
+     Service Network by not later than two years after such 
+     effective date.''.
+       (b) Expanded Chiropractor Services Available to Veterans.--
+       (1) Medical services.--Paragraph (6) of section 1701 is 
+     amended by adding at the end the following new subparagraph:
+       ``(H) Chiropractic services.''.
+       (2) Rehabilitative services.--Paragraph (8) of such section 
+     is amended by inserting ``chiropractic,'' after 
+     ``counseling,''.
+       (3) Preventive health services.--Paragraph (9) of such 
+     section is amended--
+       (A) by redesignating subparagraphs (F) through (K) as 
+     subparagraphs (G) through (L), respectively; and
+       (B) by inserting after subparagraph (E) the following new 
+     subparagraph (F):
+       ``(F) periodic and preventive chiropractic examinations and 
+     services;''.
+       (c) Effective Date.--This section and the amendments made 
+     by this section shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 303. MODIFICATION OF COMMENCEMENT DATE OF PERIOD OF 
+                   SERVICE AT CAMP LEJEUNE, NORTH CAROLINA, FOR 
+                   ELIGIBILITY FOR HOSPITAL CARE AND MEDICAL 
+                   SERVICES IN CONNECTION WITH EXPOSURE TO 
+                   CONTAMINATED WATER.
+
+       (a) Modification.--Section 1710(e)(1)(F) is amended by 
+     striking ``January 1, 1957,'' and inserting ``August 1, 1953 
+     (or such earlier date for the commencement of exposure to 
+     contaminated water at Camp Lejeune as the Secretary, in 
+     consultation with the Agency for Toxic Substances and Disease 
+     Registry, shall specify),''.
+       (b) Publication.--The Secretary of Veterans Affairs shall 
+     publish in the Federal Register a notice of any earlier date 
+     for the commencement of exposure to contaminated water at 
+     Camp Lejeune, North Carolina, for purposes of section 
+     1710(e)(1)(F) of title 38, United States Code, as amended by 
+     subsection (a).
+
+     SEC. 304. EXPANSION OF EMERGENCY TREATMENT REIMBURSEMENT FOR 
+                   CERTAIN VETERANS.
+
+       (a) In General.--Section 1725(b)(2)(B) is amended--
+       (1) by inserting ``(i)'' after ``(B)'';
+       (2) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(ii) the veteran was unable to receive care under this 
+     chapter within such 24-month period because of a waiting 
+     period imposed by the Department with respect to a new 
+     patient examination of such veteran.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 305. EXTENSION OF SUNSET DATE REGARDING TRANSPORTATION 
+                   OF INDIVIDUALS TO AND FROM FACILITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS AND REQUIREMENT 
+                   OF REPORT.
+
+       (a) Extension of Sunset Date.--Subsection (a)(2) of section 
+     111A is amended by striking ``December 31, 2014'' and 
+     inserting ``September 30, 2015''.
+       (b) Funding Available.--Such section is further amended by 
+     adding at the end the following new subsection:
+       ``(c) Funding.--There is hereby authorized to be 
+     appropriated for each of fiscal years 2014 and 2015 for the 
+     Department, $4,000,000 to carry out this section.''.
+       (c) Report.--Not later than one year after the date of the 
+     enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on--
+       (1) the efforts of the Secretary to carry out the 
+     transportation services required by section 111A(a) of title 
+     38, United States Code;
+       (2) the utilization of those services by covered veterans; 
+     and
+       (3) the feasibility and advisability of the continuation of 
+     the provision of such services after September 30, 2015.
+
+     SEC. 306. EXTENSION AND MODIFICATION OF PILOT PROGRAM ON 
+                   ASSISTED LIVING SERVICES FOR VETERANS WITH 
+                   TRAUMATIC BRAIN INJURY.
+
+       (a) Extension of Program.--Subsection (a) of section 1705 
+     of the National Defense Authorization Act for Fiscal Year 
+     2008 (Public Law 110-181; 38 U.S.C. 1710C note) is amended by 
+     striking ``a five-year'' and inserting ``an eight-year''.
+       (b) Modification of Locations.--Subsection (b) of such 
+     section is amended--
+       (1) by redesignating paragraph (2) as paragraph (3); and
+       (2) by striking paragraph (1) and inserting the following 
+     new paragraphs:
+       ``(1) In general.--The pilot program shall be carried out 
+     at locations selected by the Secretary for purposes of the 
+     pilot program.
+       ``(2) Located in same region as polytrauma centers.--Of the 
+     locations selected under paragraph (1), at least one location 
+     shall be in each health care region of the Veterans Health 
+     Administration of the Department of Veterans Affairs that 
+     contains a polytrauma center of the Department of Veterans 
+     Affairs.''.
+
+[[Page 3203]]
+
+       (c) Modification of Report Requirements.--Subsection (e) of 
+     such section is amended to read as follows:
+       ``(e) Reports.--
+       ``(1) Annual report.--
+       ``(A) In general.--Not later than two years after the date 
+     of the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     and not later than September 30 each year thereafter until 
+     2018, the Secretary shall submit to the Committee on 
+     Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the pilot program.
+       ``(B) Elements.--Each report submitted under subparagraph 
+     (A) shall include the following:
+       ``(i) The number of individuals that participated in the 
+     pilot program during the year preceding the submission of the 
+     report.
+       ``(ii) The number of individuals that successfully 
+     completed the pilot program during the year preceding the 
+     submission of the report.
+       ``(iii) The degree to which pilot program participants and 
+     family members of pilot program participants were satisfied 
+     with the pilot program.
+       ``(iv) The interim findings and conclusions of the 
+     Secretary with respect to the success of the pilot program 
+     and recommendations for improvement.
+       ``(2) Final report.--
+       ``(A) In general.--Not later than 60 days after the 
+     completion of the pilot program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a final report on the pilot program.
+       ``(B) Elements.--The final report required by subparagraph 
+     (A) shall include the following:
+       ``(i) A description of the pilot program.
+       ``(ii) An assessment of the utility of the activities under 
+     the pilot program in enhancing the rehabilitation, quality of 
+     life, and community reintegration of veterans with traumatic 
+     brain injury, including complex mild traumatic brain injury.
+       ``(iii) Such recommendations as the Secretary considers 
+     appropriate regarding improving the pilot program.''.
+       (d) Modification of Definitions.--
+       (1) Community-based brain injury residential rehabilitative 
+     care services.--Such section is further amended--
+       (A) in the section heading, by striking ``assisted living'' 
+     and inserting ``community-based brain injury residential 
+     rehabilitative care'';
+       (B) in subsection (c), in the subsection heading, by 
+     striking ``Assisted Living'' and inserting ``Community-based 
+     Brain Injury Residential Rehabilitative Care'';
+       (C) by striking ``assisted living'' each place it appears, 
+     and inserting ``community-based brain injury rehabilitative 
+     care''; and
+       (D) in subsection (f)(1), by striking ``and personal care'' 
+     and inserting ``rehabilitation, and personal care''.
+       (2) Eligible veteran.--Subsection (f)(3) of such section is 
+     amended--
+       (A) in subparagraph (C), by striking ``; and'' and 
+     inserting a semicolon;
+       (B) in subparagraph (D), by striking the period at the end 
+     and inserting ``; and''; and
+       (C) by adding at the end the following new subparagraph:
+       ``(E) has a traumatic brain injury that is classified as 
+     complex-mild to severe.''.
+       (e) Authorization of Appropriations.--There is authorized 
+     to be appropriated for the Department of Veterans Affairs for 
+     fiscal year 2015 $46,000,000 to carry out the pilot program 
+     under section 1705 of the National Defense Authorization Act 
+     for Fiscal Year 2008 (Public Law 110-181; 38 U.S.C. 1710C 
+     note), as amended by this section. The amount so authorized 
+     to be appropriated shall be available for obligation for the 
+     three-year period beginning on the date that is one year 
+     after the date of the enactment of this Act.
+       (f) Effective Date.--The amendments made by this section 
+     shall take effect on October 1, 2014.
+
+     SEC. 307. PROGRAM ON HEALTH PROMOTION FOR OVERWEIGHT AND 
+                   OBESE VETERANS THROUGH SUPPORT OF FITNESS 
+                   CENTER MEMBERSHIPS.
+
+       (a) Program Required.--Commencing not later than 180 days 
+     after the date on which this section takes effect, the 
+     Secretary of Veterans Affairs shall, through the National 
+     Center for Preventive Health, carry out a program to assess 
+     the feasibility and advisability of promoting health in 
+     covered veterans, including achieving a healthy weight and 
+     reducing risks of chronic disease, through support for 
+     fitness center membership.
+       (b) Covered Veterans.--For purposes of this section, a 
+     covered veteran is any veteran who--
+       (1) is enrolled in the system of annual patient enrollment 
+     established and operated by the Secretary under section 1705 
+     of title 38, United States Code;
+       (2) is determined by a clinician of the Department of 
+     Veterans Affairs to be overweight or obese as of the date of 
+     the commencement of the program; and
+       (3) resides in a location that is more than 15 minutes 
+     driving distance from a fitness center at a facility of the 
+     Department that would otherwise be available to the veteran 
+     for at least eight hours per day during five or more days per 
+     week.
+       (c) Duration of Program.--The program shall be carried out 
+     during the two-year period beginning on the date of the 
+     commencement of the program.
+       (d) Locations.--
+       (1) In general.--In carrying out the program, the Secretary 
+     shall select--
+       (A) not less than five medical centers of the Department at 
+     which the Secretary shall cover the full reasonable cost of a 
+     fitness center membership for covered veterans within the 
+     catchment area of such centers; and
+       (B) not less than five medical centers of the Department at 
+     which the Secretary shall cover half the reasonable cost of a 
+     fitness center membership for covered veterans within the 
+     catchment area of such centers.
+       (2) Considerations.--In selecting locations for the 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in the following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas in different geographic locations.
+       (e) Participation.--
+       (1) Maximum number of participants.--The number of covered 
+     veterans who may participate in the program at each location 
+     selected under subsection (d) may not exceed 100.
+       (2) Voluntary participation.--The participation of a 
+     covered veteran in the program shall be at the election of 
+     the covered veteran in consultation with a clinician of the 
+     Department.
+       (f) Membership Payment.--
+       (1) In general.--Except as provided in paragraph (2), in 
+     carrying out the program, the Secretary shall pay the 
+     following:
+       (A) The full reasonable cost of a fitness center membership 
+     for covered veterans within the catchment area of centers 
+     selected under subsection (d)(1)(A) who are participating in 
+     the program.
+       (B) Half the reasonable cost of a fitness center membership 
+     for covered veterans within the catchment area of centers 
+     selected under subsection (d)(1)(B) who are participating in 
+     the program.
+       (2) Limitation.--Payment for a fitness center membership of 
+     a covered veteran may not exceed $50 per month of membership.
+       (g) Reports.--
+       (1)  Periodic reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on activities carried out to 
+     implement the program, including outreach activities to 
+     veterans and community organizations.
+       (2) Final report.--Not later than 180 days after the date 
+     of the completion of the program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program detailing--
+       (A) the findings and conclusions of the Secretary as a 
+     result of the program; and
+       (B) recommendations for the continuation or expansion of 
+     the program.
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 308. PROGRAM ON HEALTH PROMOTION FOR VETERANS THROUGH 
+                   ESTABLISHMENT OF DEPARTMENT OF VETERANS AFFAIRS 
+                   FITNESS FACILITIES.
+
+       (a) Program Required.--Commencing not later than 180 days 
+     after the date on which this section takes effect, the 
+     Secretary of Veterans Affairs shall carry out a program to 
+     assess the feasibility and advisability of promoting health 
+     in covered veterans, including achieving a healthy weight, 
+     through establishment of Department of Veterans Affairs 
+     fitness facilities.
+       (b) Covered Veterans.--For purposes of this section, a 
+     covered veteran is any veteran who is enrolled in the system 
+     of annual patient enrollment established and operated by the 
+     Secretary under section 1705 of title 38, United States Code.
+       (c) Duration of Program.--The program shall be carried out 
+     during the three-year period beginning on the date of the 
+     commencement of the program.
+       (d) Locations.--
+       (1) In general.--The Secretary shall carry out the program 
+     by establishing fitness facilities in Department facilities 
+     as follows:
+       (A) In not fewer than five Department of Veterans Affairs 
+     medical centers selected by the Secretary for purposes of the 
+     program.
+       (B) In not fewer than five outpatient clinics of the 
+     Department selected by the Secretary for purposes of the 
+     program.
+       (2) Considerations.--In selecting locations for the 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in the following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas in different geographic locations.
+       (e) Limitation on Expenses.--In establishing and supporting 
+     a fitness facility in a
+
+[[Page 3204]]
+
+     facility of the Department under the program, the Secretary 
+     may expend amounts as follows:
+       (1) For establishment and support of a fitness facility in 
+     a Department of Veterans Affairs medical center, not more 
+     than $60,000.
+       (2) For establishment and support of a fitness facility in 
+     an outpatient clinic of the Department, not more than 
+     $40,000.
+       (f) Repurposing of Physical Space and Purchases of 
+     Equipment.--
+       (1) In general.--Subject to subsection (e), the Secretary 
+     may, in carrying out the program, repurpose existing physical 
+     space of the Department and purchase such fitness equipment 
+     and supplies as the Secretary considers appropriate for 
+     purposes of the program.
+       (2) Repurposing exception.--Existing physical space used 
+     for the direct delivery of health care to patients may not be 
+     repurposed under paragraph (1).
+       (g) Prohibition on Assessment of User Fees.--The Secretary 
+     may not assess a fee upon a covered veteran for use of a 
+     fitness facility established under the program.
+       (h) Voluntary Participation.--The participation of a 
+     covered veteran in the program shall be at the election of 
+     the covered veteran.
+       (i) Reports.--
+       (1) Periodic reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on activities carried out to 
+     implement the program, including outreach activities to 
+     veterans and community organizations.
+       (2) Final report.--Not later than 180 days after the date 
+     of the completion of the program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program detailing--
+       (A) the findings and conclusions of the Secretary as a 
+     result of the program; and
+       (B) recommendations for the continuation or expansion of 
+     the program.
+       (j) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+                 Subtitle B--Health Care Administration
+
+     SEC. 311. EXTENSION OF DEPARTMENT OF VETERANS AFFAIRS HEALTH 
+                   PROFESSIONAL SCHOLARSHIP PROGRAM.
+
+       Section 7619 is amended by striking ``December 31, 2014'' 
+     and inserting ``December 31, 2019''.
+
+     SEC. 312. EXPANSION OF AVAILABILITY OF PROSTHETIC AND 
+                   ORTHOTIC CARE FOR VETERANS.
+
+       (a) Establishment or Expansion of Advanced Degree Programs 
+     To Expand Availability of Provision of Care.--The Secretary 
+     of Veterans Affairs shall work with institutions of higher 
+     education to develop partnerships for the establishment or 
+     expansion of programs of advanced degrees in prosthetics and 
+     orthotics in order to improve and enhance the availability of 
+     high quality prosthetic and orthotic care for veterans.
+       (b) Report.--Not later than one year after the date of the 
+     enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth a plan for carrying 
+     out subsection (a). The Secretary shall develop the plan in 
+     consultation with veterans service organizations, 
+     institutions of higher education with accredited degree 
+     programs in prosthetics and orthotics, and representatives of 
+     the prosthetics and orthotics field.
+       (c) Funding.--
+       (1) Authorization of appropriations.--There is hereby 
+     authorized to be appropriated for fiscal year 2015 for the 
+     Department of Veterans Affairs, $10,000,000 to carry out this 
+     section.
+       (2) Availability.--The amount authorized to be appropriated 
+     by paragraph (1) shall remain available for expenditure until 
+     September 30, 2017.
+
+     SEC. 313. LIMITATION ON EXPANSION OF DIALYSIS PILOT PROGRAM.
+
+       (a) Limitation.--The Secretary of Veterans Affairs shall 
+     not expand the dialysis pilot program to, or expand the 
+     capacity to provide additional dialysis care at, any facility 
+     owned or leased by the Department that is not an initial 
+     facility until after the date that--
+       (1) the Secretary has implemented the dialysis pilot 
+     program at each initial facility for a period of not less 
+     than two years;
+       (2) an independent analysis of the dialysis pilot program 
+     has been conducted at each initial facility, including a 
+     consideration and comparison of factors including--
+       (A) the ability of veterans to access care under the 
+     dialysis pilot program;
+       (B) the quality of care provided under the dialysis pilot 
+     program; and
+       (C) the satisfaction of veterans who have received 
+     treatment under the dialysis pilot program; and
+       (3) the report required by subsection (b) has been 
+     submitted.
+       (b) Report.--Not later than 60 days after the date of the 
+     completion of the independent analysis required by subsection 
+     (a)(2), the Secretary shall submit to Congress a report 
+     that--
+       (1) includes the results of that independent analysis; and
+       (2) addresses any recommendations with respect to the 
+     dialysis pilot program provided in a report prepared by the 
+     Government Accountability Office.
+       (c) Utilization of Existing Dialysis Resources.--In order 
+     to increase the access of veterans to dialysis care and 
+     decrease the travel time of such veterans to receive such 
+     care, the Secretary shall fully utilize existing dialysis 
+     resources of the Department, including any community dialysis 
+     provider with which the Department has entered into a 
+     contract or agreement for the provision of such care.
+       (d) Definitions.--In this section:
+       (1) Dialysis pilot program.--The term ``dialysis pilot 
+     program'' means the pilot demonstration program established 
+     by the Secretary in 2009 to provide dialysis care to patients 
+     at certain outpatient facilities operated by the Department 
+     of Veterans Affairs.
+       (2) Initial facility.--The term ``initial facility'' means 
+     one of the four outpatient facilities identified by the 
+     Secretary to participate in the dialysis pilot program prior 
+     to the date of the enactment of this Act.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 314. REQUIREMENT FOR DEPARTMENT OF VETERANS AFFAIRS 
+                   POLICY ON REPORTING CASES OF INFECTIOUS 
+                   DISEASES AT FACILITIES OF THE DEPARTMENT.
+
+       (a) In General.--Subchapter II of chapter 73 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 7330B. Reporting of infectious diseases
+
+       ``(a) Reporting.--The Secretary shall ensure that the 
+     Department has in effect an up-to-date policy on reporting a 
+     notifiable infectious disease diagnosed at a facility under 
+     the jurisdiction of the Secretary in accordance with the 
+     provisions of State and local law in effect where such 
+     facility is located.
+       ``(b) Notifiable Infectious Disease.--For purposes of this 
+     section, a notifiable infectious disease is any infectious 
+     disease that is--
+       ``(1) on the list of nationally notifiable diseases 
+     published by the Council of State and Territorial 
+     Epidemiologists and the Centers for Disease Control and 
+     Prevention; or
+       ``(2) covered by a provision of law of a State that 
+     requires the reporting of infectious diseases.
+       ``(c) Performance Measures.--The Secretary shall develop 
+     performance measures to assess whether and to what degree the 
+     directors of Veterans Integrated Service Networks and 
+     Department medical centers are complying with the policy 
+     required by subsection (a).''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 73 is amended by inserting after the 
+     item relating to section 7330A the following new item:
+
+``7330B. Reporting of infectious diseases.''.
+
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 315. INDEPENDENT ASSESSMENT OF THE VETERANS INTEGRATED 
+                   SERVICE NETWORKS AND MEDICAL CENTERS OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Contract.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     seek to enter into a contract with an independent third-party 
+     to perform the services covered by this section.
+       (2) Timing.--The Secretary shall seek to enter into the 
+     contract described in paragraph (1) not later than 540 days 
+     after the date of the enactment of this Act.
+       (b) Independent Study.--
+       (1) In general.--Under a contract between the Secretary and 
+     an independent third-party under this section, the third 
+     party shall carry out a study--
+       (A) to assess the organizational structures of medical 
+     centers of the Department of Veterans Affairs; and
+       (B) to improve succession planning among key leadership 
+     roles at Veterans Integrated Service Networks and medical 
+     centers of the Department.
+       (2) Matters studied and proposed.--In carrying out the 
+     study, the third party shall--
+       (A) assess whether the organizational structure of the 
+     medical centers of the Department is effective for the 
+     furnishing of medical services, addressing issues that arise 
+     regarding the furnishing of medical services, and addressing 
+     standard business operations;
+       (B) propose one organizational chart for Department medical 
+     centers with a common set of base position descriptions;
+       (C) propose a base set of medical positions that should be 
+     filled to ensure that the health care provided to veterans by 
+     the Department is of good quality; and
+       (D) identify which key leadership positions at Veterans 
+     Integrated Service Networks and Department medical centers 
+     should have succession plans and propose how to implement 
+     such plans.
+       (3) Timing.--The third party shall complete the study under 
+     this section not later than
+
+[[Page 3205]]
+
+     270 days after entering into the contract described in 
+     subsection (a).
+       (c) Report.--Not later than 90 days after the date on which 
+     the third party completes the study under this section, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the results of such 
+     study.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 316. REQUIREMENTS IN CONNECTION WITH NEXT UPDATE OF 
+                   CURRENT STRATEGIC PLAN FOR OFFICE OF RURAL 
+                   HEALTH OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Requirements.--
+       (1) In general.--The first update of the Strategic Plan 
+     Refresh for Fiscal Years 2012 through 2014 of the Office of 
+     Rural Health of the Department of Veterans Affairs after the 
+     date of the enactment of this Act, whether an update or 
+     refresh of such Strategic Plan Refresh or a strategic plan to 
+     supersede such Strategic Plan Refresh, shall be prepared in 
+     accordance with this section.
+       (2) Consultation.--The Director of the Office of Rural 
+     Health shall prepare the update in consultation with the 
+     following:
+       (A) The Director of the Health Care Retention and 
+     Recruitment Office of the Department.
+       (B) The Director of the Office of Quality and Performance 
+     of the Department.
+       (C) The Director of the Office of Care Coordination 
+     Services of the Department.
+       (b) Elements.--The update described in subsection (a) shall 
+     include, for the period covered by the update, the following:
+       (1) Goals and objectives for the recruitment and retention 
+     by the Veterans Health Administration of health care 
+     personnel in rural areas.
+       (2) Goals and objectives for ensuring timeliness and 
+     improving quality in the delivery of health care services by 
+     the Veterans Health Administration in rural areas through 
+     contract and fee-basis providers.
+       (3) Goals and objectives for the implementation, expansion, 
+     and enhanced use of telemedicine services by the Veterans 
+     Health Administration in rural areas, including through 
+     coordination with other appropriate offices of the 
+     Department.
+       (4) Goals and objectives for ensuring the full and 
+     effective use of mobile outpatient clinics by the Veterans 
+     Health Administration for the provision of health care 
+     services in rural areas, including goals and objectives for 
+     the use of such clinics on a fully mobile basis and for 
+     encouraging health care providers who provide services 
+     through such clinics to do so in rural areas.
+       (5) Procedures for soliciting from each Veterans Health 
+     Administration facility that serves a rural area the 
+     following:
+       (A) A statement of the clinical capacity of such facility.
+       (B) The procedures of such facility in the event of a 
+     medical, surgical, or mental health emergency outside the 
+     scope of the clinical capacity of such facility.
+       (C) The procedures and mechanisms of such facility for the 
+     provision and coordination of health care for women veterans, 
+     including procedures and mechanisms for coordination with 
+     local hospitals and health care facilities, oversight of 
+     primary care and fee-basis care, and management of specialty 
+     care.
+       (6) Goals and objectives for the modification of the 
+     funding allocation mechanisms of the Office of Rural Health 
+     in order to ensure that the Office distributes funds to 
+     components of the Department to best achieve the goals and 
+     objectives of the Office and in a timely manner.
+       (7) Goals and objectives for the coordination of, and 
+     sharing of resources with respect to, the provision of health 
+     care services to veterans in rural areas between the 
+     Department of Veterans Affairs, the Department of Defense, 
+     the Indian Health Service of the Department of Health and 
+     Human Services, and other Federal agencies, as appropriate 
+     and prudent.
+       (8) Specific milestones for the achievement of the goals 
+     and objectives developed for the update.
+       (9) Procedures for ensuring the effective implementation of 
+     the update.
+       (c) Transmittal to Congress.--Not later than 90 days after 
+     the date of the issuance of the update described in 
+     subsection (a), the Secretary of Veterans Affairs shall 
+     transmit the update to Congress, together with such comments 
+     and recommendations in connection with the update as the 
+     Secretary considers appropriate.
+
+     SEC. 317. REPORT ON PROVISION OF TELEMEDICINE SERVICES.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the following:
+       (1) Issues that may be impeding the provision by the 
+     Department of Veterans Affairs of telemedicine services for 
+     veterans, including the following:
+       (A) Statutory or regulatory restrictions.
+       (B) Licensure or credentialing issues for any provider 
+     practicing telemedicine with veterans who live in a different 
+     State than the provider.
+       (C) Limited broadband access in rural areas.
+       (D) Limited information technology resources or 
+     capabilities.
+       (E) Long distances veterans must travel to access a 
+     facility or clinic with telemedicine capabilities.
+       (F) Insufficient liability protection for providers.
+       (G) Reimbursement issues faced by providers.
+       (H) Travel limitations for providers that are unaffiliated 
+     with the Department and are participating or seeking to 
+     participate in a telemedicine program of the Department.
+       (2) Actions taken to address the issues identified in 
+     paragraph (1).
+       (3) An update on efforts by the Department to carry out the 
+     initiative of teleconsultation for the provision of remote 
+     mental health and traumatic brain injury assessments required 
+     by section 1709A of title 38, United States Code.
+       (4) An update on efforts by the Department to offer 
+     training opportunities in telemedicine to medical residents, 
+     as required by section 108(b) of the Janey Ensminger Act 
+     (Public Law 112-154; 38 U.S.C. 7406 note).
+       (5) An update on efforts by the Department to, in 
+     partnership with primary care providers, install video 
+     cameras and instruments to monitor weight, blood pressure, 
+     and other vital statistics in the homes of patients.
+       (b) Telemedicine Defined.--In this section, the term 
+     ``telemedicine'' means the use by a health care provider of 
+     telecommunications to assist in the diagnosis or treatment of 
+     a patient's medical condition.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 318. REPORT ON EXPANSION OF PATIENT ENROLLMENT.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Comptroller General of the 
+     United States shall submit to Congress a report on the 
+     feasibility and advisability of the Department of Veterans 
+     Affairs expanding enrollment in the system of patient 
+     enrollment established and operated under section 1705 of 
+     title 38, United States Code, of veterans described in 
+     subsection (a)(8) of that section.
+       (b) Elements.--The report required by subsection (a) shall 
+     include an analysis of the following:
+       (1) The ability of the Department to manage an expansion of 
+     enrollment in the system of patient enrollment under that 
+     section to veterans described in subsection (a)(8) of that 
+     section.
+       (2) The impact of such expansion on the budget of the 
+     Department.
+       (3) The impact of such expansion on the ability of medical 
+     centers of the Department to provide health care to veterans.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 319. REPORT ON EXPANSION OF PROGRAM OF COMPREHENSIVE 
+                   ASSISTANCE FOR FAMILY CAREGIVERS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Comptroller General of the 
+     United States shall submit to Congress a report on the 
+     feasibility and advisability of the Department of Veterans 
+     Affairs expanding the program of comprehensive assistance for 
+     family caregivers under section 1720G of title 38, United 
+     States Code.
+       (b) Elements.--The report required by subsection (a) shall 
+     include an analysis of the following:
+       (1) The ability of the Department to manage an expansion of 
+     the program of comprehensive assistance for family caregivers 
+     under that section.
+       (2) The impact of such expansion on the budget of the 
+     Department.
+       (3) The impact of such expansion on the ability of medical 
+     centers of the Department to provide health care to veterans.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 320. DESIGNATION OF CORPORAL MICHAEL J. CRESCENZ 
+                   DEPARTMENT OF VETERANS AFFAIRS MEDICAL CENTER.
+
+       (a) Designation.--The medical center of the Department of 
+     Veterans Affairs located at 3900 Woodland Avenue in 
+     Philadelphia, Pennsylvania, shall after the date of the 
+     enactment of this Act be known and designated as the 
+     ``Corporal Michael J. Crescenz Department of Veterans Affairs 
+     Medical Center''.
+       (b) References.--Any reference in any law, regulation, map, 
+     document, paper, or other record of the United States to the 
+     medical center referred to in subsection (a) shall be 
+     considered to be a reference to the Corporal Michael J. 
+     Crescenz Department of Veterans Affairs Medical Center.
+
+           Subtitle C--Complementary and Alternative Medicine
+
+     SEC. 321. EXPANSION OF RESEARCH AND EDUCATION ON AND DELIVERY 
+                   OF COMPLEMENTARY AND ALTERNATIVE MEDICINE TO 
+                   VETERANS.
+
+       (a) Development of Plan To Expand Research, Education, and 
+     Delivery.--Not later than six months after the effective date 
+     specified in subsection (f), the Secretary of Veterans 
+     Affairs shall develop a plan to expand materially and 
+     substantially the scope
+
+[[Page 3206]]
+
+     of research and education on, and delivery and integration 
+     of, complementary and alternative medicine services into the 
+     health care services provided to veterans.
+       (b) Elements.--The plan required by subsection (a) shall 
+     provide for the following:
+       (1) Research on the following:
+       (A) The comparative effectiveness of various complementary 
+     and alternative medicine therapies.
+       (B) Approaches to integrating complementary and alternative 
+     medicine services into other health care services provided by 
+     the Department.
+       (2) Education and training for health care professionals of 
+     the Department on the following:
+       (A) Complementary and alternative medicine services 
+     selected by the Secretary for purposes of the plan.
+       (B) Appropriate uses of such services.
+       (C) Integration of such services into the delivery of 
+     health care to veterans.
+       (3) Research, education, and clinical activities on 
+     complementary and alternative medicine at centers of 
+     innovation at Department medical centers.
+       (4) Identification or development of metrics and outcome 
+     measures to evaluate the provision and integration of 
+     complementary and alternative medicine services into the 
+     delivery of health care to veterans.
+       (5) Integration and delivery of complementary and 
+     alternative medicine services with other health care services 
+     provided by the Department.
+       (c) Consultation.--
+       (1) In general.--In carrying out subsection (a), the 
+     Secretary shall consult with the following:
+       (A) The Director of the National Center on Complementary 
+     and Alternative Medicine of the National Institutes of 
+     Health.
+       (B) The Commissioner of Food and Drugs.
+       (C) Institutions of higher education, private research 
+     institutes, and individual researchers with extensive 
+     experience in complementary and alternative medicine and the 
+     integration of complementary and alternative medicine 
+     practices into the delivery of health care.
+       (D) Nationally recognized providers of complementary and 
+     alternative medicine.
+       (E) Such other officials, entities, and individuals with 
+     expertise on complementary and alternative medicine as the 
+     Secretary considers appropriate.
+       (2) Scope of consultation.--The Secretary shall undertake 
+     consultation under paragraph (1) in carrying out subsection 
+     (a) with respect to the following:
+       (A) To develop the plan.
+       (B) To identify specific complementary and alternative 
+     medicine practices that, on the basis of research findings or 
+     promising clinical interventions, are appropriate to include 
+     as services to veterans.
+       (C) To identify barriers to the effective provision and 
+     integration of complementary and alternative medicine 
+     services into the delivery of health care to veterans, and to 
+     identify mechanisms for overcoming such barriers.
+       (d) Funding.--There is authorized to be appropriated to the 
+     Secretary such sums as may be necessary to carry out this 
+     section.
+       (e) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in 
+     regulations the Secretary shall prescribe for purposes of 
+     this section, which shall, to the degree practicable, be 
+     consistent with the meaning given such term by the Secretary 
+     of Health and Human Services.
+       (f) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 322. PROGRAM ON INTEGRATION OF COMPLEMENTARY AND 
+                   ALTERNATIVE MEDICINE WITHIN DEPARTMENT OF 
+                   VETERANS AFFAIRS MEDICAL CENTERS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall--
+       (1) carry out, through the Office of Patient Centered Care 
+     and Cultural Transformation of the Department of Veterans 
+     Affairs, a program to assess the feasibility and advisability 
+     of integrating the delivery of complementary and alternative 
+     medicine services selected by the Secretary with other health 
+     care services provided by the Department for veterans with 
+     mental health conditions, chronic pain conditions, other 
+     chronic conditions, and such other conditions as the 
+     Secretary determines appropriate; and
+       (2) in developing the program, identify and resolve 
+     barriers to the provision of complementary and alternative 
+     medicine services selected by the Secretary and the 
+     integration of those services with other health care services 
+     provided by the Department.
+       (b) Duration of Program.--The program shall be carried out 
+     during the three-year period beginning on the effective date 
+     specified in subsection (j).
+       (c) Locations.--
+       (1) In general.--The Secretary shall carry out the program 
+     at not fewer than 15 separate Department medical centers.
+       (2) Polytrauma centers.--Not less than two of the medical 
+     centers designated under paragraph (1) shall be located at 
+     polytrauma rehabilitation centers of the Department.
+       (3) Selection of locations.--In carrying out the program, 
+     the Secretary shall select locations that include the 
+     following areas:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas representing different geographic locations, such 
+     as census tracts established by the Bureau of the Census.
+       (d) Provision of Services.--Under the program, the 
+     Secretary shall provide covered services to covered veterans 
+     by integrating complementary and alternative medicine 
+     services with other services provided by the Department at 
+     the medical centers designated under subsection (c)(1).
+       (e) Covered Veterans.--For purposes of the program, a 
+     covered veteran is any veteran who--
+       (1) has a mental health condition diagnosed by a clinician 
+     of the Department;
+       (2) experiences chronic pain; or
+       (3) has a chronic condition being treated by a clinician of 
+     the Department.
+       (f) Covered Services.--
+       (1) In general.--For purposes of the program, covered 
+     services are services consisting of complementary and 
+     alternative medicine as selected by the Secretary.
+       (2) Administration of services.--Covered services shall be 
+     administered under the program as follows:
+       (A) Covered services shall be administered by clinicians 
+     employed by the Secretary for purposes of this section who, 
+     to the extent practicable, shall provide services consisting 
+     of complementary and alternative medicine, including those 
+     clinicians who solely provide such services.
+       (B) Covered services shall be included as part of the 
+     Patient Aligned Care Teams initiative of the Office of 
+     Patient Care Services, Primary Care Program Office, in 
+     coordination with the Office of Patient Centered Care and 
+     Cultural Transformation.
+       (C) Covered services shall be made available to both--
+       (i) covered veterans with mental health conditions, pain 
+     conditions, or chronic conditions described in subsection (e) 
+     who have received conventional treatments from the Department 
+     for such conditions; and
+       (ii) covered veterans with mental health conditions, pain 
+     conditions, or chronic conditions described in subsection (e) 
+     who have not received conventional treatments from the 
+     Department for such conditions.
+       (g) Voluntary Participation.--The participation of a 
+     veteran in the program shall be at the election of the 
+     veteran and in consultation with a clinician of the 
+     Department.
+       (h) Reports to Congress.--
+       (1) Quarterly reports.--Not later than 90 days after the 
+     date of the commencement of the program and not less 
+     frequently than once every 90 days thereafter for the 
+     duration of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the efforts of the Secretary to 
+     carry out the program, including a description of the 
+     outreach conducted by the Secretary to veterans and community 
+     organizations to inform such organizations about the program.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (B) Contents.--The report submitted under subparagraph (A) 
+     shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program, including with respect to--
+
+       (I) the utilization and efficacy of the complementary and 
+     alternative medicine services established under the program;
+       (II) an assessment of the benefit of the program to covered 
+     veterans in mental health diagnoses, pain management, and 
+     treatment of chronic illness; and
+       (III) the comparative effectiveness of various 
+     complementary and alternative medicine therapies.
+
+       (ii) Barriers identified under subsection (a)(2) that were 
+     not resolved.
+       (iii) Such recommendations for the continuation or 
+     expansion of the program as the Secretary considers 
+     appropriate.
+       (i) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in section 
+     321(e) of this Act.
+       (j) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 323. STUDIES OF BARRIERS ENCOUNTERED BY VETERANS IN 
+                   RECEIVING, AND ADMINISTRATORS AND CLINICIANS IN 
+                   PROVIDING, COMPLEMENTARY AND ALTERNATIVE 
+                   MEDICINE SERVICES FURNISHED BY THE DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) Studies Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     conduct comprehensive studies of the barriers encountered by 
+     veterans in receiving, and administrators and clinicians in 
+     providing, complementary and alternative medicine services 
+     furnished by the Department of Veterans Affairs.
+       (2) Studies conducted.--
+       (A) Veterans.--In conducting the study of veterans, the 
+     Secretary shall--
+       (i) survey veterans who seek or receive hospital care or 
+     medical services furnished
+
+[[Page 3207]]
+
+     by the Department, as well as veterans who do not seek or 
+     receive such care or services;
+       (ii) administer the survey to a representative sample of 
+     veterans from each Veterans Integrated Service Network; and
+       (iii) ensure that the sample of veterans surveyed is of 
+     sufficient size for the study results to be statistically 
+     significant.
+       (B) Administrators and clinicians.--In conducting the study 
+     of clinicians and administrators, the Secretary shall--
+       (i) survey administrators of the Department who are 
+     involved in the provision of health care services;
+       (ii) survey clinicians that have provided complementary and 
+     alternative medicine services through the program established 
+     under section 322 of this Act, after those clinicians have 
+     provided those services through such program for at least 90 
+     days; and
+       (iii) administer the survey to administrators under clause 
+     (i)--
+
+       (I) before the introduction of complementary and 
+     alternative medicine services through such program; and
+       (II) not earlier than 90 days after the introduction of 
+     complementary and alternative medicine services through such 
+     program.
+
+       (b) Elements of Studies.--
+       (1) Veterans.--In conducting the study of veterans required 
+     by subsection (a), the Secretary shall study the following:
+       (A) The perceived barriers associated with obtaining 
+     complementary and alternative medicine services from the 
+     Department.
+       (B) The satisfaction of veterans with complementary and 
+     alternative medicine services in primary care.
+       (C) The degree to which veterans are aware of eligibility 
+     requirements for, and the scope of services available under, 
+     complementary and alternative medicine services furnished by 
+     the Department.
+       (D) The effectiveness of outreach to veterans on the 
+     availability of complementary and alternative medicine for 
+     veterans.
+       (E) Such other barriers as the Secretary considers 
+     appropriate.
+       (2) Administrators and clinicians.--In conducting the study 
+     of administrators and clinicians required by subsection (a), 
+     the Secretary shall study the following:
+       (A) The extent of the integration of complementary and 
+     alternative medicine services within the services provided by 
+     the Department.
+       (B) The perception by administrators and clinicians of the 
+     structural and attitudinal barriers to the delivery of high 
+     quality complementary and alternative medicine services by 
+     the Department.
+       (C) Strategies that have been used to reduce or eliminate 
+     such barriers and the results of such strategies.
+       (D) The satisfaction of administrators and clinicians 
+     regarding the integration of complementary and alternative 
+     medicine services within the services provided by the 
+     Department.
+       (E) The perception by administrators and clinicians of the 
+     value of specific complementary and alternative medicine 
+     services for inpatient and outpatient veteran populations.
+       (c) Discharge by Contract.--The Secretary shall enter into 
+     a contract with a qualified independent entity or 
+     organization to carry out the studies required by this 
+     section.
+       (d) Mandatory Review of Data by the National Research 
+     Advisory Council.--
+       (1) In general.--The Secretary shall ensure that the head 
+     of the National Research Advisory Council reviews the results 
+     of the studies conducted under this section.
+       (2) Submittal of findings.--The head of the National 
+     Research Advisory Council shall submit findings with respect 
+     to the studies to the Under Secretary for Health and to other 
+     pertinent program offices within the Department with 
+     responsibilities relating to health care services for 
+     veterans.
+       (e) Reports.--
+       (1) Report on implementation.--Not later than one year 
+     after the date of the enactment of this Act, the Secretary 
+     shall submit to Congress a report on the status of the 
+     implementation of this section.
+       (2) Report on study.--
+       (A) In general.--Not later than 45 days after the date of 
+     the completion of the study, the Secretary shall submit to 
+     Congress a report on the study required by subsection (a).
+       (B) Contents.--The report required by subparagraph (A) 
+     shall include the following:
+       (i) Recommendations for such administrative and legislative 
+     proposals and actions as the Secretary considers appropriate.
+       (ii) The findings of the head of the National Research 
+     Advisory Council and of the Under Secretary for Health.
+       (f) Authorization of Appropriations.--There is authorized 
+     to be appropriated for fiscal year 2015 for the Department of 
+     Veterans Affairs, $2,000,000 to carry out this section.
+       (g) Complementary and Alternative Medicine Defined.--In 
+     this section, the term ``complementary and alternative 
+     medicine'' shall have the meaning given that term in section 
+     321(e) of this Act.
+
+     SEC. 324. PROGRAM ON USE OF WELLNESS PROGRAMS AS 
+                   COMPLEMENTARY APPROACH TO MENTAL HEALTH CARE 
+                   FOR VETERANS AND FAMILY MEMBERS OF VETERANS.
+
+       (a) Program Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     carry out a program through the award of grants to public or 
+     private nonprofit entities to assess the feasibility and 
+     advisability of using wellness programs to complement the 
+     provision of mental health care to veterans and family 
+     members eligible for counseling under section 1712A(a)(1)(C) 
+     of title 38, United States Code.
+       (2) Matters to be addressed.--The program shall be carried 
+     out so as to assess the following:
+       (A) Means of improving coordination between Federal, State, 
+     local, and community providers of health care in the 
+     provision of mental health care to veterans and family 
+     members described in paragraph (1).
+       (B) Means of enhancing outreach, and coordination of 
+     outreach, by and among providers of health care referred to 
+     in subparagraph (A) on the mental health care services 
+     available to veterans and family members described in 
+     paragraph (1).
+       (C) Means of using wellness programs of providers of health 
+     care referred to in subparagraph (A) as complements to the 
+     provision by the Department of Veterans Affairs of mental 
+     health care to veterans and family members described in 
+     paragraph (1).
+       (D) Whether wellness programs described in subparagraph (C) 
+     are effective in enhancing the quality of life and well-being 
+     of veterans and family members described in paragraph (1).
+       (E) Whether wellness programs described in subparagraph (C) 
+     are effective in increasing the adherence of veterans 
+     described in paragraph (1) to the primary mental health 
+     services provided such veterans by the Department.
+       (F) Whether wellness programs described in subparagraph (C) 
+     have an impact on the sense of wellbeing of veterans 
+     described in paragraph (1) who receive primary mental health 
+     services from the Department.
+       (G) Whether wellness programs described in subparagraph (C) 
+     are effective in encouraging veterans receiving health care 
+     from the Department to adopt a more healthy lifestyle.
+       (b) Duration.--The Secretary shall carry out the program 
+     for a period of three years beginning on the date that is one 
+     year after the date of the enactment of this Act.
+       (c) Locations.--The Secretary shall carry out the program 
+     at facilities of the Department providing mental health care 
+     services to veterans and family members described in 
+     subsection (a)(1).
+       (d) Grant Proposals.--
+       (1) In general.--A public or private nonprofit entity 
+     seeking the award of a grant under this section shall submit 
+     an application therefor to the Secretary in such form and in 
+     such manner as the Secretary may require.
+       (2) Application contents.--Each application submitted under 
+     paragraph (1) shall include the following:
+       (A) A plan to coordinate activities under the program, to 
+     the extent possible, with the Federal, State, and local 
+     providers of services for veterans to enhance the following:
+       (i) Awareness by veterans of benefits and health care 
+     services provided by the Department.
+       (ii) Outreach efforts to increase the use by veterans of 
+     services provided by the Department.
+       (iii) Educational efforts to inform veterans of the 
+     benefits of a healthy and active lifestyle.
+       (B) A statement of understanding from the entity submitting 
+     the application that, if selected, such entity will be 
+     required to report to the Secretary periodically on 
+     standardized data and other performance data necessary to 
+     evaluate individual outcomes and to facilitate evaluations 
+     among entities participating in the program.
+       (C) Other requirements that the Secretary may prescribe.
+       (e) Grant Uses.--
+       (1) In general.--A public or private nonprofit entity 
+     awarded a grant under this section shall use the award for 
+     purposes prescribed by the Secretary.
+       (2) Eligible veterans and family.--In carrying out the 
+     purposes prescribed by the Secretary in paragraph (1), a 
+     public or private nonprofit entity awarded a grant under this 
+     section shall use the award to furnish services only to 
+     individuals specified in section 1712A(a)(1)(C) of title 38, 
+     United States Code.
+       (f) Reports.--
+       (1) Periodic reports.--
+       (A) In general.--Not later than 180 days after the date of 
+     the commencement of the program, and every 180 days 
+     thereafter, the Secretary shall submit to Congress a report 
+     on the program.
+       (B) Report elements.--Each report required by subparagraph 
+     (A) shall include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the program during the 180-day period preceding 
+     the report.
+       (ii) An assessment of the benefits of the program to 
+     veterans and their family members during the 180-day period 
+     preceding the report.
+       (2) Final report.--Not later than 180 days after the end of 
+     the program, the Secretary shall submit to Congress a report 
+     detailing the recommendations of the Secretary as to the 
+     advisability of continuing or expanding the program.
+
+[[Page 3208]]
+
+       (g) Wellness Defined.--In this section, the term 
+     ``wellness'' has the meaning given that term in regulations 
+     prescribed by the Secretary.
+
+                     Subtitle D--Mental Health Care
+
+     SEC. 331. INCLUSION OF MENTAL HEALTH PROFESSIONALS IN THE 
+                   EDUCATION AND TRAINING PROGRAM FOR HEALTH 
+                   PERSONNEL OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS.
+
+       (a) In General.--In carrying out the education and training 
+     program required under section 7302(a)(1) of title 38, United 
+     States Code, the Secretary of Veterans Affairs shall include 
+     education and training of marriage and family therapists and 
+     licensed professional mental health counselors.
+       (b) Funding.--The Secretary shall apportion funding for the 
+     education and training program equally among the professions 
+     included in the program.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 332. REPORT ON PROVISION OF MENTAL HEALTH SERVICES FOR 
+                   FAMILIES OF CERTAIN VETERANS AT FACILITIES OF 
+                   THE DEPARTMENT.
+
+       Not later than one year after the date of the enactment of 
+     this Act, the Secretary of Veterans Affairs shall submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the feasibility and advisability 
+     of providing services under the program established by 
+     section 304(a) of the Caregivers and Veterans Omnibus Health 
+     Services Act of 2010 (Public Law 111-163; 38 U.S.C. 1712A 
+     note) at medical facilities of the Department of Veterans 
+     Affairs.
+
+     SEC. 333. ANNUAL REPORT ON COMMUNITY MENTAL HEALTH 
+                   PARTNERSHIP PILOT PROGRAM.
+
+       (a) In General.--Not later than one year after the date of 
+     the enactment of this Act and not later than September 30 
+     each year thereafter until the completion of the pilot 
+     program described in subsection (b), the Secretary of 
+     Veterans Affairs shall submit to the Committee on Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a report on that pilot 
+     program.
+       (b) Pilot Program Described.--The pilot program described 
+     in this subsection is the pilot program conducted by the 
+     Veterans Health Administration to connect medical centers of 
+     the Department of Veterans Affairs with community-based 
+     mental health care providers and substance abuse treatment 
+     providers for the purpose of assisting in the treatment of 
+     veterans with mental health disorders, commonly known as the 
+     ``Community Mental Health Partnership Pilot''.
+       (c) Elements.--Each report submitted under subsection (a) 
+     shall include the following:
+       (1) The number of sites participating in the pilot program.
+       (2) The number of individuals participating in the pilot 
+     program at each site.
+       (3) A detailed assessment of the effectiveness of, the 
+     participation of veterans in, and the satisfaction of 
+     veterans with the pilot program.
+       (4) An analysis of barriers to the effectiveness of, the 
+     participation of veterans in, and the satisfaction of 
+     veterans with the pilot program.
+       (5) A description of the plans of the Secretary to conduct 
+     outreach and provide information to veterans and community 
+     mental health providers with respect to the pilot program.
+       (6) A description of any plans to expand the pilot program, 
+     including plans that focus on the unique needs of veterans 
+     located in rural areas.
+       (7) An explanation of how the care provided under the pilot 
+     program is consistent with the minimum clinical mental health 
+     guidelines promulgated by the Veterans Health Administration, 
+     including clinical guidelines contained in the Uniform Mental 
+     Health Services Handbook of such Administration.
+
+     Subtitle E--Dental Care Eligibility Expansion and Enhancement
+
+     SEC. 341. RESTORATIVE DENTAL SERVICES FOR VETERANS.
+
+       (a) In General.--Section 1710(c) is amended--
+       (1) in the second sentence--
+       (A) by redesignating subparagraphs (A) and (B) as clauses 
+     (i) and (ii), respectively; and
+       (B) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively;
+       (2) by inserting ``(1)'' after ``(c)'';
+       (3) by striking ``The Secretary'' and inserting the 
+     following:
+       ``(2) The Secretary''; and
+       (4) by adding at the end the following new paragraph:
+       ``(3) In addition to the dental services, treatment, and 
+     appliances authorized to be furnished by paragraph (2), the 
+     Secretary may furnish dental services and treatment, and 
+     dental appliances, needed to restore functioning in a veteran 
+     that is lost as a result of any services or treatment 
+     furnished under this subsection.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act.
+
+     SEC. 342. PILOT PROGRAM ON EXPANSION OF FURNISHING OF DENTAL 
+                   CARE TO ALL ENROLLED VETERANS.
+
+       (a) Pilot Program Required.--Commencing not later than 540 
+     days after the date of the enactment of this Act, the 
+     Secretary of Veterans Affairs shall carry out a pilot program 
+     to assess the feasibility and advisability of furnishing 
+     dental care to veterans enrolled in the system of patient 
+     enrollment under section 1705 of title 38, United States 
+     Code, who are not eligible for dental services and treatment, 
+     and related dental appliances, under current authorities.
+       (b) Duration of Pilot Program.--The pilot program shall be 
+     carried out during the three-year period beginning on the 
+     date of the commencement of the pilot program.
+       (c) Locations.--
+       (1) In general.--The Secretary shall carry out the pilot 
+     program at not fewer than 16 locations as follows:
+       (A) Four Department of Veterans Affairs medical centers 
+     with an established dental clinic.
+       (B) Four Department medical centers with a current contract 
+     for the furnishing of dental care.
+       (C) Four Community-Based Outpatient Clinics (CBOCs) with 
+     space available for the furnishing of services and treatment 
+     under the pilot program.
+       (D) Four facilities selected from among Federally Qualified 
+     Health Centers (FQHCs) and Indian Health Service facilities 
+     with established dental clinics, of which--
+       (i) at least one facility shall be such an Indian Health 
+     Service facility; and
+       (ii) any Indian Health Service facility so selected shall 
+     be selected in consultation with the Secretary of Health and 
+     Human Services.
+       (2) Considerations.--In selecting locations for the pilot 
+     program, the Secretary shall consider the feasibility and 
+     advisability of selecting locations in each of the following:
+       (A) Rural areas.
+       (B) Areas that are not in close proximity to an active duty 
+     military installation.
+       (C) Areas representing different geographic locations, such 
+     as census tracts established by the Bureau of Census.
+       (d) Limitation on Number of Participating Veterans.--
+       (1) In general.--The total number of eligible veterans who 
+     may participate in the pilot program may not exceed 30,000.
+       (2) Distribution of limitation.--In applying the limitation 
+     in paragraph (1) to the pilot program, the Secretary shall 
+     distribute the limitation across and among locations selected 
+     for the pilot program in a manner that takes appropriate 
+     account of the size and need of veterans for dental services 
+     at each such location.
+       (e) Scope of Services.--The dental services and treatment 
+     furnished to veterans under the pilot program shall be 
+     consistent with the dental services and treatment furnished 
+     by the Secretary to veterans with service-connected 
+     disabilities rated 100 percent disabling under the laws 
+     administered by the Secretary.
+       (f) Voluntary Participation.--The participation of a 
+     veteran in the pilot program shall be at the election of the 
+     veteran.
+       (g) Limitation on Amount of Services.--
+       (1) In general.--The total amount the Secretary may expend 
+     furnishing dental services and treatment to a veteran 
+     participating in the pilot program during any one-year period 
+     may not exceed such amount as the Secretary determines 
+     appropriate. The amount so determined may not be less than 
+     $1,000.
+       (2) Consultation.--The Secretary shall make the 
+     determination under paragraph (1)--
+       (A) in consultation with the Director of the Indian Health 
+     Service; and
+       (B) in consultation with the Director of the Health 
+     Resources and Services Administration of the Department of 
+     Health and Human Services if one or more Federally Qualified 
+     Health Center is selected as a location for the pilot program 
+     under subsection (c)(1)(D).
+       (h) Copayments.--The Secretary may collect copayments for 
+     dental services and treatment furnished under the pilot 
+     program in accordance with authorities on the collection of 
+     copayments for medical care of veterans under chapter 17 of 
+     title 38, United States Code.
+       (i) Program Administration.--
+       (1) Notice to eligible veterans on pilot program.--In 
+     carrying out the pilot program, the Secretary shall inform 
+     all veterans eligible to participate in the pilot program of 
+     the services and treatment available under the pilot program.
+       (2) Contracts.--In carrying out the pilot program, the 
+     Secretary may enter into contracts with appropriate entities 
+     for the provision of dental services and treatment under the 
+     pilot program. Each such contract shall specify performance 
+     standards and metrics and processes for ensuring compliance 
+     of the contractor concerned with such performance standards.
+       (j) Reports.--
+       (1) Preliminary reports.--
+       (A) In general.--Not later than each of 540 days and three 
+     years after the date of the commencement of the pilot 
+     program, the Secretary shall submit to the Committee on 
+     Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of
+
+[[Page 3209]]
+
+     Representatives a report on the pilot program.
+       (B) Contents.--Each report under subparagraph (A) shall 
+     include the following:
+       (i) A description of the implementation and operation of 
+     the pilot program.
+       (ii) The number of veterans receiving services and 
+     treatment under the pilot program, and a description of the 
+     dental services and treatment furnished to such veterans.
+       (iii) An analysis of the costs and benefits of the pilot 
+     program, including a comparison of costs and benefits by 
+     location type.
+       (iv) An assessment of the impact of the pilot program on 
+     medical care, wellness, employability, and perceived quality 
+     of life of veterans.
+       (v) The current findings and conclusions of the Secretary 
+     with respect to the pilot program.
+       (vi) Such recommendations for the continuation or expansion 
+     of the pilot program as the Secretary considers appropriate.
+       (2) Final report.--
+       (A) In general.--Not later than 180 days after the 
+     completion of the pilot program, the Secretary shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the pilot program.
+       (B) Contents.--The report under subparagraph (A) shall 
+     include the following:
+       (i) The findings and conclusions of the Secretary with 
+     respect to the pilot program.
+       (ii) Such recommendations for the continuation or expansion 
+     of the pilot program as the Secretary considers appropriate.
+       (k) Federally Qualified Health Center Defined.--In this 
+     section the term ``Federally Qualified Health Center'' means 
+     a Federally-qualified health center as defined in section 
+     1905(l)(2)(B) of the Social Security Act (42 U.S.C. 
+     1396d(l)(2)(B)).
+       (l) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 343. PROGRAM ON EDUCATION TO PROMOTE DENTAL HEALTH IN 
+                   VETERANS.
+
+       (a) Program Required.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     carry out a program of education to promote dental health for 
+     veterans who are enrolled in the system of patient enrollment 
+     of the Department of Veterans Affairs under section 1705 of 
+     title 38, United States Code.
+       (2) Construction.--Nothing in the program shall be deemed 
+     to alter or revise the eligibility of any veteran for dental 
+     care under the laws administered by the Secretary.
+       (b) Elements.--The program required by subsection (a) shall 
+     provide education for veterans on the following:
+       (1) The association between dental health and overall 
+     health and well-being.
+       (2) Proper techniques for dental care.
+       (3) Signs and symptoms of commonly occurring dental 
+     conditions.
+       (4) Treatment options for commonly occurring dental issues.
+       (5) Options for obtaining access to dental care, including 
+     information on eligibility for dental care through the 
+     Department and on purchasing private dental insurance.
+       (6) Available and accessible options for obtaining low or 
+     no-cost dental care, including through dental schools and 
+     Federally Qualified Health Centers (FQHCs).
+       (7) Such other matters relating to dental health as the 
+     Secretary considers appropriate.
+       (c) Delivery of Educational Materials.--
+       (1) In general.--The Secretary shall provide educational 
+     materials to veterans under the program required by 
+     subsection (a) through a variety of mechanisms, including the 
+     following:
+       (A) The availability and distribution of print materials at 
+     Department facilities (including at medical centers, clinics, 
+     Vet Centers, and readjustment counseling centers) and to 
+     providers (including members of Patient Aligned Care Teams).
+       (B) The availability and distribution of materials over the 
+     Internet, including through webinars and My Health eVet.
+       (C) Presentations of information, including both small 
+     group and large group presentations.
+       (2) Selection of mechanisms.--In selecting mechanisms for 
+     purposes of this subsection, the Secretary shall select 
+     mechanisms designed to maximize the number of veterans who 
+     receive education under the program.
+       (d) Federally Qualified Health Center Defined.--In this 
+     section the term ``Federally Qualified Health Center'' means 
+     a Federally-qualified health center as defined in section 
+     1905(l)(2)(B) of the Social Security Act (42 U.S.C. 
+     1396d(l)(2)(B)).
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 344. INFORMATION ON DENTAL SERVICES FOR INCLUSION IN 
+                   ELECTRONIC MEDICAL RECORDS UNDER DENTAL 
+                   INSURANCE PILOT PROGRAM.
+
+       (a) In General.--Commencing not later than 540 days after 
+     the date of the enactment of this Act, the Secretary of 
+     Veterans Affairs shall expand the dental insurance pilot 
+     program established by section 17.169 of title 38, Code of 
+     Federal Regulations, to establish a mechanism by which 
+     private sector dental care providers shall forward to the 
+     Department of Veterans Affairs information on dental care 
+     furnished to individuals under the pilot program for 
+     inclusion in the electronic medical records of the Department 
+     with respect to such individuals.
+       (b) Construction With Current Pilot Program Requirements.--
+       (1) In general.--Nothing in this section shall be construed 
+     to revise eligibility for participation in, or the locations 
+     of, the pilot program referred to in subsection (a).
+       (2) Duration.--The Secretary may continue the pilot program 
+     for two years in addition to the duration otherwise provided 
+     for the pilot program in section 17.169 of title 38, Code of 
+     Federal Regulations, if the Secretary determines that the 
+     continuation is needed to assess the mechanism required by 
+     subsection (a).
+       (3) Voluntary participation in mechanism.--The 
+     participation in the mechanism required by subsection (a) of 
+     an individual otherwise participating in the pilot program 
+     shall be at the election of the individual.
+       (c) Inclusion of Information on Mechanism in Reports.--Each 
+     report to Congress on the pilot program after the date of the 
+     commencement of the mechanism required by subsection (a) 
+     shall include information on the mechanism, including a 
+     current assessment of the feasability and advisability of 
+     using the mechanism to include information on dental care 
+     furnished individuals in the electronic medical records of 
+     the Department with respect to such individuals.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 345. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated for the Department 
+     of Veterans Affairs for fiscal year 2015 $305,000,000 to 
+     carry out this subtitle and the amendments made by this 
+     subtitle. The amount so authorized to be appropriated shall 
+     be available for obligation for the five-year period 
+     beginning on the date that is one year after the date of the 
+     enactment of this Act.
+
+            Subtitle F--Health Care Related to Sexual Trauma
+
+     SEC. 351. EXPANSION OF ELIGIBILITY FOR SEXUAL TRAUMA 
+                   COUNSELING AND TREATMENT TO VETERANS ON 
+                   INACTIVE DUTY TRAINING.
+
+       Section 1720D(a)(1) is amended by striking ``or active duty 
+     for training'' and inserting ``, active duty for training, or 
+     inactive duty training''.
+
+     SEC. 352. PROVISION OF COUNSELING AND TREATMENT FOR SEXUAL 
+                   TRAUMA BY THE DEPARTMENT OF VETERANS AFFAIRS TO 
+                   MEMBERS OF THE ARMED FORCES.
+
+       (a) Expansion of Coverage to Members of the Armed Forces.--
+     Subsection (a) of section 1720D is amended--
+       (1) by redesignating paragraph (2) as paragraph (3);
+       (2) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2)(A) In operating the program required by paragraph 
+     (1), the Secretary may, in consultation with the Secretary of 
+     Defense, provide counseling and care and services to members 
+     of the Armed Forces (including members of the National Guard 
+     and Reserves) on active duty to overcome psychological trauma 
+     described in that paragraph.
+       ``(B) A member described in subparagraph (A) shall not be 
+     required to obtain a referral before receiving counseling and 
+     care and services under this paragraph.''; and
+       (3) in paragraph (3), as redesignated by paragraph (1)--
+       (A) by striking ``a veteran'' and inserting ``an 
+     individual''; and
+       (B) by striking ``that veteran'' each place it appears and 
+     inserting ``that individual''.
+       (b) Information to Members on Availability of Counseling 
+     and Services.--Subsection (c) of such section is amended--
+       (1) by striking ``to veterans'' each place it appears; and
+       (2) in paragraph (3), by inserting ``members of the Armed 
+     Forces and'' before ``individuals''.
+       (c) Inclusion of Members in Reports on Counseling and 
+     Services.--Subsection (e) of such section is amended--
+       (1) in the matter preceding paragraph (1), by striking ``to 
+     veterans'';
+       (2) in paragraph (2)--
+       (A) by striking ``women veterans'' and inserting 
+     ``individuals''; and
+       (B) by striking ``training under subsection (d).'' and 
+     inserting ``training under subsection (d), disaggregated by--
+       ``(A) veterans;
+       ``(B) members of the Armed Forces (including members of the 
+     National Guard and Reserves) on active duty; and
+       ``(C) for each of subparagraphs (A) and (B)--
+       ``(i) men; and
+       ``(ii) women.'';
+       (3) in paragraph (4), by striking ``veterans'' and 
+     inserting ``individuals''; and
+       (4) in paragraph (5)--
+       (A) by striking ``women veterans'' and inserting 
+     ``individuals'' ; and
+       (B) by inserting ``, including specific recommendations for 
+     individuals specified in subparagraphs (A), (B), and (C) of 
+     paragraph (2)'' before the period at the end.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect on the
+
+[[Page 3210]]
+
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 353. DEPARTMENT OF VETERANS AFFAIRS SCREENING MECHANISM 
+                   TO DETECT INCIDENTS OF DOMESTIC ABUSE.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall develop and implement a screening mechanism to be used 
+     when a veteran seeks healthcare services from the Department 
+     of Veterans Affairs to detect if the veteran has been a 
+     victim of domestic abuse for purposes of improving the 
+     treatment of the veteran and assessing the prevalence of 
+     domestic abuse in the veteran population.
+       (b) Readily Available Screening Tools.--In developing and 
+     implementing a screening mechanism under subsection (a), the 
+     Secretary may incorporate into the screening mechanism such 
+     readily available screening tools as the Secretary considers 
+     appropriate for the screening mechanism.
+       (c) Domestic Abuse Defined.--In this section, the term 
+     ``domestic abuse'' means behavior with respect to an 
+     individual that--
+       (1) constitutes--
+       (A) a pattern of behavior resulting in physical or 
+     emotional abuse, economic control, or interference with the 
+     personal liberty of that individual;
+       (B) a violation of Federal or State law involving the use, 
+     attempted use, or threatened use of force or violence against 
+     that individual; or
+       (C) a violation of a lawful order issued for the protection 
+     of that individual; and
+       (2) is committed by a person who--
+       (A) is a current or former spouse or domestic partner of 
+     that individual;
+       (B) shares a child in common with that individual;
+       (C) is a current or former intimate partner of that 
+     individual that shares or has shared a common domicile with 
+     that individual;
+       (D) is a caregiver or family caregiver of that individual 
+     (as such terms are defined in section 1720G(d) of title 38, 
+     United States Code); or
+       (E) is in any other type of relationship with that 
+     individual that the Secretary may specify for purposes of 
+     this section.
+
+     SEC. 354. REPORTS ON MILITARY SEXUAL TRAUMA AND DOMESTIC 
+                   ABUSE.
+
+       (a) Report on Services Available for Military Sexual Trauma 
+     in the Department of Veterans Affairs.--Not later than 630 
+     days after the date of the enactment of this Act, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the treatment and services available from the Department of 
+     Veterans Affairs for male veterans who experience military 
+     sexual trauma compared to such treatment and services 
+     available to female veterans who experience military sexual 
+     trauma.
+       (b) Report on Domestic Abuse Among Veterans.--Not later 
+     than two years after the implementation of the screening 
+     mechanism required by section 353(a) of this Act, the 
+     Secretary of Veterans Affairs and the Secretary of Health and 
+     Human Services, acting through the Director of the Centers 
+     for Disease Control and Prevention, shall jointly submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on domestic abuse among veterans 
+     that includes the following:
+       (1) A summary of the types, outcomes, and circumstances of 
+     incidents of domestic abuse that have been reported by 
+     veterans during the two-year period preceding the submission 
+     of the report.
+       (2) A summary of the treatments available from the 
+     Department of Veterans Affairs for veterans who experience 
+     domestic abuse and an assessment of the effectiveness of 
+     those treatments.
+       (3) Data and analysis on any correlation between an 
+     incident of military sexual trauma or sexual trauma 
+     experienced after the age of 18 and domestic abuse.
+       (4) Any other issues that the Secretary of Veterans Affairs 
+     or the Director of the Centers for Disease Control and 
+     Prevention determines appropriate.
+       (c) Reports on Transition of Military Sexual Trauma and 
+     Domestic Abuse Treatment From Department of Defense to 
+     Department of Veterans Affairs.--Not later than 630 days 
+     after the date of the enactment of this Act, and annually 
+     thereafter for five years, the Department of Veterans 
+     Affairs-Department of Defense Joint Executive Committee 
+     established by section 320(a) of title 38, United States 
+     Code, shall submit to the appropriate committees of Congress 
+     a report on military sexual trauma and domestic abuse that 
+     includes the following:
+       (1) The processes and procedures utilized by the Department 
+     of Veterans Affairs and the Department of Defense to 
+     facilitate transition of treatment of individuals who have 
+     experienced military sexual trauma or domestic abuse from 
+     treatment provided by the Department of Defense to treatment 
+     provided by the Department of Veterans Affairs.
+       (2) A description and assessment of the collaboration 
+     between the Department of Veterans Affairs and the Department 
+     of Defense in assisting veterans in filing claims for 
+     disabilities related to military sexual trauma or domestic 
+     abuse, including permitting veterans access to information 
+     and evidence necessary to develop or support such claims.
+       (d) Definitions.--In this section:
+       (1) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means--
+       (A) the Committee on Veterans' Affairs and the Committee on 
+     Armed Services of the Senate; and
+       (B) the Committee on Veterans' Affairs and the Committee on 
+     Armed Services of the House of Representatives.
+       (2) Domestic abuse.--The term ``domestic abuse'' has the 
+     meaning given that term in section 353(c) of this Act.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' means psychological trauma, which in the judgment of 
+     a mental health professional employed by the Department, 
+     resulted from a physical assault of a sexual nature, battery 
+     of a sexual nature, or sexual harassment which occurred while 
+     the veteran was serving on active duty or active duty for 
+     training.
+       (4) Sexual harassment.--The term ``sexual harassment'' 
+     means repeated, unsolicited verbal or physical contact of a 
+     sexual nature which is threatening in character.
+       (5) Sexual trauma.--The term ``sexual trauma'' shall have 
+     the meaning given that term by the Secretary of Veterans 
+     Affairs for purposes of this section.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is 270 days after the date of the enactment of this 
+     Act.
+
+ Subtitle G--Adoption Assistance, Child Care Assistance, and Counseling
+
+     SEC. 361. ADOPTION ASSISTANCE FOR SEVERELY WOUNDED VETERANS.
+
+       (a) In General.--Subchapter VIII of chapter 17 is amended 
+     by adding at the end the following new section:
+
+     ``Sec. 1788. Adoption assistance
+
+       ``(a) In General.--The Secretary may pay an amount, not to 
+     exceed the limitation amount, to assist a covered veteran in 
+     the adoption of one or more children.
+       ``(b) Covered Veteran.--For purposes of this section, a 
+     covered veteran is any severely wounded, ill, or injured 
+     veteran who--
+       ``(1) has an infertility condition incurred or aggravated 
+     in line of duty in the active military, naval, or air 
+     service; and
+       ``(2) is enrolled in the system of annual patient 
+     enrollment established under section 1705(a) of this title.
+       ``(c) Limitation Amount.--For purposes of this section, the 
+     limitation amount is equal to the cost the Department would 
+     incur by paying the expenses of three adoptions by covered 
+     veterans, as determined by the Secretary.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1787 the following new item:
+
+``1788. Adoption assistance.''.
+
+     SEC. 362. COORDINATION BETWEEN DEPARTMENT OF VETERANS AFFAIRS 
+                   AND DEPARTMENT OF DEFENSE ON FURNISHING OF 
+                   FERTILITY COUNSELING AND TREATMENT.
+
+       The Secretary of Veterans Affairs and the Secretary of 
+     Defense shall share best practices and facilitate referrals, 
+     as they consider appropriate, on the furnishing of fertility 
+     counseling and treatment.
+
+     SEC. 363. PROGRAM ON ASSISTANCE FOR CHILD CARE FOR CERTAIN 
+                   VETERANS.
+
+       (a) Assistance for Child Care for Certain Veterans 
+     Receiving Health Care.--
+       (1) In general.--Subchapter I of chapter 17 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1709B. Assistance for child care for certain veterans 
+       receiving health care
+
+       ``(a) Program Required.--The Secretary shall carry out a 
+     program to provide, subject to subsection (b), assistance to 
+     qualified veterans described in subsection (c) to obtain 
+     child care so that such veterans can receive health care 
+     services described in subsection (c).
+       ``(b) Limitation on Period of Payments.--Assistance may 
+     only be provided to a qualified veteran under this section 
+     for receipt of child care during the period that the 
+     qualified veteran--
+       ``(1) receives health care services described in subsection 
+     (c) at a facility of the Department; and
+       ``(2) requires travel to and from such facility for the 
+     receipt of such health care services.
+       ``(c) Qualified Veterans.--For purposes of this section, a 
+     qualified veteran is a veteran who is--
+       ``(1) the primary caretaker of a child or children; and
+       ``(2)(A) receiving from the Department--
+       ``(i) regular mental health care services;
+       ``(ii) intensive mental health care services; or
+       ``(iii) such other intensive health care services that the 
+     Secretary determines that provision of assistance to the 
+     veteran to obtain child care would improve access to such 
+     health care services by the veteran; or
+       ``(B) in need of regular or intensive mental health care 
+     services from the Department, and but for lack of child care 
+     services, would receive such health care services from the 
+     Department.
+       ``(d) Locations.--The Secretary shall carry out the program 
+     in no fewer than three Veterans Integrated Service Networks 
+     selected
+
+[[Page 3211]]
+
+     by the Secretary for purposes of the program.
+       ``(e) Forms of Child Care Assistance.--(1) Child care 
+     assistance under this section may include the following:
+       ``(A) Stipends for the payment of child care offered by 
+     licensed child care centers (either directly or through a 
+     voucher program) which shall be, to the extent practicable, 
+     modeled after the Department of Veterans Affairs Child Care 
+     Subsidy Program established pursuant to section 630 of the 
+     Treasury and General Government Appropriations Act, 2002 
+     (Public Law 107-67; 115 Stat. 552).
+       ``(B) Direct provision of child care at an on-site facility 
+     of the Department.
+       ``(C) Payments to private child care agencies.
+       ``(D) Collaboration with facilities or programs of other 
+     Federal departments or agencies.
+       ``(E) Such other forms of assistance as the Secretary 
+     considers appropriate.
+       ``(2) In the case that child care assistance under this 
+     section is provided as a stipend under paragraph (1)(A), such 
+     stipend shall cover the full cost of such child care.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1709A the following new item:
+
+``1709B. Assistance for child care for certain veterans receiving 
+              health care.''.
+
+       (3) Conforming amendment.--Section 205(e) of the Caregivers 
+     and Veterans Omnibus Health Services Act of 2010 (Public Law 
+     111-163; 38 U.S.C. 1710 note) is amended by inserting ``but 
+     not after the date of the enactment of the Comprehensive 
+     Veterans Health and Benefits and Military Retirement Pay 
+     Restoration Act of 2014'' before the period at the end.
+       (b) Assistance for Child Care for Individuals Receiving 
+     Readjustment Counseling and Related Mental Health Services.--
+       (1) In general.--Subchapter I of chapter 17, as amended by 
+     subsection (a)(1) of this section, is further amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1709C. Assistance for child care for individuals 
+       receiving readjustment counseling and related mental health 
+       services
+
+       ``(a) Program Required.--The Secretary shall carry out a 
+     program to provide, subject to subsection (b), assistance to 
+     qualified individuals described in subsection (c) to obtain 
+     child care so that such individuals can receive readjustment 
+     counseling and related mental health services.
+       ``(b) Limitation on Period of Payments.--Assistance may 
+     only be provided to a qualified individual under this section 
+     for receipt of child care during the period that the 
+     qualified individual receives readjustment counseling and 
+     related health care services at a Vet Center.
+       ``(c) Qualified Individuals.--For purposes of this section, 
+     a qualified individual is an individual who is--
+       ``(1) the primary caretaker of a child or children; and
+       ``(2)(A) receiving from the Department regular readjustment 
+     counseling and related mental health services; or
+       ``(B) in need of readjustment counseling and related mental 
+     health services from the Department, and but for lack of 
+     child care services, would receive such counseling and 
+     services from the Department.
+       ``(d) Locations.--The Secretary shall carry out the program 
+     under this section in no fewer than three Readjustment 
+     Counseling Service Regions selected by the Secretary for 
+     purposes of the program.
+       ``(e) Forms of Child Care Assistance.--(1) Child care 
+     assistance under this section may include the following:
+       ``(A) Stipends for the payment of child care offered by 
+     licensed child care centers (either directly or through a 
+     voucher program) which shall be, to the extent practicable, 
+     modeled after the Department of Veterans Affairs Child Care 
+     Subsidy Program established pursuant to section 630 of the 
+     Treasury and General Government Appropriations Act, 2002 
+     (Public Law 107-67; 115 Stat. 552).
+       ``(B) Payments to private child care agencies.
+       ``(C) Collaboration with facilities or programs of other 
+     Federal departments or agencies.
+       ``(D) Such other forms of assistance as the Secretary 
+     considers appropriate.
+       ``(2) In the case that child care assistance under this 
+     subsection is provided as a stipend under paragraph (1)(A), 
+     such stipend shall cover the full cost of such child care.
+       ``(f) Vet Center Defined.--In this section, the term `Vet 
+     Center' means a center for readjustment counseling and 
+     related mental health services for individuals under section 
+     1712A of this title.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17, as amended by subsection (a)(2) of 
+     this section, is further amended by inserting after the item 
+     relating to section 1709B the following new item:
+
+``1709C. Assistance for child care for individuals receiving 
+              readjustment counseling and related mental health 
+              services.''.
+
+     SEC. 364. COUNSELING IN RETREAT SETTINGS FOR WOMEN VETERANS 
+                   NEWLY SEPARATED FROM SERVICE IN THE ARMED 
+                   FORCES.
+
+       (a) Counseling in Retreat Settings.--
+       (1) In general.--Subchapter II of chapter 17 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 1720H. Counseling in retreat settings for women 
+       veterans newly separated from service in the Armed Forces
+
+       ``(a) In General.--The Secretary shall provide, through the 
+     Readjustment Counseling Service of the Veterans Health 
+     Administration, reintegration and readjustment services 
+     described in subsection (c) in group retreat settings to 
+     women veterans who are recently separated from service in the 
+     Armed Forces after a prolonged deployment.
+       ``(b) Election of Veteran.--The receipt of services under 
+     this section by a woman veteran shall be at the election of 
+     the veteran.
+       ``(c) Covered Services.--The services provided to a woman 
+     veteran under this section shall include the following:
+       ``(1) Information on reintegration into the veteran's 
+     family, employment, and community.
+       ``(2) Financial counseling.
+       ``(3) Occupational counseling.
+       ``(4) Information and counseling on stress reduction.
+       ``(5) Information and counseling on conflict resolution.
+       ``(6) Such other information and counseling as the 
+     Secretary considers appropriate to assist the veteran in 
+     reintegration into the veteran's family, employment, and 
+     community.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 17 is amended by inserting after the 
+     item relating to section 1720G the following new item:
+
+``1720H. Counseling in retreat settings for women veterans newly 
+              separated from service in the Armed Forces.''.
+
+       (b) Repeal of Superseded Pilot Program Authority.--Section 
+     203 of the Caregivers and Veterans Omnibus Health Services 
+     Act of 2010 (Public Law 111-163; 38 U.S.C. 1712A note) is 
+     hereby repealed.
+
+               Subtitle H--Major Medical Facility Leases
+
+     SEC. 371. AUTHORIZATION OF MAJOR MEDICAL FACILITY LEASES.
+
+       The Secretary of Veterans Affairs may carry out the 
+     following major medical facility leases at the locations 
+     specified, and in an amount for each lease not to exceed the 
+     amount shown for such location (not including any estimated 
+     cancellation costs):
+       (1) For a clinical research and pharmacy coordinating 
+     center, Albuquerque, New Mexico, an amount not to exceed 
+     $9,560,000.
+       (2) For a community-based outpatient clinic, Brick, New 
+     Jersey, an amount not to exceed $7,280,000.
+       (3) For a new primary care and dental clinic annex, 
+     Charleston, South Carolina, an amount not to exceed 
+     $7,070,250.
+       (4) For the Cobb County community-based Outpatient Clinic, 
+     Cobb County, Georgia, an amount not to exceed $6,409,000.
+       (5) For the Leeward Outpatient Healthcare Access Center, 
+     Honolulu, Hawaii, including a co-located clinic with the 
+     Department of Defense and the co-location of the Honolulu 
+     Regional Office of the Veterans Benefits Administration and 
+     the Kapolei Vet Center of the Department of Veterans Affairs, 
+     an amount not to exceed $15,887,370.
+       (6) For a community-based outpatient clinic, Johnson 
+     County, Kansas, an amount not to exceed $2,263,000.
+       (7) For a replacement community-based outpatient clinic, 
+     Lafayette, Louisiana, an amount not to exceed $2,996,000.
+       (8) For a community-based outpatient clinic, Lake Charles, 
+     Louisiana, an amount not to exceed $2,626,000.
+       (9) For outpatient clinic consolidation, New Port Richey, 
+     Florida, an amount not to exceed $11,927,000.
+       (10) For an outpatient clinic, Ponce, Puerto Rico, an 
+     amount not to exceed $11,535,000.
+       (11) For lease consolidation, San Antonio, Texas, an amount 
+     not to exceed $19,426,000.
+       (12) For a community-based outpatient clinic, San Diego, 
+     California, an amount not to exceed $11,946,100.
+       (13) For an outpatient clinic, Tyler, Texas, an amount not 
+     to exceed $4,327,000.
+       (14) For the Errera Community Care Center, West Haven, 
+     Connecticut, an amount not to exceed $4,883,000.
+       (15) For the Worcester community-based Outpatient Clinic, 
+     Worcester, Massachusetts, an amount not to exceed $4,855,000.
+       (16) For the expansion of a community-based outpatient 
+     clinic, Cape Girardeau, Missouri, an amount not to exceed 
+     $4,232,060.
+       (17) For a multispecialty clinic, Chattanooga, Tennessee, 
+     an amount not to exceed $7,069,000.
+       (18) For the expansion of a community-based outpatient 
+     clinic, Chico, California, an amount not to exceed 
+     $4,534,000.
+       (19) For a community-based outpatient clinic, Chula Vista, 
+     California, an amount not to exceed $3,714,000.
+       (20) For a new research lease, Hines, Illinois, an amount 
+     not to exceed $22,032,000.
+       (21) For a replacement research lease, Houston, Texas, an 
+     amount not to exceed $6,142,000.
+
+[[Page 3212]]
+
+       (22) For a community-based outpatient clinic, Lincoln, 
+     Nebraska, an amount not to exceed $7,178,400.
+       (23) For a community-based outpatient clinic, Lubbock, 
+     Texas, an amount not to exceed $8,554,000.
+       (24) For a community-based outpatient clinic consolidation, 
+     Myrtle Beach, South Carolina, an amount not to exceed 
+     $8,022,000.
+       (25) For a community-based outpatient clinic, Phoenix, 
+     Arizona, an amount not to exceed $20,757,000.
+       (26) For the expansion of a community-based outpatient 
+     clinic, Redding, California, an amount not to exceed 
+     $8,154,000.
+       (27) For the expansion of a community-based outpatient 
+     clinic, Tulsa, Oklahoma, an amount not to exceed $13,269,200.
+
+     SEC. 372. BUDGETARY TREATMENT OF DEPARTMENT OF VETERANS 
+                   AFFAIRS MAJOR MEDICAL FACILITIES LEASES.
+
+       (a) Findings.--Congress finds the following:
+       (1) Title 31, United States Code, requires the Department 
+     of Veterans Affairs to record the full cost of its 
+     contractual obligation against funds available at the time a 
+     contract is executed.
+       (2) Office of Management and Budget Circular A-11 provides 
+     guidance to agencies in meeting the statutory requirements 
+     under title 31, United States Code, with respect to leases.
+       (3) For operating leases, Office of Management and Budget 
+     Circular A-11 requires the Department of Veterans Affairs to 
+     record up-front budget authority in an ``amount equal to 
+     total payments under the full term of the lease or [an] 
+     amount sufficient to cover first year lease payments plus 
+     cancellation costs''.
+       (b) Requirement for Obligation of Full Cost.--Subject to 
+     the availability of appropriations provided in advance, in 
+     exercising the authority of the Secretary of Veterans Affairs 
+     to enter into leases provided in this Act, the Secretary 
+     shall record, pursuant to section 1501 of title 31, United 
+     States Code, as the full cost of the contractual obligation 
+     at the time a contract is executed either--
+       (1) an amount equal to total payments under the full term 
+     of the lease; or
+       (2) if the lease specifies payments to be made in the event 
+     the lease is terminated before its full term, an amount 
+     sufficient to cover the first year lease payments plus the 
+     specified cancellation costs.
+       (c) Transparency.--
+       (1) Compliance.--Subsection (b) of section 8104 is amended 
+     by adding at the end the following new paragraph:
+       ``(7) In the case of a prospectus proposing funding for a 
+     major medical facility lease, a detailed analysis of how the 
+     lease is expected to comply with Office of Management and 
+     Budget Circular A-11 and section 1341 of title 31 (commonly 
+     referred to as the `Anti-Deficiency Act'). Any such analysis 
+     shall include--
+       ``(A) an analysis of the classification of the lease as a 
+     `lease-purchase', `capital lease', or `operating lease' as 
+     those terms are defined in Office of Management and Budget 
+     Circular A-11;
+       ``(B) an analysis of the obligation of budgetary resources 
+     associated with the lease; and
+       ``(C) an analysis of the methodology used in determining 
+     the asset cost, fair market value, and cancellation costs of 
+     the lease.''.
+       (2) Submittal to congress.--Such section 8104 is further 
+     amended by adding at the end the following new subsection:
+       ``(h)(1) Not less than 30 days before entering into a major 
+     medical facility lease, the Secretary shall submit to the 
+     Committees on Veterans' Affairs of the Senate and the House 
+     of Representatives--
+       ``(A) notice of the Secretary's intention to enter into the 
+     lease;
+       ``(B) a copy of the proposed lease;
+       ``(C) a description and analysis of any differences between 
+     the prospectus submitted pursuant to subsection (b) and the 
+     proposed lease; and
+       ``(D) a scoring analysis demonstrating that the proposed 
+     lease fully complies with Office of Management and Budget 
+     Circular A-11.
+       ``(2) Each committee described in paragraph (1) shall 
+     ensure that any information submitted to the committee under 
+     such paragraph is treated by the committee with the same 
+     level of confidentiality as is required by law of the 
+     Secretary and subject to the same statutory penalties for 
+     unauthorized disclosure or use as the Secretary.
+       ``(3) Not more than 30 days after entering into a major 
+     medical facility lease, the Secretary shall submit to each 
+     committee described in paragraph (1) a report on any material 
+     differences between the lease that was entered into and the 
+     proposed lease described under such paragraph, including how 
+     the lease that was entered into changes the previously 
+     submitted scoring analysis described in subparagraph (D) of 
+     such paragraph.''.
+       (d) Rule of Construction.--Nothing in this section, or the 
+     amendments made by this section, shall be construed to in any 
+     way relieve the Department of Veterans Affairs from any 
+     statutory or regulatory obligations or requirements existing 
+     prior to the enactment of this section and such amendments.
+
+                TITLE IV--EMPLOYMENT AND RELATED MATTERS
+
+Subtitle A--Training and Other Services for Veterans Seeking Employment
+
+     SEC. 401. EXTENSION OF AUTHORITY OF SECRETARY OF VETERANS 
+                   AFFAIRS TO PROVIDE REHABILITATION AND 
+                   VOCATIONAL BENEFITS TO MEMBERS OF ARMED FORCES 
+                   WITH SEVERE INJURIES OR ILLNESSES.
+
+       (a) In General.--Section 1631(b)(2) of the Wounded Warrior 
+     Act (title XVI of Public Law 110-181; 10 U.S.C. 1071 note) is 
+     amended by striking ``December 31, 2014'' and inserting 
+     ``December 31, 2016''.
+       (b) Report.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the appropriate committees of Congress a 
+     report on the benefits provided by the Secretary under 
+     section 1631(b) of such Act.
+       (2) Appropriate committees of congress.--In this 
+     subsection, the term ``appropriate committees of Congress'' 
+     means--
+       (A) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the Senate; and
+       (B) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the House of Representatives.
+
+     SEC. 402. CONSOLIDATED AND COORDINATED FEDERAL GOVERNMENT 
+                   INTERNET PORTAL TO CONNECT CURRENT AND FORMER 
+                   MEMBERS OF THE ARMED FORCES WITH EMPLOYERS 
+                   SEEKING EMPLOYEES WITH SKILLS AND EXPERIENCE 
+                   DEVELOPED THROUGH MILITARY SERVICE.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) Although significant progress has been made, 
+     unemployment among veterans remains stubbornly high.
+       (2) The unemployment rate among younger veterans, ages 18 
+     to 24, remains well above the national average.
+       (3) This problem impacts the Department of Defense budget. 
+     Over the past 10 years, the Federal Government has expended 
+     more than $9,600,000,000 on unemployment compensation 
+     benefits for former members of the Armed Forces.
+       (4) The Department makes significant investments in members 
+     of the Armed Forces including specialized technical training 
+     in skills that are easily transferrable to civilian career 
+     fields.
+       (5) Beyond specific technical training, veterans gain 
+     unique leadership, organizational, and other skills that make 
+     them valued employees in the private sector.
+       (6) Government agencies, private sector entities, and 
+     nonprofit organizations are responding to the issue of 
+     unemployment among veterans.
+       (7) There are now so many programs to assist veterans in 
+     finding employment, many within the Government, that veterans 
+     may not know where to seek assistance in finding employment. 
+     While these programs are well intentioned, many are 
+     duplicative in nature and compete for scarce resources.
+       (8) The Department of Labor, the Department of Veterans 
+     Affairs, the Department of Defense, and the Office of 
+     Personnel Management are currently working to consolidate the 
+     veterans employment initiatives of the Government into a 
+     single, consolidated Internet portal with the goal of 
+     connecting veterans who are seeking employment with employers 
+     who want to employ them.
+       (9) The consolidated portal will prevent Federal Government 
+     agencies from competing with each other to accomplish the 
+     same goal, and will save the Federal Government money while 
+     providing a comprehensive, coordinated tool for employers and 
+     veterans seeking employment.
+       (10) The Federal Government can accomplish this by 
+     leveraging the best practices of current programs.
+       (11) While progress has been made, there is no statutory 
+     requirement to streamline these Government programs and 
+     coordinate the resources that are all intended to achieve the 
+     same goal.
+       (b) Consolidated Internet Portal Required.--Commencing not 
+     later than one year after the effective date specified in 
+     subsection (h), the Secretary of Labor shall, in conjunction 
+     with the Secretary of Defense, the Secretary of Veterans 
+     Affairs, and organizations concerned with veterans resources, 
+     consolidate Internet portals of the Federal Government on 
+     employment for current and former members of the Armed Forces 
+     into a comprehensive, consolidated Internet portal within a 
+     single existing platform or system for the purposes of 
+     connecting current and former members of the Armed Forces who 
+     are seeking employment with employers who want to employ 
+     them.
+       (c) Elements.--
+       (1) In general.--The consolidated Internet portal under 
+     subsection (b) should include the following:
+       (A) A means through which current and former members of the 
+     Armed Forces may connect for employment purposes with 
+     employers seeking the experience and skills developed during 
+     service in the Armed Forces, including a means of presenting 
+     a profile of each member or former member to employers that 
+     includes, at a minimum--
+       (i) the skills obtained by such member or former member 
+     during service in the Armed Forces and additional skills such 
+     member or former member is interested in pursuing; and
+
+[[Page 3213]]
+
+       (ii) the current or intended residence of such member or 
+     former member (including an option for members or former 
+     members who are willing to reside in various locations).
+       (B) A means of permitting qualified prospective employers 
+     to post employment openings and seek contact with members or 
+     former members based on their profile for the purposes of 
+     requesting the initiation of arrangements or negotiations 
+     concerning potential employment.
+       (C) A means of presenting other employment resources, 
+     including resume preparation, to members or former members 
+     seeking employment.
+       (2) Matters considered.--In developing the consolidated 
+     Internet portal, the Secretaries referred to in subsection 
+     (b) should consider, at a minimum, the following:
+       (A) Public and private sector resources on matters relating 
+     to the portal.
+       (B) Opportunities to incorporate local employment networks 
+     into the portal.
+       (C) Methodologies to determine the most effective 
+     employment resources and programs to be incorporated into the 
+     portal.
+       (D) Means for streamlining processes through the portal for 
+     employers to find and employ former members of the Armed 
+     Forces.
+       (d) Member Participation.--
+       (1) In general.--Participation in the consolidated Internet 
+     portal under subsection (b) shall be limited to members of 
+     the National Guard and Reserves, members of the Armed Forces 
+     on active duty who are transitioning from military service to 
+     civilian life, former members of the Armed Forces, and 
+     veterans.
+       (2) Voluntary.--Participation by a member or former member 
+     of the Armed Forces described in paragraph (1) in the 
+     consolidated Internet portal shall be voluntary. A member or 
+     former member participating in the portal may cease 
+     participation in the portal at any time.
+       (e) Reports by Implementing Secretaries.--
+       (1) Preliminary report.--Not later than six months after 
+     the effective date specified in subsection (h), the 
+     Secretaries shall submit to the appropriate committees of 
+     Congress a report on the consolidated Internet portal under 
+     subsection (b). The report shall include the following:
+       (A) A list of the Internet portals of the Federal 
+     Government that are redundant to, or duplicative of, the 
+     consolidated Internet portal.
+       (B) An estimate of the cost-savings to be achieved by the 
+     Federal Government through the consolidated Internet portal, 
+     including through the elimination or consolidation into the 
+     consolidated Internet portal of the Internet portals listed 
+     under subparagraph (A).
+       (2) Report following implementation of portal.--Not later 
+     than one year after the date of the implementation of the 
+     consolidated Internet portal under subsection (b), the 
+     Secretaries shall submit to the appropriate committees of 
+     Congress a report on the portal.
+       (3) Elements.--Each report under this subsection shall 
+     include a description of the consolidated Internet portal and 
+     such other information on the portal as the Secretaries 
+     consider appropriate.
+       (f) Comptroller General Report.--
+       (1) In general.--Not later than 540 days after the 
+     effective date specified in subsection (h), the Comptroller 
+     General of the United States shall submit to the appropriate 
+     committees of Congress a report on the elimination by Federal 
+     agencies of Internet portals that are redundant to, or 
+     duplicative of, the consolidated Internet portal under 
+     subsection (b).
+       (2) Elements.--The report shall include the following:
+       (A) The list of the internet portals of the Federal 
+     Government at the time of the implementation of the 
+     consolidated Internet portal that are determined by the 
+     Comptroller General to have been redundant to, or duplicative 
+     of, the consolidated Internet portal.
+       (B) An assessment whether the list of internet portals 
+     under subsection (e)(1)(A) encompassed all the Internet 
+     portals of the Federal Government that were redundant to, or 
+     duplicative of, the consolidated Internet portal.
+       (C) An assessment of the actions taken by Federal agencies 
+     to eliminate Internet portals that were redundant to, or 
+     duplicative of, the consolidated Internet portal.
+       (D) A list of Internet portals of the Federal Government 
+     determined to be redundant to, or duplicative of the 
+     consolidated Internet portal that have yet to be eliminated 
+     by Federal agencies as of the date of the report.
+       (g) Appropriate Committees of Congress Defined.--In this 
+     section, the term ``appropriate committees of Congress'' 
+     means--
+       (1) the Committee on Armed Services, the Committee on 
+     Health, Education, Labor, and Pensions, the Committee on 
+     Veterans' Affairs, and the Committee on Appropriations of the 
+     Senate; and
+       (2) the Committee on Armed Services, the Committee on 
+     Education and the Workforce, the Committee on Veterans' 
+     Affairs, and the Committee on Appropriations of the House of 
+     Representatives.
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+ Subtitle B--Employment of Veterans and Recognition of Veteran Status 
+               With Respect to Employment Related Matters
+
+     SEC. 411. EMPLOYMENT OF VETERANS WITH THE FEDERAL GOVERNMENT.
+
+       (a) In General.--Section 4214 is amended--
+       (1) in subsection (b), by adding at the end the following:
+       ``(4)(A) The requirement under this paragraph is in 
+     addition to the appointment of qualified covered veterans 
+     under the authority specified in subparagraph (C) by the 
+     Department of Veterans Affairs and the Department of Defense.
+       ``(B) The head of each agency, in consultation with the 
+     Director of the Office of Personnel Management, shall develop 
+     a plan for exercising the authority specified in subparagraph 
+     (C) during the five-year period beginning on the date of the 
+     enactment of the Comprehensive Veterans Health and Benefits 
+     and Military Retirement Pay Restoration Act of 2014.
+       ``(C) The authority specified in this subparagraph is the 
+     authority as follows:
+       ``(i) The authority under paragraph (1).
+       ``(ii) The authority available to the agency concerned 
+     under the Veterans Employment Opportunities Act of 1998 
+     (Public Law 105-339) and the amendments made by that Act.
+       ``(D) The Director of the Office of Personnel Management 
+     shall ensure that under the plans developed under 
+     subparagraph (B) agencies shall appoint to existing vacancies 
+     not fewer than 15,000 qualified covered veterans during the 
+     five-year period beginning on the date of the enactment of 
+     the Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014. For purposes of 
+     complying with this subparagraph, an appointment pursuant to 
+     the authority referred to in subparagraph (C)(ii) shall not 
+     count toward the number required by this subparagraph unless 
+     the appointment is to a vacancy in a full-time, permanent 
+     position.'';
+       (2) in subsection (d), in the third sentence, by inserting 
+     ``(including, during the 5-year period beginning on the date 
+     of the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     the development and implementation by each agency of the plan 
+     required under subsection (b)(4), which shall include 
+     information regarding the grade or pay level of appointments 
+     by the agency under the plan and whether the appointments 
+     are, or are converted to, career or career-conditional 
+     appointments)'' after ``subsection (b) of this section''; and
+       (3) in subsection (e)--
+       (A) in paragraph (1)--
+       (i) in the matter before subparagraph (A), by striking ``to 
+     the Congress'' and inserting ``to the appropriate committees 
+     of Congress''; and
+       (ii) in subparagraph (A), by inserting ``(including, during 
+     the 5-year period beginning on the date of the enactment of 
+     the Comprehensive Veterans Health and Benefits and Military 
+     Retirement Pay Restoration Act of 2014, the development and 
+     implementation by the agency of the plan required under 
+     subsection (b)(4), which shall include information regarding 
+     the grade or pay level of appointments by the agency under 
+     the plan and whether the appointments are, or are converted 
+     to, permanent appointments)'' before the period; and
+       (B) by adding at the end the following new paragraph:
+       ``(3) In this subsection, the term `appropriate committees 
+     of Congress' means--
+       ``(A) the Committee on Veterans' Affairs and the Committee 
+     on Homeland Security and Governmental Affairs of the Senate; 
+     and
+       ``(B) the Committee on Veterans' Affairs and the Committee 
+     on Oversight and Government Reform of the House of 
+     Representatives.''.
+       (b) Report.--Not later than 180 days after the date of 
+     enactment of this Act, the Director of the Office of 
+     Personnel Management shall submit to the appropriate 
+     committees of Congress (as defined under section 4214(e)(3) 
+     of title 38, United States Code, as amended by subsection 
+     (a)) regarding the development of a plan to carry out the 
+     amendments made by subsection (a).
+
+     SEC. 412. STATE RECOGNITION OF MILITARY EXPERIENCE OF 
+                   VETERANS IN ISSUING LICENSES AND CREDENTIALS TO 
+                   VETERANS.
+
+       (a) In General.--Section 4102A(c) is amended by striking 
+     paragraph (9) and inserting the following new paragraph (9):
+       ``(9)(A) As a condition of a grant or contract under which 
+     funds are made available to a State under subsection (b)(5) 
+     in order to carry out section 4103A or 4104 of this title, 
+     the State shall--
+       ``(i) establish a program under which the State administers 
+     an examination to each veteran seeking a license or 
+     credential issued by the State and issues such license or 
+     credential to such veteran without requiring such veteran to 
+     undergo any training or apprenticeship if the veteran--
+       ``(I) receives a satisfactory score on completion of such 
+     examination, as determined by the State;
+       ``(II) has been awarded a military occupational specialty 
+     that is substantially equivalent to or exceeds the 
+     requirements of the
+
+[[Page 3214]]
+
+     State for the issuance of such license or credential;
+       ``(III) has engaged in the active practice of the 
+     occupation for which the veteran is seeking such license or 
+     credential for at least two of the five years preceding the 
+     date of application; and
+       ``(IV) pays any customary or usual fees required by the 
+     State for such license or credential; and
+       ``(ii) submit each year to the Secretary a report on the 
+     exams administered under clause (i) during the most recently 
+     completed 12-month period that includes, for the period 
+     covered by the report the number of veterans who completed an 
+     exam administered by the State under clause (i) and a 
+     description of the results of such exams, disaggregated by 
+     occupational field.
+       ``(B) The Secretary may waive the requirement under 
+     subparagraph (A) that a State establish a program described 
+     in that subparagraph as a condition of a grant or contract if 
+     the State certifies to the Secretary that the State--
+       ``(i) takes into account previous military training for the 
+     purposes of issuing licenses or credentials;
+       ``(ii) permits veterans to completely satisfy through 
+     examination any training or testing requirements for a 
+     license or credential with respect to which a veteran has 
+     previously completed military training; and
+       ``(iii) for any credential or license for which a veteran 
+     is unable to completely satisfy such requirements through 
+     examination, the State substantially reduces training time 
+     required to satisfy such requirement based on the military 
+     training received by the veteran.
+       ``(C) Not less frequently than once each year, the 
+     Secretary shall submit to Congress and the Secretary of 
+     Defense a report summarizing the information received by the 
+     Secretary under subparagraph (A)(ii).''.
+       (b) Effective Date.--
+       (1) Exams.--Subparagraph (A) of section 4102A(c)(9) of 
+     title 38, United States Code, as added by subsection (a), 
+     shall take effect on the date that is one year after the date 
+     of the enactment of this Act and shall apply with respect to 
+     grants and contracts described in such subparagraph awarded 
+     after such date.
+       (2) Reports.--Subparagraph (B) of such section 4102A(c)(9), 
+     as so added, shall take effect on the date that is one year 
+     after the date of the enactment of this Act and the Secretary 
+     of Labor shall submit the first report under such 
+     subparagraph not later than two years after the date of the 
+     enactment of this Act.
+
+     SEC. 413. EMPLOYMENT OF VETERANS AS EVALUATION FACTOR IN THE 
+                   AWARDING OF FEDERAL CONTRACTS.
+
+       (a) Civilian Contracts.--
+       (1) In general.--Chapter 33 of title 41, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 3313. Employment of veterans as evaluation factor
+
+       ``The head of each executive agency shall consider 
+     favorably as an evaluation factor in solicitations for 
+     contracts and task or delivery orders valued at or above 
+     $25,000,000 the employment by a prospective contractor of 
+     veterans constituting at least 5 percent of the contractor's 
+     workforce.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 33 of such title is amended by adding 
+     after the item relating to section 3312 the following new 
+     item:
+
+``3313. Employment of veterans as evaluation factor.''.
+
+       (b) Defense Contracts.--
+       (1) In general.--Chapter 137 of title 10, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 2338. Employment of veterans as evaluation factor
+
+       ``The head of each agency shall consider favorably as an 
+     evaluation factor in solicitations for contracts and task or 
+     delivery orders valued at or above $25,000,000 the employment 
+     by a prospective contractor of veterans constituting at least 
+     5 percent of the contractor's workforce.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 137 of such title is amended by adding 
+     after the item relating to section 2337 the following new 
+     item:
+
+``2338. Employment of veterans as evaluation factor.''.
+
+       (c) Regulations.--Not later than 180 days after the date of 
+     the enactment of this Act, the Federal Acquisition Regulatory 
+     Council shall amend the Federal Acquisition Regulation to 
+     carry out the provisions of section 3313 of title 41, United 
+     States Code, and section 2338 of title 10, United States 
+     Code, as added by subsections (a) and (b), respectively.
+
+     SEC. 414. REPORT ON DISCRIMINATION AGAINST MEMBERS OF RESERVE 
+                   COMPONENTS OF ARMED FORCES AND VETERANS IN 
+                   CIVILIAN LABOR MARKET.
+
+       (a) In General.--Not later than 570 days after the date of 
+     the enactment of this act, the Secretary of Labor, in 
+     coordination with the heads of such agencies as the Secretary 
+     considers appropriate, shall submit to the appropriate 
+     committees of Congress a report on barriers and potential 
+     discrimination facing veterans in the labor market.
+       (b) Contents.--The report required by subsection (a) shall 
+     include the following:
+       (1) An evaluation of the following:
+       (A) The extent to which members of the reserve components 
+     of the Armed Forces and veterans face barriers to entry into 
+     the civilian labor market, including whether such members and 
+     veterans face obstacles in obtaining employment, maintaining 
+     employment, or receiving promotions while employed.
+       (B) The extent to which a member of a reserve component of 
+     the Armed Forces or a veteran faces discrimination in the 
+     civilian labor market based on the member's or veteran's 
+     status as a member of a reserve component of the Armed Forces 
+     or as a veteran, as the case may be.
+       (C) The adequacy and effectiveness of Federal laws in 
+     effect on the day before the date of the enactment of this 
+     Act in preventing or ameliorating acts of discrimination 
+     against members of the reserve components of the Armed Forces 
+     and veterans seeking or retaining employment in the civilian 
+     labor market.
+       (D) The adequacy and effectiveness of programs of the 
+     Department of Labor in effect on the day before the date of 
+     the enactment of this Act in educating private sector 
+     employers on matters relevant to hiring and employing 
+     veterans and the military experience of veterans.
+       (2) Such recommendations as the Secretary may have for 
+     legislative or administrative action--
+       (A) to address barriers or discrimination that members of 
+     the reserve components of the Armed Forces and veterans may 
+     face in the civilian labor market;
+       (B) to improve education and outreach for employers in the 
+     civilian labor market on issues regarding hiring and 
+     employing such members and veterans; and
+       (C) to assist employers in the civilian labor market in 
+     matching the military experience of such members and veterans 
+     with the needs of such employers.
+       (3) Such other matters as the Secretary considers 
+     appropriate.
+       (c) Appropriate Committees of Congress.--In this section, 
+     the term ``appropriate committees of Congress'' means--
+       (1) the Committee on Veterans' Affairs and the Committee on 
+     Health, Education, Labor, and Pensions of the Senate; and
+       (2) the Committee on Veterans' Affairs and the Committee on 
+     Education and the Workforce of the House of Representatives.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+Subtitle C--Improving Employment and Reemployment Rights of Members of 
+                         the Uniformed Services
+
+     SEC. 421. SUSPENSION, TERMINATION, OR DEBARMENT OF 
+                   CONTRACTORS FOR REPEATED VIOLATIONS OF 
+                   EMPLOYMENT OR REEMPLOYMENT RIGHTS OF MEMBERS OF 
+                   UNIFORMED SERVICES.
+
+       (a) In General.--Subchapter III of chapter 43 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 4328. Suspension, termination, or debarment of 
+       contractors
+
+       ``(a) Grounds for Suspension, Termination, or Debarment.--
+     Payment under a contract awarded by a Federal executive 
+     agency may be suspended and the contract may be terminated, 
+     and the contractor who made the contract with the agency may 
+     be suspended or debarred in accordance with the requirements 
+     of this section, if the head of the agency determines that 
+     the contractor as an employer has repeatedly been convicted 
+     of failing or refusing to comply with one or more provisions 
+     of this chapter.
+       ``(b) Effect of Debarment.--A contractor debarred by a 
+     final decision under this section is ineligible for award of 
+     a contract by a Federal executive agency, and for 
+     participation in a future procurement by a Federal executive 
+     agency, for a period specified in the decision, not to exceed 
+     5 years.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 43 is amended by inserting after the 
+     item relating to section 4327 the following new item:
+
+``4328. Suspension, termination, or debarment of contractor.''.
+
+       (c) Regulations.--Not later than 180 days after the date of 
+     the enactment of this Act, the Federal Acquisition Regulatory 
+     Council shall amend the Federal Acquisition Regulation to 
+     carry out section 4328 of title 38, United States Code, as 
+     added by subsection (a).
+       (d) Effective Date.--Section 4328 of title 38, United 
+     States Code, as added by subsection (a), shall apply with 
+     respect to failures and refusals to comply with provisions of 
+     chapter 43 of title 38, United States Code, occurring on or 
+     after the date of the enactment of this Act.
+       (e) Annual Report.--Section 4332(a) is amended--
+       (1) by redesignating paragraph (10) as paragraph (11); and
+       (2) by inserting after paragraph (9) the following new 
+     paragraph (10):
+       ``(10) The number of suspensions, terminations, and 
+     debarments under section 4328 of this title, disaggregated by 
+     the agency or department imposing the suspension or 
+     debarment.''.
+
+[[Page 3215]]
+
+
+
+                   Subtitle D--Small Business Matters
+
+     SEC. 431. EXPANSION OF CONTRACTING GOALS AND PREFERENCES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS TO INCLUDE 
+                   CONDITIONALLY OWNED SMALL BUSINESS CONCERNS 100 
+                   PERCENT OWNED BY VETERANS.
+
+       Section 8127(l) is amended--
+       (1) in paragraph (2), by inserting ``unconditionally'' 
+     before ``owned by'' each place it appears; and
+       (2) by adding at the end the following new paragraph:
+       ``(3) The term `unconditionally owned' includes, with 
+     respect to ownership of a small business concern, conditional 
+     ownership of such small business concern if such business 
+     concern is 100 percent owned by one or more veterans.''.
+
+     SEC. 432. MODIFICATION OF TREATMENT UNDER CONTRACTING GOALS 
+                   AND PREFERENCES OF DEPARTMENT OF VETERANS 
+                   AFFAIRS FOR SMALL BUSINESSES OWNED BY VETERANS 
+                   OF SMALL BUSINESSES AFTER DEATH OF DISABLED 
+                   VETERAN OWNERS.
+
+       (a) In General.--Section 8127(h) is amended--
+       (1) in paragraph (3), by striking ``rated as'' and all that 
+     follows through ``disability.'' and inserting a period; and
+       (2) in paragraph (2), by amending subparagraph (C) to read 
+     as follows:
+       ``(C) The date that--
+       ``(i) in the case of a surviving spouse of a veteran with a 
+     service-connected disability rated as 100 percent disabling 
+     or who dies as a result of a service-connected disability, is 
+     10 years after the date of the veteran's death; or
+       ``(ii) in the case of a surviving spouse of a veteran with 
+     a service-connected disability rated as less than 100 percent 
+     disabling who does not die as a result of a service-connected 
+     disability, is three years after the date of the veteran's 
+     death.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall take effect on the date that is 180 days after the date 
+     of the enactment of this Act and shall apply with respect to 
+     applications received pursuant to section 8127(f)(2) of title 
+     38, United States Code, that are verified on or after such 
+     date.
+
+     SEC. 433. TREATMENT OF BUSINESSES AFTER DEATHS OF 
+                   SERVICEMEMBER-OWNERS FOR PURPOSES OF DEPARTMENT 
+                   OF VETERANS AFFAIRS CONTRACTING GOALS AND 
+                   PREFERENCES.
+
+       (a) In General.--Section 8127 is amended--
+       (1) by redesignating subsections (i) through (l) as 
+     subsections (j) through (m), respectively; and
+       (2) by inserting after subsection (h) the following new 
+     subsection (i):
+       ``(i) Treatment of Businesses After Death of Servicemember-
+     Owner.--(1) If a member of the Armed Forces owns at least 51 
+     percent of a small business concern and such member is killed 
+     in line of duty in the active military, naval, or air 
+     service, the surviving spouse or dependent child of such 
+     member who acquires such ownership rights in such small 
+     business concern shall, for the period described in paragraph 
+     (2), be treated as if the surviving spouse or dependent child 
+     were a veteran with a service-connected disability for 
+     purposes of determining the status of the small business 
+     concern as a small business concern owned and controlled by 
+     veterans for purposes of contracting goals and preferences 
+     under this section.
+       ``(2) The period referred to in paragraph (1) is the period 
+     beginning on the date on which the member of the Armed Forces 
+     dies and ending on the date as follows:
+       ``(A) In the case of a surviving spouse, the earliest of 
+     the following dates:
+       ``(i) The date on which the surviving spouse remarries.
+       ``(ii) The date on which the surviving spouse relinquishes 
+     an ownership interest in the small business concern and no 
+     longer owns at least 51 percent of such small business 
+     concern.
+       ``(iii) The date that is ten years after the date of the 
+     member's death.
+       ``(B) In the case of a dependent child, the earliest of the 
+     following dates:
+       ``(i) The date on which the surviving dependent child 
+     relinquishes an ownership interest in the small business 
+     concern and no longer owns at least 51 percent of such small 
+     business concern.
+       ``(ii) The date that is ten years after the date of the 
+     member's death.''.
+       (b) Effective Date.--Subsection (i) of section 8127 of 
+     title 38, United States Code, as added by subsection (a), 
+     shall take effect on the date of the enactment of this Act 
+     and shall apply with respect to the deaths of members of the 
+     Armed Forces occurring on or after such date.
+
+     SEC. 434. SPECIAL RULE FOR TREATMENT UNDER CONTRACTING GOALS 
+                   AND PREFERENCES OF DEPARTMENT OF VETERANS 
+                   AFFAIRS OF SMALL BUSINESS CONCERNS LICENSED IN 
+                   COMMUNITY PROPERTY STATES.
+
+       Section 8127, as amended by section 433 of this Act, is 
+     further amended by adding at the end the following new 
+     subsection:
+       ``(n) Special Rule for Community Property States.--Whenever 
+     the Secretary assesses, for purposes of this section, the 
+     degree of ownership by an individual of a small business 
+     concern licensed in a community property State, the Secretary 
+     shall also assess what that degree of ownership would be if 
+     such small business concern had been licensed in a State 
+     other than a community property State. If the Secretary 
+     determines that such individual would have had a greater 
+     degree of ownership of the small business concern had such 
+     small business concern been licensed in a State other than a 
+     community property State, the Secretary shall treat, for 
+     purposes of this section, such small business concern as if 
+     it had been licensed in a State other than a community 
+     property State.''.
+
+     SEC. 435. REPORT ON ASSISTANCE FOR VETERANS IN OBTAINING 
+                   TRAINING ON PURCHASING AND OPERATING A 
+                   FRANCHISE.
+
+       (a) Report Required.--Not later than one year after the 
+     effective date specified in subsection (c), the Secretary of 
+     Labor shall, in consultation with the Secretary of Veterans 
+     Affairs, the Administrator of the Small Business 
+     Administration, and other appropriate entities, submit to 
+     Congress a report on the assistance available to veterans to 
+     obtain training necessary to purchase and operate a 
+     franchise.
+       (b) Elements.--The report required by subsection (a) shall 
+     include the following:
+       (1) A description of the assistance available for veterans 
+     through the Department of Labor, the Department of Veterans 
+     Affairs, the Small Business Administration, or any other 
+     agency of the Federal Government in order to obtain training 
+     necessary to purchase or operate a franchise.
+       (2) Information on the number of veterans who have sought 
+     and obtained the training described in paragraph (1) during 
+     the five calendar years preceding the report.
+       (3) A description of any barriers encountered by veterans 
+     in obtaining the training described in paragraph (1).
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+        TITLE V--ACCOUNTABILITY AND ADMINISTRATIVE IMPROVEMENTS
+
+     SEC. 501. ADMINISTRATION OF VETERANS INTEGRATED SERVICE 
+                   NETWORKS.
+
+       (a) Veterans Integrated Service Networks.--
+       (1) In general.--Subchapter I of chapter 73 is amended by 
+     adding at the end the following new section:
+
+     ``Sec. 7310. Veterans Integrated Service Networks
+
+       ``(a) Organization.--(1) The Secretary shall organize the 
+     Veterans Health Administration in geographically defined 
+     Veterans Integrated Service Networks.
+       ``(2) Each Veterans Integrated Service Network shall be 
+     organized in consideration of the following:
+       ``(A) The size of the veteran population of the region of 
+     the network.
+       ``(B) The complexity of the medical needs of the veterans 
+     in such region.
+       ``(C) Patient referral patterns.
+       ``(D) The availability of a full continuum of health care 
+     services.
+       ``(E) The ability of the Department to furnish health care 
+     efficiently.
+       ``(F) Partnerships with non-Department health care 
+     entities.
+       ``(b) Staffing Model.--(1) The Secretary shall establish a 
+     staffing model for each Veterans Integrated Service Network 
+     that--
+       ``(A) is appropriate for the mission and responsibilities 
+     of the Veterans Integrated Service Network; and
+       ``(B) accounts for the specific health care needs of 
+     differing populations in the Veterans Integrated Service 
+     Network.
+       ``(2) The Secretary shall ensure that each Veterans 
+     Integrated Service Network complies with the staffing model 
+     established by the Secretary under paragraph (1) for such 
+     Veterans Integrated Service Network.
+       ``(c) Integrated Health Care System.--The Secretary shall 
+     ensure that each Veterans Integrated Service Network 
+     maintains a regional integrated healthcare system by--
+       ``(1) implementing alliances with such other governmental, 
+     public, and private health care organizations and 
+     practitioners as the Secretary considers appropriate to meet 
+     the needs of veterans in the Network;
+       ``(2) providing oversight and management of, and taking 
+     responsibility for, a regional budget for the activities of 
+     the Veterans Health Administration in the geographic area of 
+     the Network that is--
+       ``(A) aligned with the budget guidelines of the Department 
+     and the Veterans Health Administration;
+       ``(B) balanced at the end of each fiscal year; and
+       ``(C) sufficient to provide high-quality health care to 
+     veterans within the region and to meet any unique needs of 
+     the veterans of the region;
+       ``(3) using national metrics to develop systems to provide 
+     effective, efficient, and safe delivery of health care; and
+       ``(4) ensuring high-quality clinical programs and services 
+     are rendered in and through--
+       ``(A) the medical centers and outpatient clinics of the 
+     Department that are located in the Network; and
+       ``(B) other non-Department clinical or health care delivery 
+     settings located in the Network.
+       ``(d) Reduction in Duplicate Functions.--The Secretary 
+     shall ensure that the Veterans
+
+[[Page 3216]]
+
+     Integrated Service Networks identify and reduce, whenever 
+     practicable, the duplication of functions in clinical, 
+     administrative, and operational processes and practices of 
+     the Veterans Health Administration.
+       ``(e) Collaboration and Cooperation.--The Secretary shall 
+     ensure that each Veterans Integrated Service Network--
+       ``(1) works to achieve maximum effectiveness in patient 
+     care and safety, graduate medical education, and research; 
+     and
+       ``(2) assesses the consolidation or realignment of 
+     institutional functions, including capital asset, safety, and 
+     operational support functions, in collaboration and 
+     cooperation with other Veterans Integrated Service Networks 
+     and the following offices or entities within the geographical 
+     area of the Network:
+       ``(A) The offices of the Veterans Benefits Administration 
+     and the National Cemetery Administration.
+       ``(B) The offices, installations, and facilities of the 
+     Department of Defense, including the offices, installations, 
+     and facilities of each branch of the Armed Forces and the 
+     reserve components of the Armed Forces.
+       ``(C) The offices, installations, and facilities of the 
+     Coast Guard.
+       ``(D) Offices of State and local agencies that have a 
+     mission to provide assistance to veterans.
+       ``(E) Medical schools and other affiliates.
+       ``(F) Offices of Congress, offices of State and local 
+     elected officials, and other government offices.
+       ``(G) Federal, State, and local emergency preparedness 
+     organizations.
+       ``(H) Community and nonprofit organizations.
+       ``(I) Such other entities of the Federal Government as the 
+     Secretary considers appropriate.
+       ``(f) Headquarters.--(1) The Secretary shall ensure that 
+     each Veterans Integrated Service Network has only one 
+     headquarters office.
+       ``(2) The location of a headquarters office for a Veterans 
+     Integrated Service Network shall be determined by the 
+     Secretary and co-located with a Department of Veterans 
+     Affairs medical center.
+       ``(3)(A) The Secretary may employ or contract for the 
+     services of such full time equivalent employees and 
+     contractors at the headquarters of each Veterans Integrated 
+     Service Network as the Secretary considers appropriate in 
+     accordance with the staffing models established under 
+     subsection (b).
+       ``(B) Not later than December 31 each year, the Secretary 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on employment at the headquarters of 
+     Veterans Integrated Service Networks during the most recently 
+     completed fiscal year.
+       ``(C) Each report submitted under subparagraph (B) shall 
+     include the following for the year covered by the report:
+       ``(i) The number of individuals employed at each 
+     headquarters of a Veterans Integrated Service Network.
+       ``(ii) The number of individuals employed by the Veterans 
+     Health Administration in each Veterans Integrated Service 
+     Network who are not employed at the same location as the 
+     headquarters of the Network.
+       ``(iii) The title for each position of employment at a 
+     headquarters of a Veterans Integrated Service Network.
+       ``(iv) The title for each position of employment with the 
+     Veterans Health Administration in each Veterans Integrated 
+     Service Network that is not at the same location as the 
+     headquarters of the Network.
+       ``(v) An assessment of the impact on the budget of the 
+     Department by the employment of individuals at the 
+     headquarters of the Veterans Integrated Service Networks.
+       ``(g) Triennial Structure Review, Reassessment, and 
+     Report.--(1) Beginning three years after the date of the 
+     enactment of this section and not less frequently than once 
+     every three years thereafter, the Secretary shall conduct a 
+     review and assessment of the structure and operations of the 
+     Veterans Integrated Service Networks in order to identify 
+     recommendations--
+       ``(A) for streamlining and reducing costs associated with 
+     the operation of each headquarters of a Veterans Integrated 
+     Service Network; and
+       ``(B) for reducing costs of health care within the Veterans 
+     Health Administration.
+       ``(2) Not later than 180 days after conducting a review and 
+     assessment under paragraph (1), the Secretary shall submit to 
+     the Committee of Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on such review and assessment, which 
+     shall include such recommendations for legislative or 
+     administrative action as the Secretary considers appropriate 
+     to improve the Veterans Integrated Service Networks.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 73 is amended by inserting after the 
+     item relating to section 7309 the following new item:
+
+``7310. Veterans Integrated Service Networks.''.
+
+       (b) Relocation of Headquarters.--
+       (1) In general.--In the case of a headquarters office of a 
+     Veterans Integrated Service Network that on the day before 
+     the date of the enactment of this Act was in a location that 
+     was not co-located with a Department of Veterans Affairs 
+     medical center and the Secretary is engaged in a lease for 
+     such location, the Secretary may--
+       (A) relocate such headquarters upon the expiration of such 
+     lease so that such headquarters is co-located as required by 
+     section 7310(f)(2) of title 38, United States Code (as added 
+     by subsection (a)(1)); or
+       (B) notwithstanding such section 7310(f)(2) (as so added), 
+     renew such lease or enter into a new lease to keep such 
+     headquarters in such location.
+       (2) Report.--If the Secretary renews a lease or engages in 
+     a new lease under paragraph (1)(B), the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives, before renewing such lease or engaging in 
+     such lease, a report describing the reasons for such renewal 
+     or engagement. Such report shall include the following:
+       (A) A list of Department of Veterans Affairs medical 
+     centers in the Veterans Integrated Service Network of the 
+     headquarters with underutilized buildings, the number of such 
+     buildings, and the total underutilized square footage for 
+     each such medical center.
+       (B) The cost of the current lease (the annual amount of 
+     rent, the total cost over the life of the lease, and the 
+     total cost per square foot) and the current square footage 
+     being leased.
+       (C) The cost of the new lease (the annual amount of rent, 
+     the total cost over the life of the lease, and the total cost 
+     per square foot) and the square footage to be leased.
+       (c) Construction.--Nothing in this section shall be 
+     construed to require any change in the location or type of 
+     medical care or service provided by a Department of Veterans 
+     Affairs medical center, a Department community based 
+     outpatient clinic, a center for readjustment counseling and 
+     related mental health services for veterans under section 
+     1712A of title 38, United States Code (known as a ``vet 
+     center''), or other facility that provides direct care or 
+     services under a law administered by the Secretary of 
+     Veterans Affairs.
+       (d) Effective Date.--This section, and the amendments made 
+     by this section, shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 502. REGIONAL SUPPORT CENTERS FOR VETERANS INTEGRATED 
+                   SERVICE NETWORKS.
+
+       (a) In General.--Subchapter I of chapter 73, as amended by 
+     section 501(a)(1) of this Act, is further amended by adding 
+     at the end the following new section:
+
+     ``Sec. 7310A. Regional support centers for Veterans 
+       Integrated Service Networks
+
+       ``(a) Establishment.--The Secretary shall establish not 
+     more than four regional support centers within the Veterans 
+     Health Administration to assess the effectiveness and 
+     efficiency of the Veterans Integrated Service Networks. The 
+     head of each regional support center shall report to the 
+     Under Secretary of Health.
+       ``(b) Functions.--The functions of the regional support 
+     centers established under subsection (a) are as follows:
+       ``(1) To assess the quality of work performed within 
+     finance operations and other compliance related activities of 
+     the Veterans Integrated Service Networks.
+       ``(2) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts outreach to 
+     veterans who served in Operation Enduring Freedom, Operation 
+     Iraqi Freedom, Operation New Dawn, or any other contingency 
+     operation (as that term is defined in section 101 of title 
+     10).
+       ``(3) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts programs for the 
+     benefit of women veterans.
+       ``(4) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network conducts programs that 
+     address homelessness among veterans.
+       ``(5) To assess how effectively and efficiently each 
+     Veterans Integrated Service Network consumes energy.
+       ``(6) To assess such other matters concerning the 
+     operations and activities of the Veterans Integrated Service 
+     Networks as the Secretary considers appropriate.
+       ``(c) Staff.--The Secretary may hire such employees and 
+     contractors as the Secretary considers appropriate to carry 
+     out the functions of the regional support centers.
+       ``(d) Location of Regional Support Centers.--(1) Except as 
+     provided in paragraph (2), the location of each regional 
+     support center established under subsection (a) shall be 
+     determined by the Secretary and co-located with a medical 
+     center of the Department.
+       ``(2) The Secretary may choose a location for a regional 
+     support center established under subsection (a) that is not 
+     co-located with a medical center of the Department if the 
+     Secretary submits to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives, before entering into a contract for 
+     a location that is not co-located with a medical center, a 
+     report describing the reasons for choosing a location for the 
+     regional support center that is not co-located with a medical 
+     center of the Department. Such report shall include the 
+     following:
+       ``(A) A list of medical centers of the Department in the 
+     Veterans Integrated Service
+
+[[Page 3217]]
+
+     Network of the regional support center with underutilized 
+     buildings, the number of all Veterans Health Administration 
+     buildings in such Network, and the total underutilized square 
+     footage for each medical center of the Department in such 
+     Network.
+       ``(B) The estimated cost of such lease (the annual amount 
+     of rent, the total cost over the life of the lease, and the 
+     total cost per square foot) and the square footage to be 
+     leased.''.
+       (b) Initial Staffing.--In providing for the initial staff 
+     of each regional support center established under section 
+     7310A(a) of title 38, United States Code, as added by 
+     subsection (a), the Secretary of Veterans Affairs shall, to 
+     the degree practicable, transfer employees from headquarters 
+     of Veterans Integrated Service Networks to regional support 
+     centers who were employed in positions at such headquarters 
+     that covered functions similar to those described in section 
+     7310A(b) of such title, as so added.
+       (c) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 73, as amended by section 501(a)(2) of 
+     this Act, is further amended by inserting after the item 
+     relating to section 7310 the following new item:
+
+``7310A. Regional support centers for Veterans Integrated Service 
+              Networks.''.
+
+       (d) Construction.--Nothing in this section shall be 
+     construed to require any change in the location or type of 
+     medical care or service provided by a Department of Veterans 
+     Affairs medical center, a Department community based 
+     outpatient clinic, a center for readjustment counseling and 
+     related mental health services for veterans under section 
+     1712A of title 38, United States Code (known as a ``vet 
+     center''), or other facility that provides direct care or 
+     services under a law administered by the Secretary of 
+     Veterans Affairs.
+       (e) Effective Date.--This section, and the amendments made 
+     by this section, shall take effect on the date that is one 
+     year after the date of the enactment of this Act.
+
+     SEC. 503. COMMISSION ON CAPITAL PLANNING FOR DEPARTMENT OF 
+                   VETERANS AFFAIRS MEDICAL FACILITIES.
+
+       (a) Establishment of Commission.--
+       (1) Establishment.--There is established the Commission on 
+     Capital Planning for Department of Veterans Affairs Medical 
+     Facilities (in this section referred to as the 
+     ``Commission'').
+       (2) Membership.--
+       (A) Voting members.--The Commission shall, subject to 
+     subparagraph (B), be composed of 10 voting members as 
+     follows:
+       (i) 1 shall be appointed by the President.
+       (ii) 1 shall be appointed by the Administrator of General 
+     Services.
+       (iii) 3 shall be appointed by the Secretary of Veterans 
+     Affairs, of whom--
+
+       (I) 1 shall be an employee of the Veterans Health 
+     Administration;
+       (II) 1 shall be an employee of the Office of Asset 
+     Enterprise Management of the Department of Veterans Affairs; 
+     and
+       (III) 1 shall be an employee of the Office of Construction 
+     and Facilities Management of the Department of Veterans 
+     Affairs.
+
+       (iv) 1 shall be appointed by the Secretary of Defense from 
+     among employees of the Army Corps of Engineers.
+       (v) 1 shall be appointed by the majority leader of the 
+     Senate.
+       (vi) 1 shall be appointed by the minority leader of the 
+     Senate.
+       (vii) 1 shall be appointed by the Speaker of the House of 
+     Representatives.
+       (viii) 1 shall be appointed by the minority leader of the 
+     House of Representatives.
+       (B) Requirement relating to certain appointments of voting 
+     members.--Of the members appointed pursuant to clause (i), 
+     (ii), and (iv) through (viii) of subparagraph (A), all shall 
+     have expertise in capital leasing, construction, or health 
+     facility management planning.
+       (C) Non-voting members.--The Commission shall be assisted 
+     by 10 non-voting members, appointed by the vote of a majority 
+     of members of the Commission under subparagraph (A), of 
+     whom--
+       (i) 6 shall be representatives of veterans service 
+     organizations recognized by the Secretary of Veterans 
+     Affairs; and
+       (ii) 4 shall be individuals from outside the Department of 
+     Veterans Affairs with experience and expertise in matters 
+     relating to management, construction, and leasing of capital 
+     assets.
+       (D) Date of appointment of voting members.--The 
+     appointments of the members of the Commission under 
+     subparagraph (A) shall be made not later than 60 days after 
+     the date of the enactment of this Act.
+       (3) Period of appointment; vacancies.--Members shall be 
+     appointed for the life of the Commission. Any vacancy in the 
+     Commission shall not affect its powers, but shall be filled 
+     in the same manner as the original appointment.
+       (4) Initial meeting.--Not later than 15 days after the date 
+     on which 7 members of the Commission have been appointed, the 
+     Commission shall hold its first meeting.
+       (5) Meetings.--The Commission shall meet at the call of the 
+     Chair.
+       (6) Quorum.--A majority of the members of the Commission 
+     shall constitute a quorum, but a lesser number of members may 
+     hold hearings.
+       (7) Chair and vice chair.--The Commission shall select a 
+     Chair and Vice Chair from among its members.
+       (b) Duties of Commission.--
+       (1) In general.--The Commission shall undertake a 
+     comprehensive evaluation and assessment of various options 
+     for capital planning for Department of Veterans Affairs 
+     medical facilities, including an evaluation and assessment of 
+     the mechanisms by which the Department currently selects 
+     means for the delivery of health care, whether by major 
+     construction, major medical facility leases, sharing 
+     agreements with the Department of Defense, the Indian Health 
+     Service, and Federally Qualified Health Clinics under section 
+     330 of the Public Health Service Act (42 U.S.C. 254b), 
+     contract care, multisite care, telemedicine, extended hours 
+     for care, or other means.
+       (2) Context of evaluation and assessment.--In undertaking 
+     the evaluation and assessment, the Commission shall 
+     consider--
+       (A) the importance of access to health care through the 
+     Department, including associated guidelines of the Department 
+     on access to, and drive time for, health care;
+       (B) limitations and requirements applicable to the 
+     construction and leasing of medical facilities for the 
+     Department, including applicable laws, regulations, and costs 
+     as determined by both the Congressional Budget Office and the 
+     Office of Management and Budget;
+       (C) the nature of capital planning for Department medical 
+     facilities in an era of fiscal uncertainty;
+       (D) projected future fluctuations in the population of 
+     veterans; and
+       (E) the extent to which the Department was able to meet the 
+     mandates of the Capital Asset Realignment for Enhanced 
+     Services Commission.
+       (3) Particular considerations.--In undertaking the 
+     evaluation and assessment, the Commission shall address, in 
+     particular, the following:
+       (A) The Major Medical Facility Lease Program of the 
+     Department, including an identification of potential 
+     improvements to the lease authorization processes under that 
+     Program.
+       (B) The management processes of the Department for its 
+     Major Medical Facility Construction Program, including 
+     processes relating to contract award and management, project 
+     management, and processing of change orders.
+       (C) The overall capital planning program of the Department 
+     for medical facilities, including an evaluation and 
+     assessment of--
+       (i) the manner in which the Department determines whether 
+     to use capital or non-capital means to expand access to 
+     health care;
+       (ii) the manner in which the Department determines the 
+     disposition of under-utilized and un-utilized buildings on 
+     campuses of Department medical centers, and any barriers to 
+     disposition;
+       (iii) the effectiveness of the facility master planning 
+     initiative of the Department; and
+       (iv) the extent to which sustainable attributes are planned 
+     for to decrease operating costs for Department medical 
+     facilities.
+       (D) The current backlog of construction projects for 
+     Department medical facilities, including an identification of 
+     the most effective means to quickly secure the most critical 
+     repairs required, including repairs relating to facility 
+     condition deficiencies, structural safety, and compliance 
+     with the Americans With Disabilities Act of 1990.
+       (4) Reports.--Subject to paragraph (5), the Commission 
+     shall submit to the Secretary of Veterans Affairs, and to the 
+     Committee Veterans' Affairs of the Senate and the Committee 
+     on Veterans' Affairs of the House of Representatives, reports 
+     as follows:
+       (A) Not later than six months after its initial meeting 
+     under subsection (a)(4), a report on the Major Medical 
+     Facility Lease Program and the Congressional lease 
+     authorization process.
+       (B) Not later than one year after its initial meeting, a 
+     report--
+       (i) on the management processes of the Department for the 
+     construction of Department medical facilities; and
+       (ii) setting forth an update of any matters covered in the 
+     report under subparagraph (A).
+       (C) Not later than 18 months after its initial meeting, a 
+     report--
+       (i) on the overall capital planning program of the 
+     Department for medical facilities; and
+       (ii) setting forth an update of any matters covered in 
+     earlier reports under this paragraph.
+       (D) Not later than two years after its initial meeting, a 
+     report--
+       (i) on the current backlog of construction projects for 
+     Department medical facilities;
+       (ii) setting forth an update of any matters covered in 
+     earlier reports under this paragraph; and
+       (iii) including such other matters relating to the duties 
+     of the Commission that the Commission considers appropriate.
+       (E) Not later than 27 months after its initial meeting, a 
+     report on the implementation by the Secretary of Veterans 
+     Affairs pursuant to subsection (g) of the recommendations 
+     included pursuant to paragraph (5) in the reports under this 
+     paragraph.
+
+[[Page 3218]]
+
+       (5) Recommendations.--Each report under paragraph (4) shall 
+     include, for the aspect of the capital asset planning process 
+     of the Department covered by such report, such 
+     recommendations as the Commission considers appropriate for 
+     the improvement and enhancement of such aspect of the capital 
+     asset planning process.
+       (c) Powers of Commission.--
+       (1) Hearings.--The Commission may hold such hearings, sit 
+     and act at such times and places, take such testimony, and 
+     receive such evidence as the Commission considers advisable 
+     to carry out this section.
+       (2) Information from federal agencies.--The Commission may 
+     secure directly from any Federal department or agency such 
+     information as the Commission considers necessary to carry 
+     out this section. Upon request of the Chair of the 
+     Commission, the head of such department or agency shall 
+     furnish such information to the Commission.
+       (d) Commission Personnel Matters.--
+       (1) Compensation of members.--Each member of the Commission 
+     who is not an officer or employee of the Federal Government 
+     shall be compensated at a rate equal to the daily equivalent 
+     of the annual rate of basic pay prescribed for level IV of 
+     the Executive Schedule under section 5315 of title 5, United 
+     States Code, for each day (including travel time) during 
+     which such member is engaged in the performance of the duties 
+     of the Commission. All members of the Commission who are 
+     officers or employees of the United States shall serve 
+     without compensation in addition to that received for their 
+     services as officers or employees of the United States.
+       (2) Travel expenses.--The members of the Commission shall 
+     be allowed travel expenses, including per diem in lieu of 
+     subsistence, at rates authorized for employees of agencies 
+     under subchapter I of chapter 57 of title 5, United States 
+     Code, while away from their homes or regular places of 
+     business in the performance of services for the Commission.
+       (3) Staff.--
+       (A) In general.--The Chair of the Commission may, without 
+     regard to the civil service laws and regulations, appoint and 
+     terminate an executive director and such other additional 
+     personnel as may be necessary to enable the Commission to 
+     perform its duties. The employment of an executive director 
+     shall be subject to confirmation by the Commission.
+       (B) Compensation.--The Chair of the Commission may fix the 
+     compensation of the executive director and other personnel 
+     without regard to chapter 51 and subchapter III of chapter 53 
+     of title 5, United States Code, relating to classification of 
+     positions and General Schedule pay rates, except that the 
+     rate of pay for the executive director and other personnel 
+     may not exceed the rate payable for level V of the Executive 
+     Schedule under section 5316 of such title.
+       (4) Detail of government employees.--Any Federal Government 
+     employee may be detailed to the Commission without 
+     reimbursement, and such detail shall be without interruption 
+     or loss of civil service status or privilege.
+       (5) Procurement of temporary and intermittent services.--
+     The Chair of the Commission may procure temporary and 
+     intermittent services under section 3109(b) of title 5, 
+     United States Code, at rates for individuals which do not 
+     exceed the daily equivalent of the annual rate of basic pay 
+     prescribed for level V of the Executive Schedule under 
+     section 5316 of such title.
+       (e) Termination of Commission.--The Commission shall 
+     terminate 60 days after the date on which the Commission 
+     submits its report under subsection (b)(4)(E).
+       (f) Funding.--The Secretary of Veterans Affairs shall make 
+     available to the Commission such amounts as the Secretary and 
+     the Chair of the Commission jointly consider appropriate for 
+     the Commission to perform its duties under this section.
+       (g) Action on Recommendations.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     implement each recommendation included in a report under 
+     subsection (b)(4) that the Secretary considers feasible and 
+     advisable and can be implemented without further legislative 
+     action.
+       (2) Reports.--Not later than 120 days after receipt of a 
+     report under subparagraphs (A) through (D) of subsection 
+     (b)(4), the Secretary shall submit to the Committee Veterans' 
+     Affairs of the Senate and the Committee on Veterans' Affairs 
+     of the House of Representatives a report setting forth the 
+     following:
+       (A) An assessment of the feasibility and advisability of 
+     each recommendation contained in such report.
+       (B) For each recommendation assessed as feasible and 
+     advisable--
+       (i) if such recommendation does not require further 
+     legislative action for implementation, a description of the 
+     actions taken, and to be taken, by the Secretary to implement 
+     such recommendation; and
+       (ii) if such recommendation requires further legislative 
+     action for implementation, recommendations for such 
+     legislative action.
+
+     SEC. 504. ADVANCE APPROPRIATIONS FOR CERTAIN ACCOUNTS OF THE 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Section 117 is amended--
+       (1) by striking ``medical care accounts of the Department'' 
+     each place it appears and inserting ``covered accounts of the 
+     Department'';
+       (2) in subsection (c)--
+       (A) by striking ``medical care accounts of the Veterans 
+     Health Administration, Department of Veterans Affairs 
+     account'' and inserting ``accounts of the Department of 
+     Veterans Affairs account'';
+       (B) in paragraph (1), by inserting ``Veterans Health 
+     Administration,'' after ``(1)'';
+       (C) in paragraph (2), by inserting ``Veterans Health 
+     Administration,'' after ``(2)'';
+       (D) in paragraph (3), by inserting ``Veterans Health 
+     Administration,'' after ``(3)'';
+       (E) by redesignating paragraphs (1) through (3) as 
+     paragraphs (7) through (9), respectively;
+       (F) by inserting before paragraph (7), as redesignated by 
+     subparagraph (E), the following new paragraphs:
+       ``(1) Veterans Benefits Administration, Compensation and 
+     Pensions.
+       ``(2) Veterans Benefits Administration, Readjustment 
+     Benefits.
+       ``(3) Veterans Benefits Administration, Veterans Insurance 
+     and Indemnities.
+       ``(4) Veterans Benefits Administration, Veterans Housing 
+     Benefit Program Fund.
+       ``(5) Veterans Benefits Administration, Vocational 
+     Rehabilitation Loans Program Account.
+       ``(6) Veterans Benefits Administration, Native American 
+     Veteran Housing Loan Program Account.''; and
+       (G) in the subsection heading, by striking ``Medical Care 
+     Accounts'' and inserting ``Covered Accounts''; and
+       (3) in the section heading, by striking ``certain medical 
+     care accounts'' and inserting ``certain accounts''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall apply with respect to fiscal year 2016 and each 
+     subsequent fiscal year.
+       (c) Conforming Amendment.--Section 1105 of title 31, United 
+     States Code, is amended by striking the first paragraph (37) 
+     and inserting the following:
+       ``(37) information on estimates of appropriations for the 
+     fiscal year following the fiscal year for which the budget is 
+     submitted for the following accounts of the Department of 
+     Veterans Affairs:
+       ``(A) Veterans Benefits Administration, Compensation and 
+     Pensions.
+       ``(B) Veterans Benefits Administration, Readjustment 
+     Benefits.
+       ``(C) Veterans Benefits Administration, Veterans Insurance 
+     and Indemnities.
+       ``(D) Veterans Benefits Administration, Veterans Housing 
+     Benefit Program Fund.
+       ``(E) Veterans Benefits Administration, Vocational 
+     Rehabilitation Loans Program Account.
+       ``(F) Veterans Benefits Administration, Native American 
+     Veteran Housing Loan Program Account.
+       ``(G) Veterans Health Administration, Medical Services.
+       ``(H) Veterans Health Administration, Medical Support and 
+     Compliance.
+       ``(I) Veterans Health Administration, Medical 
+     Facilities.''.
+       (d) Technical Correction.--Such section is further amended 
+     by redesignating the second paragraph (37), as added by 
+     section 11(a)(2) of the GPRA Modernization Act of 2010 
+     (Public Law 111-352; 124 Stat. 3881), as paragraph (39).
+
+     SEC. 505. PUBLIC ACCESS TO DEPARTMENT OF VETERANS AFFAIRS 
+                   RESEARCH AND DATA SHARING BETWEEN DEPARTMENTS.
+
+       (a) Establishment of Internet Website.--The Secretary of 
+     Veterans Affairs shall make available on an Internet website 
+     of the Department of Veterans Affairs available to the public 
+     the following:
+       (1) Data files that contain information on research of the 
+     Department.
+       (2) A data dictionary on each data file.
+       (3) Instructions for how to obtain access to each data file 
+     for use in research.
+       (b) Public Access to Manuscripts on Department Funded 
+     Research.--
+       (1) In general.--Beginning not later than 540 days after 
+     the effective date specified in subsection (e), the Secretary 
+     shall require, as a condition on the use of any data gathered 
+     or formulated from research funded by the Department, that 
+     any final, peer-reviewed manuscript prepared for publication 
+     that uses such data be submitted to the Secretary for deposit 
+     in the digital archive under paragraph (2) and publication 
+     under paragraph (3).
+       (2) Digital archive.--Not later than 540 days after the 
+     effective date specified in subsection (e), the Secretary 
+     shall--
+       (A) establish a digital archive consisting of manuscripts 
+     described in paragraph (1); or
+       (B) partner with another executive agency to compile such 
+     manuscripts in a digital archive.
+       (3) Public availability.--
+       (A) Availability of archive.--The Secretary shall ensure 
+     that the digital archive under paragraph (2) and the contents 
+     of such archive are available to the public via a publicly 
+     accessible Internet website at no cost to the public.
+       (B) Availability of manuscripts.--The Secretary shall 
+     ensure that each manuscript submitted to the Secretary under 
+     paragraph (1) is available to the public under subparagraph 
+     (A) not later than one year after the
+
+[[Page 3219]]
+
+     official date on which the manuscript is otherwise published.
+       (4) Consistent with copyright law.--The Secretary shall 
+     carry out this subsection in a manner consistent with 
+     applicable copyright law.
+       (5) Annual report.--
+       (A) In general.--Not later than one year after the date the 
+     Secretary begins making manuscripts available to the public 
+     under this subsection and not less frequently than once each 
+     year thereafter, the Secretary shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the implementation of this subsection during the most recent 
+     one-year period.
+       (B) Contents.--Each report submitted under subparagraph (A) 
+     shall include for the period of the report:
+       (i) The number of manuscripts submitted under paragraph 
+     (1).
+       (ii) The titles of such manuscripts.
+       (iii) The authors of such manuscripts.
+       (iv) For each such manuscript, the name and issue number or 
+     volume number, as the case may be, of the journal or other 
+     publication in which such manuscript was published.
+       (c) Recommendations for Data Sharing Between Department of 
+     Veterans Affairs and Department of Defense.--Not later than 
+     one year after the effective date specified in subsection 
+     (e), the Department of Veterans Affairs-Department of Defense 
+     Joint Executive Committee established by section 320(a) of 
+     title 38, United States Code, shall submit to the Secretary 
+     of Veterans Affairs and the Secretary of Defense options and 
+     recommendations for the establishment of a program for long-
+     term cooperation and data sharing between and within the 
+     Department of Veterans Affairs and the Department of Defense 
+     to facilitate research on outcomes of military service, 
+     readjustment after combat deployment, and other topics of 
+     importance to the following:
+       (1) Veterans.
+       (2) Members of the Armed Forces.
+       (3) Family members of veterans.
+       (4) Family members of members of the Armed Forces.
+       (5) Members of communities that have a significant 
+     population of veterans or members of the Armed Forces.
+       (d) Executive Agency Defined.--In this section, the term 
+     ``executive agency'' has the meaning given that term in 
+     section 133 of title 41, United States Code.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 506. ASSESSMENT BY COMPTROLLER GENERAL OF THE UNITED 
+                   STATES OF INFORMATION MADE AVAILABLE BY 
+                   VETERANS BENEFITS ADMINISTRATION.
+
+       (a) Assessment of Information Currently Available.--Not 
+     later than two years after the date of the enactment of this 
+     Act, the Comptroller General of the United States shall--
+       (1) conduct an assessment of the process by which the 
+     Veterans Benefits Administration informs veterans, veterans 
+     service organizations, and such other persons as the 
+     Comptroller General considers appropriate regarding the 
+     furnishing of benefits under laws administered by the 
+     Secretary of Veterans Affairs to determine the extent to 
+     which the process results in disseminated information that--
+       (A) adequately supports and improves the timeliness and 
+     accuracy of decisions made by the Administration with respect 
+     to claims for disability compensation and such other benefits 
+     furnished under laws administered by the Secretary of 
+     Veterans Affairs as the Comptroller General considers 
+     appropriate; and
+       (B) encourages the filing of fully developed claims for 
+     benefits under laws administered by the Secretary; and
+       (2) assess how the Veterans Benefits Administration 
+     notifies each claimant during, and as part of, any electronic 
+     filing process established by the Secretary for the filing of 
+     applications for disability compensation and such other 
+     benefits under laws administered by the Secretary as the 
+     Comptroller General considers appropriate that services may 
+     be available to the claimant from a veterans service 
+     organization.
+       (b) Report.--Not later than two years after the date of the 
+     enactment of this Act, the Comptroller General shall submit 
+     to the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the findings of the Comptroller 
+     General under subsection (a). Such report shall include such 
+     recommendations as the Comptroller General may have for 
+     legislative or administrative action to improve the 
+     availability of information made available to the public by 
+     the Veterans Benefits Administration regarding the furnishing 
+     of benefits under laws administered by the Secretary of 
+     Veterans Affairs.
+       (c) Veterans Service Organization Defined.--In this 
+     section, the term ``veterans service organization'' means an 
+     organization recognized by the Secretary of Veterans Affairs 
+     for the representation of veterans under section 5902 of 
+     title 38, United States Code.
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 507. COMPTROLLER GENERAL REPORT ON ADVISORY COMMITTEES 
+                   OF THE DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Not later than one year after the 
+     effective date specified in subsection (c), the Comptroller 
+     General shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the advisory committees 
+     of the Department of Veterans Affairs.
+       (b) Contents.--The report required by subsection (a)--
+       (1) shall include--
+       (A) recommendations or proposals for continuing, modifying, 
+     or terminating certain advisory committees, including noting 
+     areas of overlap and duplication among the advisory 
+     committees; and
+       (B) such other information as the Comptroller General 
+     considers appropriate; and
+       (2) may include--
+       (A) a description of each advisory committee, including 
+     with respect to each committee--
+       (i) the purpose of the committee;
+       (ii) the commencement date of the committee; and
+       (iii) the anticipated termination date of the committee;
+       (B) a summary of the anticipated expenses and the actual 
+     expenses incurred for each advisory committee during the most 
+     recent three fiscal years ending before the date of the 
+     enactment of this Act; and
+       (C) with respect to meetings held by each advisory 
+     committee--
+       (i) the frequency with which each committee has met during 
+     the shorter of--
+
+       (I) the most recent three fiscal years ending before the 
+     date of the enactment of this Act; and
+       (II) the life of the committee;
+
+       (ii) the date of the most recent meeting held by the 
+     committee before such date of enactment; and
+       (iii) the date of the most recent report or other written 
+     product developed by the committee before such date of 
+     enactment.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     TITLE VI--IMPROVEMENT OF PROCESSING OF CLAIMS FOR COMPENSATION
+
+           Subtitle A--Claims Based on Military Sexual Trauma
+
+     SEC. 601. MEDICAL EXAMINATION AND OPINION FOR DISABILITY 
+                   COMPENSATION CLAIMS BASED ON MILITARY SEXUAL 
+                   TRAUMA.
+
+       (a) In General.--Section 5103A(d) is amended by adding at 
+     the end the following new paragraph:
+       ``(3)(A) In the case of a claim for disability compensation 
+     based on a mental health condition related to military sexual 
+     trauma, the Secretary shall treat an examination or opinion 
+     as being necessary to make a decision on a claim for purposes 
+     of paragraph (1) if the evidence of record before the 
+     Secretary, taking into consideration all information and lay 
+     or medical evidence (including statements of the claimant)--
+       ``(i)(I) contains competent evidence that the claimant has 
+     a current disability, or persistent or recurrent symptoms of 
+     disability; and
+       ``(II) indicates that the disability or symptoms may be 
+     associated with the claimant's active military, naval, or air 
+     service; but
+       ``(ii) does not contain a diagnosis or opinion by a mental 
+     health professional that may assist in corroborating the 
+     occurrence of a military sexual trauma stressor related to a 
+     diagnosable mental health condition.
+       ``(B) In this paragraph, the term `military sexual trauma' 
+     shall have the meaning specified by the Secretary for 
+     purposes of this paragraph, and shall include `sexual 
+     harassment' (as so specified).''.
+       (b) Report.--Not later than 18 months after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the number of examinations and 
+     opinions conducted by the Secretary pursuant to paragraph (3) 
+     of section 5103A(d) of title 38, United States Code (as added 
+     by subsection (a)), including the following:
+       (1) The number of examinations conducted using a 
+     standardized disability assessment.
+       (2) The number of examinations conducted using a non-
+     standardized clinical interview.
+
+     SEC. 602. CASE REPRESENTATIVE OFFICERS FOR MILITARY SEXUAL 
+                   TRAUMA SUPPORT.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     assign to each individual seeking compensation under the laws 
+     administered by the Secretary based on military sexual trauma 
+     a case representative officer who shall provide advice and 
+     general information to such individual on the claims process 
+     for such compensation. Each case representative officer so 
+     assigned shall be assigned from among current personnel of 
+     the Department of Veterans Affairs.
+       (b) Liaison.--A case representative officer assigned to an 
+     individual under subsection (a) shall be responsible for 
+     serving as a liaison between the individual, an authorized
+
+[[Page 3220]]
+
+     agent or attorney of the individual under section 5904 of 
+     title 38, United States Code, or an otherwise accredited 
+     representative of the individual, and the Department of 
+     Veterans Affairs on matters relating to the claim of the 
+     individual for compensation under the laws administered by 
+     the Secretary.
+       (c) Case Representative Officer Requirements.--
+       (1) Competence and knowledge.--Each case representative 
+     officer assigned under subsection (a) shall be competent and 
+     knowledgeable about the following:
+       (A) The claims adjudication process and applicable laws, 
+     regulations, and other authority applicable to the 
+     adjudication of disability claims based on military sexual 
+     trauma.
+       (B) Such other services to victims of sexual trauma as the 
+     Secretary considers appropriate.
+       (2) Limitation on number of individuals to which 
+     assigned.--A case representative officer may not be assigned 
+     to more individuals described in subsection (a) than, as 
+     determined by the Secretary, is appropriate for the provision 
+     of individual case management assistance by such officer.
+       (d) Information on Benefits and Programs Relating to 
+     Military Sexual Trauma.--
+       (1) In general.--The Secretary shall make available to the 
+     public information on the availability of case representative 
+     officers under subsection (a) to assist in the application 
+     for benefits based on military sexual trauma. The Secretary 
+     shall revise and update the information so made available in 
+     order to ensure that the information is as current as 
+     possible.
+       (2) Individuals separating from military service.--The 
+     Secretary shall, in consultation with the Secretary of 
+     Defense, ensure that individuals who are being separated from 
+     the active military, naval, or air service are provided 
+     appropriate information about programs, requirements, and 
+     procedures for applying for benefits based on military sexual 
+     trauma and the availability of case representative officers 
+     under subsection (a).
+       (e) Information on Training for Agents and Representatives 
+     of Individuals Assigned Case Representative Officer.--The 
+     Secretary shall make available to the authorized agent or 
+     attorney of an individual assigned a case representative 
+     under subsection (a), or to the otherwise accredited 
+     representative of the individual, any relevant materials used 
+     to train such case representative officer for the duties of 
+     such position.
+       (f) Advisory Committee on Women Veterans Consideration of 
+     Mechanisms To Enhance Coordination Between VBA and VHA on 
+     Benefits for Military Sexual Trauma.--The Advisory Committee 
+     on Women Veterans established under section 542 of title 38, 
+     United States Code, shall undertake actions to identify 
+     mechanisms to enhance coordination between the Veterans 
+     Benefits Administration and the Veterans Health 
+     Administration in the provision of benefits based on military 
+     sexual trauma, including the identification of barriers to 
+     the appropriate provision of benefits for military sexual 
+     trauma by such Administrations and of means of eliminating or 
+     reducing such barriers.
+       (g) Annual Reports.--Not less frequently than annually, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report 
+     setting forth the following:
+       (1) A certification whether or not the case representative 
+     officers assigned under subsection (a) during the preceding 
+     year met the requirements specified in subsection (c).
+       (2) A description of the current training the Secretary 
+     provides to employees of the Veterans Benefits Administration 
+     on claims for benefits based on military sexual trauma, 
+     including the frequency, length, and content of such 
+     training.
+       (3) A description of current policies and procedures on the 
+     training the Secretary provides to case representative 
+     officers, including the current position descriptions for 
+     case representative officers.
+       (4) A description of current efforts to coordinate 
+     activities and assistance provided to individuals who seek 
+     care or benefits for military sexual trauma between the 
+     Veterans Health Administration and Veterans Benefits 
+     Administration, including the efforts of the Advisory 
+     Committee on Women Veterans under subsection (f).
+       (h) Sunset.--
+       (1) In general.--No case representative officer may be 
+     assigned under subsection (a) after December 31, 2018.
+       (2) Continuation of duties after sunset date.--Paragraph 
+     (1) shall not be construed to prohibit any case 
+     representative officer assigned to an individual before the 
+     date specified in that paragraph from performing duties 
+     pursuant to this section after that date with respect to a 
+     claim for which that case representative officer was assigned 
+     to such individual before that date.
+       (i) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+       (2) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+     SEC. 603. REPORT ON STANDARD OF PROOF FOR SERVICE-CONNECTION 
+                   OF MENTAL HEALTH CONDITIONS RELATED TO MILITARY 
+                   SEXUAL TRAUMA.
+
+       (a) In General.--Not later than 90 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the current standard of proof for 
+     service-connection under chapter 11 of title 38, United 
+     States Code, for covered mental health conditions based on 
+     military sexual trauma.
+       (b) Recommendations.--The Secretary shall include in the 
+     report under subsection (a) any recommendations the Secretary 
+     considers appropriate to improve the adjudication of claims 
+     for compensation based on military sexual trauma, including--
+       (1) recommendations for an appropriate standard of proof 
+     for such claims if the Secretary considers such 
+     recommendations advisable; and
+       (2) recommendations for legislative action, if necessary, 
+     to carry out such improvement.
+       (c) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+       (2) Covered mental health condition.--The term ``covered 
+     mental health condition'' means post-traumatic stress 
+     disorder, anxiety, depression, or other mental health 
+     diagnosis that the Secretary determines to be related to 
+     military sexual trauma.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+     SEC. 604. REPORTS ON CLAIMS FOR DISABILITIES INCURRED OR 
+                   AGGRAVATED BY MILITARY SEXUAL TRAUMA.
+
+       (a) Reports.--Not later than December 1, 2014, and each 
+     year thereafter through 2018, the Secretary of Veterans 
+     Affairs shall submit to Congress a report on the covered 
+     claims submitted to the Secretary during the previous fiscal 
+     year.
+       (b) Elements.--Each report under subsection (a) shall 
+     include the following:
+       (1) The number of covered claims submitted to or considered 
+     by the Secretary during the fiscal year covered by the 
+     report.
+       (2) Of the covered claims under paragraph (1), the number 
+     and percentage of such claims--
+       (A) submitted by each gender;
+       (B) that were approved, including the number and percentage 
+     of such approved claims submitted by each gender; and
+       (C) that were denied, including the number and percentage 
+     of such denied claims submitted by each gender.
+       (3) Of the covered claims under paragraph (1) that were 
+     approved, the number and percentage, listed by each gender, 
+     of claims assigned to each rating percentage of disability.
+       (4) Of the covered claims under paragraph (1) that were 
+     denied--
+       (A) the three most common reasons given by the Secretary 
+     under section 5104(b)(1) of title 38, United States Code, for 
+     such denials; and
+       (B) the number of denials that were based on the failure of 
+     a veteran to report for a medical examination.
+       (5) Of the covered claims under paragraph (1) that were 
+     resubmitted to the Secretary after denial in a previous 
+     adjudication--
+       (A) the number of such claims submitted to or considered by 
+     the Secretary during the fiscal year covered by the report;
+       (B) the number and percentage of such claims--
+       (i) submitted by each gender;
+       (ii) that were approved, including the number and 
+     percentage of such approved claims submitted by each gender; 
+     and
+       (iii) that were denied, including the number and percentage 
+     of such denied claims submitted by each gender;
+       (C) the number and percentage, listed by each gender, of 
+     claims assigned to each rating percentage of disability; and
+       (D) of such claims that were again denied--
+       (i) the three most common reasons given by the Secretary 
+     under section 5104(b)(1) of such title for such denials; and
+       (ii) the number of denials that were based on the failure 
+     of a veteran to report for a medical examination.
+       (6) The number of covered claims that, as of the end of the 
+     fiscal year covered by the report, are pending and, 
+     separately, the number of such claims on appeal.
+       (7) For the fiscal year covered by the report, the average 
+     number of days that covered claims take to complete beginning 
+     on the date on which the claim is submitted.
+       (c) Definitions.--In this section:
+       (1) Active military, naval, or air service.--The term 
+     ``active military, naval, or air service'' has the meaning 
+     given that term in section 101 of title 38, United States 
+     Code.
+
+[[Page 3221]]
+
+       (2) Covered claims.--The term ``covered claims'' means 
+     claims for disability compensation submitted to the Secretary 
+     based on post traumatic stress disorder alleged to have been 
+     incurred or aggravated by military sexual trauma.
+       (3) Military sexual trauma.--The term ``military sexual 
+     trauma'' shall have the meaning specified by the Secretary 
+     for purposes of this section, and shall include ``sexual 
+     harassment'' (as so specified).
+
+      Subtitle B--Claims for Dependency and Indemnity Compensation
+
+     SEC. 611. PROGRAM ON TREATMENT OF CERTAIN APPLICATIONS FOR 
+                   DEPENDENCY AND INDEMNITY COMPENSATION AS FULLY 
+                   DEVELOPED CLAIMS.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     carry out a program to assess the feasibility and 
+     advisability of expediting the treatment of a covered 
+     dependency and indemnity compensation claim.
+       (b) Covered Dependency and Indemnity Compensation Claims.--
+     For purposes of this section, a covered dependency and 
+     indemnity compensation claim is a claim submitted to the 
+     Secretary for compensation under chapter 13 of title 38, 
+     United States Code, for which the claimant--
+       (1) applies for such compensation within one-year of the 
+     death of the veteran upon whose service the claim is based;
+       (2) was the dependent on the claim of a veteran who was 
+     receiving benefits for one or more service-connected 
+     conditions as of the date of death;
+       (3) submits a death certificate or other evidence with the 
+     claim indicating that the veteran's death was due to a 
+     service-connected or compensable disability; and
+       (4) in the case that the claimant is the spouse of the 
+     deceased veteran, certifies that he or she has not remarried 
+     since the date of the veteran's death.
+       (c) Duration.--The program shall be carried out during the 
+     one-year period beginning on the date that is 90 days after 
+     the date of the enactment of this Act.
+       (d) Locations.--The program shall be carried out at the 
+     Pension Management Center of the Department of Veterans 
+     Affairs or such centers selected by the Secretary for 
+     purposes of the program.
+       (e) Report.--
+       (1) In general.--Not later than 270 days after the date on 
+     which the program is completed, the Secretary shall submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the program.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The number of covered dependency and indemnity 
+     compensation claims that were adjudicated under the program, 
+     disaggregated by the following:
+       (i) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     spouse of a deceased veteran.
+       (ii) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     child of a deceased veteran.
+       (iii) Claims in which the claimant claimed entitlement to 
+     compensation on the basis of the claimant's status as the 
+     parent of a deceased veteran.
+       (B) The number of covered dependency and indemnity 
+     compensation claims that were adjudicated under the program 
+     and for which compensation was not awarded, disaggregated by 
+     clauses (i) through (iii) of subparagraph (A).
+       (C) A comparison of the accuracy and timeliness of claims 
+     adjudicated under the program with claims submitted to the 
+     Secretary for compensation under chapter 13 of title 38, 
+     United States Code, that were not provided expeditious 
+     treatment under the program.
+       (D) The findings of the Secretary with respect to the 
+     program.
+       (E) Such recommendations as the Secretary may have for 
+     legislative or administrative action to improve the 
+     adjudication of claims submitted to the Secretary for 
+     compensation under chapter 13 of title 38, United States 
+     Code.
+
+     SEC. 612. REPORT BY SECRETARY OF VETERANS AFFAIRS ON 
+                   IMPROVING TIMELINESS AND ACCURACY OF 
+                   ADMINISTRATION OF CLAIMS FOR DEPENDENCY AND 
+                   INDEMNITY COMPENSATION AND PENSION FOR 
+                   SURVIVING SPOUSES AND CHILDREN.
+
+       (a) In General.--Not later than 455 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report with recommendations for legislative 
+     or administrative actions to improve the timeliness and 
+     accuracy with which the Secretary processes and adjudicates 
+     claims for compensation under chapter 13 of title 38, United 
+     States Code, and pension under sections 1541 and 1542 of such 
+     title.
+       (b) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+              Subtitle C--Agency of Original Jurisdiction
+
+     SEC. 621. WORKING GROUP TO IMPROVE EMPLOYEE WORK CREDIT AND 
+                   WORK MANAGEMENT SYSTEMS OF VETERANS BENEFITS 
+                   ADMINISTRATION IN AN ELECTRONIC ENVIRONMENT.
+
+       (a) Establishment.--Not later than 90 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall establish a working group to assess and develop 
+     recommendations for the improvement of the employee work 
+     credit and work management systems of the Veterans Benefits 
+     Administration in an electronic environment.
+       (b) Composition.--The working group shall be composed of 
+     the following:
+       (1) The Secretary or the Secretary's designee.
+       (2) Individuals selected by the Secretary from among 
+     employees of the Department of Veterans Affairs who handle 
+     claims for compensation and pension benefits and are 
+     recommended to the Secretary by a labor organization for 
+     purposes of this section, including at least one of each of 
+     the following individuals:
+       (A) A veterans service representative.
+       (B) A rating veterans service representative.
+       (C) A decision review officer.
+       (3) Not fewer than three individuals selected by the 
+     Secretary to represent different organizations recognized by 
+     the Secretary for the representation of veterans under 
+     section 5902 of title 38, United States Code.
+       (4) Individuals selected by the Secretary--
+       (A) that are not employees of the Department; and
+       (B) that are experts in work credit and work management 
+     systems.
+       (c) Duties.--The duties of the working group are to assess 
+     and develop recommendations for the following:
+       (1) The improvement of the employee work credit and work 
+     management systems of the Veterans Benefits Administration in 
+     an electronic environment.
+       (2) A scientific, data based methodology to be used in 
+     revising the employee work credit system of the Department to 
+     improve the quality and quantity of work produced by 
+     employees of the Department.
+       (3) The improvement of the resource allocation model of the 
+     Veterans Benefits Administration, with a focus on the 
+     processing of claims in an electronic environment.
+       (4) A schedule by which the revisions referred to in 
+     paragraph (2) will be implemented by the Department.
+       (d) Review and Incorporation of Findings From Prior 
+     Study.--In carrying out its duties under subsection (c), the 
+     working group shall review the findings and conclusions of 
+     previous studies of the employee work credit and work 
+     management systems of the Veterans Benefits Administration.
+       (e) Role of the Secretary.--The Secretary shall consider 
+     the recommendations of the working group and implement such 
+     recommendations as the Secretary determines appropriate.
+       (f) Reports.--
+       (1) Interim report.--Not later than 180 days after the date 
+     of the establishment of the working group, the working group 
+     shall submit to Congress a report on the progress of the 
+     working group.
+       (2) Final report.--Not later than one year after the date 
+     of the establishment of the working group, the Secretary 
+     shall submit to Congress the methodology described in 
+     subsection (c)(2) and the schedule described in subsection 
+     (c)(4) that the Secretary has decided to implement pursuant 
+     to subsection (e).
+       (g) Implementation of Methodology and Schedule.--After 
+     submitting the report under subsection (f), the Secretary 
+     shall take such actions as may be necessary to apply the 
+     methodology described in subsection (c)(2) and the schedule 
+     described in subsection (c)(4) that the Secretary has decided 
+     to implement pursuant to subsection (e).
+
+     SEC. 622. TASK FORCE ON RETENTION AND TRAINING OF DEPARTMENT 
+                   OF VETERANS AFFAIRS CLAIMS PROCESSORS AND 
+                   ADJUDICATORS.
+
+       (a) Establishment.--The Secretary of Veterans Affairs shall 
+     establish a task force to assess retention and training of 
+     claims processors and adjudicators that are employed by the 
+     Department of Veterans Affairs and other departments and 
+     agencies of the Federal Government.
+       (b) Composition.--The task force shall be composed of the 
+     following:
+       (1) The Secretary of Veterans Affairs or designee.
+       (2) The Director of the Office of Personnel Management or 
+     designee.
+       (3) The Commissioner of Social Security or designee.
+       (4) An individual selected by the Secretary of Veterans 
+     Affairs who represents an organization recognized by the 
+     Secretary for the representation of veterans under section 
+     5902 of title 38, United States Code.
+       (5) Such other individuals selected by the Secretary who 
+     represent such other organizations and institutions as the 
+     Secretary considers appropriate.
+       (c) Duration.--The task force established under subsection 
+     (a) shall terminate not later than two years after the date 
+     on which the task force is established under such subsection.
+       (d) Duties.--The duties of the task force are as follows:
+       (1) To identify key skills required by claims processors 
+     and adjudicators to perform the duties of claims processors 
+     and adjudicators in the various claims processing
+
+[[Page 3222]]
+
+     and adjudication positions throughout the Federal Government.
+       (2) To identify reasons for employee attrition from claims 
+     processing positions.
+       (3) To coordinate with educational institutions to develop 
+     training and programs of education for members of the Armed 
+     Forces to prepare such members for employment in claims 
+     processing and adjudication positions in the Federal 
+     Government.
+       (4) To identify and coordinate offices of the Department of 
+     Defense and the Department of Veterans Affairs located 
+     throughout the United States to provide information about, 
+     and promotion of, available claims processing positions to 
+     members of the Armed Forces transitioning to civilian life 
+     and to veterans with disabilities.
+       (5) To establish performance measures to evaluate the 
+     effectiveness of the task force.
+       (6) Not later than one year after the date of the 
+     establishment of the task force, to develop a Government-wide 
+     strategic and operational plan for promoting employment of 
+     veterans in claims processing positions in the Federal 
+     Government.
+       (7) To establish performance measures to assess the plan 
+     developed under paragraph (6), to assess the implementation 
+     of such plan, and to revise such plan as the task force 
+     considers appropriate.
+       (e) Reports.--
+       (1) Submittal of plan.--Not later than one year after the 
+     date of the establishment of the task force, the Secretary of 
+     Veterans Affairs shall submit to Congress a report on the 
+     plan developed by the task force under subsection (d)(6).
+       (2) Assessment of implementation.--Not later than 120 days 
+     after the termination of the task force, the Secretary shall 
+     submit to Congress a report that assesses the implementation 
+     of the plan developed by the task force under subsection 
+     (d)(6).
+
+     SEC. 623. REPORTS ON REQUESTS BY THE DEPARTMENT OF VETERANS 
+                   AFFAIRS FOR RECORDS OF OTHER FEDERAL AGENCIES.
+
+       (a) Reports Required.--Not later than 180 days after the 
+     date of the enactment of this Act, and every 180 days 
+     thereafter through the date that is 910 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the attempts of the 
+     Department of Veterans Affairs to obtain records necessary to 
+     adjudicate claims for benefits from another department or 
+     agency of the Federal Government during the 180-day period 
+     ending on the date of such report.
+       (b) Elements.--
+       (1) In general.--Each report shall set forth the following:
+       (A) For the period covered by such report, the following:
+       (i) The total number of requests made by the Department.
+       (ii) The types of records requested.
+       (iii) The number of requests made before the receipt of 
+     each record.
+       (iv) The amount of time between the initial request for 
+     each record and the receipt of each record.
+       (v) The number of occurrences of the receipt of a record 
+     after the adjudication of the claim for which the record was 
+     sought.
+       (vi) A description of the efforts of the Secretary to 
+     expedite the delivery of records to the Department from other 
+     departments and agencies of the Federal Government.
+       (B) Such recommendations for legislative or administrative 
+     action as the Secretary considers appropriate in light of 
+     such report.
+       (2) Presentation.--The information in a report under clause 
+     (i) through (v) of paragraph (1)(A) shall be set forth 
+     separately for each department and agency of the Federal 
+     Government covered by such report.
+
+     SEC. 624. RECOGNITION OF REPRESENTATIVES OF INDIAN TRIBES IN 
+                   THE PREPARATION, PRESENTATION, AND PROSECUTION 
+                   OF CLAIMS UNDER LAWS ADMINISTERED BY THE 
+                   SECRETARY OF VETERANS AFFAIRS.
+
+       Section 5902(a)(1) is amended by inserting ``, including 
+     Indian tribes (as defined in section 4 of the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 
+     450b))'' after ``as the Secretary may approve''.
+
+     SEC. 625. PROGRAM ON PARTICIPATION OF LOCAL AND TRIBAL 
+                   GOVERNMENTS IN IMPROVING QUALITY OF CLAIMS FOR 
+                   DISABILITY COMPENSATION SUBMITTED TO DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall carry out a program to assess the feasibility and 
+     advisability of entering into memoranda of understanding with 
+     local governments and tribal organizations--
+       (1) to improve the quality of claims submitted to the 
+     Secretary for compensation under chapter 11 of title 38, 
+     United States Code, and pension under chapter 15 of such 
+     title; and
+       (2) to provide assistance to veterans who may be eligible 
+     for such compensation or pension in submitting such claims.
+       (b) Minimum Number of Participating Tribal Organizations.--
+     In carrying out the program required by subsection (a), the 
+     Secretary shall enter into, or maintain existing, memoranda 
+     of understanding with at least--
+       (1) two tribal organizations; and
+       (2) 10 State or local governments.
+       (c) Duration.--The program shall be carried out during the 
+     two-year period beginning on the date of the commencement of 
+     the program.
+       (d) Report.--
+       (1) Initial report.--Not later than one year after the date 
+     of the commencement of the program, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report that includes the following:
+       (A) A description of the implementation and operation of 
+     the program, including a description of outreach conducted by 
+     the Secretary to tribal organizations and State and local 
+     governments.
+       (B) An evaluation of the program, including the total 
+     number of memoranda of understanding entered into or 
+     maintained by the Secretary.
+       (2) Final report.--Not later than 180 days after the 
+     termination of the program, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report that includes the following:
+       (A) A description of the implementation and operation of 
+     the program, including a description of outreach conducted by 
+     the Secretary to tribal organizations and State and local 
+     governments.
+       (B) An evaluation of the program, including the total 
+     number of memoranda of understanding entered into or 
+     maintained by the Secretary.
+       (C) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (D) Such recommendations for continuation or expansion of 
+     the program as the Secretary considers appropriate.
+       (e) Tribal Organization Defined.--In this section, the term 
+     ``tribal organization'' has the meaning given that term in 
+     section 3765 of title 38, United States Code.
+
+     SEC. 626. DEPARTMENT OF VETERANS AFFAIRS NOTICE OF AVERAGE 
+                   TIMES FOR PROCESSING COMPENSATION CLAIMS.
+
+       (a) Public Notice.--The Secretary of Veterans Affairs 
+     shall, to the extent practicable, post the information 
+     described in subsection (b)--
+       (1) in physical locations, such as Regional Offices or 
+     other claims in-take facilities, that the Secretary considers 
+     appropriate;
+       (2) on the Internet website of the Department; and
+       (3) through other mediums or using such other methods, 
+     including collaboration with veterans service organizations, 
+     as the Secretary considers appropriate.
+       (b) Information Described.--
+       (1) In general.--The information described in this 
+     subsection is the average processing time of the claims 
+     described in paragraph (2).
+       (2) Claims described.--The claims described in this 
+     paragraph are each of the following types of claims for 
+     benefits under the laws administered by the Secretary of 
+     Veterans Affairs:
+       (A) A fully developed claim.
+       (B) A claim that is not fully developed.
+       (3) Update of information.--The information described in 
+     this subsection shall be updated not less frequently than 
+     once each fiscal quarter.
+       (c) Expiration of Requirements.--The requirements of 
+     subsection (a) shall expire on December 31, 2015.
+       (d) Veterans Service Organization Defined.--In this 
+     section, the term ``veterans service organization'' means an 
+     organization recognized by the Secretary of Veterans Affairs 
+     for the representation of veterans under section 5902 of 
+     title 38, United States Code.
+
+     SEC. 627. QUARTERLY REPORTS ON PROGRESS OF DEPARTMENT OF 
+                   VETERANS AFFAIRS IN ELIMINATING BACKLOG OF 
+                   CLAIMS FOR COMPENSATION THAT HAVE NOT BEEN 
+                   ADJUDICATED.
+
+       (a) In General.--Not later than 90 days after the date of 
+     the enactment of this Act and not less frequently than 
+     quarterly thereafter through calendar year 2015, the 
+     Secretary of Veterans Affairs shall submit to the Committee 
+     on Veterans' Affairs of the Senate and the Committee on 
+     Veterans' Affairs of the House of Representatives a report on 
+     the backlog of claims filed with the Department of Veterans 
+     Affairs for compensation that have not been adjudicated by 
+     the Department.
+       (b) Contents.--Each report submitted under subsection (a) 
+     shall include the following:
+       (1) For each month through calendar year 2015, a projection 
+     of the following:
+       (A) The number of claims completed.
+       (B) The number of claims received.
+       (C) The number of claims on backlog at the end of the 
+     month.
+       (D) The number of claims pending at the end of the month.
+       (E) The number of appeals pending at the end of the month.
+       (F) A description of the status of the implementation of 
+     initiatives carried out by the Secretary to address the 
+     backlog, including the expected impact of those initiatives 
+     on accuracy and timeliness of adjudication of claims.
+       (2) For each quarter through calendar year 2015, a 
+     projection of the average accuracy of
+
+[[Page 3223]]
+
+     disability determinations for compensation claims that 
+     require a disability rating (or disability decision).
+       (3) For each month during the most recently completed 
+     quarter, the following:
+       (A) The number of claims completed.
+       (B) The number of claims received.
+       (C) The number of claims on backlog at the end of the 
+     month.
+       (D) The number of claims pending at the end of the month.
+       (E) The number of appeals pending at the end of the month.
+       (F) A description of the status of the implementation of 
+     initiatives carried out by the Secretary to address the 
+     backlog, including the impact of those initiatives on 
+     accuracy and timeliness of adjudication of claims.
+       (G) An assessment of the accuracy of disability 
+     determinations for compensation claims that require a 
+     disability rating (or disability decision).
+       (4) For the most recently completed quarter--
+       (A) the number of cases physically received at the Board of 
+     Veterans' Appeals and docketed;
+       (B) the number of cases pending at the Board of Veterans' 
+     Appeals at the end of the quarter;
+       (C) the number of cases physically at the Board of 
+     Veterans' Appeals at the end of the quarter;
+       (D) the number of notices of disagreement and appeals filed 
+     to the agency of original jurisdiction referred to in section 
+     7105(b)(1) of title 38, United States Code; and
+       (E) the number of decisions made by the Board of Veterans' 
+     Appeals and the percentage of such decisions that were 
+     allowed, remanded, denied, or otherwise disposed of.
+       (c) Availability to Public.--The Secretary shall make each 
+     report submitted under subsection (a) available to the 
+     public.
+       (d) On Backlog and Pending Defined.--In this section, the 
+     terms ``on backlog'' and ``pending'', with respect to a claim 
+     for compensation received by the Secretary, shall have the 
+     meaning specified by the Secretary for purposes of this 
+     section.
+
+     SEC. 628. REPORTS ON USE OF EXISTING AUTHORITIES TO EXPEDITE 
+                   BENEFITS DECISIONS.
+
+       (a) Report on Current Use of Temporary, Intermediate, and 
+     Provisional Rating Decisions.--
+       (1) Report required.--Not later than 180 days after the 
+     date of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall submit to the Committee on Veterans' Affairs of 
+     the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives a report on the use of temporary, 
+     intermediate, and provisional rating decisions to expedite 
+     the benefits decisions of the Department of Veterans Affairs.
+       (2) Report elements.--The report required by paragraph (1) 
+     shall include the following:
+       (A) With respect to temporary and intermediate rating 
+     decisions, the following:
+       (i) The number of temporary and intermediate rating 
+     decisions issued by the Department during each of fiscal 
+     years 2011, 2012, and 2013.
+       (ii) A description of any reasons or obstacles that prevent 
+     use of existing authorities to issue temporary or 
+     intermediate rating decisions.
+       (iii) A description of the Quick Pay Disability initiative, 
+     including the rationale for not expanding the initiative 
+     beyond pilot program status.
+       (B) With respect to provisional rating decisions, the 
+     following:
+       (i) The number of provisional rating decisions issued by 
+     the Department during the oldest claims first initiative.
+       (ii) Of the provisional rating decisions issued during the 
+     oldest claims first initiative--
+
+       (I) the number of such decisions that involved a claim 
+     granted;
+       (II) the number of such decisions that involved a claim 
+     denied; and
+       (III) the number of such decisions that involved a claim 
+     granted in part or a claim denied in part.
+
+       (iii) A statement of the most common reasons claims were 
+     not granted earlier under the oldest claims first initiative 
+     when there was sufficient evidence to render an award of 
+     benefits in the provisional rating decision.
+       (iv) The average number of days to issue a provisional 
+     rating decision under the oldest claims first initiative.
+       (v) Of the total number of decisions that were completed 
+     under the oldest claims first initiative--
+
+       (I) the number that were Category 1 claims and received a 
+     final rating decision; and
+       (II) the number that were Category 2 claims and received a 
+     provisional rating decision.
+
+       (vi) The number of rating decisions issued during the 
+     oldest claims first imitative that involved a brokered claim, 
+     set forth by number of such claims by Regional Office of the 
+     Department, including--
+
+       (I) the number of brokered claims received by each Regional 
+     Office; and
+       (II) the number of brokered claims issued by each Regional 
+     Office.
+
+       (vii) The number of provisional rating decisions issued 
+     during the oldest claims first initiative with respect to 
+     which the veteran requested that the provisional decision 
+     become final in order to appeal.
+       (viii) The number of provisional rating decisions issued 
+     during the oldest claims first initiative with respect to 
+     which the veteran requested an appeal after the expiration of 
+     the 1-year period beginning on the date of notification of 
+     the provisional rating decision.
+       (ix) An assessment of the accuracy of provisional rating 
+     decisions issued during the oldest claims first initiative, 
+     set forth by Category 1 claims and Category 2 claims.
+       (C) Such other matters as the Secretary considers 
+     appropriate for purposes of the report.
+       (3) Supplemental information.--If the Secretary continues 
+     to obtain information on rating decisions under clauses (vii) 
+     and (viii) of paragraph (2)(B) after the date of the 
+     submittal of the report required by paragraph (1), the 
+     Secretary shall submit to the committees of Congress referred 
+     to in paragraph (1) a report on such information that 
+     supplements the information on such clauses in the report 
+     under paragraph (1) when the Secretary completes accumulation 
+     of such information.
+       (b) Plan for Increase in Use of Temporary or Intermediate 
+     Rating Decisions.--
+       (1) Report on plan required.--Not later than 180 days after 
+     the date of the enactment of this Act, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives a report setting forth a plan to increase the 
+     use of temporary or intermediate rating decisions to expedite 
+     benefit decisions of the Department when the record contains 
+     sufficient evidence to grant any claim at issue, including 
+     service connection.
+       (2) Plan elements.--The plan required under paragraph (1) 
+     shall include the following:
+       (A) Mechanisms to overcome obstacles to the use of 
+     temporary or intermediate rating decisions, including 
+     mechanisms (such as upgrades) to assure the ability of the 
+     Veterans Benefits Management System to facilitate the 
+     issuance of temporary or intermediate rating decisions.
+       (B) Mechanisms to ensure that appropriate claimant 
+     populations, such as claimants who file complex or multi-
+     issue disability compensation claims, benefit from the 
+     availability of temporary or intermediate rating decisions.
+       (C) Mechanisms to provide for the use of temporary or 
+     intermediate rating decisions, including mechanisms to 
+     resolve whether a request by a claimant or claimant 
+     representative should trigger use of a temporary or 
+     intermediate rating decision depending on the circumstances 
+     of the claimant.
+       (D) Mechanisms to prevent the use of temporary or 
+     intermediate rating decisions in lieu of a final rating 
+     decision when a final rating decision could be made with 
+     little or no additional claim development.
+       (E) Such recommendations for legislative or administrative 
+     action as the Secretary considers appropriate to increase the 
+     use of temporary or intermediate rating decisions to expedite 
+     benefit decisions of the Department.
+
+     SEC. 629. REPORTS ON DEPARTMENT DISABILITY MEDICAL 
+                   EXAMINATIONS AND PREVENTION OF UNNECESSARY 
+                   MEDICAL EXAMINATIONS.
+
+       (a) Report on Disability Medical Examinations Furnished by 
+     Department of Veterans Affairs.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the furnishing of general medical 
+     and specialty medical examinations by the Department of 
+     Veterans Affairs for purposes of adjudicating claims for 
+     benefits under laws administered by the Secretary.
+       (2) Contents.--The report submitted under paragraph (1) 
+     shall include the following:
+       (A) The number of general medical examinations furnished by 
+     the Department during the period of fiscal years 2009 through 
+     2012 for purposes of adjudicating claims for benefits under 
+     laws administered by the Secretary.
+       (B) The number of general medical examinations furnished by 
+     the Department during the period of fiscal years 2009 through 
+     2012 for purposes of adjudicating a claim in which a 
+     comprehensive joint examination was conducted, but for which 
+     no disability relating to a joint, bone, or muscle had been 
+     asserted as an issue in the claim.
+       (C) The number of specialty medical examinations furnished 
+     by the Department during the period of fiscal years 2009 
+     through 2012 for purposes of adjudicating a claim.
+       (D) The number of specialty medical examinations furnished 
+     by the Department during the period of fiscal years 2009 
+     through 2012 for purposes of adjudicating a claim in which 
+     one or more joint examinations were conducted.
+       (E) A summary with citations to any medical and scientific 
+     studies that provide a basis for determining that three 
+     repetitions is adequate to determine the effect of repetitive 
+     use on functional impairments.
+       (F) The names of all examination reports, including general 
+     medical examinations and
+
+[[Page 3224]]
+
+     Disability Benefits Questionnaires, used for evaluation of 
+     compensation and pension disability claims which require 
+     measurement of repeated ranges of motion testing and the 
+     number of examinations requiring such measurements which were 
+     conducted in fiscal year 2012.
+       (G) The average amount of time taken by an individual 
+     conducting a medical examination to perform the three 
+     repetitions of movement of each joint.
+       (H) A discussion of whether there are more efficient and 
+     effective scientifically reliable methods of testing for 
+     functional loss on repetitive use of an extremity other than 
+     the three time repetition currently used by the Department.
+       (I) Recommendations as to the continuation of the practice 
+     of measuring functional impairment by using three repetitions 
+     of movement of each joint during the examination as a 
+     criteria for evaluating the effect of repetitive motion on 
+     functional impairment with supporting rationale.
+       (b) Report and Plan to Prevent the Ordering of Unnecessary 
+     Medical Examinations.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, the Secretary shall submit to the 
+     Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report on the efforts of the Secretary in 
+     reducing the necessity for in-person disability examinations 
+     and other efforts to comply with the provisions of section 
+     5125 of title 38, United States Code.
+       (2) Contents.--The report required by paragraph (1) shall 
+     include the following:
+       (A) Criteria used by the Secretary to determine if a claim 
+     is eligible for the Acceptable Clinical Evidence initiative.
+       (B) The number of claims determined to be eligible for the 
+     Acceptable Clinical Evidence initiative during the period 
+     beginning on the date of the initiation of the initiative and 
+     ending on the date of the enactment of this Act, 
+     disaggregated--
+       (i) by fiscal year; and
+       (ii) by claims determined eligible based in whole or in 
+     part on medical evidence provided by a private health care 
+     provider.
+       (C) The total number of claims determined to be eligible 
+     for the Acceptable Clinical Evidence initiative that required 
+     an employee of the Department to supplement the evidence with 
+     information obtained during a telephone interview with a 
+     claimant or health care provider.
+       (D) Information on any other initiatives or efforts, 
+     including disability benefits questionnaires, of the 
+     Department to further encourage the use of medical evidence 
+     provided by a private health care provider and reliance upon 
+     reports of a medical examination administered by a private 
+     physician if the report is sufficiently complete to be 
+     adequate for the purposes of adjudicating a claim.
+       (E) A plan--
+       (i) to measure, track, and prevent the ordering of 
+     unnecessary medical examinations when the provision by a 
+     claimant of a medical examination administered by a private 
+     physician in support of a claim for benefits under chapter 11 
+     or 15 of title 38, United States Code, is adequate for the 
+     purpose of making a decision on that claim; and
+       (ii) that includes the actions the Secretary will take to 
+     eliminate any request by the Department for a medical 
+     examination in the case of a claim for benefits under chapter 
+     11 or 15 of such title in support of which a claimant submits 
+     medical evidence or a medical opinion provided by a private 
+     health care provider that is competent, credible, probative, 
+     and otherwise adequate for purposes of making a decision on 
+     that claim.
+
+    Subtitle D--Board of Veterans' Appeals and Court of Appeals for 
+                            Veterans Claims
+
+     SEC. 631. TREATMENT OF CERTAIN MISFILED DOCUMENTS AS A NOTICE 
+                   OF APPEAL TO THE COURT OF APPEALS FOR VETERANS 
+                   CLAIMS.
+
+       Section 7266 is amended by adding at the end the following 
+     new subsection:
+       ``(e)(1) If a person adversely affected by a final decision 
+     of the Board, who has not filed a notice of appeal with the 
+     United States Court of Appeals for Veterans Claims under 
+     subsection (a), misfiles a document with the Board or the 
+     agency of original jurisdiction referred to in section 
+     7105(b)(1) of this title that expresses disagreement with 
+     such decision and a clear intent to seek review of such 
+     decision by the United States Court of Appeals for Veterans 
+     Claims, not later than 120 days after the date of such 
+     decision, such document shall be treated as timely filed 
+     under subsection (a).
+       ``(2) The treatment of misfiled documents under paragraph 
+     (1) does not limit equitable relief that may be otherwise 
+     available to a person described in that paragraph.''.
+
+     SEC. 632. DETERMINATION OF MANNER OF APPEARANCE FOR HEARINGS 
+                   BEFORE BOARD OF VETERANS' APPEALS.
+
+       (a) In General.--Section 7107 is amended--
+       (1) in subsection (a)(1), by striking ``in subsection (f)'' 
+     and inserting ``in subsection (g)'';
+       (2) by redesignating subsection (f) as subsection (g); and
+       (3) by striking subsections (d) and (e) and inserting the 
+     following new subsections:
+       ``(d)(1) Except as provided in paragraph (2), a hearing 
+     before the Board shall be conducted through picture and voice 
+     transmission, by electronic or other means, in such a manner 
+     that the appellant is not present in the same location as the 
+     members of the Board during the hearing.
+       ``(2)(A) A hearing before the Board shall be conducted in 
+     person upon the request of an appellant.
+       ``(B) In the absence of a request under subparagraph (A), a 
+     hearing before the Board may also be conducted in person as 
+     the Board considers appropriate.
+       ``(e)(1) In a case in which a hearing before the Board is 
+     to be held as described in subsection (d)(1), the Secretary 
+     shall provide suitable facilities and equipment to the Board 
+     or other components of the Department to enable an appellant 
+     located at an appropriate facility within the area served by 
+     a regional office to participate as so described.
+       ``(2) Any hearing conducted as described in subsection 
+     (d)(1) shall be conducted in the same manner as, and shall be 
+     considered the equivalent of, a personal hearing.
+       ``(f)(1) In a case in which a hearing before the Board is 
+     to be held as described in subsection (d)(2), the appellant 
+     may request that the hearing be held at the principal 
+     location of the Board or at a facility of the Department 
+     located within the area served by a regional office of the 
+     Department.
+       ``(2) A hearing to be held within an area served by a 
+     regional office of the Department shall (except as provided 
+     in paragraph (3)) be scheduled to be held in accordance with 
+     the place of the case on the docket under subsection (a) 
+     relative to other cases on the docket for which hearings are 
+     scheduled to be held within that area.
+       ``(3) A hearing to be held within an area served by a 
+     regional office of the Department may, for cause shown, be 
+     advanced on motion for an earlier hearing. Any such motion 
+     shall set forth succinctly the grounds upon which the motion 
+     is based. Such a motion may be granted only--
+       ``(A) if the case involves interpretation of law of general 
+     application affecting other claims;
+       ``(B) if the appellant is seriously ill or is under severe 
+     financial hardship; or
+       ``(C) for other sufficient cause shown.''.
+       (b) Effective Date.--The amendments made by subsection (a) 
+     shall apply with respect to cases received by the Board of 
+     Veterans' Appeals pursuant to notices of disagreement 
+     submitted on or after the date of the enactment of this Act.
+
+                      TITLE VII--OUTREACH MATTERS
+
+     SEC. 701. PROGRAM TO INCREASE COORDINATION OF OUTREACH 
+                   EFFORTS BETWEEN THE DEPARTMENT OF VETERANS 
+                   AFFAIRS AND FEDERAL, STATE, AND LOCAL AGENCIES 
+                   AND NONPROFIT ORGANIZATIONS.
+
+       (a) Program Required.--The Secretary of Veterans Affairs 
+     shall carry out a program to assess the feasibility and 
+     advisability of using State and local government agencies and 
+     nonprofit organizations--
+       (1) to increase awareness of veterans regarding benefits 
+     and services for veterans; and
+       (2) to improve coordination of outreach activities 
+     regarding such benefits and services between the Secretary 
+     and Federal, State, and local government and nonprofit 
+     providers of health care and benefit services for veterans.
+       (b) Duration.--The Secretary shall carry out the program 
+     for a two-year period.
+       (c) Grants.--
+       (1) In general.--The Secretary shall carry out the program 
+     through the competitive award of grants to State and local 
+     government agencies and nonprofit organizations--
+       (A) to increase the awareness of veterans regarding 
+     benefits and services for veterans; and
+       (B) to improve coordination of outreach activities 
+     regarding such benefits and services between the Secretary 
+     and Federal, State, and local government and nonprofit 
+     providers of health care and benefit services for veterans.
+       (2) Application.--
+       (A) In general.--A State or local government agency or 
+     nonprofit organization seeking a grant under the program 
+     shall submit to the Secretary an application therefor in such 
+     form and in such manner as the Secretary considers 
+     appropriate.
+       (B) Elements.--Each application submitted under 
+     subparagraph (A) shall include the following:
+       (i) A description of the consultations, if any, with the 
+     Department of Veterans Affairs in the development of any 
+     proposal under the application.
+       (ii) A description of the project for which the applicant 
+     is seeking a grant under the program, including a plan to 
+     coordinate under the program, to the greatest extent 
+     possible, the outreach activities of Federal, State, and 
+     local government agencies that provide health care, benefits, 
+     and services for veterans and nonprofit organizations that 
+     provide such care, benefits, and services to enhance the 
+     awareness and availability of such care, benefits, and 
+     services.
+       (iii) An agreement to report to the Secretary standardized 
+     data and other performance measures necessary for the 
+     Secretary to evaluate the program and to facilitate 
+     evaluation of projects for which grants are awarded under the 
+     program.
+
+[[Page 3225]]
+
+       (iv) Such other information as the Secretary may require.
+       (3) Considerations.--
+       (A) In general.--In awarding grants under the program to 
+     carry out projects, the Secretary shall consider--
+       (i) where the projects will be carried out and which 
+     populations are targeted; and
+       (ii) the likelihood that each potential grantee will 
+     successfully carry out the grant proposal.
+       (B) Considerations regarding location and target 
+     population.--In taking the matters specified in subparagraph 
+     (A)(ii) into consideration, the Secretary shall consider in 
+     particular the advisability of awarding grants for projects--
+       (i) carried out in areas with populations that have a high 
+     proportion of veteran representation;
+       (ii) carried out in a variety of geographic areas, 
+     including urban, rural, and highly rural areas; and
+       (iii) that target a variety of veteran populations, 
+     including racial and ethnic minorities, low-income 
+     populations, and older populations.
+       (4) Use of funds.--The Secretary shall establish 
+     appropriate uses of grant amounts received under the program.
+       (5) Oversight of use of funds.--The Secretary shall 
+     establish appropriate mechanisms for oversight of the use of 
+     grant amounts received under the program, including the 
+     evidence grantees must submit to demonstrate use of grant 
+     amounts and procedures for the recovery of grant amounts that 
+     were improperly used.
+       (6) Limitation.--In a fiscal year, not more than 20 percent 
+     of all grant amounts awarded in that fiscal year may be 
+     awarded to a single State entity.
+       (d) State Matching Requirement.--The Secretary may not make 
+     a grant to a State under subsection (c) unless that State 
+     agrees that, with respect to the costs to be incurred by the 
+     State in carrying out the program or projects for which the 
+     grant was awarded, the State will make available (directly or 
+     through donations from public or private entities) non-
+     Federal contributions in an amount equal to 50 percent of 
+     Federal funds provided under the grant.
+       (e) Authorization of Appropriations.--There is hereby 
+     authorized to be appropriated to carry out this section the 
+     following:
+       (1) $2,500,000 for fiscal year 2015.
+       (2) $2,500,000 for fiscal year 2016.
+       (f) Annual Report.--
+       (1) In general.--Not later than 120 days after the 
+     completion of the first calendar year beginning after the 
+     date of the commencement of the program, and not less 
+     frequently than once every year thereafter for the duration 
+     of the program, the Secretary shall submit to Congress a 
+     report evaluating the program and the projects supported by 
+     grants awarded under the program.
+       (2) Elements.--The report required by paragraph (1) shall 
+     include the following:
+       (A) The findings and conclusions of the Secretary with 
+     respect to the program.
+       (B) An assessment of the benefit to veterans of the 
+     program.
+       (C) The performance measures used by the Secretary for 
+     purposes of the program and data showing the performance of 
+     grantees under the program under such measures.
+       (D) The recommendations of the Secretary as to the 
+     feasibility and advisability of continuing or expanding or 
+     modifying the program.
+       (g) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 702. COOPERATIVE AGREEMENTS BETWEEN SECRETARY OF 
+                   VETERANS AFFAIRS AND STATES ON OUTREACH 
+                   ACTIVITIES.
+
+       (a) In General.--Chapter 63 is amended by inserting after 
+     section 6306 the following new section:
+
+     ``Sec. 6306A. Cooperative agreements with States
+
+       ``(a) In General.--The Secretary may enter into cooperative 
+     agreements and arrangements with various State agencies and 
+     State departments to carry out this chapter and to otherwise 
+     carry out, coordinate, improve, or enhance outreach 
+     activities of the Department and the States.
+       ``(b) Report.--The Secretary shall include in each report 
+     submitted under section 6308 of this title a description of 
+     the agreements and arrangements entered into by the Secretary 
+     under subsection (a).''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 63 is amended by inserting after the 
+     item relating to section 6306 the following new item:
+
+``6306A. Cooperative agreements with States.''.
+
+     SEC. 703. ADVISORY COMMITTEE ON OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) Establishment.--Not later than 180 days after the date 
+     of the enactment of this Act, the Secretary of Veterans 
+     Affairs shall establish an advisory committee on outreach 
+     activities of the Department of Veterans Affairs.
+       (b) Membership.--The advisory committee shall be composed 
+     of individuals selected by the Secretary from among the 
+     following:
+       (1) To the maximum extent practicable, individuals who are 
+     eminent in their respective fields of public relations.
+       (2) Representatives of organizations with offices that 
+     focus on communications and distribute messages through major 
+     media news outlets and social media.
+       (3) To the maximum extent practicable, individuals with 
+     experience communicating financial results and business 
+     strategy for purposes of shaping a confident brand image.
+       (4) To the maximum extent practicable, individuals with 
+     experience with consumer and lifestyle imaging and creating 
+     publicity for a particular product or service.
+       (5) To the maximum extent practicable, veterans who have 
+     experience in press and public relations.
+       (c) Duties.--The advisory committee shall advise the 
+     Assistant Secretary for Public and Intergovernmental 
+     Affairs--
+       (1) to ensure that the Department of Veterans Affairs is 
+     strategically and effectively--
+       (A) engaging the public and Department stakeholders to 
+     increase awareness nationally regarding all benefits and 
+     services furnished by the Department;
+       (B) explaining new or changing policies of the Department;
+       (C) improving the image and reputation of the Department; 
+     and
+       (D) coordinating and collaborating with national community-
+     based organizations, nonprofits, and State and local 
+     government agencies;
+       (2) to assist the Secretary in conducting such other press 
+     or public relations activities relating to outreach 
+     activities of the Department as the Secretary and the 
+     Assistant Secretary for Public and Intergovernmental Affairs 
+     consider appropriate; and
+       (3) to ensure coordination and collaboration on efforts 
+     within the Department for the development, implementation, 
+     and review of local outreach with respect to benefits that 
+     include the following:
+       (A) Compensation and pension benefits.
+       (B) Insurance benefits.
+       (C) Burial and memorial benefits.
+       (D) Education benefits.
+       (E) Vocational rehabilitation and employment benefits.
+       (F) Readjustment counseling benefits.
+       (G) Loan guarantee benefits.
+       (H) Such other benefits as the Secretary considers 
+     appropriate.
+       (d) Location of Meetings.--Each meeting of the advisory 
+     committee shall take place at a location that is property of 
+     the Department and shall, to the maximum extent practicable, 
+     use teleconference technology.
+       (e) Consultation.--The Secretary shall consult with and 
+     seek the advice of the advisory committee not less frequently 
+     than quarterly on matters relating to the duties of the 
+     advisory committee under subsection (c).
+       (f) Reports.--
+       (1) In general.--Not less frequently than once every 90 
+     days for the first year and semiannually thereafter, the 
+     advisory committee shall submit to Congress and to the 
+     Secretary a report on outreach activities of the Department.
+       (2) Recommendations.--Each report submitted under paragraph 
+     (1) shall include such recommendations for legislative and 
+     administrative action as the advisory committee considers 
+     appropriate to improve the press and public relations of the 
+     Department relating to outreach.
+       (g) Termination.--The advisory committee shall terminate on 
+     October 1, 2015, and the requirements and authorities under 
+     this section shall terminate on such date.
+       (h) Outreach Defined.--In this section, the term 
+     ``outreach'' has the meaning given the term in section 6301 
+     of title 38, United States Code.
+
+     SEC. 704. ADVISORY BOARDS ON OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS RELATING TO 
+                   HEALTH CARE.
+
+       (a) Establishment.--
+       (1) In general.--For each entity described in paragraph 
+     (2), the Secretary of Veterans Affairs shall, acting through 
+     the director of that entity, establish not later than 180 
+     days after the effective date specified in subsection (h) an 
+     advisory board at that entity on matters relating to outreach 
+     activities of the Department of Veterans Affairs at that 
+     entity.
+       (2) Entity described.--An entity described in this 
+     paragraph is--
+       (A) a healthcare system of the Department; or
+       (B) a Veterans Integrated System Network, if such Veterans 
+     Integrated System Network does not contain a healthcare 
+     system.
+       (b) Membership.--
+       (1) In general.--Each advisory board established under 
+     subsection (a)(1) shall be, to the maximum extent 
+     practicable, composed of individuals selected by the 
+     Secretary from among the following:
+       (A) Individuals who are eminent in their respective fields 
+     of public relations.
+       (B) Representatives of organizations with offices that 
+     focus on communications and distribute messages through major 
+     media news outlets and social media.
+       (C) Individuals with experience communicating financial 
+     results and business strategy for purposes of shaping a 
+     confident brand image.
+
+[[Page 3226]]
+
+       (D) Individuals with experience with consumer and lifestyle 
+     imaging and creating publicity for a particular product or 
+     service.
+       (E) Employees of the Department who are involved in press 
+     and public relations strategy for an entity described in 
+     subsection (a)(2).
+       (F) To the maximum extent practicable, veterans who have 
+     experience in press and public relations.
+       (2) Voluntary participation.--The participation of an 
+     individual selected under paragraph (1) shall be at the 
+     election of the individual.
+       (c) Duties.--Each advisory board established under 
+     subsection (a)(1) at an entity described in subsection (a)(2) 
+     shall advise the Assistant Secretary for Public and 
+     Intergovernmental Affairs--
+       (1) to ensure that the Department of Veterans Affairs is 
+     strategically and effectively--
+       (A) engaging the public and Department stakeholders to 
+     increase awareness nationally regarding benefits and services 
+     furnished by the Department;
+       (B) explaining new or changing policies of the Department;
+       (C) improving the image and reputation of the Department;
+       (D) coordinating and collaborating with national community-
+     based organizations, nonprofits, and State and local 
+     government agencies; and
+       (E) coordinating and collaborating on efforts within the 
+     Department for the development, implementation, and review of 
+     local outreach with respect to benefits that include--
+       (i) compensation and pension benefits;
+       (ii) insurance benefits;
+       (iii) burial and memorial benefits;
+       (iv) education benefits;
+       (v) vocational rehabilitation and employment benefits;
+       (vi) readjustment counseling benefits;
+       (vii) loan guarantee benefits; and
+       (viii) such other benefits as the Secretary considers 
+     appropriate; and
+       (2) to assist the director of that entity in conducting 
+     such other press or public relations activities relating to 
+     outreach activities of the Department as that advisory board 
+     considers appropriate.
+       (d) Meeting Location.--
+       (1) In general.--If teleconference technology is not used, 
+     meetings of each advisory board established under subsection 
+     (a)(1) shall be held at a location that is property of the 
+     Department.
+       (2) Teleconference technology.--Each advisory board shall 
+     use, to the maximum extent practicable, teleconference 
+     technology.
+       (e) Consultation.--Each director of an entity described in 
+     subsection (a)(2) shall consult with and seek the advice of 
+     the advisory board established at such entity not less 
+     frequently than once every two months on matters relating to 
+     the duties of the advisory board under subsection (c).
+       (f) Annual Reports.--Not less frequently than each year, 
+     each advisory board established under subsection (a)(1) shall 
+     submit to the Secretary a report with such information as may 
+     be beneficial to the Secretary in preparing the reports 
+     required by section 6308 of title 38, United States Code.
+       (g) Termination.--Each advisory board established under 
+     subsection (a)(1) and the authorities and requirements of 
+     this section shall terminate three years after the effective 
+     date specified in subsection (h).
+       (h) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 705. MODIFICATION OF REQUIREMENT FOR PERIODIC REPORTS TO 
+                   CONGRESS ON OUTREACH ACTIVITIES OF DEPARTMENT 
+                   OF VETERANS AFFAIRS.
+
+       (a) In General.--Section 6308 is amended--
+       (1) in subsection (a), by striking ``even-numbered''; and
+       (2) in subsection (b)--
+       (A) in paragraph (1), by striking ``biennial'';
+       (B) in paragraph (2), by inserting ``for legislative and 
+     administrative action'' after ``Recommendations''; and
+       (C) by adding at the end the following new paragraph:
+       ``(3) Recommendations that such administrative actions as 
+     may be taken--
+       ``(A) to maximize resources for outreach activities of the 
+     Department; and
+       ``(B) to focus outreach efforts on activities that are 
+     proven to be more effective.''.
+       (b) Clerical Amendments.--
+       (1) Section heading.--The heading for section 6308 is 
+     amended by striking ``Biennial'' and inserting ``Annual''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 63 is amended by striking the item 
+     relating to section 6308 and inserting the following new 
+     item:
+
+``6308. Annual report to Congress.''.
+
+     SEC. 706. BUDGET TRANSPARENCY FOR OUTREACH ACTIVITIES OF 
+                   DEPARTMENT OF VETERANS AFFAIRS.
+
+       (a) In General.--Chapter 63 is amended by inserting after 
+     section 6308 the following new section:
+
+     ``Sec. 6309. Budget transparency
+
+       ``(a) Budget Requirements.--In the budget justification 
+     materials submitted to Congress in support of the Department 
+     budget for a fiscal year (as submitted with the budget of the 
+     President under section 1105(a) of title 31), the Secretary 
+     shall include a separate statement of the amount requested 
+     for such fiscal year for activities of the Office of Public 
+     and Intergovernmental Affairs as follows:
+       ``(1) For outreach activities of the Department in 
+     aggregate.
+       ``(2) For outreach activities of each element of the 
+     Department specified in subsection (b)(1).
+       ``(b) Procedures for Effective Coordination and 
+     Collaboration.--(1) Not later than 180 days after the date of 
+     the enactment of the Comprehensive Veterans Health and 
+     Benefits and Military Retirement Pay Restoration Act of 2014, 
+     the Secretary shall establish and maintain procedures for the 
+     Office of Public and Intergovernmental Affairs to ensure the 
+     effective coordination and collaboration of outreach 
+     activities of the Department between and among the following:
+       ``(A) Office of the Secretary.
+       ``(B) Veterans Health Administration.
+       ``(C) Veterans Benefits Administration.
+       ``(D) National Cemetery Administration.
+       ``(2) The Secretary shall--
+       ``(A) beginning after the date on which the Secretary 
+     establishes procedures under paragraph (1), not less 
+     frequently than once every two years conduct a review of the 
+     procedures established and maintained under paragraph (1) to 
+     ensure that such procedures meet the requirements of such 
+     paragraph;
+       ``(B) make such modifications to such procedures as the 
+     Secretary considers appropriate based upon reviews conducted 
+     under subparagraph (A) in order to better meet such 
+     requirements; and
+       ``(C) not later than 45 days after completing a review 
+     under subparagraph (A), submit to Congress a report on the 
+     findings of such review.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 63 is amended by inserting after the 
+     item relating to section 6308 the following new item:
+
+``6309. Budget transparency.''.
+
+                   TITLE VIII--OTHER VETERANS MATTERS
+
+     SEC. 801. REPEAL OF CERTAIN REDUCTIONS MADE BY BIPARTISAN 
+                   BUDGET ACT OF 2013.
+
+       (a) Adjustment of Retirement Pay.--Section 403 of the 
+     Bipartisan Budget Act of 2013 (Public Law 113-67) is repealed 
+     as of the date of the enactment of such Act.
+       (b) Conforming Amendments.--
+       (1) Applicability to disability and survivor benefits.--
+     Title X of the Department of Defense Appropriations Act, 2014 
+     (division C of Public Law 113-76) is repealed.
+       (2) Applicability to members of the armed forces who joined 
+     after january 1, 2014.--Section 2 of Public Law 113-82 is 
+     repealed.
+
+     SEC. 802. CONSIDERATION BY SECRETARY OF VETERANS AFFAIRS OF 
+                   RESOURCES DISPOSED OF FOR LESS THAN FAIR MARKET 
+                   VALUE BY INDIVIDUALS APPLYING FOR PENSION.
+
+       (a) Veterans.--Section 1522 is amended--
+       (1) in subsection (a)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a veteran otherwise eligible for payment of 
+     pension under section 1513 or 1521 of this title or the 
+     spouse of such veteran disposes of covered resources for less 
+     than fair market value on or after the look-back date 
+     described in subparagraph (C)(i), the Secretary shall deny or 
+     discontinue the payment of pension to such veteran under 
+     section 1513 or 1521 of this title, as the case may be, for 
+     months during the period beginning on the date described in 
+     subparagraph (D) and equal to the number of months calculated 
+     as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the veteran or, if the veteran has a spouse, the corpus of 
+     the estates of the veteran and of the veteran's spouse, that 
+     the Secretary considers that under all the circumstances, if 
+     the veteran or spouse had not disposed of such resource, it 
+     would be reasonable that the resource (or some portion of the 
+     resource) be consumed for the veteran's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the veteran or, if the veteran has a 
+     spouse, the corpus of the estates of the veteran and of the 
+     veteran's spouse, that the Secretary considers, under all the 
+     circumstances, would be reasonable to be consumed for the 
+     veteran's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the veteran applies for pension under section 1513 or 
+     1521 of this title or, if later, the date on which the 
+     veteran (or the spouse of the veteran) disposes
+
+[[Page 3227]]
+
+     of covered resources for less than fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of covered resources so disposed of by the veteran 
+     (or the spouse of the veteran) on or after the look-back date 
+     described in subparagraph (C)(i) that the Secretary 
+     determines would reasonably have been consumed for the 
+     veteran's maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a veteran under section 1513 or 1521 of this 
+     title, including the maximum amount of increased pension 
+     payable under such sections on account of family members, but 
+     not including any amount of pension payable under such 
+     sections because a veteran is in need of regular aid and 
+     attendance or is permanently housebound,
+
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (2) in subsection (b)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a veteran otherwise eligible for payment of 
+     increased pension under subsection (c), (d), (e), or (f) of 
+     section 1521 of this title on account of a child, the spouse 
+     of the veteran, or the child disposes of covered resources 
+     for less than fair market value on or after the look-back 
+     date described in subparagraph (C)(i), the Secretary shall 
+     deny or discontinue payment of such increased pension for 
+     months during the period beginning on the date described in 
+     subparagraph (D) and equal to the number of months calculated 
+     as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the child that the Secretary considers that under all the 
+     circumstances, if the veteran, the spouse of the veteran, or 
+     the child had not disposed of such resource, it would be 
+     reasonable that the resource (or some portion of the 
+     resource) be consumed for the child's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the child that the Secretary 
+     considers, under all the circumstances, would be reasonable 
+     to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the veteran applies for payment of increased pension 
+     under subsection (c), (d), (e), or (f) of section 1521 of 
+     this title on account of a child or, if later, the date on 
+     which the veteran, the spouse of the veteran, or the child 
+     disposes of covered resources for less than fair market 
+     value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     veteran, the spouse of the veteran, or the child on or after 
+     the look-back date described in subparagraph (C)(i) that the 
+     Secretary determines would reasonably have been consumed for 
+     the child's maintenance; divided by
+       ``(ii) the maximum amount of increased monthly pension that 
+     is payable to a veteran under subsection (c), (d), (e), or 
+     (f) of section 1521 of this title on account of a child,
+
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.''; 
+     and
+       (3) by adding at the end the following new subsection:
+       ``(c)(1)(A) The Secretary shall not deny or discontinue 
+     payment of pension under section 1513 or 1521 of this title 
+     or payment of increased pension under subsection (c), (d), 
+     (e), or (f) of section 1521 of this title on account of a 
+     child by reason of the application of subsection (a)(2) or 
+     (b)(2) of this section to the disposal of resources by an 
+     individual--
+       ``(i) if--
+       ``(I) a satisfactory showing is made to the Secretary (in 
+     accordance with regulations promulgated by the Secretary) 
+     that all resources disposed of for less than fair market 
+     value have been returned to the individual who disposed of 
+     the resources; or
+       ``(II) the Secretary determines, under procedures 
+     established by the Secretary in accordance with subparagraph 
+     (B), that the denial or discontinuance of payment would work 
+     an undue hardship; or
+       ``(ii) to the extent that any portion of the resources 
+     disposed of for less than fair market value have been 
+     returned to the individual who disposed of the resources.
+       ``(B) Undue hardship would be worked by the denial or 
+     discontinuance of payment for purposes of subparagraph 
+     (A)(i)(II) if the denial or discontinuance of payment would 
+     deprive the individual during the period of denial or 
+     discontinuance--
+       ``(i) of medical care such that the individual's life or 
+     health would be endangered;
+       ``(ii) of necessary food or clothing, or other necessities 
+     of life; or
+       ``(iii) on such other basis as the Secretary shall specify 
+     in the procedures required by subparagraph (A)(i)(II).
+       ``(C) If payment of pension or increased pension that would 
+     otherwise be denied or discontinued by reason of the 
+     application of subsection (a)(2) or (b)(2) is denied or 
+     discontinued only in part by reason of the return of 
+     resources as described in subparagraph (A)(ii), the period of 
+     the denial or discontinuance as determined pursuant to 
+     subparagraph (E) of subsection (a)(2) or (b)(2), as 
+     applicable, shall be recalculated to take into account such 
+     return of resources.
+       ``(2) At the time a veteran applies for pension under 
+     section 1513 or 1521 of this title or increased pension under 
+     subsection (c), (d), (e), or (f) of section 1521 of this 
+     title on account of a child, and at such other times as the 
+     Secretary considers appropriate, the Secretary shall--
+       ``(A) inform such veteran of the provisions of subsections 
+     (a)(2) and (b)(2) providing for a period of ineligibility for 
+     payment of pension under such sections for individuals who 
+     make certain dispositions of resources for less than fair 
+     market value, including the exception for hardship from such 
+     period of ineligibility;
+       ``(B) obtain from such veteran information which may be 
+     used in determining whether or not a period of ineligibility 
+     for such payments would be required by reason of such 
+     subsections; and
+       ``(C) provide such veteran a timely process for determining 
+     whether or not the exception for hardship shall apply to such 
+     veteran.''.
+       (b) Surviving Spouses and Children.--Section 1543 is 
+     amended--
+       (1) in subsection (a)--
+       (A) by redesignating paragraph (2) as paragraph (3);
+       (B) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2)(A) If a surviving spouse otherwise eligible for 
+     payment of pension under section 1541 of this title disposes 
+     of covered resources for less than fair market value on or 
+     after the look-back date described in subparagraph (C)(i), 
+     the Secretary shall deny or discontinue the payment of 
+     pension to such surviving spouse under section 1541 of this 
+     title for months during the period beginning on the date 
+     described in subparagraph (D) and equal to the number of 
+     months calculated as provided in subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the surviving spouse that the Secretary considers that 
+     under all the circumstances, if the surviving spouse had not 
+     disposed of such resource, it would be reasonable that the 
+     resource (or some portion of the resource) be consumed for 
+     the surviving spouse's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the surviving spouse that the 
+     Secretary considers, under all the circumstances, would be 
+     reasonable to be consumed for the surviving spouse's 
+     maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the surviving spouse applies for pension under section 
+     1541 of this title or, if later, the date on which the 
+     surviving spouse disposes of covered resources for less than 
+     fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this 
+     subparagraph shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     surviving spouse on or after the look-back date described in 
+     subparagraph (C)(i) that the Secretary determines would 
+     reasonably have been consumed for the surviving spouse's 
+     maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a surviving spouse under section 1541 of this 
+     title, including the maximum amount of increased pension 
+     payable under such section on account of a child, but not 
+     including any amount of pension payable under such section 
+     because a
+
+[[Page 3228]]
+
+     surviving spouse is in need of regular aid and attendance or 
+     is permanently housebound,
+
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (C) by adding at the end the following new paragraph:
+       ``(4)(A) If a surviving spouse otherwise eligible for 
+     payment of increased pension under subsection (c), (d), or 
+     (e) of section 1541 of this title on account of a child or 
+     the child disposes of covered resources for less than fair 
+     market value on or after the look-back date described in 
+     subparagraph (C)(i), the Secretary shall deny or discontinue 
+     payment of such increased pension for months during the 
+     period beginning on the date described in subparagraph (D) 
+     and equal to the number of months calculated as provided in 
+     subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the child that the Secretary considers that under all the 
+     circumstances, if the surviving spouse or the child had not 
+     disposed of such resource, it would be reasonable that the 
+     resource (or some portion of the resource) be consumed for 
+     the child's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate of the child that the Secretary 
+     considers, under all the circumstances, would be reasonable 
+     to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the surviving spouse applies for payment of increased 
+     pension under subsection (c), (d), or (e) of section 1541 of 
+     this title on account of a child or, if later, the date on 
+     which the surviving spouse (or the child) disposes of covered 
+     resources for less than fair market value.
+       ``(D) The date described in this subparagraph is the first 
+     day of the first month in or after which covered resources 
+     were disposed of for less than fair market value and which 
+     does not occur in any other period of ineligibility under 
+     this paragraph.
+       ``(E) The number of months calculated under this clause 
+     shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the 
+     surviving spouse (or the child) on or after the look-back 
+     date described in subparagraph (C)(i) that the Secretary 
+     determines would reasonably have been consumed for the 
+     child's maintenance; divided by
+       ``(ii) the maximum amount of increased monthly pension that 
+     is payable to a surviving spouse under subsection (c), (d), 
+     or (e) of section 1541 of this title on account of a child,
+
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.'';
+       (2) in subsection (b)--
+       (A) by inserting ``(1)'' before ``The Secretary''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2)(A) If a child otherwise eligible for payment of 
+     pension under section 1542 of this title or any person with 
+     whom such child is residing who is legally responsible for 
+     such child's support disposes of covered resources for less 
+     than fair market value on or after the look-back date 
+     described in subparagraph (C)(i), the Secretary shall deny or 
+     discontinue the payment of pension to such child under 
+     section 1542 of this title for months during the period 
+     beginning on the date described in subparagraph (D) and equal 
+     to the number of months calculated as provided in 
+     subparagraph (E).
+       ``(B)(i) For purposes of this paragraph, a covered resource 
+     is any resource that was a part of the corpus of the estate 
+     of the child or the corpus of the estate of any person with 
+     whom such child is residing who is legally responsible for 
+     such child's support that the Secretary considers that under 
+     all the circumstances, if the child or person had not 
+     disposed of such resource, it would be reasonable that the 
+     resource (or some portion of the resource) be consumed for 
+     the child's maintenance.
+       ``(ii) For purposes of this paragraph, the Secretary may 
+     consider, in accordance with regulations the Secretary shall 
+     prescribe, a transfer of an asset (including a transfer of an 
+     asset to an annuity, trust, or other financial instrument or 
+     investment) a disposal of a covered resource for less than 
+     fair market value if such transfer reduces the amount in the 
+     corpus of the estate described in clause (i) that the 
+     Secretary considers, under all the circumstances, would be 
+     reasonable to be consumed for the child's maintenance.
+       ``(C)(i) The look-back date described in this clause is a 
+     date that is 36 months before the date described in clause 
+     (ii).
+       ``(ii) The date described in this clause is the date on 
+     which the child applies for pension under section 1542 of 
+     this title or, if later, the date on which the child (or 
+     person described in subparagraph (B)) disposes of covered 
+     resources for less than fair market value.
+       ``(D) The date described in this clause is the first day of 
+     the first month in or after which covered resources were 
+     disposed of for less than fair market value and which does 
+     not occur in any other period of ineligibility under this 
+     paragraph.
+       ``(E) The number of months calculated under this clause 
+     shall be equal to--
+       ``(i) the total, cumulative uncompensated value of the 
+     portion of the covered resources so disposed of by the child 
+     (or person described in subparagraph (B)) on or after the 
+     look-back date described in subparagraph (C)(i) that the 
+     Secretary determines would reasonably have been consumed for 
+     the child's maintenance; divided by
+       ``(ii) the maximum amount of monthly pension that is 
+     payable to a child under section 1542 of this title,
+
+     rounded down, in the case of any fraction, to the nearest 
+     whole number, but shall not in any case exceed 36 months.''; 
+     and
+       (3) by adding at the end the following new subsection:
+       ``(c)(1)(A) The Secretary shall not deny or discontinue 
+     payment of pension under section 1541 or 1542 of this title 
+     or payment of increased pension under subsection (c), (d), or 
+     (e) of section 1541 of this title on account of a child by 
+     reason of the application of subsection (a)(2), (a)(4), or 
+     (b)(2) of this section to the disposal of resources by an 
+     individual--
+       ``(i) if--
+       ``(I) a satisfactory showing is made to the Secretary (in 
+     accordance with regulations promulgated by the Secretary) 
+     that all resources disposed of for less than fair market 
+     value have been returned to the individual who disposed of 
+     the resources; or
+       ``(II) the Secretary determines, under procedures 
+     established by the Secretary in accordance with subparagraph 
+     (B), that the denial or discontinuance of payment would work 
+     an undue hardship; or
+       ``(ii) to the extent that any portion of the resources 
+     disposed of for less than fair market value have been 
+     returned to the individual who disposed of the resources.
+       ``(B) Undue hardship would be worked by the denial or 
+     discontinuance of payment for purposes of subparagraph 
+     (A)(i)(II) if the denial or discontinuance of payment would 
+     deprive the individual during the period of denial or 
+     discontinuance--
+       ``(i) of medical care such that the individual's life or 
+     health would be endangered;
+       ``(ii) of necessary food or clothing, or other necessities 
+     of life; or
+       ``(iii) on such other basis as the Secretary shall specify 
+     in the procedures required by subparagraph (A)(i)(II).
+       ``(C) If payment of pension or increased pension that would 
+     otherwise be denied or discontinued by reason of the 
+     application of subsection (a)(2), (a)(4), or (b)(2) is denied 
+     or discontinued only in part by reason of the return of 
+     resources as described in subparagraph (A)(ii), the period of 
+     the denial or discontinuance as determined pursuant to 
+     subparagraph (E) of subsection (a)(2), (a)(4), or (b)(2), as 
+     applicable, shall be recalculated to take into account such 
+     return of resources.
+       ``(2) At the time a surviving spouse or child applies for 
+     pension under section 1541 or 1542 of this title or increased 
+     pension under subsection (c), (d), or (e) of section 1541 of 
+     this title on account of a child, and at such other times as 
+     the Secretary considers appropriate, the Secretary shall--
+       ``(A) inform such surviving spouse or child of the 
+     provisions of subsections (a)(2), (a)(4), and (b)(2), as 
+     applicable, providing for a period of ineligibility for 
+     payment of pension or increased pension under such sections 
+     for individuals who make certain dispositions of resources 
+     for less than fair market value, including the exception for 
+     hardship from such period of ineligibility;
+       ``(B) obtain from such surviving spouse or child 
+     information which may be used in determining whether or not a 
+     period of ineligibility for such payments would be required 
+     by reason of such subsections; and
+       ``(C) provide such surviving spouse or child a timely 
+     process for determining whether or not the exception for 
+     hardship shall apply to such surviving spouse or child.''.
+       (c) Effective Date.--Subsections (a)(2), (b)(2), and (c) of 
+     section 1522 of title 38, United States Code, as added by 
+     subsection (a), and subsections (a)(2), (a)(4), (b)(2), and 
+     (c) of section 1543 of such title, as added by subsection 
+     (b), shall take effect on the date that is one year after the 
+     date of the enactment of this Act and shall apply with 
+     respect to payments of pension and increased pension applied 
+     for after such date and to payments of pension and increased 
+     pension for which eligibility is redetermined after such 
+     date, except that no reduction in pension shall be made under 
+     such subsections because of any disposal of covered resources 
+     made before such date.
+       (d) Annual Reports.--
+       (1) In general.--Not later than 30 months after the date of 
+     the enactment of this Act and not less frequently than once 
+     each year thereafter through 2018, the Secretary of Veterans 
+     Affairs shall submit to the appropriate committees of 
+     Congress a report on the administration of subsections 
+     (a)(2), (b)(2), and (c) of section 1522 of title 38, United 
+     States Code, as added by subsection
+
+[[Page 3229]]
+
+     (a), and subsections (a)(2), (a)(4), (b)(2), and (c) of 
+     section 1543 of such title, as added by subsection (b), 
+     during the most recent 12-month period.
+       (2) Elements.--Each report submitted under paragraph (1) 
+     shall include the following, for the period covered by the 
+     report:
+       (A) The number of individuals who applied for pension under 
+     chapter 15 of such title.
+       (B) The number of individuals who received pension under 
+     such chapter.
+       (C) The number of individuals with respect to whom the 
+     Secretary denied or discontinued payment of pension under the 
+     subsections referred to in paragraph (1).
+       (D) A description of any trends identified by the Secretary 
+     regarding pension payments that have occurred as a result of 
+     the amendments made by this section.
+       (E) Such other information as the Secretary considers 
+     appropriate.
+       (3) Appropriate committees of congress defined.--In this 
+     subsection, the term ``appropriate committees of Congress'' 
+     means--
+       (A) the Committee on Veterans' Affairs and the Select 
+     Committee on Aging of the Senate; and
+       (B) the Committee on Veterans' Affairs of the House of 
+     Representatives.
+
+     SEC. 803. EXTENSION OF REDUCED PENSION FOR CERTAIN VETERANS 
+                   COVERED BY MEDICAID PLANS FOR SERVICES 
+                   FURNISHED BY NURSING FACILITIES.
+
+       (a) In General.--Subsection (d)(7) of section 5503 is 
+     amended by striking ``November 30, 2016'' and inserting 
+     ``September 30, 2023''.
+       (b) Clerical Amendments.--
+       (1) Section heading.--The section heading of such section 
+     is amended to read as follows: ``Reduced pension for certain 
+     hospitalized veterans and certain veterans receiving 
+     domiciliary, nursing home, or nursing facility care''.
+       (2) Table of sections.--The table of sections at the 
+     beginning of chapter 55 is amended by striking the item 
+     relating to section 5503 and inserting the following new 
+     item:
+
+``5503. Reduced pension for certain hospitalized veterans and certain 
+              veterans receiving domiciliary, nursing home, or nursing 
+              facility care.''.
+
+     SEC. 804. CONDITIONS ON AWARD OF PER DIEM PAYMENTS BY 
+                   SECRETARY OF VETERANS AFFAIRS FOR PROVISION OF 
+                   HOUSING OR SERVICES TO HOMELESS VETERANS.
+
+       (a) Condition.--
+       (1) In general.--Section 2012(c)(1) is amended by striking 
+     ``unless the facilities'' and all that follows through ``may 
+     specify.'' and inserting the following: ``unless the 
+     Secretary certifies the following:
+       ``(A) That the building where the grant recipient or 
+     eligible entity provides housing or services for which the 
+     grant recipient or eligible entity would receive such payment 
+     is in compliance with the codes relevant to the operations 
+     and level of care provided, including applicable provisions 
+     of the most recently published version of the Life Safety 
+     Code of the National Fire Protection Association or such 
+     other comparable fire and safety requirements as the 
+     Secretary may specify.
+       ``(B) That such building and such housing or services are 
+     in compliance with licensing requirements, fire and safety 
+     requirements, and any other requirements in the jurisdiction 
+     in which the building is located regarding the condition of 
+     the building and the provision of such housing or 
+     services.''.
+       (2) Effective date.--The amendment made by paragraph (1) 
+     shall apply with respect to an application for a per diem 
+     payment under section 2012 of title 38, United States Code, 
+     submitted on or after the date of the enactment of this Act.
+       (b) Annual Inspections Required.--Section 2012 is amended 
+     by striking subsection (b) and inserting the following new 
+     subsection (b):
+       ``(b)(1) Not less frequently than once each fiscal year, 
+     the Secretary shall inspect each facility of each grant 
+     recipient or entity eligible for payments under subsection 
+     (a) at which the recipients and entities provide services 
+     under section 2011 of this title or this section.
+       ``(2) Except as provided in paragraph (1), inspections made 
+     under such paragraph shall be made at such times as the 
+     Secretary considers necessary.
+       ``(3) An inspection of a facility of a recipient or entity 
+     described in paragraph (1) made under such paragraph may be 
+     made with or without prior notice to the recipient or entity, 
+     as the Secretary considers appropriate.
+       ``(4) No per diem payment may be provided to a grant 
+     recipient or eligible entity under this section unless the 
+     facilities of the grant recipient or eligible entity meet 
+     such standards as the Secretary shall prescribe.''.
+       (c) Revocation of Certification Authorized.--Subsection (c) 
+     of such section is amended--
+       (1) by redesignating paragraphs (2) and (3) as paragraphs 
+     (4) and (5), respectively;
+       (2) in paragraph (1), as amended by subsection (a)(1), by 
+     striking ``in paragraph (2)'' and inserting ``in paragraph 
+     (4)''; and
+       (3) by inserting after paragraph (1) the following new 
+     paragraph (2):
+       ``(2) The Secretary may revoke any certification made under 
+     paragraph (1) if the Secretary determines that such 
+     certification is no longer accurate.''.
+       (d) Congressional Notification of Termination of Per Diem 
+     Required.--Such subsection is further amended by inserting 
+     after paragraph (2) the following new paragraph (3):
+       ``(3) Not later than 30 days after the date on which the 
+     Secretary terminates provision of per diem payment under this 
+     section to a grant recipient or an eligible entity, the 
+     Secretary shall submit to the Committee on Veterans' Affairs 
+     of the Senate and the Committee on Veterans' Affairs of the 
+     House of Representatives notice of such termination if such 
+     termination were made because a facility of the grant 
+     recipient or eligible entity did not comply with--
+       ``(A) an applicable provision of the most recently 
+     published version of the Life Safety Code of the National 
+     Fire Protection Association or such other comparable fire and 
+     safety requirement as the Secretary has specified; or
+       ``(B) a licensing requirement, fire or safety requirement, 
+     or another requirement in the jurisdiction in which the 
+     facility is located regarding the condition of the 
+     facility.''.
+       (e) Treatment of Current Recipients of Per Diem Payments.--
+       (1) Assessment.--In the case of the recipient of a per diem 
+     payment under section 2012 of title 38, United States Code, 
+     that receives such a payment during the year in which this 
+     Act is enacted for the provision of housing or services, the 
+     Secretary of Veterans Affairs shall assess whether the 
+     building where such housing or services are provided is and 
+     whether the housing and services are in compliance as 
+     required by section 2012(c)(1) of such title, as amended by 
+     subsection (a)(1).
+       (2) Failure to comply.--In the case described in paragraph 
+     (1), if the Secretary does not certify the compliance of the 
+     building and the housing or services under such section 
+     before the date that is two years after the date of the 
+     enactment of this Act, the Secretary may not make any 
+     additional per diem payments to the recipient for the 
+     provision of such housing or services under section 2012 of 
+     such title until the Secretary certifies that such building 
+     is and such housing or services are in compliance.
+       (f) Conforming Condition on Award of Grants by Secretary of 
+     Veterans Affairs for Comprehensive Service Programs.--Section 
+     2011(b)(5)(A) is amended by inserting ``, including housing 
+     and building codes,''.
+
+     SEC. 805. EXCEPTION TO CERTAIN RECAPTURE REQUIREMENTS AND 
+                   TREATMENT OF CONTRACTS AND GRANTS WITH STATE 
+                   HOMES WITH RESPECT TO CARE FOR HOMELESS 
+                   VETERANS.
+
+       (a) Exception to Certain Recapture Requirements.--Section 
+     8136(b) is amended by inserting ``, or the provision of 
+     services or conduct of a program pursuant to a contract or 
+     grant issued or awarded by the Secretary under subchapter II 
+     of chapter 20 or section 2031(a)(2) of this title,'' after 
+     ``outpatient clinic''.
+       (b) Construction.--The amendment made by subsection (a) may 
+     not be construed to authorize the Secretary of Veterans 
+     Affairs to enter into a contract with a State home or award a 
+     grant to a State home for the furnishing of residential care 
+     for a veteran without--
+       (1) identifying a substantial need for such care; and
+       (2) determining that the State home is the most appropriate 
+     provider of such care.
+
+     SEC. 806. EXTENDED PERIOD FOR SCHEDULING OF MEDICAL EXAMS FOR 
+                   VETERANS RECEIVING TEMPORARY DISABILITY RATINGS 
+                   FOR SEVERE MENTAL DISORDERS.
+
+       Section 1156(a)(3) is amended by striking ``six months'' 
+     and inserting ``18 months''.
+
+     SEC. 807. AUTHORITY TO ISSUE VETERANS ID CARDS.
+
+       (a) Authority.--
+       (1) In general.--The Secretary of Veterans Affairs may 
+     issue a card to a veteran that identifies the veteran as a 
+     veteran and includes a photo of the veteran and the name of 
+     the veteran.
+       (2) No requirement for enrollment or receipt of benefits.--
+     The Secretary may issue a card under paragraph (1) to a 
+     veteran, whether or not such veteran is--
+       (A) enrolled in the system of annual patient enrollment 
+     established under section 1705(a) of title 38, United States 
+     Code; or
+       (B) in receipt of educational assistance, compensation, or 
+     pension under laws administered by the Secretary.
+       (3) Designation.--A card issued under paragraph (1) may be 
+     known as a ``Veterans ID Card''.
+       (b) Recognition of Veterans ID Cards for Reduced Pricing of 
+     Pharmaceuticals, Consumer Products, and Services.--The 
+     Secretary may work with national retail chains that offer 
+     reduced prices on pharmaceuticals, consumer products, and 
+     services to veterans to ensure that such retail chains 
+     recognize cards issued under subsection (a)(1) for purposes 
+     of offering reduced prices on pharmaceuticals, consumer 
+     products, and services.
+       (c) Veteran Defined.--In this section, the term ``veteran'' 
+     has the meaning given the term in section 101 of title 38, 
+     United States Code.
+
+[[Page 3230]]
+
+       (d) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 808. HONORING AS VETERANS CERTAIN PERSONS WHO PERFORMED 
+                   SERVICE IN THE RESERVE COMPONENTS OF THE ARMED 
+                   FORCES.
+
+       Any person who is entitled under chapter 1223 of title 10, 
+     United States Code, to retired pay for nonregular service or, 
+     but for age, would be entitled under such chapter to retired 
+     pay for nonregular service shall be honored as a veteran but 
+     shall not be entitled to any benefit by reason of this honor.
+
+     SEC. 809. EXTENSION OF AUTHORITY FOR SECRETARY OF VETERANS 
+                   AFFAIRS TO OBTAIN INFORMATION FROM SECRETARY OF 
+                   TREASURY AND COMMISSIONER OF SOCIAL SECURITY 
+                   FOR INCOME VERIFICATION PURPOSES.
+
+       Section 5317(g) is amended by striking ``September 30, 
+     2016'' and inserting ``September 30, 2018''.
+
+     SEC. 810. EXTENSION OF AUTHORITY FOR SECRETARY OF VETERANS 
+                   AFFAIRS TO ISSUE AND GUARANTEE CERTAIN LOANS.
+
+       Section 3729(b)(2) is amended--
+       (1) in subparagraph (A)--
+       (A) in clause (iii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (iv), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023'';
+       (2) in subparagraph (B)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023'';
+       (3) in subparagraph (C)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (4) in subparagraph (D)--
+       (A) in clause (i), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''; and
+       (B) in clause (ii), by striking ``October 1, 2017'' and 
+     inserting ``September 30, 2023''.
+
+     SEC. 811. REVIEW OF DETERMINATION OF CERTAIN SERVICE IN 
+                   PHILIPPINES DURING WORLD WAR II.
+
+       (a) In General.--The Secretary of Veterans Affairs, in 
+     consultation with the Secretary of Defense and such military 
+     historians as the Secretary of Defense recommends, shall 
+     review the process used to determine whether a covered 
+     individual served in support of the Armed Forces of the 
+     United States during World War II in accordance with section 
+     1002(d) of title X of Division A of the American Recovery and 
+     Reinvestment Act of 2009 (Public Law 111-5; 38 U.S.C. 107 
+     note) for purposes of determining whether such covered 
+     individual is eligible for payments described in such 
+     section.
+       (b) Covered Individuals.--In this section, a covered 
+     individual is any individual who timely submitted a claim for 
+     benefits under subsection (c) of section 1002 of title X of 
+     Division A of the American Recovery and Reinvestment Act of 
+     2009 (Public Law 111-5; 38 U.S.C. 107 note) based on service 
+     as described in subsection (d) of that section.
+       (c) Report.--Not later than 90 days after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report detailing any findings, actions 
+     taken, or recommendations for legislative action with respect 
+     to the review conducted under subsection (a).
+       (d) Prohibition on Benefits for Disqualifying Conduct Under 
+     New Process Pursuant to Review.--If pursuant to the review 
+     conducted under subsection (a) the Secretary of Veterans 
+     Affairs determines to establish a new process for the making 
+     of payments as described in that subsection, the process 
+     shall include mechanisms to ensure that individuals are not 
+     treated as covered individuals for purposes of such payments 
+     if such individuals engaged in any disqualifying conduct 
+     during service described in that subsection, including 
+     collaboration with the enemy or criminal conduct.
+
+     SEC. 812. REVIEW OF DETERMINATION OF CERTAIN SERVICE OF 
+                   MERCHANT MARINERS DURING WORLD WAR II.
+
+       (a) In General.--The Secretary of Veterans Affairs, in 
+     consultation with the Secretary of Defense, the Secretary of 
+     Homeland Security and such military historians as the 
+     Secretary of Defense recommends, shall review the process 
+     used to determine whether an individual performed service 
+     under honorable conditions that satisfies the requirements of 
+     a coastwise merchant seaman who is recognized pursuant to 
+     section 401 of the GI Bill Improvement Act of 1977 (Public 
+     Law 95-202; 38 U.S.C. 106 note) as having performed active 
+     duty service .
+       (b) Report.--Not later than 90 days after the date of the 
+     enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report detailing any findings, actions 
+     taken, or recommendations for legislative action with respect 
+     to the review conducted under subsection (a).
+
+     SEC. 813. REPORT ON LAOTIAN MILITARY SUPPORT OF ARMED FORCES 
+                   OF THE UNITED STATES DURING VIETNAM WAR.
+
+       (a) In General.--Not later than one year after the 
+     effective date specified in subsection (c), the Secretary of 
+     Veterans Affairs, in consultation with the Secretary of 
+     Defense and such agencies and individuals as the Secretary of 
+     Veterans Affairs considers appropriate, shall submit to the 
+     appropriate committees of Congress a report on--
+       (1) the extent to which Laotian military forces provided 
+     combat support to the Armed Forces of the United States 
+     between February 28, 1961, and May 15, 1975;
+       (2) whether the current classification by the Civilian/
+     Military Service Review Board of the Department of Defense of 
+     service by individuals of Hmong ethnicity is appropriate; and
+       (3) any recommendations for legislative action.
+       (b) Appropriate Committees of Congress.--In this section, 
+     the term ``appropriate committees of Congress'' means--
+       (1) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the Senate; and
+       (2) the Committee on Armed Services and the Committee on 
+     Veterans' Affairs of the House of Representatives.
+       (c) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 814. REPORT ON PRACTICES OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS TO ADEQUATELY PROVIDE SERVICES TO 
+                   VETERANS WITH HEARING LOSS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall submit to the Committee on Veterans' Affairs of the 
+     Senate and the Committee on Veterans' Affairs of the House of 
+     Representatives a report on the actions taken by the 
+     Secretary to implement the findings and recommendations 
+     included in the 2006 report by the Institute of Medicine of 
+     the National Academies entitled ``Noise and Military Service: 
+     Implications for Hearing Loss and Tinnitus'' that was 
+     prepared pursuant to section 104 of the Veterans Benefits Act 
+     of 2002 (Public Law 107-330; 116 Stat. 2822).
+       (b) Effect of Duty Military Occupational Specialty Noise 
+     Exposure Listing on Receipt of Benefits by Veterans.--
+       (1) In general.--The Secretary shall include in the report 
+     required by subsection (a) an evaluation of the extent to 
+     which veterans who had a military occupational specialty 
+     during service as a member of the Armed Forces that is not 
+     included on the Duty Military Occupational Specialty Noise 
+     Exposure Listing (in this subsection referred to as the ``MOS 
+     List'') are precluded from receiving benefits related to 
+     hearing loss from the Department of Veterans Affairs.
+       (2) Data.--The Secretary shall include in the evaluation 
+     required by paragraph (1) the following:
+       (A) With respect to veterans who had a military 
+     occupational specialty included on the MOS List--
+       (i) the number of claims for benefits related to hearing 
+     loss from the Department of Veterans Affairs that were 
+     granted; and
+       (ii) the number of claims for benefits related to hearing 
+     loss from the Department that were denied.
+       (B) With respect to veterans who had a military 
+     occupational specialty not included on the MOS List--
+       (i) the number of claims for benefits related to hearing 
+     loss from the Department that were granted;
+       (ii) the number of claims for benefits related to hearing 
+     loss from the Department that were denied;
+       (iii) of the number of denied claims under clause (ii), the 
+     number of those claims that were appealed; and
+       (iv) of the number of appealed claims under clause (iii), 
+     the number of those appealed claims that were successfully 
+     appealed.
+       (c) Additional Matters.--The Secretary shall include in the 
+     report required by subsection (a) the following:
+       (1) In the case of a veteran with unilateral hearing loss, 
+     an explanation of the scientific basis for the practice of 
+     the Department of determining a disability rating level with 
+     respect to hearing based on an examination of that veteran's 
+     healthy ear instead of the injured ear.
+       (2) An analysis of the reduction in earning capacity for 
+     veterans as a result of unilateral hearing loss, with a focus 
+     on the ability of those veterans--
+       (A) to detect the direction of sound; and
+       (B) to understand speech.
+       (3) An explanation of the rationale for the practice of the 
+     Department of not issuing a compensable rating for hearing 
+     loss at certain levels that are severe enough to require the 
+     use of hearing aids.
+       (4) A survey of the audiologists that conduct compensation 
+     and pension examinations for the Department to assess the 
+     implementation of the most recent edition of the best 
+     practices manual for hearing loss and tinnitus examinations 
+     that includes the following:
+       (A) A description of the training received by those 
+     audiologists compared to the methods described in the most 
+     recent edition of the best practices manual for hearing loss 
+     and tinnitus examinations.
+       (B) An assessment of how those audiologists have complied 
+     with that training.
+
+[[Page 3231]]
+
+       (C) Whether those audiologists are using a range of tones 
+     up to 8000 hertz to test the hearing of veterans.
+       (d) Construction.--Nothing in this section shall be 
+     construed to authorize or require the Secretary to defer, 
+     delay, or replace the ongoing efforts of the Secretary to 
+     update the schedule of ratings required by section 1155 of 
+     title 38, United States Code.
+       (e) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 815. REPORT ON JOINT PROGRAMS OF DEPARTMENT OF VETERANS 
+                   AFFAIRS AND DEPARTMENT OF DEFENSE WITH RESPECT 
+                   TO HEARING LOSS OF MEMBERS OF THE ARMED FORCES 
+                   AND VETERANS.
+
+       (a) In General.--Not later than two years after the date of 
+     the enactment of this Act, the Secretary of Veterans Affairs 
+     shall, in consultation with the Secretary of Defense, submit 
+     to Congress a report that identifies the following:
+       (1) Goals for the Department of Veterans Affairs and the 
+     Department of Defense for the prevention, early detection, 
+     and treatment of hearing loss by the National Center for 
+     Rehabilitative Auditory Research of the Department of 
+     Veterans Affairs and the Hearing Center of Excellence of the 
+     Department of Defense.
+       (2) Resources of the Department of Veterans Affairs that 
+     could be made available to assist the Department of Defense 
+     in conducting audiometric tests and tinnitus screenings for 
+     members of the Armed Forces.
+       (3) Barriers to information being added to the Hearing Loss 
+     and Auditory System Injury Registry required under section 
+     721(c)(1) of the Duncan Hunter National Defense Authorization 
+     Act for Fiscal Year 2009 (Public Law 110-417; 122 Stat. 
+     4506).
+       (4) Recommendations for any legislative or administrative 
+     actions necessary with respect to the Hearing Loss and 
+     Auditory System Injury Registry--
+       (A) to assist in achieving the goals specified in paragraph 
+     (1);
+       (B) to improve the adjudication of claims for benefits with 
+     respect to hearing loss; and
+       (C) to further the research objectives of the National 
+     Center for Rehabilitative Auditory Research of the Department 
+     of Veterans Affairs and the Hearing Center of Excellence of 
+     the Department of Defense.
+       (b) Effective Date.--This section shall take effect on the 
+     date that is one year after the date of the enactment of this 
+     Act.
+
+     SEC. 816. LIMITATION ON AGGREGATE AMOUNT OF BONUSES PAYABLE 
+                   TO PERSONNEL OF THE DEPARTMENT OF VETERANS 
+                   AFFAIRS DURING FISCAL YEAR 2014.
+
+       The aggregate amount of bonuses and awards payable to 
+     personnel of the Department of Veterans Affairs under chapter 
+     45 or 53 of title 5, United States Code, or any other 
+     provision of such title, during fiscal year 2014 may not 
+     exceed $368,000,000.
+
+     SEC. 817. DESIGNATION OF AMERICAN WORLD WAR II CITIES.
+
+       (a) In General.--The Secretary of Veterans Affairs shall 
+     designate at least one city in the United States each year as 
+     an ``American World War II City''.
+       (b) Criteria for Designation.--After the designation made 
+     under subsection (c), the Secretary, in consultation with the 
+     Secretary of Defense, shall make each designation under 
+     subsection (a) based on the following criteria:
+       (1) Contributions by a city to the war effort during World 
+     War II, including those related to defense manufacturing, 
+     bond drives, service in the Armed Forces, and the presence of 
+     military facilities within the city.
+       (2) Efforts by a city to preserve the history of the city's 
+     contributions during World War II, including through the 
+     establishment of preservation organizations or museums, 
+     restoration of World War II facilities, and recognition of 
+     World War II veterans.
+       (c) First American World War II City.--The city of 
+     Wilmington, North Carolina, is designated as an ``American 
+     World War II City''.
+       (d) Expiration of Authority.--The requirements of 
+     subsections (a) and (b) shall terminate on the date that is 
+     five years after the date of the enactment of this Act.
+
+                        TITLE IX--IRAN SANCTIONS
+
+     SEC. 901. SHORT TITLE.
+
+       This title may be cited as the ``Nuclear Weapon Free Iran 
+     Act of 2014''.
+
+     SEC. 902. SENSE OF CONGRESS ON NUCLEAR WEAPON CAPABILITIES OF 
+                   IRAN.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The Government of Iran continues to expand the nuclear 
+     and missile programs of Iran in violation of multiple United 
+     Nations Security Council resolutions.
+       (2) The Government of Iran has a decades-long track record 
+     of violating commitments regarding the nuclear program of 
+     Iran and has used diplomatic negotiations as a subterfuge to 
+     advance its nuclear weapons program.
+       (3) Iran remains the world's foremost state sponsor of 
+     terrorism, having directed, supported, and financed acts of 
+     terrorism against the United States and its allies that have 
+     resulted in the thousands of deaths, including the deaths of 
+     United States citizens and members of the Armed Forces of the 
+     United States.
+       (4) The Government of Iran and its terrorist proxies, 
+     particularly Lebanese Hezbollah, continue to provide military 
+     and financial support to the regime of Bashar al-Assad in 
+     Syria, aiding that regime in the mass killing of the people 
+     of Syria.
+       (5) The Government of Iran continues to sow instability in 
+     the Middle East and threaten its neighbors, including allies 
+     of the United States, such as Israel.
+       (6) The Government of Iran denies its people fundamental 
+     freedoms, including freedom of the press, freedom of 
+     assembly, freedom of religion, and freedom of conscience.
+       (7) Strict sanctions on Iran, imposed by the United States 
+     and the international community, are responsible for bringing 
+     Iran to the negotiating table.
+       (8) President Hassan Rouhani of Iran has in the past 
+     admitted to using diplomatic negotiations to buy time for 
+     Iran to make nuclear advances.
+       (9) Based on Iran's current stockpile of uranium enriched 
+     to 3.5 percent and 20 percent and its current centrifuge 
+     capacity, Iran could produce a sufficient quantity of 
+     weapons-grade uranium for a bomb in one to 2 months' time.
+       (10) If the Government of Iran commences the operation of 
+     its heavy water reactor in Arak, it could establish an 
+     alternate pathway to a nuclear weapon through the production 
+     of plutonium.
+       (11) As of the date of the enactment of this Act, 19 
+     countries access nuclear energy for peaceful purposes without 
+     conducting any enrichment or reprocessing activities within 
+     those countries.
+       (12) The Government of Iran could likewise access nuclear 
+     energy for peaceful purposes without conducting any 
+     enrichment or reprocessing activities within Iran.
+       (b) Sense of Congress.--It is the sense of Congress that--
+       (1) the Government of Iran must not be allowed to develop 
+     or maintain nuclear weapon capabilities;
+       (2) all instruments of power and influence of the United 
+     States should remain on the table to prevent the Government 
+     of Iran from developing nuclear weapon capabilities;
+       (3) the Government of Iran does not have an absolute or 
+     inherent right to enrichment and reprocessing capabilities 
+     and technologies under the Treaty on the Non-Proliferation of 
+     Nuclear Weapons, done at Washington, London, and Moscow July 
+     1, 1968, and entered into force March 5, 1970 (commonly known 
+     as the ``Nuclear Non-Proliferation Treaty'');
+       (4) the imposition of sanctions under this title, including 
+     sanctions on exports of petroleum from Iran, is triggered by 
+     violations by Iran of any interim or final agreement 
+     regarding its nuclear program, failure to reach a final 
+     agreement in a discernible time frame, or the breach of other 
+     conditions described in section 931;
+       (5) if the Government of Israel is compelled to take 
+     military action in legitimate self-defense against Iran's 
+     nuclear weapon program, the United States Government should 
+     stand with Israel and provide, in accordance with the law of 
+     the United States and the constitutional responsibility of 
+     Congress to authorize the use of military force, diplomatic, 
+     military, and economic support to the Government of Israel in 
+     its defense of its territory, people, and existence;
+       (6) the United States should continue to impose sanctions 
+     on the Government of Iran and its terrorist proxies for their 
+     continuing sponsorship of terrorism; and
+       (7) the United States should continue to impose sanctions 
+     on the Government of Iran for--
+       (A) its ongoing abuses of human rights; and
+       (B) its actions in support of Bashar al-Assad in Syria.
+
+           Subtitle A--Expansion and Imposition of Sanctions
+
+     SEC. 911. APPLICABILITY OF SANCTIONS WITH RESPECT TO 
+                   PETROLEUM TRANSACTIONS.
+
+       (a) In General.--Section 1245(d)(4)(D)(i) of the National 
+     Defense Authorization Act for Fiscal Year 2012 (22 U.S.C. 
+     8513a(d)(4)(D)(i)) is amended--
+       (1) in subclause (I), by striking ``reduced reduced its 
+     volume of crude oil purchases from Iran'' and inserting 
+     ``reduced the volume of its purchases of petroleum from Iran 
+     or of Iranian origin''; and
+       (2) in subclause (II), by striking ``crude oil purchases 
+     from Iran'' and inserting ``purchases of petroleum from Iran 
+     or of Iranian origin''.
+       (b) Definitions.--Section 1245(h) of the National Defense 
+     Authorization Act for Fiscal Year 2012 (22 U.S.C. 8513a(h)) 
+     is amended--
+       (1) by redesignating paragraphs (3) and (4) as paragraphs 
+     (5) and (6), respectively; and
+       (2) by inserting after paragraph (2) the following:
+       ``(3) Iranian origin.--The term `Iranian origin', with 
+     respect to petroleum, means extracted, produced, or refined 
+     in Iran.
+       ``(4) Petroleum.--The term `petroleum' includes crude oil, 
+     lease condensates, fuel oils, and other unfinished oils.''.
+       (c) Conforming Amendments.--Section 102(b) of the Iran 
+     Threat Reduction and Syria Human Rights Act of 2012 (22 
+     U.S.C. 8712(b)) is amended--
+       (1) in paragraph (3)--
+
+[[Page 3232]]
+
+       (A) by striking ``crude oil purchases from Iran'' and 
+     inserting ``purchases of petroleum from Iran or of Iranian 
+     origin''; and
+       (B) by striking ``as amended by section 504,''; and
+       (2) in paragraph (4), by striking ``crude oil purchases'' 
+     and inserting ``purchases of petroleum from Iran or of 
+     Iranian origin''.
+       (d) Effective Date.--The amendments made by this section 
+     shall apply with respect to determinations under section 
+     1245(d)(4)(D)(i) of the National Defense Authorization Act 
+     for Fiscal Year 2012 (22 U.S.C. 8513a(d)(4)(D)(i)) on or 
+     after the date that is 90 days after the date of the 
+     enactment of this Act.
+
+     SEC. 912. INELIGIBILITY FOR EXCEPTION TO CERTAIN SANCTIONS 
+                   FOR COUNTRIES THAT DO NOT REDUCE PURCHASES OF 
+                   PETROLEUM FROM IRAN OR OF IRANIAN ORIGIN TO A 
+                   DE MINIMIS LEVEL.
+
+       (a) Statement of Policy.--It is the policy of the United 
+     States to seek to ensure that all countries reduce their 
+     purchases of crude oil, lease condensates, fuel oils, and 
+     other unfinished oils from Iran or of Iranian origin to a de 
+     minimis level by the end of the 1-year period beginning on 
+     the date of the enactment of this Act.
+       (b) Ineligibility for Exceptions to Sanctions.--Section 
+     1245(d)(4)(D) of the National Defense Authorization Act for 
+     Fiscal Year 2012 (22 U.S.C. 8513a(d)(4)(D)) is amended by 
+     adding at the end the following:
+       ``(iii) Ineligibility for exception.--
+
+       ``(I) In general.--A country that purchased petroleum from 
+     Iran or of Iranian origin during the one-year period 
+     preceding the date of the enactment of the Nuclear Weapon 
+     Free Iran Act of 2014 may continue to receive an exception 
+     under clause (i) on or after the date that is one year after 
+     such date of enactment only--
+
+       ``(aa) if the country reduces its purchases of petroleum 
+     from Iran or of Iranian origin to a de minimis level by the 
+     end of the one-year period beginning on such date of 
+     enactment; or
+       ``(bb) as provided in subclause (II) or (III).
+
+       ``(II) Countries that dramatically reduce purchases.--
+
+       ``(aa) In general.--A country that would otherwise be 
+     ineligible pursuant to subclause (I)(aa) to receive an 
+     exception under clause (i) may continue to receive such an 
+     exception during the one-year period beginning on the date 
+     that is one year after the date of the enactment of the 
+     Nuclear Weapon Free Iran Act of 2014 if the country--
+       ``(AA) dramatically reduces by at least 30 percent its 
+     purchases of petroleum from Iran or of Iranian origin during 
+     the one-year period beginning on such date of enactment; and
+       ``(BB) is expected to reduce its purchases of petroleum 
+     from Iran or of Iranian origin to a de minimis level within a 
+     defined period of time that is not longer than 2 years after 
+     such date of enactment.
+       ``(bb) Termination of exception.--If a country that 
+     continues to receive an exception under clause (i) pursuant 
+     to item (aa) does not reduce its purchases of petroleum from 
+     Iran or of Iranian origin to a de minimis level by the date 
+     that is 2 years after the date of the enactment of the 
+     Nuclear Weapon Free Iran Act of 2014, that country shall not 
+     be eligible for such an exception on or after the date that 
+     is 2 years after such date of enactment.
+
+       ``(III) Reinstatement of eligibility for exception.--A 
+     country that becomes ineligible for an exception under clause 
+     (i) pursuant to subclause (I) or (II) shall be eligible for 
+     such an exception in accordance with the provisions of clause 
+     (i) on and after the date on which the President determines 
+     the country has reduced its purchases of petroleum from Iran 
+     or of Iranian origin to a de minimis level.''.
+
+       (c) Conforming Amendment.--Section 1245(d)(4)(D)(i) of the 
+     National Defense Authorization Act for Fiscal Year 2012 (22 
+     U.S.C. 8513a(d)(4)(D)(i)) is amended in the matter preceding 
+     subclause (I) by striking ``Sanctions imposed'' and inserting 
+     ``Except as provided in clause (iii), sanctions imposed''.
+
+     SEC. 913. IMPOSITION OF SANCTIONS WITH RESPECT TO PORTS, 
+                   SPECIAL ECONOMIC ZONES, AND STRATEGIC SECTORS 
+                   OF IRAN.
+
+       (a) Findings.--Section 1244(a)(1) of the Iran Freedom and 
+     Counter-Proliferation Act of 2012 (22 U.S.C. 8803(a)(1)) is 
+     amended by striking ``and shipbuilding'' and inserting 
+     ``shipbuilding, construction, engineering, and mining''.
+       (b) Expansion of Designation of Entities of Proliferation 
+     Concern.--Section 1244(b) of the Iran Freedom and Counter-
+     Proliferation Act of 2012 (22 U.S.C. 8803(b)) is amended by 
+     striking ``in Iran and entities in the energy, shipping, and 
+     shipbuilding sectors'' and inserting ``, special economic 
+     zones, or free economic zones in Iran, and entities in 
+     strategic sectors''.
+       (c) Expansion of Entities Subject to Asset Freeze.--Section 
+     1244(c) of the Iran Freedom and Counter-Proliferation Act of 
+     2012 (22 U.S.C. 8803(c)) is amended--
+       (1) in paragraph (1)(A), by striking ``the date that is 180 
+     days after the date of the enactment of this Act'' and 
+     inserting ``the date that is 90 days after the date of the 
+     enactment of the Nuclear Weapon Free Iran Act of 2014''; and
+       (2) in paragraph (2)--
+       (A) in the matter preceding subparagraph (A), by striking 
+     ``the date that is 180 days after the date of the enactment 
+     of this Act'' and inserting ``the date that is 90 days after 
+     the date of the enactment of the Nuclear Weapon Free Iran Act 
+     of 2014'';
+       (B) by striking ``the energy, shipping, or shipbuilding 
+     sectors'' each place it appears and inserting ``a strategic 
+     sector''; and
+       (C) by inserting ``, special economic zone, or free 
+     economic zone'' after ``port'' each place it appears; and
+       (3) by adding at the end the following:
+       ``(4) Strategic sector defined.--
+       ``(A) In general.--In this section, the term `strategic 
+     sector' means--
+       ``(i) the energy, shipping, shipbuilding, and mining 
+     sectors of Iran;
+       ``(ii) except as provided in subparagraph (B), the 
+     construction and engineering sectors of Iran; and
+       ``(iii) any other sector the President designates as of 
+     strategic importance to Iran.
+       ``(B) Exception for construction and engineering of 
+     schools, hospitals, and similar facilities.--For purposes of 
+     this section, a person engaged in the construction or 
+     engineering of schools, hospitals, or similar facilities (as 
+     determined by the President) shall not be considered part of 
+     a strategic sector of Iran.
+       ``(C) Notification of strategic sector designation.--The 
+     President shall submit to Congress a notification of the 
+     designation of a sector as a strategic sector of Iran for 
+     purposes of subparagraph (A)(iii) not later than 5 days after 
+     the date on which the President makes the designation.''.
+       (d) Additional Sanctions With Respect to Strategic 
+     Sectors.--Section 1244(d) of the Iran Freedom and Counter-
+     Proliferation Act of 2012 (22 U.S.C. 8803(d)) is amended--
+       (1) in paragraph (1)(A), by striking ``the date that is 180 
+     days after the date of the enactment of this Act'' and 
+     inserting ``the date that is 90 days after the date of the 
+     enactment of the Nuclear Weapon Free Iran Act of 2014'';
+       (2) in paragraph (2), by striking ``the date that is 180 
+     days after the date of the enactment of this Act'' and 
+     inserting ``the date that is 90 days after the date of the 
+     enactment of the Nuclear Weapon Free Iran Act of 2014''; and
+       (3) in paragraph (3), by striking ``the energy, shipping, 
+     or shipbuilding sectors'' and inserting ``a strategic 
+     sector''.
+       (e) Sale, Supply, or Transfer of Certain Materials to or 
+     From Iran.--Section 1245 of the Iran Freedom and Counter-
+     Proliferation Act of 2012 (22 U.S.C. 8804) is amended--
+       (1) in subsection (a)(1)--
+       (A) in the matter preceding subparagraph (A), by striking 
+     ``the date that is 180 days after the date of the enactment 
+     of this Act'' and inserting ``the date that is 90 days after 
+     the date of the enactment of the Nuclear Weapon Free Iran Act 
+     of 2014''; and
+       (B) in subparagraph (C)(i)(I), by striking ``the energy, 
+     shipping, or shipbuilding sectors'' and inserting ``a 
+     strategic sector (as defined in section 1244(c)(4))''; and
+       (2) in subsection (c), by striking ``the date that is 180 
+     days after the date of the enactment of this Act'' and 
+     inserting ``the date that is 90 days after the date of the 
+     enactment of the Nuclear Weapon Free Iran Act of 2014''.
+       (f) Provision of Insurance to Sanctioned Persons.--Section 
+     1246(a)(1) of the Iran Freedom and Counter-Proliferation Act 
+     of 2012 (22 U.S.C. 8805(a)(1)) is amended--
+       (1) in the matter preceding subparagraph (A), by striking 
+     ``the date that is 180 days after the date of the enactment 
+     of this Act'' and inserting ``the date that is 90 days after 
+     the date of the enactment of the Nuclear Weapon Free Iran Act 
+     of 2014''; and
+       (2) in subparagraph (B)(i), by striking ``the energy, 
+     shipping, or shipbuilding sectors'' and inserting ``a 
+     strategic sector (as defined in section 1244(c)(4))''.
+       (g) Conforming Amendments.--Section 1244 of the Iran 
+     Freedom and Counter-Proliferation Act of 2012 (22 U.S.C. 
+     8803), as amended by subsections (a), (b), (c), and (d), is 
+     further amended--
+       (1) in the section heading, by striking ``the energy, 
+     shipping, and shipbuilding'' and inserting ``certain ports, 
+     economic zones, and'';
+       (2) in subsection (b), in the subsection heading, by 
+     striking ``Ports and Entities in the Energy, Shipping, and 
+     Shipbuilding Sectors of Iran'' and inserting ``Certain 
+     Entities'';
+       (3) in subsection (c), in the subsection heading, by 
+     striking ``Entities in Energy, Shipping, and Shipbuilding 
+     Sectors'' and inserting ``Certain Entities''; and
+       (4) in subsection (d), in the subsection heading, by 
+     striking ``the Energy, Shipping, and Shipbuilding'' and 
+     inserting ``Strategic''.
+
+     SEC. 914. IDENTIFICATION OF, AND IMPOSITION OF SANCTIONS WITH 
+                   RESPECT TO, CERTAIN IRANIAN INDIVIDUALS.
+
+       (a) Expansion of Individuals Identified.--Section 221(a) of 
+     the Iran Threat Reduction and Syria Human Rights Act of 2012 
+     (22 U.S.C. 8727(a)) is amended--
+       (1) in paragraph (1)(C), by striking ``; or'' and inserting 
+     a semicolon;
+       (2) in paragraph (2), by striking the period at the end and 
+     inserting a semicolon; and
+       (3) by adding at the end the following:
+
+[[Page 3233]]
+
+       ``(3) an individual who engages in activities for or on 
+     behalf of the Government of Iran that enables Iran to evade 
+     sanctions imposed by the United States with respect to Iran;
+       ``(4) an individual acting on behalf of the Government of 
+     Iran who is involved in corrupt activities of that Government 
+     or the diversion of humanitarian goods, including 
+     agricultural commodities, food, medicine, and medical 
+     devices, intended for the people of Iran; or
+       ``(5) a senior official--
+       ``(A) of an entity designated for the imposition of 
+     sanctions pursuant to the International Emergency Economic 
+     Powers Act (50 U.S.C. 1701 et seq.) in connection with--
+       ``(i) Iran's proliferation of weapons of mass destruction 
+     or delivery systems for weapons of mass destruction; or
+       ``(ii) Iran's support for acts of international terrorism; 
+     and
+       ``(B) who was involved in the activity for which the entity 
+     was designated for the imposition of sanctions.''.
+       (b) Expansion of Senior Officials Described.--Section 
+     221(b) of the Iran Threat Reduction and Syria Human Rights 
+     Act of 2012 (22 U.S.C. 8727(b)) is amended--
+       (1) in paragraph (5), by striking ``; or'' and inserting a 
+     semicolon;
+       (2) in paragraph (6), by striking the period at the end and 
+     inserting ``; or''; and
+       (3) by adding at the end the following:
+       ``(7) a senior official of--
+       ``(A) the Office of the Supreme Leader of Iran;
+       ``(B) the Atomic Energy Organization of Iran;
+       ``(C) the Islamic Consultative Assembly of Iran;
+       ``(D) the Council of Ministers of Iran;
+       ``(E) the Ministry of Defense and Armed Forces Logistics of 
+     Iran;
+       ``(F) the Ministry of Justice of Iran;
+       ``(G) the Ministry of Interior of Iran;
+       ``(H) the prison system of Iran; or
+       ``(I) the judicial system of Iran.''.
+       (c) Blocking of Property.--Section 221 of the Iran Threat 
+     Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 8727) 
+     is amended--
+       (1) by redesignating subsections (d) and (e) as subsections 
+     (e) and (f), respectively; and
+       (2) by inserting after subsection (c) the following:
+       ``(d) Blocking of Property.--
+       ``(1) Officials and other actors.--In the case of an 
+     individual described in paragraph (1), (3), (4), or (5) of 
+     subsection (a) who is on the list required by that 
+     subsection, the President shall block and prohibit all 
+     transactions in all property and interests in property of 
+     that individual if such property or interests in property are 
+     in the United States, come within the United States, or are 
+     or come within the possession or control of a United States 
+     person.
+       ``(2) Family members.--In the case of an individual 
+     described in paragraph (2) of subsection (a) who is on the 
+     list required by that subsection, the President shall block 
+     and prohibit a transaction in property or an interest in 
+     property of that individual if the property or interest in 
+     property--
+       ``(A) was transferred to that individual from an individual 
+     described in paragraph (1) of subsection (a) who is on the 
+     list required by that subsection; and
+       ``(B) is in the United States, comes within the United 
+     States, or is or comes within the possession or control of a 
+     United States person.''.
+       (d) Conforming Amendments.--Section 221 of the Iran Threat 
+     Reduction and Syria Human Rights Act of 2012 (22 U.S.C. 
+     8727), as amended by subsections (a), (b), and (c), is 
+     further amended--
+       (1) by striking the section heading and inserting 
+     ``identification of, and imposition of sanctions with respect 
+     to, certain iranian individuals'';
+       (2) in subsection (a), by striking ``the date of the 
+     enactment of this Act'' and inserting ``the date of the 
+     enactment of the Nuclear Weapon Free Iran Act of 2014''; and
+       (3) in subsection (c), by striking ``subsection (d)'' and 
+     inserting ``subsection (e)''.
+       (e) Clerical Amendment.--The table of contents for the Iran 
+     Threat Reduction and Syria Human Rights Act of 2012 (22 
+     U.S.C. 8701 et seq.) is amended by striking the item relating 
+     to section 221 and inserting the following:
+
+``Sec. 221. Identification of, and imposition of sanctions with respect 
+              to, certain Iranian individuals.''.
+
+     SEC. 915. IMPOSITION OF SANCTIONS WITH RESPECT TO 
+                   TRANSACTIONS IN FOREIGN CURRENCIES WITH OR FOR 
+                   CERTAIN SANCTIONED PERSONS.
+
+       (a) In General.--Title II of the Iran Threat Reduction and 
+     Syria Human Rights Act of 2012 (22 U.S.C. 8721 et seq.) is 
+     amended--
+       (1) by inserting after section 221 the following:
+
+                     ``Subtitle C--Other Matters'';
+
+       (2) by redesignating sections 222, 223, and 224 as sections 
+     231, 232, and 233, respectively; and
+       (3) by inserting after section 221 the following:
+
+     ``SEC. 222. IMPOSITION OF SANCTIONS WITH RESPECT TO 
+                   TRANSACTIONS IN FOREIGN CURRENCIES WITH CERTAIN 
+                   SANCTIONED PERSONS.
+
+       ``(a) Imposition of Sanctions.--The President--
+       ``(1) shall prohibit the opening, and prohibit or impose 
+     strict conditions on the maintaining, in the United States of 
+     a correspondent account or a payable-through account by a 
+     foreign financial institution that knowingly conducts or 
+     facilitates a transaction described in subsection (b)(1); and
+       ``(2) may impose sanctions pursuant to the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with 
+     respect to any other person that knowingly conducts or 
+     facilitates such a transaction.
+       ``(b) Transactions Described.--
+       ``(1) In general.--A transaction described in this 
+     subsection is a significant transaction conducted or 
+     facilitated by a person related to the currency of a country 
+     other than the country with primary jurisdiction over the 
+     person with, for, or on behalf of--
+       ``(A) the Central Bank of Iran or an Iranian financial 
+     institution designated by the Secretary of the Treasury for 
+     the imposition of sanctions pursuant to the International 
+     Emergency Economic Powers Act; or
+       ``(B) a person described in section 1244(c)(2) of the Iran 
+     Freedom and Counter-Proliferation Act of 2012 (22 U.S.C. 
+     8803(c)(2)) (other than a person described in subparagraph 
+     (C)(iii) of that subsection).
+       ``(2) Primary jurisdiction.--For purposes of paragraph (1), 
+     a country in which a person operates shall be deemed to have 
+     primary jurisdiction over the person only with respect to the 
+     operations of the person in that country.
+       ``(c) Applicability.--Subsection (a) shall apply with 
+     respect to a transaction described in subsection (b)(1) 
+     conducted or facilitated--
+       ``(1) on or after the date that is 90 days after the date 
+     of the enactment of the Nuclear Weapon Free Iran Act of 2014 
+     pursuant to a contract entered into on or after such date of 
+     enactment; and
+       ``(2) on or after the date that is 180 days after such date 
+     of enactment pursuant to a contract entered into before such 
+     date of enactment.
+       ``(d) Inapplicability to Humanitarian Transactions.--The 
+     President may not impose sanctions under subsection (a) with 
+     respect to any person for conducting or facilitating a 
+     transaction for the sale of agricultural commodities, food, 
+     medicine, or medical devices to Iran or for the provision of 
+     humanitarian assistance to the people of Iran.
+       ``(e) Waiver.--
+       ``(1) In general.--The President may waive the application 
+     of subsection (a) with respect to a person for a period of 
+     not more than 180 days, and may renew that waiver for 
+     additional periods of not more than 180 days, if the 
+     President--
+       ``(A) determines that the waiver is important to the 
+     national interest of the United States; and
+       ``(B) not less than 15 days after the waiver or the renewal 
+     of the waiver, as the case may be, takes effect, submits a 
+     report to the appropriate congressional committees on the 
+     waiver and the reason for the waiver.
+       ``(2) Form of report.--Each report submitted under 
+     paragraph (1)(B) shall be submitted in unclassified form but 
+     may contain a classified annex.
+       ``(f) Definitions.--In this section:
+       ``(1) Financial institution; iranian financial 
+     institution.--The terms `financial institution' and `Iranian 
+     financial institution' have the meanings given those terms in 
+     section 104A(d) of the Comprehensive Iran Sanctions, 
+     Accountability, and Divestment Act of 2010 (22 U.S.C. 
+     8513b(d)).
+       ``(2) Transaction.--The term `transaction' includes a 
+     foreign exchange swap, a foreign exchange forward, and any 
+     other type of currency exchange or conversion or derivative 
+     instrument.''.
+       (b) Additional Definitions.--Section 2 of the Iran Threat 
+     Reduction and Syria Human Rights Act (22 U.S.C. 8701) is 
+     amended--
+       (1) by redesignating paragraphs (2), (3), and (4) as 
+     paragraphs (5), (6), and (9), respectively;
+       (2) by striking paragraph (1) and inserting the following:
+       ``(1) Account; correspondent account; payable-through 
+     account.--The terms `account', `correspondent account', and 
+     `payable-through account' have the meanings given those terms 
+     in section 5318A of title 31, United States Code.
+       ``(2) Agricultural commodity.--The term `agricultural 
+     commodity' has the meaning given that term in section 102 of 
+     the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
+       ``(3) Appropriate congressional committees.--The term 
+     `appropriate congressional committees' has the meaning given 
+     that term in section 14 of the Iran Sanctions Act of 1996 
+     (Public Law 104-172; 50 U.S.C. 1701 note).
+       ``(4) Domestic financial institution; foreign financial 
+     institution.--The terms `domestic financial institution' and 
+     `foreign financial institution' have the meanings determined 
+     by the Secretary of the Treasury pursuant to section 104(i) 
+     of the Comprehensive Iran Sanctions, Accountability, and 
+     Divestment Act of 2010 (22 U.S.C. 8513(i)).''; and
+       (3) by inserting after paragraph (6), as redesignated by 
+     paragraph (1), the following:
+
+[[Page 3234]]
+
+       ``(7) Medical device.--The term `medical device' has the 
+     meaning given the term `device' in section 201 of the Federal 
+     Food, Drug, and Cosmetic Act (21 U.S.C. 321).
+       ``(8) Medicine.--The term `medicine' has the meaning given 
+     the term `drug' in section 201 of the Federal Food, Drug, and 
+     Cosmetic Act (21 U.S.C. 321).''.
+       (c) Clerical Amendment.--The table of contents for the Iran 
+     Threat Reduction and Syria Human Rights Act of 2012 is 
+     amended by striking the items relating to sections 222, 223, 
+     and 224 and inserting the following:
+
+``Sec. 222. Imposition of sanctions with respect to transactions in 
+              foreign currencies with certain sanctioned persons.
+
+                      ``Subtitle C--Other Matters
+
+``Sec. 231. Sense of Congress and rule of construction relating to 
+              certain authorities of State and local governments.
+``Sec. 232. Government Accountability Office report on foreign entities 
+              that invest in the energy sector of Iran or export 
+              refined petroleum products to Iran.
+``Sec. 233. Reporting on the importation to and exportation from Iran 
+              of crude oil and refined petroleum products.''.
+
+     SEC. 916. SENSE OF CONGRESS ON PROSPECTIVE SANCTIONS.
+
+       It is the sense of Congress that, if additional sanctions 
+     are imposed pursuant to this title and the Government of Iran 
+     continues to pursue an illicit nuclear weapons program, 
+     Congress should pursue additional stringent sanctions on 
+     Iran, such as sanctions on entities providing the Government 
+     of Iran access to assets of the Government of Iran held 
+     outside Iran, sanctions on Iran's energy sector, including 
+     its natural gas sector, and sanctions on entities providing 
+     certain underwriting, insurance, or reinsurance to the 
+     Government of Iran.
+
+                  Subtitle B--Enforcement of Sanctions
+
+     SEC. 921. SENSE OF CONGRESS ON THE PROVISION OF SPECIALIZED 
+                   FINANCIAL MESSAGING SERVICES TO THE CENTRAL 
+                   BANK OF IRAN AND OTHER SANCTIONED IRANIAN 
+                   FINANCIAL INSTITUTIONS.
+
+       It is the sense of Congress that--
+       (1) the President has been engaged in intensive diplomatic 
+     efforts to ensure that sanctions against Iran are imposed and 
+     maintained multilaterally to sharply restrict the access of 
+     the Government of Iran to the global financial system;
+       (2) the European Union is to be commended for strengthening 
+     the multilateral sanctions regime against Iran by prohibiting 
+     all persons subject to the jurisdiction of the European Union 
+     from providing specialized financial messaging services to 
+     the Central Bank of Iran and other sanctioned Iranian 
+     financial institutions;
+       (3) in order to continue to sharply restrict access by Iran 
+     to the global financial system, the President and the 
+     European Union must continue to expeditiously address any 
+     judicial, administrative, or other decisions in their 
+     respective jurisdictions that might weaken the current 
+     multilateral sanctions regime, including decisions regarding 
+     the designation of financial institutions and global 
+     specialized financial messaging service providers for 
+     sanctions; and
+       (4) existing restrictions on the access of Iran to global 
+     specialized financial messaging services should be 
+     maintained.
+
+     SEC. 922. INCLUSION OF TRANSFERS OF GOODS, SERVICES, AND 
+                   TECHNOLOGIES TO STRATEGIC SECTORS OF IRAN FOR 
+                   PURPOSES OF IDENTIFYING DESTINATIONS OF 
+                   DIVERSION CONCERN.
+
+       (a) In General.--Section 302(b) of the Comprehensive Iran 
+     Sanctions, Accountability, and Divestment Act of 2010 (22 
+     U.S.C. 8542(b)) is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (B)--
+       (i) in clause (ii), by striking ``; or'' and inserting a 
+     semicolon;
+       (ii) in clause (iii), by striking ``; and'' and inserting 
+     ``; or''; and
+       (iii) by adding at the end the following:
+       ``(iv) strategic sectors; and''; and
+       (B) in subparagraph (C)(ii), by striking ``; or'' and 
+     inserting a semicolon;
+       (2) in paragraph (2), by striking the period at the end and 
+     inserting ``; or''; and
+       (3) by adding at the end the following:
+       ``(3) that will be sold, transferred, or otherwise made 
+     available to a strategic sector of Iran.''.
+       (b) Strategic Sector Defined.--Section 301 of the 
+     Comprehensive Iran Sanctions, Accountability, and Divestment 
+     Act of 2010 (22 U.S.C. 8541) is amended--
+       (1) by redesignating paragraph (14) as paragraph (15); and
+       (2) by inserting after paragraph (13) the following:
+       ``(14) Strategic sector.--The term `strategic sector' has 
+     the meaning given that term in section 1244(c)(4) of the Iran 
+     Freedom and Counter-Proliferation Act of 2012.''.
+       (c) Submission of Report.--Section 302(a) of the 
+     Comprehensive Iran Sanctions, Accountability, and Divestment 
+     Act of 2010 (22 U.S.C. 8542(a)) is amended by striking ``180 
+     days after the date of the enactment of this Act'' and 
+     inserting ``90 days after the date of the enactment of the 
+     Nuclear Weapon Free Iran Act of 2014''.
+
+     SEC. 923. AUTHORIZATION OF ADDITIONAL MEASURES WITH RESPECT 
+                   TO DESTINATIONS OF DIVERSION CONCERN.
+
+       (a) In General.--Section 303(c) of the Comprehensive Iran 
+     Sanctions, Accountability, and Divestment Act of 2010 (22 
+     U.S.C. 8543(c)) is amended--
+       (1) by striking ``Not later than'' and inserting the 
+     following:
+       ``(1) Licensing requirement.--Not later than''; and
+       (2) by adding at the end the following:
+       ``(2) Additional measures.--The President may--
+       ``(A) impose restrictions on United States foreign 
+     assistance or measures authorized under the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with 
+     respect to a country designated as a Destination of Diversion 
+     Concern under subsection (a) if the President determines that 
+     those restrictions or measures would prevent the diversion of 
+     goods, services, and technologies described in section 302(b) 
+     to Iranian end-users or Iranian intermediaries; or
+       ``(B) prohibit the issuance of a license under section 38 
+     of the Arms Export Control Act (22 U.S.C. 2778) for the 
+     export to such a country of a defense article or defense 
+     service for which a notification to Congress would be 
+     required under section 36(b) of that Act (22 U.S.C. 2776(b)).
+       ``(3) Report required.--Not later than 90 days after the 
+     date of the enactment of the Nuclear Weapon Free Iran Act of 
+     2014, and every 90 days thereafter, the President shall 
+     submit to the appropriate congressional committees a report--
+       ``(A) identifying countries that have allowed the diversion 
+     through the country of goods, services, or technologies 
+     described in section 302(b) to Iranian end-users or Iranian 
+     intermediaries during the 180-day period preceding the 
+     submission of the report;
+       ``(B) identifying the persons that engaged in such 
+     diversion during that period; and
+       ``(C) describing the activities relating to diversion in 
+     which those countries and persons engaged.''.
+       (b) Conforming Amendments.--Section 303 of the 
+     Comprehensive Iran Sanctions, Accountability, and Divestment 
+     Act of 2010 (22 U.S.C. 8543) is amended--
+       (1) in subsection (c), in the subsection heading, by 
+     striking ``Licensing Requirement'' and inserting ``Licensing 
+     and Other Measures''; and
+       (2) in subsection (d)--
+       (A) in paragraph (1), by striking ``subsection (c)'' and 
+     inserting ``subsection (c)(1)'';
+       (B) in paragraph (2), by striking ``subsection (c)'' and 
+     inserting ``subsection (c)(1)''; and
+       (C) in paragraph (3), by striking ``is it'' and inserting 
+     ``it is''.
+
+     SEC. 924. SENSE OF CONGRESS ON INCREASED STAFFING FOR 
+                   AGENCIES INVOLVED IN THE IMPLEMENTATION AND 
+                   ENFORCEMENT OF SANCTIONS AGAINST IRAN.
+
+       It is the sense of Congress that--
+       (1) when the President submits the President's budget for 
+     fiscal year 2015 to Congress under section 1105(a) of title 
+     31, United States Code, the President should, in that budget, 
+     prioritize--
+       (A) resources for the Office of Foreign Assets Control for 
+     the Department of Treasury dedicated to the implementation 
+     and enforcement of sanctions with respect to Iran; and
+       (B) resources for the Department of State dedicated to the 
+     implementation and enforcement of sanctions with respect to 
+     Iran; and
+       (2) the appropriate committees of the Senate and the House 
+     of Representatives should prioritize the resources described 
+     in subparagraphs (A) and (B) of paragraph (1) during 
+     consideration of authorization and appropriations legislation 
+     in future fiscal years.
+
+                Subtitle C--Implementation of Sanctions
+
+     SEC. 931. SUSPENSION OF SANCTIONS TO FACILITATE A DIPLOMATIC 
+                   SOLUTION.
+
+       (a) Suspension of New Sanctions.--
+       (1) In general.--The President may suspend the application 
+     of sanctions imposed under this title or amendments made by 
+     this title for a 180-day period beginning on the earlier of 
+     the date of the enactment of this Act or the date on which 
+     the President submits a notification described in paragraph 
+     (5) to the appropriate congressional committees, if the 
+     President makes the certification described in paragraph (2) 
+     to the appropriate congressional committees every 30 days 
+     during that period.
+       (2) Certification described.--A certification described in 
+     this paragraph is a certification that--
+       (A) Iran is complying with the provisions of the Joint Plan 
+     of Action and any agreement to implement the Joint Plan of 
+     Action;
+       (B) Iran has agreed to specific and verifiable measures to 
+     implement the Joint Plan of Action;
+       (C) Iran is transparently, verifiably, and fully 
+     implementing the Joint Plan of Action and any agreement to 
+     implement the Joint Plan of Action;
+       (D) Iran has not breached the terms of or any commitment 
+     made pursuant to the Joint Plan of Action or any agreement to 
+     implement the Joint Plan of Action;
+
+[[Page 3235]]
+
+       (E) Iran is proactively and in good faith engaged in 
+     negotiations toward a final agreement or arrangement to 
+     terminate its illicit nuclear activities, related 
+     weaponization activities, and any other nuclear activity not 
+     required for a civilian nuclear program;
+       (F) the United States is working toward a final agreement 
+     or arrangement that will dismantle Iran's illicit nuclear 
+     infrastructure to prevent Iran from achieving a nuclear 
+     weapons capability and permit daily verification, monitoring, 
+     and inspections of suspect facilities in Iran so that an 
+     effort by Iran to produce a nuclear weapon would be quickly 
+     detected;
+       (G) any suspension of or relief from sanctions provided to 
+     Iran pursuant to the Joint Plan of Action is temporary, 
+     reversible, and proportionate to the specific and verifiable 
+     measures taken by Iran with respect to terminating its 
+     illicit nuclear program and related weaponization activities;
+       (H) Iran has not directly, or through a proxy, supported, 
+     financed, planned, or otherwise carried out an act of 
+     terrorism against the United States or United States persons 
+     or property anywhere in the world;
+       (I) Iran has not conducted any tests for ballistic missiles 
+     with a range exceeding 500 kilometers; and
+       (J) the suspension of sanctions is vital to the national 
+     security interests of the United States.
+       (3) Renewal of suspension.--Following the 180-day period 
+     described in paragraph (1), the President may renew a 
+     suspension of sanctions under that paragraph for 2 additional 
+     periods of not more than 30 days if, for each such renewal, 
+     the President submits to the appropriate congressional 
+     committees--
+       (A) a certification described in paragraph (2) that covers 
+     the 30 days preceding the certification; and
+       (B) a certification that a final agreement or arrangement 
+     with Iran to fully and verifiably terminate its illicit 
+     nuclear program and related weaponization activities is 
+     imminent and that Iran will, pursuant to that agreement or 
+     arrangement, dismantle its illicit nuclear infrastructure to 
+     preclude a nuclear breakout capability and other capabilities 
+     critical to the production of nuclear weapons.
+       (4) Termination of suspension of existing sanctions.--
+       (A) In general.--Any sanctions deferred, waived, or 
+     otherwise suspended by the President pursuant to the Joint 
+     Plan of Action or any agreement to implement the Joint Plan 
+     of Action, including sanctions suspended under this section 
+     and sanctions relating to precious metals, petrochemicals, 
+     Iran's automotive sector, and sanctions pursuant to section 
+     1245 of the National Defense Authorization Act for Fiscal 
+     Year 2012 (22 U.S.C. 8513a), shall be reinstated immediately 
+     if--
+       (i)(I) during the 180-day period described in paragraph 
+     (1), the President does not submit a certification every 30 
+     days pursuant that paragraph; or
+       (II) the President does not renew the suspension of 
+     sanctions pursuant to paragraph (3);
+       (ii) Iran breaches its commitments under either the Joint 
+     Plan of Action or a final agreement or arrangement described 
+     in subsection (b)(1); or
+       (iii) no final arrangement or agreement is reached with 
+     Iran by the earlier of the date that is 240 days after--
+
+       (I) the date of the enactment of this Act; or
+       (II) the date on which the President submits a notification 
+     described in paragraph (5) to the appropriate congressional 
+     committees.
+
+       (B) Waiver.--
+       (i) In general.--The President may waive the reinstatement 
+     of any sanction under subparagraph (A)(iii) for periods of 
+     not more than 30 days during the period specified in clause 
+     (ii) if, for each such waiver, the President submits to the 
+     appropriate congressional committees--
+
+       (I) a notification of the waiver;
+       (II) a certification described in paragraph (2) that covers 
+     the 30 days preceding the certification;
+       (III) a certification that the waiver is vital to the 
+     national security interests of the United States with respect 
+     to the dismantlement of Iran's illicit nuclear weapons 
+     program; and
+       (IV) a detailed report on the status of the negotiations 
+     with the Government of Iran on a final agreement or 
+     arrangement to terminate its illicit nuclear program and 
+     related weaponization activities, including an assessment of 
+     prospects for and the expected timeline to reach such an 
+     agreement or arrangement.
+
+       (ii) Period specified.--The period specified in this clause 
+     is the period that begins on the date of the enactment of 
+     this Act and ends on the earlier of the date that is one year 
+     after--
+
+       (I) such date of enactment; or
+       (II) the date on which the President submits a notification 
+     described in paragraph (5) to the appropriate congressional 
+     committees.
+
+       (5) Notification relating to agreement to implement joint 
+     plan of action.--Not later than 3 days after Iran has agreed 
+     to specific and verifiable measures to implement the Joint 
+     Plan of Action, the President shall notify the appropriate 
+     congressional committees of that agreement.
+       (b) Suspension for a Final Agreement or Arrangement.--
+       (1) In general.--Unless a joint resolution of disapproval 
+     is enacted pursuant to subsection (c), the President may 
+     suspend the application of sanctions imposed under this title 
+     or amendments made by this title for a one-year period if the 
+     President certifies to the appropriate congressional 
+     committees that the United States and its allies have reached 
+     a final and verifiable agreement or arrangement with Iran 
+     that will--
+       (A) dismantle Iran's illicit nuclear infrastructure, 
+     including enrichment and reprocessing capabilities and 
+     facilities, the heavy water reactor and production plant at 
+     Arak, and any nuclear weapon components and technology, so 
+     that Iran is precluded from a nuclear breakout capability and 
+     prevented from pursuing both uranium and plutonium pathways 
+     to a nuclear weapon;
+       (B) bring Iran into compliance with all United Nations 
+     Security Council resolutions related to Iran's nuclear 
+     program, including Resolutions 1696 (2006), 1737 (2006), 1747 
+     (2007), 1803 (2008), 1835 (2008), and 1929 (2010), with a 
+     view toward bringing to a satisfactory conclusion the 
+     Security Council's consideration of matters relating to 
+     Iran's nuclear program;
+       (C) resolve all issues of past and present concern with the 
+     International Atomic Energy Agency, including possible 
+     military dimensions of Iran's nuclear program;
+       (D) permit continuous, around the clock, on-site 
+     inspection, verification, and monitoring of all suspect 
+     facilities in Iran, including installation and use of any 
+     compliance verification equipment requested by the 
+     International Atomic Energy Agency, so that any effort by 
+     Iran to produce a nuclear weapon would be quickly detected; 
+     and
+       (E) require Iran's full implementation of and compliance 
+     with the Agreement between Iran and the International Atomic 
+     Energy Agency for the Application of Safeguards in Connection 
+     with the Treaty on the Non-Proliferation of Nuclear Weapons, 
+     done at Vienna June 19, 1973, including modified Code 3.1 of 
+     the Subsidiary Arrangements to that Agreement and 
+     ratification and implementation of the Protocol Additional to 
+     that Agreement, done at Vienna December 18, 2003; and
+       (F) requires Iran's implementation of measures in addition 
+     to the Protocol Additional that include verification by the 
+     International Atomic Energy Agency of Iran's centrifuge 
+     manufacturing facilities, including raw materials and 
+     components, and Iran's uranium mines and mills.
+       (2) Renewal of suspension.--The President may renew the 
+     suspension of sanctions pursuant to paragraph (1) for 
+     additional one-year periods if, for each such renewal, the 
+     President--
+       (A) certifies to the appropriate congressional committees 
+     that Iran is complying with the terms of the final 
+     arrangement or agreement, including by--
+       (i) dismantling Iran's illicit nuclear infrastructure, 
+     including enrichment and reprocessing capabilities and 
+     facilities, and the heavy water reactor and production plant 
+     at Arak, so that Iran is prevented from pursuing both uranium 
+     and plutonium pathways to a nuclear weapon;
+       (ii) permitting continuous, around the clock, on-site 
+     inspection, verification, and monitoring of all suspect 
+     facilities in Iran, including installation and use of any 
+     compliance verification equipment requested by the 
+     International Atomic Energy Agency, so that any effort by 
+     Iran to produce a nuclear weapon would be quickly detected;
+       (iii) resolving all issues of past and present concern with 
+     the International Atomic Energy Agency, including possible 
+     military dimensions of Iran's nuclear program;
+       (iv) remaining in full compliance with all United Nations 
+     Security Council resolutions related to Iran's nuclear 
+     program, including Resolutions 1696 (2006), 1737 (2006), 1747 
+     (2007), 1803 (2008), 1835 (2008), and 1929 (2010);
+       (v) fully implementing and complying with the Agreement 
+     between Iran and the International Atomic Energy Agency for 
+     the Application of Safeguards in Connection with the Treaty 
+     on the Non-Proliferation of Nuclear Weapons, done at Vienna 
+     June 19, 1973, including modified Code 3.1 of the Subsidiary 
+     Arrangements to that Agreement and ratification and 
+     implementation of the Protocol Additional to that Agreement, 
+     done at Vienna December 18, 2003; and
+       (vi) implementing measures, in addition to the Protocol 
+     Additional, that include verification by the International 
+     Atomic Energy Agency of Iran's centrifuge manufacturing 
+     facilities, including raw materials and components, and 
+     Iran's uranium mines and mills; and
+       (B) submits to the appropriate congressional committees 
+     with the certification under subparagraph (A) a detailed 
+     report describing the actions taken by Iran to comply with 
+     the terms of the final arrangement or agreement.
+       (c) Joint Resolution of Disapproval.--
+       (1) In general.--In this subsection, the term ``joint 
+     resolution of disapproval'' means only a joint resolution of 
+     the 2 Houses of Congress, the sole matter after the resolving 
+     clause of which is as follows: ``That Congress
+
+[[Page 3236]]
+
+     disapproves of the suspension of sanctions imposed with 
+     respect to Iran under section 931(b)(1) of the Nuclear Weapon 
+     Free Iran Act of 2014 pursuant to the certification of the 
+     President submitted to Congress under that section on 
+     ______'', with the blank space being filled with the 
+     appropriate date.
+       (2) Procedures for considering resolutions.--
+       (A) Introduction.--A joint resolution of disapproval--
+       (i) may be introduced in the House of Representatives or 
+     the Senate during the 15-day period beginning on the date on 
+     which the President submits a certification under subsection 
+     (b)(1) to the appropriate congressional committees;
+       (ii) in the House of Representatives, may be introduced by 
+     the Speaker or the minority leader or a Member of the House 
+     designated by the Speaker or minority leader;
+       (iii) in the Senate, may be introduced by the majority 
+     leader or minority leader of the Senate or a Member of the 
+     Senate designated by the majority leader or minority leader; 
+     and
+       (iv) may not be amended.
+       (B) Referral to committees.--A joint resolution of 
+     disapproval introduced in the Senate shall be referred to the 
+     Committee on Banking, Housing, and Urban Affairs and a joint 
+     resolution of disapproval in the House of Representatives 
+     shall be referred to the Committee on Foreign Affairs.
+       (C) Committee discharge and floor consideration.--The 
+     provisions of subsections (c) through (f) of section 152 of 
+     the Trade Act of 1974 (19 U.S.C. 2192) (relating to committee 
+     discharge and floor consideration of certain resolutions in 
+     the House of Representatives and the Senate) apply to a joint 
+     resolution of disapproval under this subsection to the same 
+     extent that such subsections apply to joint resolutions under 
+     such section 152, except that--
+       (i) subsection (c)(1) shall be applied and administered by 
+     substituting ``10 days'' for ``30 days''; and
+       (ii) subsection (f)(1)(A)(i) shall be applied and 
+     administered by substituting ``Committee on Banking, Housing, 
+     and Urban Affairs'' for ``Committee on Finance''.
+       (3) Rules of the house of representatives and senate.--This 
+     subsection is enacted by Congress--
+       (A) as an exercise of the rulemaking power of the Senate 
+     and the House of Representatives, respectively, and as such 
+     is deemed a part of the rules of each House, respectively, 
+     but applicable only with respect to the procedure to be 
+     followed in that House in the case of a joint resolution, and 
+     it supersedes other rules only to the extent that it is 
+     inconsistent with such rules; and
+       (B) with full recognition of the constitutional right of 
+     either House to change the rules (so far as relating to the 
+     procedure of that House) at any time, in the same manner and 
+     to the same extent as in the case of any other rule of that 
+     House.
+       (d) Definitions.--In this section:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' has the meaning 
+     given that term in section 14 of the Iran Sanctions Act of 
+     1996 (Public Law 104-172; 50 U.S.C. 1701 note).
+       (2) Joint plan of action.--The term ``Joint Plan of 
+     Action'' means the Joint Plan of Action, signed at Geneva 
+     November 24, 2013, by Iran and by France, Germany, the 
+     Russian Federation, the People's Republic of China, the 
+     United Kingdom, and the United States.
+       (3) United states person.--The term ``United States 
+     person'' has the meaning given that term in section 101 of 
+     the Comprehensive Iran Sanctions, Accountability, and 
+     Divestment Act of 2010 (22 U.S.C. 8511).
+
+                     Subtitle D--General Provisions
+
+     SEC. 941. EXCEPTION FOR AFGHANISTAN RECONSTRUCTION.
+
+       The President may provide for an exception from the 
+     imposition of sanctions under the provisions of or amendments 
+     made by this title for reconstruction assistance or economic 
+     development for Afghanistan--
+       (1) to the extent that the President determines that such 
+     an exception is in the national interest of the United 
+     States; and
+       (2) if, not later than 15 days before issuing the 
+     exception, the President submits a notification of and 
+     justification for the exception to the appropriate 
+     congressional committees (as defined in section 14 of the 
+     Iran Sanctions Act of 1996 (Public Law 104-172; 50 U.S.C. 
+     1701 note)).
+
+     SEC. 942. EXCEPTION FOR IMPORT RESTRICTIONS.
+
+       No provision of or amendment made by this title authorizes 
+     or requires the President to impose sanctions relating to the 
+     importation of goods.
+
+     SEC. 943. APPLICABILITY TO CERTAIN INTELLIGENCE ACTIVITIES.
+
+       Nothing in this title or the amendments made by this title 
+     shall apply to the authorized intelligence activities of the 
+     United States.
+
+     SEC. 944. APPLICABILITY TO CERTAIN NATURAL GAS PROJECTS.
+
+       Nothing in this title or any amendment made by this title 
+     shall be construed to apply with respect to any activity 
+     relating to a project described in subsection (a) of section 
+     603 of the Iran Threat Reduction and Syria Human Rights Act 
+     of 2012 (22 U.S.C. 8783) to which the exception under that 
+     section applies at the time of the activity.
+
+     SEC. 945. RULE OF CONSTRUCTION WITH RESPECT TO THE USE OF 
+                   FORCE AGAINST IRAN.
+
+       Nothing in this title or the amendments made by this title 
+     shall be construed as a declaration of war or an 
+     authorization of the use of force against Iran.
+                                 ______
+                                 
+  SA 2753. Ms. WARREN (for herself and Mr. Rubio) submitted an 
+amendment intended to be proposed by her to the bill S. 1982, to 
+improve the provision of medical services and benefits to veterans, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       On page 367, after line 14, add the following:
+
+     SEC. 918. PROTECTION OF INDIVIDUALS ELIGIBLE FOR INCREASED 
+                   PENSION UNDER LAWS ADMINISTERED BY SECRETARY OF 
+                   VETERANS AFFAIRS ON BASIS OF NEED FOR REGULAR 
+                   AID AND ATTENDANCE.
+
+       (a) Development and Implementation of Standards.--
+       (1) In general.--The Secretary of Veterans Affairs shall 
+     work with the heads of Federal agencies, States, and such 
+     experts as the Secretary considers appropriate to develop and 
+     implement Federal and State standards that protect 
+     individuals from dishonest, predatory, or otherwise unlawful 
+     practices relating to increased pension available to such 
+     individuals under chapter 15 of title 38, United States Code, 
+     on the basis of need for regular aid and attendance.
+       (2) Submittal to congress.--Not later than 180 days after 
+     the date of the enactment of this Act, the Secretary shall 
+     submit to the Committee on Veterans' Affairs of the Senate 
+     and the Committee on Veterans' Affairs of the House of 
+     Representatives the standards developed under paragraph (1).
+       (b) Conditional Recommendation by Comptroller General.--If 
+     the Secretary does not, on or before the date that is 180 
+     days after the date of the enactment of this Act, submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives standards that are developed under subsection 
+     (a)(1), the Comptroller General of the United States shall, 
+     not later than the date that is 1 year after the date of the 
+     enactment of this Act, submit to such committees a report 
+     containing standards that the Comptroller General determines 
+     are standards that would be effective in protecting 
+     individuals as described in such subsection.
+       (c) Study by Comptroller General.--Not later than 540 days 
+     after the date of the enactment of this Act, the Comptroller 
+     General of the United States shall complete a study on 
+     standards implemented under this section to protect 
+     individuals as described in subsection (a)(1) and submit to 
+     the Committee on Veterans' Affairs of the Senate and the 
+     Committee on Veterans' Affairs of the House of 
+     Representatives a report containing the findings of the 
+     Comptroller General with respect to such study.
+
+                          ____________________
+```
