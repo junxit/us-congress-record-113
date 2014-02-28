@@ -1,0 +1,68 @@
+---
+granule: CREC-2014-02-28-pt1-PgE282-2
+date: 2014-02-28
+edition: CREC
+section: EXTENSIONS
+page: E282
+citation: 160 Cong. Rec. E282
+---
+
+# STATE AND LOCAL PREDATORY ENFORCEMENT ACT
+
+**Speaking:** Moran, James P. (M000933) [D-VA]
+
+```
+               STATE AND LOCAL PREDATORY ENFORCEMENT ACT
+
+                                 ______
+                                 
+
+                          HON. JAMES P. MORAN
+
+                              of virginia
+
+                    in the house of representatives
+
+                       Friday, February 28, 2014
+
+  Mr. MORAN. Mr. Speaker, since the mid-1990's the authority to 
+regulate the towing industry had been in limbo. Through a provision 
+slipped into the Federal Aviation Administration Act of 1994 that 
+defined the tow truck industry as an interstate carrier exempt from 
+state and local regulation. One year later, passage of the Interstate 
+Commerce Termination Act eliminated the federal regulatory body that 
+oversaw the towing industry, leaving the industry without proper 
+federal, state or local regulation.
+  With no federal regulator, confusing restrictions and conflicting 
+court rulings on what states and localities are permitted to regulate, 
+no level of government has been able to adequately regulate the towing 
+industry. This lack of regulatory authority has led to more than two 
+decades of major consumer abuses by some unscrupulous towing companies. 
+These bad operators have continued to taint an otherwise much needed 
+and respectable profession.
+  Complaints about exorbitant towing fees and abusive operators grew so 
+bad that in 2005, Congress agreed, through an amendment to the Safe, 
+Accountable, Flexible, Efficient Transportation Equity Act--a Legacy of 
+Users (SAFETEA-LU), to allow some limited state regulation in the area 
+of non-consensual towing. The amendment also directed the Secretary of 
+Transportation to conduct a study to identify additional means to 
+protect the rights of individuals whose vehicles are towed.
+  That study offers some recommendations that track with conclusions I 
+made several years ago, that consumers and tow truck operators would be 
+better served by removing the last vestiges of federal preemption. It 
+notes that consumers needing redress for overcharges today or other 
+unfair treatment would: no longer be in the Catch-22 position of having 
+their State case thrown out on preemption grounds only to find that 
+they may have no real recourse at the Federal level either. Since 
+business practies vary from place to place, it may also be more 
+practical to have non-consensual towing regulated by the States rather 
+than by the Federal Government.
+  States are the more logical place to regulate towing. They already 
+have an established body of law in place to do so. This bill would 
+bring those laws back into effect by removing federal preemption and 
+allow state and local governments the ability to establish common-
+sense, pro-consumer trespass towing protections for their residents.
+  I urge my colleagues to support this legislation.
+
+                          ____________________
+```
