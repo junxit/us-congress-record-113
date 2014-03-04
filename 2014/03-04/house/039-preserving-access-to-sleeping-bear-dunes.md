@@ -1,0 +1,47 @@
+---
+granule: CREC-2014-03-04-pt1-PgH2143-5
+date: 2014-03-04
+edition: CREC
+section: HOUSE
+page: H2143
+citation: 160 Cong. Rec. H2143
+---
+
+# PRESERVING ACCESS TO SLEEPING BEAR DUNES
+
+**Speaking:** Huizenga, Bill (H001058) [R-MI]
+
+```
+                PRESERVING ACCESS TO SLEEPING BEAR DUNES
+
+  (Mr. HUIZENGA of Michigan asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. HUIZENGA of Michigan. Mr. Speaker, tonight the House passed 
+legislation addressing an issue that is near and dear to my heart and 
+very important to Michigan involving Sleeping Bear Dunes National Park.
+  For years, there has been a back and forth between the community 
+surrounding Sleeping Bear Dunes and the National Park Service over the 
+best way to make sure that this pristine treasure is accessible to the 
+public.
+  I have personally been involved in this process for over a decade, 
+and I am glad to see my friend and colleague, Dr. Dan Benishek, who now 
+represents the area, pick up the legislative torch that my friend Pete 
+Hoekstra and I--we introduced bills to protect the Sleeping Bear Dunes, 
+and Dan has finally been able to take it across the finish line.
+  This bipartisan and bicameral solution ensures that beaches will 
+remain open, public roads can be improved, hunting and fishing will 
+continue to be allowed, and private property rights are actually 
+protected.
+  Tonight's legislative achievement would not be possible without the 
+hard work and tireless efforts of local citizens, local business 
+owners, and local advocacy groups such as the Coalition for Access to 
+the Lakeshore.
+  I look forward to President Obama signing this much-needed piece of 
+legislation and the benefits that there will be for the visitors to the 
+park, the local residents, and small businesses throughout northern 
+Michigan.
+  Most importantly, let's see Sleeping Bear Dunes preserved for 
+generations to come.
+
+                          ____________________
+```

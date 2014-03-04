@@ -1,0 +1,42 @@
+---
+granule: CREC-2014-03-04-pt1-PgH2102-3
+date: 2014-03-04
+edition: CREC
+section: HOUSE
+page: H2102
+citation: 160 Cong. Rec. H2102
+---
+
+# THE GROWING INEQUALITY IN THIS COUNTRY
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                 THE GROWING INEQUALITY IN THIS COUNTRY
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, today the Federal Register is four times 
+larger than it was in 1970.
+  This weekend, columnist Peggy Noonan captured the feeling among 
+everyday Americans:
+
+       Voters and taxpayers feel bullied, burdened and jerked 
+     around which, again, is not new, but feels more intense every 
+     day. Rules, regulations, many of them stupid, from all the 
+     agencies, local, State, Federal, on the building of a house 
+     or the starting of a business. You can only employ so many 
+     before the new insurance rules kick in, so don't employ too 
+     many. Don't take a chance, which means don't grow.
+
+  Mr. Speaker, there is growing inequality in this country, between 
+regulators and the regulated, between large businesses wielding 
+government influence and smaller competitors attempting to grow, 
+between established corporations with compliance departments and 
+upstarts with energy and ideas.
+  This status inequality demands our attention. Last week's bipartisan 
+passage of the Unfunded Mandates Information and Transparency Act is a 
+good start, but much more must be done.
+
+                          ____________________
+```
