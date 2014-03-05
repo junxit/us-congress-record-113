@@ -1,0 +1,53 @@
+---
+granule: CRECB-2014-pt3-Pg3850-2
+date: 2014-03-05
+edition: CRECB
+section: EXTENSIONS
+page: 3850
+---
+
+# RECOGNIZING TECH MOLDED PLASTICS AS PLASTICS NEWS PROCESSOR OF THE YEAR
+
+```
+RECOGNIZING TECH MOLDED PLASTICS AS PLASTICS NEWS PROCESSOR OF THE YEAR
+
+                                 ______
+                                 
+
+                            HON. MIKE KELLY
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Wednesday, March 5, 2014
+
+  Mr. KELLY of Pennsylvania. Mr. Speaker, I rise today to offer my 
+heartiest congratulations to Tech Molded Plastics Inc., a family-owned 
+injection mold company, on being named Plastics News' Processor of the 
+Year.
+  Located in Meadville, Pennsylvania, Tech Molded Plastics celebrated 
+its 40th year in business just last year. In 1973, Bill Hanaway and his 
+wife Eva started their family business in a rented garage. Over the 
+years, Tech Molded has expanded and diversified its business through 
+smart investments in their people and technology. In the mid-1990s, 
+Tech Molded erected the factory building that now houses its company 
+headquarters. In 2011, the company expanded again by purchasing the 
+building adjacent to it with an investment of more than $1.5 million. 
+Today, sons Scott, Mark, and Doug still run the family business along 
+with their mother, Eva, manufacturing precision parts for the 
+electronics, automotive, and medical industry. Employing 120 
+Pennsylvanians and generating sales of $17.7 million, Tech Molded 
+Plastics embodies the best of America's family-owned small businesses.
+  Mr. Speaker, in light of being awarded Processor of the Year, I ask 
+that my colleagues join with me today in recognizing Tech Molded 
+Plastics for its national leadership in the plastics industry and for 
+the invaluable contributions of the Hanaway family to the citizens of 
+Meadville and Western Pennsylvania.
+
+[[Page 3851]]
+
+
+
+                          ____________________
+```

@@ -1,0 +1,52 @@
+---
+granule: CRECB-2014-pt3-Pg3841-4
+date: 2014-03-05
+edition: CRECB
+section: EXTENSIONS
+page: 3841
+---
+
+# RECOGNIZING DAN ``OX'' OCHSNER
+
+```
+                     RECOGNIZING DAN ``OX'' OCHSNER
+
+                                 ______
+                                 
+
+                         HON. MICHELE BACHMANN
+
+                              of minnesota
+
+                    in the house of representatives
+
+                        Wednesday, March 5, 2014
+
+  Mrs. BACHMANN. Mr. Speaker, I rise today to honor Dan ``Ox'' Ochsner 
+for more than a decade of work as a radio host in St. Cloud, MN.
+  Originally from Fargo, ND, Ox began his radio career in 1991 as a 
+rock DJ out of Fergus Falls. He's come a long way since then, now 
+hosting an afternoon show on weekdays in St. Cloud with popularity in 
+the Twin Cities and here in D.C.
+
+[[Page 3842]]
+
+  He's not only an on-air personality and radio entrepreneur. Ox and 
+his wife, Jan, have made an effort to stay involved and connected in 
+the community. His involvement with Jaycees, Sertoma, Chamber of 
+Commerce and the Boy Scouts haven't gone unnoticed. The St. Cloud Times 
+named him one of the top 40 most influential people of the decade 
+(2000-2010).
+  As I continue on in my final year in the House of Representatives, I 
+look back with appreciation and respect for the people of the 6th 
+District. One of those special people is Dan Ochsner. With a 
+personality as fiery as his hair, he can always be counted on to 
+provide a humorous take on current events to the people of central 
+Minnesota.
+  There are few people kinder, funnier, and more genuine than Ox. It's 
+an honor to represent a district in the halls of Congress with talented 
+individuals like Dan. The 6th District of Minnesota is lucky to call 
+Dan Ochsner one of their own.
+
+                          ____________________
+```

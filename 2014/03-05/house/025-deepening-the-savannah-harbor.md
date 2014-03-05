@@ -1,0 +1,39 @@
+---
+granule: CRECB-2014-pt3-Pg3750-2
+date: 2014-03-05
+edition: CRECB
+section: HOUSE
+page: 3750
+---
+
+# DEEPENING THE SAVANNAH HARBOR
+
+```
+                     DEEPENING THE SAVANNAH HARBOR
+
+  (Mr. BARROW of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. BARROW of Georgia. Madam Speaker, I rise in great disappointment 
+that the President's budget makes no provision for deepening the 
+Savannah harbor.
+  The Port of Savannah is one of the busiest in the country and is a 
+major throughway for all sorts of essential goods coming in and out of 
+the country. The State of Georgia has collaborated with the Federal 
+Government to ensure that the port is deepened to accommodate the 
+larger ships that will soon come through the expanded Panama Canal.
+  After decades of study, State and local stakeholders, congressional 
+authorizers and appropriators, the Corps of Engineers, the U.S. Fish 
+and Wildlife Service, the National Oceanic and Atmospheric 
+Administration, and the EPA have all endorsed this project as 
+technically feasible, economically justified, cost-effective, 
+environmentally responsible, and in the national interest.
+  Vice President Biden recently visited Savannah and promised we would 
+get this project done, ``come hell or high water.'' Only OMB now stands 
+in the way.
+  This project makes sense to almost everyone who has studied it. I 
+share the frustration of my constituents that it continues to be 
+stalled by bureaucracy, and I urge the President to lead, follow, or 
+get out of the way of the effort to make this project happen.
+
+                          ____________________
+```

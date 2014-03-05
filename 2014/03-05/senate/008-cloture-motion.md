@@ -1,0 +1,175 @@
+---
+granule: CRECB-2014-pt3-Pg3805
+date: 2014-03-05
+edition: CRECB
+section: SENATE
+page: 3805
+---
+
+# CLOTURE MOTION
+
+```
+                             CLOTURE MOTION
+
+  The VICE PRESIDENT. The cloture motion having been presented, under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     hereby move to bring to a close debate on the nomination of 
+     Pedro A. Delgado Hernandez, of Puerto Rico, to be United 
+     States District Judge for the District of Puerto Rico.
+         Harry Reid, Patrick J. Leahy, Benjamin L. Cardin, Mark L. 
+           Pryor, Mark Begich, Tom Harkin, Amy Klobuchar, 
+           Christopher Murphy, Patty Murray, Jon Tester, Richard 
+           J. Durbin, Barbara Boxer, Angus S. King, Jr., Claire 
+           McCaskill, Richard Blumenthal, Sheldon Whitehouse, Jack 
+           Reed.
+
+  The VICE PRESIDENT. By unanimous consent, the mandatory quorum call 
+has been waived.
+  The question is, Is it the sense of the Senate that debate on the 
+nomination of Pedro A. Delgado Hernandez, of Puerto Rico, to be United 
+States District Judge for the District of Puerto Rico, shall be brought 
+to a close?
+  The yeas and nays are mandatory under the rule.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  Mr. HATCH (when his name was called). ``Present.''
+  Mr. THUNE. The following Senator is necessarily absent: the Senator 
+from Texas (Mr. Cornyn).
+  Further, if present and voting, the Senator from Texas (Mr. Cornyn) 
+would have voted ``nay.''
+  The PRESIDING OFFICER (Ms. Baldwin). Are there any other Senators in 
+the Chamber desiring to vote?
+
+[[Page 3806]]
+
+  The yeas and nays resulted--yeas 57, nays 41, as follows:
+
+                       [Rollcall Vote No. 49 Ex.]
+
+                                YEAS--57
+
+     Baldwin
+     Begich
+     Bennet
+     Blumenthal
+     Booker
+     Boxer
+     Brown
+     Cantwell
+     Cardin
+     Carper
+     Casey
+     Collins
+     Coons
+     Donnelly
+     Durbin
+     Feinstein
+     Franken
+     Gillibrand
+     Hagan
+     Harkin
+     Heinrich
+     Heitkamp
+     Hirono
+     Johnson (SD)
+     Kaine
+     King
+     Klobuchar
+     Landrieu
+     Leahy
+     Levin
+     Manchin
+     Markey
+     McCaskill
+     Menendez
+     Merkley
+     Mikulski
+     Murkowski
+     Murphy
+     Murray
+     Nelson
+     Pryor
+     Reed
+     Reid
+     Rockefeller
+     Sanders
+     Schatz
+     Schumer
+     Shaheen
+     Stabenow
+     Tester
+     Udall (CO)
+     Udall (NM)
+     Walsh
+     Warner
+     Warren
+     Whitehouse
+     Wyden
+
+                                NAYS--41
+
+     Alexander
+     Ayotte
+     Barrasso
+     Blunt
+     Boozman
+     Burr
+     Chambliss
+     Coats
+     Coburn
+     Cochran
+     Corker
+     Crapo
+     Cruz
+     Enzi
+     Fischer
+     Flake
+     Graham
+     Grassley
+     Heller
+     Hoeven
+     Inhofe
+     Isakson
+     Johanns
+     Johnson (WI)
+     Kirk
+     Lee
+     McCain
+     McConnell
+     Moran
+     Paul
+     Portman
+     Risch
+     Roberts
+     Rubio
+     Scott
+     Sessions
+     Shelby
+     Thune
+     Toomey
+     Vitter
+     Wicker
+
+                        ANSWERED ``PRESENT''--1
+
+       
+     Hatch
+       
+
+                             NOT VOTING--1
+
+       
+     Cornyn
+       
+  The PRESIDING OFFICER. On this vote the yeas are 57, the nays are 41, 
+with one Senator voting ``present.''
+  The motion to invoke cloture is agreed to.
+
+                          ____________________
+```

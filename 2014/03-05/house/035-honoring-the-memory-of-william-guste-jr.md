@@ -1,0 +1,42 @@
+---
+granule: CRECB-2014-pt3-Pg3751-6
+date: 2014-03-05
+edition: CRECB
+section: HOUSE
+page: 3751
+---
+
+# HONORING THE MEMORY OF WILLIAM GUSTE, JR.
+
+```
+               HONORING THE MEMORY OF WILLIAM GUSTE, JR.
+
+  (Mr. RICHMOND asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+
+[[Page 3752]]
+
+
+  Mr. RICHMOND. Mr. Speaker, I rise today to honor the memory of a true 
+statesman who was a guiding light for Louisiana for many years. I am 
+talking about former Louisiana Attorney General William ``Billy'' 
+Guste.
+  Attorney General Guste passed away last summer, but I wanted to take 
+a moment to discuss his impact on my home State and discuss who he was 
+as a man because he represents what was best about Louisiana.
+  You see, Mr. Speaker, he was a fighter. He fought for what was right. 
+He fought for average Louisiana citizens. He fought tooth and nail for 
+environmental justice, for racial fairness, for coastal restoration, 
+for affordable housing, and for the homeless. During his 20 years of 
+service as attorney general, he was always trying to fight for things 
+that he believed would help ordinary, average people.
+  We should remember this lesson, Mr. Speaker, so that we remember that 
+our fights should mean something. We should fight to improve the lives 
+of our constituents, not to win political battles.
+  Growing up in Louisiana, I am a direct beneficiary of Billy Guste's 
+courage to do what was truly right and truly compassionate. In that 
+tradition, Mr. Speaker, I say we must honor Mr. Guste's legacy by doing 
+the same.
+
+                          ____________________
+```
