@@ -1,0 +1,43 @@
+---
+granule: CREC-2014-03-05-pt1-PgE303-6
+date: 2014-03-05
+edition: CREC
+section: EXTENSIONS
+page: E303
+citation: 160 Cong. Rec. E303
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+**Measures:** H.Res. 488, H.R. 3370
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                        HON. SHEILA JACKSON LEE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Wednesday, March 5, 2014
+
+  Ms. JACKSON LEE. Mr. Speaker, on March 4, 2014, I was unavoidably 
+detained attending to representational activities in my congressional 
+district and thus unable to return in time for rollcall votes No. 91 
+and 92.
+  Had I been present I would have voted as follows: On rollcall No. 91, 
+I would have voted ``aye'' (March 4) (H.R. 3370, Homeowner Flood 
+Insurance Affordability Act of 2014 (Rep. Grimm--Financial Services)); 
+On rollcall No. 92, I would have voted ``aye'' (March 4) (H. Res. 488, 
+Supporting the people of Venezuela as they protest peacefully for 
+democratic change and calling to end the violence (Rep. Ros-Lehtinen--
+Foreign Affairs)).
+
+                          ____________________
+```

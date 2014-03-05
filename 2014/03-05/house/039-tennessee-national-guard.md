@@ -1,0 +1,39 @@
+---
+granule: CREC-2014-03-05-pt1-PgH2160-2
+date: 2014-03-05
+edition: CREC
+section: HOUSE
+page: H2160
+citation: 160 Cong. Rec. H2160
+---
+
+# TENNESSEE NATIONAL GUARD
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+                        TENNESSEE NATIONAL GUARD
+
+  (Mrs. BLACKBURN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. BLACKBURN. Mr. Speaker, the President filed his budget 
+yesterday, and what a budget it is. It is going to increase spending by 
+$791 billion--that is right, billion with a ``b.'' You would think we 
+had all this money to spend. And when you look a little deeper, you see 
+that the priorities are all askew in this budget.
+  I want to point out just one to my colleagues, and it deals with the 
+Tennessee National Guard and the way they are being adversely impacted 
+by what this budget is bringing to bear, what the President would want 
+to bring to bear.
+  The Tennessee Guard has flown the Kiowa Warrior helicopters all 
+throughout Iraq and Afghanistan. They used them in our natural 
+disasters like Hurricane Katrina and the Tennessee flood. And today, 
+due to that budget that I have mentioned that the President filed 
+yesterday, he would like to put them on the chopping block. All 30 
+Kiowa helicopters, 692 soldiers, and 113 workers are all on the 
+chopping block.
+  Let's talk about priorities. It is our responsibility in the House to 
+get this right.
+
+                          ____________________
+```

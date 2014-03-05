@@ -1,0 +1,55 @@
+---
+granule: CREC-2014-03-05-pt1-PgE306-3
+date: 2014-03-05
+edition: CREC
+section: EXTENSIONS
+page: E306
+citation: 160 Cong. Rec. E306
+---
+
+# RECOGNIZING THE NORTHERN VIRGINIA CONSERVATION TRUST
+
+**Speaking:** Connolly, Gerald E. (C001078) [D-VA]
+
+```
+          RECOGNIZING THE NORTHERN VIRGINIA CONSERVATION TRUST
+
+                                 ______
+                                 
+
+                        HON. GERALD E. CONNOLLY
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Wednesday, March 5, 2014
+
+  Mr. CONNOLLY. Mr. Speaker, I rise to congratulate the Northern 
+Virginia Conservation Trust for receiving accreditation by the National 
+Land Trust Accreditation Commission. The accreditation process is very 
+rigorous and signifies the highest standards of excellence in land 
+conservation.
+   When Congress first passed the tax incentives for land conservation, 
+it placed a high degree of trust in non-profit land trusts to manage 
+these transactions properly. Over the years, land conservation has 
+become increasingly complex and requires careful adherence to the 
+national Land Trust Standards and Practices. This accreditation process 
+helps give taxpayers confidence that land trusts are a worthy public 
+investment.
+   I want to thank the Northern Virginia Conservation Trust for its 
+dedication and effectiveness in educating the public about the 
+importance of conservation and preserving local natural areas, trails, 
+streams, and parks. Its work helps to protect wildlife habitat, water 
+quality and healthy communities. Since its founding 20 years ago, the 
+Trust has protected 5,370 acres across Northern Virginia. And, by 
+achieving national accreditation, the Northern Virginia Conservation 
+Trust has expanded its capacity to accomplish this mission far into the 
+future.
+   Mr. Speaker, I invite my colleagues to join me in commending the 
+Northern Virginia Conservation Trust for its hard work and commitment 
+to our community. I wish the Trust and its supporters continued success 
+in their conservation efforts.
+
+                          ____________________
+```

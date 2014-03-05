@@ -1,0 +1,47 @@
+---
+granule: CREC-2014-03-05-pt1-PgH2157-8
+date: 2014-03-05
+edition: CREC
+section: HOUSE
+page: H2157
+citation: 160 Cong. Rec. H2157
+---
+
+# TUBEROUS SCLEROSIS COMPLEX RESEARCH
+
+**Speaking:** Fitzpatrick, Michael G. (F000451) [R-PA]
+
+```
+                  TUBEROUS SCLEROSIS COMPLEX RESEARCH
+
+  (Mr. FITZPATRICK asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. FITZPATRICK. Madam Speaker, as a member of the Rare Disease 
+Congressional Caucus, I rise today in support of continued funding for 
+tuberous sclerosis complex research in the fiscal year 2015 Department 
+of Defense Appropriations Act.
+  TSC is a genetic condition that afflicts an estimated 50,000 
+Americans,
+
+[[Page H2158]]
+
+causing tumors in the kidneys, lungs, liver, heart, eyes, skin, and 
+brain. Researchers have linked TSC to seizures, autism, and severe 
+intellectual disability.
+  Research on this condition is also having a notable impact on our 
+understanding of traumatic brain injury and other medical conditions, 
+like cancer and diabetes.
+  The TSC program at the Department of Defense is critical to our 
+continued understanding of this condition.
+  With me on the floor today, Mr. Speaker, is a beautiful little girl, 
+Stephanie from Pennsylvania, who has been diagnosed with TSC.
+  Her brave spirit brings light to the importance of this cause and 
+helps remind us of others living with this condition across the United 
+States.
+  It is crucial that we continue to band together as a community and a 
+legislative body to support this significant research initiative.
+  The SPEAKER pro tempore (Ms. Ros-Lehtinen). The Chair reminds Members 
+not to refer to persons on the floor as guests of the House.
+
+                          ____________________
+```
