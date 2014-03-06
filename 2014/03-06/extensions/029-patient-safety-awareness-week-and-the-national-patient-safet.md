@@ -1,0 +1,49 @@
+---
+granule: CRECB-2014-pt3-Pg3962-5
+date: 2014-03-06
+edition: CRECB
+section: EXTENSIONS
+page: 3962
+---
+
+# PATIENT SAFETY AWARENESS WEEK AND THE NATIONAL PATIENT SAFETY FOUNDATION
+
+```
+     PATIENT SAFETY AWARENESS WEEK AND THE NATIONAL PATIENT SAFETY 
+                               FOUNDATION
+
+                                  _____
+                                 
+
+                          HON. ANN KIRKPATRICK
+
+                               of arizona
+
+                    in the house of representatives
+
+                        Thursday, March 6, 2014
+
+  Mrs. KIRKPATRICK. Mr. Speaker, this week is Patient Safety Awareness 
+Week, and today
+
+[[Page 3963]]
+
+I'd like to recognize the National Patient Safety Foundation and the 
+organizations in my district that work to promote and improve patient 
+safety.
+  In Arizona's District One, we have several facilities that are 
+committed to patient safety, including Oro Valley Hospital, Flagstaff 
+Medical Center, and Ventana Medical Systems.
+  Oro Valley Hospital has been nationally recognized for its efforts, 
+which include daily safety huddles and employee empowerment. At 
+Flagstaff Medical Center, their patient safety program also encourages 
+employee collaboration.
+  My district is home to Ventana Medical Systems, a world leader in 
+developing solutions for tissue-based diagnoses. Ventana has a new 
+advisory board that brings together experts to review patient safety.
+  I applaud the National Patient Safety Foundation and the hospitals 
+and companies in my district and nationwide who are leading the way to 
+keep patient safety as a top priority.
+
+                          ____________________
+```
