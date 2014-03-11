@@ -1,0 +1,43 @@
+---
+granule: CRECB-2014-pt3-Pg4150-4
+date: 2014-03-11
+edition: CRECB
+section: HOUSE
+page: 4150
+---
+
+# DECLARING MARCH 31 AS NATIONAL LINEMAN APPRECIATION DAY
+
+```
+        DECLARING MARCH 31 AS NATIONAL LINEMAN APPRECIATION DAY
+
+  (Mr. MULVANEY asked and was given permission to address the House for 
+1 minute.)
+  Mr. MULVANEY. Madam Speaker, I rise today to extend a special thank-
+you to the hardworking men and women across the Nation, but especially 
+in South Carolina, who dedicate themselves to keeping the lights on 
+during this difficult winter. For so many of us, switching on the light 
+switch is something that we take for granted. It is easy to forget all 
+the hard work that goes into making that happen.
+  A couple of weeks ago, Winter Storm Pax hit South Carolina leaving a 
+path of destruction in many of the smaller communities in my district 
+without power, crippled by the ice and snow. It is something that was 
+so dramatic that the executive director of the South Carolina Office of 
+Regulatory Staff said that the storm was the most significant weather 
+event in South Carolina since Hurricane Hugo. And I can assure you 
+that, for us, that is saying a lot.
+  To give some quick numbers as to what happened, more than 3,000 
+people went to work in South Carolina. The folks from Duke Energy alone 
+cleared more than 7,000 trees off of the power lines in South Carolina. 
+It is these types of efforts that these folks put in every single 
+winter to make sure that something that we take for granted actually 
+happens when we flip on the lights.
+  In recognition of those efforts, the efforts that they undertake 
+every single winter, I am introducing a bill today to declare March 31 
+as National Lineman Appreciation Day.
+  I hope we can count on my colleagues to send this very small thank-
+you. It is not much, but it is the least we can do to let these folks 
+know that we don't always take them for granted.
+
+                          ____________________
+```
