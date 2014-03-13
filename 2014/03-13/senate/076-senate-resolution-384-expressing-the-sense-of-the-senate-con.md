@@ -1,0 +1,187 @@
+---
+granule: CREC-2014-03-13-pt1-PgS1661-2
+date: 2014-03-13
+edition: CREC
+section: SENATE
+page: S1661
+citation: 160 Cong. Rec. S1661
+---
+
+# SENATE RESOLUTION 384--EXPRESSING THE SENSE OF THE SENATE CONCERNING THE HUMANITARIAN CRISIS IN SYRIA AND NEIGHBORING COUNTRIES, RESULTING HUMANITARIAN AND DEVELOPMENT CHALLENGES, AND THE URGENT...
+
+**Speaking:** Kaine, Tim (K000384) [D-VA]
+
+**Measures:** S.Res. 384
+
+```
+ SENATE RESOLUTION 384--EXPRESSING THE SENSE OF THE SENATE CONCERNING 
+ THE HUMANITARIAN CRISIS IN SYRIA AND NEIGHBORING COUNTRIES, RESULTING 
+  HUMANITARIAN AND DEVELOPMENT CHALLENGES, AND THE URGENT NEED FOR A 
+                    POLITICAL SOLUTION TO THE CRISIS
+
+  Mr. KAINE (for himself, Mr. Rubio, Mr. Durbin, Ms. Klobuchar, Mr. 
+Murphy, Mr. Leahy, Mr. Cardin, Mrs. Shaheen, Mr. Menendez, Mrs. 
+Gillibrand, Mrs. Boxer, Mr. Whitehouse, Mr. Casey, Mr. Blumenthal, Mr. 
+Warner, Mr. Kirk, Mr. King, Mr. Markey, and Mr. Cruz) submitted the 
+following resolution; which was referred to the Committee on Foreign 
+Relations:
+
+                              S. Res. 384
+
+       Whereas United Nations Security Council Resolution 2139, 
+     adopted on February 22, 2014, expresses grave alarm at the 
+     significant and rapid deterioration of the humanitarian 
+     situation in Syria, in particular the dire situation of 
+     hundreds of thousands of civilians trapped in besieged areas, 
+     most of whom are besieged by the Syrian armed forces and some 
+     by opposition groups, as well as the dire situation of over 
+     3,000,000 people in hard-to-reach areas, and deplores the 
+     difficulties in providing, and the failure to provide, access 
+     for the humanitarian assistance to all civilians in need 
+     inside Syria;
+       Whereas widespread and systematic attacks on civilians, 
+     schools, hospitals, and other civilian infrastructure, in 
+     violation of international humanitarian law, continue in 
+     Syria, and parties to the conflict are blocking humanitarian 
+     aid delivery, including food and medical care from many 
+     civilian areas;
+       Whereas the World Health Organization estimates that 70 
+     percent of Syria's health professionals, up to 80,000 people, 
+     have fled the country, cases of typhoid, tuberculosis, polio 
+     and other diseases are rampant and increasing, and medical 
+     personnel inside Syria are deliberately targeted by parties 
+     to the conflict;
+       Whereas the United Nations High Commissioner for Refugees 
+     (UNHCR) has registered
+
+[[Page S1662]]
+
+     more than 2,500,000 Syrian refugees, nearly 80 percent of 
+     whom are women and children, and by the end of this year, the 
+     United Nations estimates the number of refugees will increase 
+     to 4,000,000;
+       Whereas nearly 500,000 refugees from the Syrian conflict 
+     are children under the age of five, and more than 11,000 
+     children have been killed and thousands more have suffered 
+     severe injuries, including burns, shrapnel wounds, the 
+     severing of limbs, and spinal cord injuries;
+       Whereas over 5,000,000 children affected by the conflict 
+     desperately need food, clean water, shelter, medical care and 
+     psychosocial support;
+       Whereas, since 2011, nearly 3,000,000 Syrian children have 
+     been forced to quit their education as fighting has destroyed 
+     classrooms, left children too terrified to go to school, and 
+     forced families to flee the country;
+       Whereas the refugee crisis threatens the stability of the 
+     Middle East, putting immense burdens on Syria's neighbors, 
+     most notably Lebanon and Jordan, as well as Turkey and Iraq; 
+     and
+       Whereas the United States Government has played a leading 
+     role in addressing the Syria crisis, providing $1,700,000,000 
+     in humanitarian assistance to those suffering inside Syria, 
+     as well as to refugees and host communities in the 
+     neighboring countries: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) strongly condemns the unlawful use of violence against 
+     civilians by all parties to the conflict in Syria, 
+     particularly the ongoing violence and widespread human rights 
+     violations perpetrated against the people of Syria by the 
+     Government of Syria;
+       (2) urges all parties to the conflict to immediately halt 
+     indiscriminate attacks on civilians and civilian 
+     infrastructure;
+       (3) affirms the neutrality of medical professionals 
+     providing humanitarian assistance and health care on a non-
+     political basis, and condemns attacks against such personnel 
+     or interference in the provision of medical care;
+       (4) urges all parties in Syria to allow for and facilitate 
+     immediate, unfettered access to humanitarian aid throughout 
+     the Syrian Arab Republic, respecting the safety, security, 
+     independence, and impartiality of humanitarian workers and 
+     ensuring freedom of movement to deliver aid;
+       (5) supports the immediate and full implementation of 
+     United Nations Security Council Resolution 2139 (2014), which 
+     calls for unimpeded access of humanitarian assistance to all 
+     Syrians to addresses the rapid deterioration of the 
+     humanitarian situation in Syria, in particular the dire 
+     situation of hundreds of thousands of civilians trapped in 
+     besieged areas, most of whom are besieged by the Syrian armed 
+     forces and some by opposition groups, as well as the dire 
+     situation of over 3,000,000 people in hard-to-reach areas;
+       (6) calls on the international community to assist the 
+     people of Syria, especially internally displaced persons and 
+     refugees, in meeting basic needs, including access to food, 
+     health care, shelter, and clean drinking water;
+       (7) calls on the international community to support 
+     civilians and innocent victims of the conflict in Syria, 
+     particularly women and children who are displaced and 
+     vulnerable to physical and psychological exploitation;
+       (8) calls on the international community to implement steps 
+     that prevent gender-based violence, and assure the protection 
+     of women and girls against sexual exploitation, human 
+     trafficking, and rape;
+       (9) calls on the international community to continue to 
+     support neighboring countries and host communities who are 
+     generously supporting refugees fleeing the conflict in Syria;
+       (10) calls on the international community to increase 
+     investment for education in host communities to expand 
+     learning opportunities for refugee children and to support 
+     programs that help children gain access to quality education, 
+     protect them from violence and abuse, and provide counseling 
+     and psychosocial support;
+       (11) calls on countries that are hosting refugees in the 
+     region to support refugee self-reliance and dignity by 
+     expanding employment opportunities for refugees;
+       (12) calls on international donors and aid agencies to 
+     integrate humanitarian relief and longer term development 
+     programs through a comprehensive regional strategy to address 
+     the protracted crisis in Syria; and
+       (13) calls on the President to develop and submit to the 
+     appropriate committees of Congress within 90 days from 
+     adoption of this resolution a strategy for United States 
+     engagement in addressing the Syrian humanitarian crisis, to 
+     include assistance and development, and protecting human 
+     rights inside Syria and in the region.
+  Mr. KAINE. Mr. President, today, along with Senator Rubio, I am 
+submitting a bipartisan resolution to coincide with the third 
+anniversary of the Syria crisis.
+  We are witnessing one of history's greatest humanitarian catastrophes 
+unfolding before our eyes. The numbers are staggering. Nearly 3 million 
+Syrians have fled to neighboring countries. Syrians are about to pass 
+Afghans as the world's biggest refugee population.
+  The UN released a report this week stating Syria has become the 
+world's most dangerous place for children. This is truly heartbreaking. 
+More than 5.5 million children are in need of desperate humanitarian 
+assistance and three million are out of school. 40,000 babies have been 
+born as refugees.
+  Conditions inside are even Syria worse. There are nearly 7 million 
+internally displaced persons and over 9 million in need of humanitarian 
+assistance. Nearly 250,000 remained besieged, mostly at the hands of 
+the Assad regime, and are suffering from disease and starvation.
+  The Syria Humanitarian Resolution of 2014 strongly condemns the 
+unlawful use of violence against civilians by all parties to the 
+conflict in Syria, particularly the ongoing violence and widespread 
+human rights violations perpetrated against the people of Syria by the 
+Government of Syria.
+  The resolution urges all parties to the conflict to immediately halt 
+indiscriminate attacks on civilians and to allow for immediate, 
+unfettered access to humanitarian aid throughout the Syrian Arab 
+Republic, respecting the safety, security, independence, and 
+impartiality of humanitarian workers and ensuring freedom of movement 
+to deliver aid. We call on the international community to assist the 
+people of Syria, especially internally displaced persons and refugees, 
+in meeting basic needs, including access to food, health care, shelter, 
+and clean drinking water. Finally we call for the full implementation 
+of UN Security Council 2139 and call on the President to submit to the 
+appropriate committees of Congress within 90 days a strategy for United 
+States engagement in addressing the Syrian humanitarian crisis, to 
+include assistance and development, and protection of human rights 
+inside Syria and in the region.
+  The solution to the Syrian conflict will be complicated. But the 
+people of Syria should not continue to suffer in the interim. I refuse 
+to accept that there is nothing more we can do to end the suffering. 
+Humanitarian relief and access are fundamental principles all parties 
+should adhere to. History will harshly judge those who do not.
+
+                          ____________________
+```
