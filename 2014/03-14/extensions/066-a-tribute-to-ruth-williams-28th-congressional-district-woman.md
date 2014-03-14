@@ -1,0 +1,70 @@
+---
+granule: CREC-2014-03-14-pt1-PgE399-3
+date: 2014-03-14
+edition: CREC
+section: EXTENSIONS
+page: E399
+citation: 160 Cong. Rec. E399
+---
+
+# A TRIBUTE TO RUTH WILLIAMS--28TH CONGRESSIONAL DISTRICT WOMAN OF THE YEAR
+
+**Speaking:** Schiff, Adam B. (S001150) [D-CA]
+
+```
+ A TRIBUTE TO RUTH WILLIAMS--28TH CONGRESSIONAL DISTRICT WOMAN OF THE 
+                                  YEAR
+
+                                 ______
+                                 
+
+                          HON. ADAM B. SCHIFF
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, March 14, 2014
+
+  Mr. SCHIFF. Mr. Speaker, I rise today in honor of Women's History 
+Month. Each year, we pay special tribute to the contributions and 
+sacrifices made by our nation's women. It is an honor to pay homage to 
+outstanding women who are making a difference in my Congressional 
+District. I would like to recognize a remarkable woman, Ruth Williams 
+of West Hollywood.
+   Ms. Williams is one of the original founders of the City of West 
+Hollywood. Incorporated in 1984, West Hollywood has been her home for 
+over sixty years. Her history of activism and volunteerism in West 
+Hollywood is astonishing. She has served as a member of the Eastside 
+Redevelopment Project Area Committee since its inception, is a former 
+board member of Good Neighbors, and has organized the annual Fourth of 
+July Picnic and Holiday Food Drive for many years. With a strong 
+commitment to public safety issues, Ms. Williams helped create the 
+original Disaster Volunteer Core Committee, worked tirelessly with the 
+Los Angeles County Sheriff's Department to create neighborhood watch 
+groups, and served on West Hollywood's Public Safety Commission. Ms. 
+Williams also founded Citizens for Seniors and helped draft West 
+Hollywood's first rent control ordinance while serving on the City's 
+Rent Stabilization Commission.
+   As Director of Advocacy at the National Council of Jewish Women/Los 
+Angeles (NCJW/LA), Ms. Williams has firsthand knowledge of the need for 
+providing social services in the community. She strives to educate the 
+community about current issues such as child abuse, human trafficking, 
+domestic violence, teen bullying, and human rights, as well as advocate 
+for domestic violence shelter funding. Many of the NCJW/LA programs 
+under Ms. Williams' leadership have received statewide and federal 
+recognition.
+   In addition to Ms. Williams' work in the community and with NCJW/LA, 
+she is also active in the Hollywood National Organization for Women, is 
+a former Chair and life member of the Fairfax High School Alumni 
+Association, current Vice Chair of the Fairfax Business Association, 
+and is involved in various political organizations. Ms. Williams has 
+received numerous awards, including the 2010 Los Angeles County Older 
+American Recognition Day Award, a City of West Hollywood Senior 
+Advisory Board Award, and a city proclamation to recognize March 15, 
+2013 as ``Ruth Williams Day'' in honor of her 75th birthday.
+   I ask all Members to join me in honoring an exceptional woman of 
+California's 28th Congressional District, Ruth Williams.
+
+                          ____________________
+```

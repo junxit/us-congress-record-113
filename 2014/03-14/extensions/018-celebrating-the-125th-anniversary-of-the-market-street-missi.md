@@ -1,0 +1,67 @@
+---
+granule: CREC-2014-03-14-pt1-PgE388-3
+date: 2014-03-14
+edition: CREC
+section: EXTENSIONS
+page: E388
+citation: 160 Cong. Rec. E388
+---
+
+# CELEBRATING THE 125TH ANNIVERSARY OF THE MARKET STREET MISSION
+
+**Speaking:** Frelinghuysen, Rodney P. (F000372) [R-NJ]
+
+```
+     CELEBRATING THE 125TH ANNIVERSARY OF THE MARKET STREET MISSION
+
+                                 ______
+                                 
+
+                      HON. RODNEY P. FRELINGHUYSEN
+
+                             of new jersey
+
+                    in the house of representatives
+
+                         Friday, March 14, 2014
+
+  Mr. FRELINGHUYSEN. Mr. Speaker, I rise today to honor the Market 
+Street Mission located in Morris County, New Jersey, as it celebrates 
+its 125th Anniversary.
+  The Market Street Mission ministers to those who suffer in the battle 
+against alcoholism, drug abuse, and homelessness in the northern New 
+Jersey area. The Mission provides its ministries through physical, 
+emotional, and spiritual support that will guide those who suffer 
+toward responsible and productive lives.
+  Established in 1889 by the Reverend Dr. F.W. Owen and his wife, Mrs. 
+Louisa Graves Owen, the Market Street Mission began as a residential 
+program for alcoholic husbands in the Morristown area. With support 
+from the South Street Presbyterian Church, the Mission provided meals, 
+lodging, clothing, and temporary employment for homeless men. 
+Throughout its first decade, the Mission started support meetings and 
+programs for the homeless and drug addicted.
+  In 1926, a series of explosions at the Picatinny Arsenal left many 
+families homeless and without food or clothes. The Mission was able to 
+help these displaced families by providing them with shelter and other 
+basic necessities.
+  During the Great Depression, the Market Street Mission ended its 
+affiliation with the Presbyterian Church and added the ``Industrial 
+Department,'' a self-supporting thrift store that provided jobs during 
+difficult economic times.
+  Today, residents of the Mission continue to work at the Industrial 
+Department as part of the successful ``New Reality of Recovery'' 
+program, as well as attend chapel and classes. The Market Street 
+Mission has added an Emergency Assistance program that provides meals 
+and lodging for disadvantaged men, women, and children. In addition to 
+its growing development thoughout the years, the Mission continues to 
+focus on alcohol and drug treatment programs, incorporating new 
+treatments each year.
+  The Market Street Mission is proud to celebrate its history and looks 
+forward to its continuous growth in the future.
+  Mr. Speaker, I urge you and my colleagues to join me in 
+congratulating the Market Street Mission and their dedicated employees 
+as they celebrate 125 years of serving the northern New Jersey 
+community.
+
+                          ____________________
+```
