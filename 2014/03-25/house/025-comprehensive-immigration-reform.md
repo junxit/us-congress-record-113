@@ -1,0 +1,42 @@
+---
+granule: CREC-2014-03-25-pt1-PgH2618-5
+date: 2014-03-25
+edition: CREC
+section: HOUSE
+page: H2618
+citation: 160 Cong. Rec. H2618
+---
+
+# COMPREHENSIVE IMMIGRATION REFORM
+
+**Speaking:** Jackson Lee, Sheila (J000032) [D-TX]
+
+```
+                    COMPREHENSIVE IMMIGRATION REFORM
+
+  (Ms. JACKSON LEE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. JACKSON LEE. Mr. Speaker, I rise today to address a question that 
+the American people have been raising for more than a decade: When will 
+we address the question of human dignity of so many who are in our 
+country who desire the status of citizenship? When will we pass a 
+sensible, reasonable immigration reform legislation or package? Will we 
+combine our concern for national security with border security, along 
+with human dignity?
+  The question is being asked by constituents from my 18th 
+Congressional District in Houston. It is being asked by the American 
+Jewish Committee. It is being asked by Cardinal DiNardo in the most 
+eloquent and passionate way as they met last week to hear from voices 
+of those who have not heard the answer. Or the 139 who showed up at a 
+press conference some weeks ago, standing with me, demanding that 
+people be given their human dignity. Or the leadership from Ireland who 
+was here at a St. Patrick's Day luncheon who stood up and asked the 
+Speaker, When are we going to put comprehensive immigration reform on 
+the floor of the House.
+  This is a multicultural challenge to America. This is an economic 
+challenge. This is from the Irish. This is from South Asians, from 
+Asians. This is from people from Bangladesh, from Poland. It is all 
+over America. Let's pass comprehensive immigration reform.
+
+                          ____________________
+```
