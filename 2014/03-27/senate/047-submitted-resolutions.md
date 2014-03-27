@@ -1,0 +1,83 @@
+---
+granule: CRECB-2014-pt4-Pg5058
+date: 2014-03-27
+edition: CRECB
+section: SENATE
+page: 5058
+---
+
+# SUBMITTED RESOLUTIONS
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+ SENATE RESOLUTION 400--RECOGNIZING THE 50TH ANNIVERSARY OF THE GREAT 
+  ALASKA EARTHQUAKE, WHICH STRUCK THE STATE OF ALASKA AT 5:36 P.M. ON 
+GOOD FRIDAY, MARCH 27, 1964, HONORING THOSE WHO LOST THEIR LIVES IN THE 
+    GREAT ALASKA EARTHQUAKE AND ASSOCIATED TSUNAMIS, AND EXPRESSING 
+CONTINUED SUPPORT FOR RESEARCH ON EARTHQUAKE AND TSUNAMI PREDICTION AND 
+                         MITIGATION STRATEGIES
+
+  Ms. MURKOWSKI (for herself, Mrs. Feinstein, Ms. Hirono, Mr. Begich, 
+Mr. Schatz, and Mr. Wyden) submitted the following resolution; which 
+was considered and agreed to:
+
+                              S. Res. 400
+
+       Whereas on Good Friday, March 27, 1964, the Great Alaska 
+     Earthquake struck the State of Alaska;
+       Whereas the Great Alaska Earthquake measured 9.2 on the 
+     moment magnitude scale, making it the largest recorded 
+     earthquake in United States history and the second-largest 
+     earthquake ever recorded using modern instruments;
+
+[[Page 5059]]
+
+       Whereas the Great Alaska Earthquake was felt as far away as 
+     Seattle and was registered by water-level recorders in 47 
+     States;
+       Whereas the Great Alaska Earthquake spawned tsunamis that 
+     devastated communities in Alaska and impacted the States of 
+     Washington, Oregon, California, and Hawaii, as well as Canada 
+     and Japan;
+       Whereas the Great Alaska Earthquake and associated tsunamis 
+     resulted in 131 fatalities, including 4 fatalities in Oregon 
+     and 12 fatalities in California, and an estimated 
+     $3,750,000,000 in property losses in today's dollars;
+       Whereas the wealth of data collected during the Great 
+     Alaska Earthquake led to major breakthroughs in the 
+     scientific understanding of subduction zone earthquakes and 
+     earthquake hazards, resulting in improved earthquake 
+     mitigation strategies;
+       Whereas the study of the tsunamis associated with the Great 
+     Alaska Earthquake resulted in improved tsunami prediction and 
+     warning capabilities; and
+       Whereas the Great Alaska Earthquake spurred the United 
+     States Geological Survey, in cooperation with earthquake-
+     impacted States, to install extensive earthquake monitoring 
+     networks across the United States and establish the National 
+     Center for Earthquake Research: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) mourns the lives lost due to the Great Alaska 
+     Earthquake and associated tsunamis that occurred on Good 
+     Friday, March 27, 1964;
+       (2) recognizes the improved understanding of earthquakes 
+     and tsunamis and the scientific and technological 
+     advancements that resulted from the study of data collected 
+     during the Great Alaska Earthquake;
+       (3) commends the efforts of scientists and engineers from 
+     the United States Geological Survey, as well as those in 
+     Alaska, California, and other earthquake-impacted States, to 
+     improve earthquake and tsunami prediction and hazard 
+     mitigation strategies and protect the well-being of United 
+     States citizens threatened by these hazards;
+       (4) supports continued research, education, and outreach 
+     about earthquakes and other natural hazards; and
+       (5) encourages participation in the Great Alaska ShakeOut 
+     earthquake drill scheduled to occur on March 27, 2014.
+
+                          ____________________
+```
