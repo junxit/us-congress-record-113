@@ -1,0 +1,35 @@
+---
+granule: CRECB-2014-pt4-Pg5294-3
+date: 2014-04-01
+edition: CRECB
+section: SENATE
+page: 5294
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 1, 2014:
+
+
+                          DEPARTMENT OF STATE
+
+       KEVIN WHITAKER, OF VIRGINIA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF COLOMBIA.
+
+
+                          DEPARTMENT OF LABOR
+
+       CHRISTOPHER P. LU, OF VIRGINIA, TO BE DEPUTY SECRETARY OF 
+     LABOR.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JOHN P. CARLIN, OF NEW YORK, TO BE AN ASSISTANT ATTORNEY 
+     GENERAL.
+```
