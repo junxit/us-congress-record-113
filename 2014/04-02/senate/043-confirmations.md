@@ -1,0 +1,36 @@
+---
+granule: CREC-2014-04-02-pt1-PgS2134-9
+date: 2014-04-02
+edition: CREC
+section: SENATE
+page: S2134
+citation: 160 Cong. Rec. S2134
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate April 2, 2014:
+
+
+                          DEPARTMENT OF STATE
+
+       TOMASZ P. MALINOWSKI, OF THE DISTRICT OF COLUMBIA, TO BE 
+     ASSISTANT SECRETARY OF STATE FOR DEMOCRACY, HUMAN RIGHTS, AND 
+     LABOR.
+
+
+                          DEPARTMENT OF LABOR
+
+       PORTIA Y. WU, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSISTANT SECRETARY OF LABOR.
+
+
+                          DEPARTMENT OF STATE
+
+       DEBORAH L. BIRX, OF MARYLAND, TO BE AMBASSADOR AT LARGE AND 
+     COORDINATOR OF UNITED STATES GOVERNMENT ACTIVITIES TO COMBAT 
+     HIV/AIDS GLOBALLY.
+```

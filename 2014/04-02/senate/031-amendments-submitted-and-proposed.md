@@ -1,0 +1,30 @@
+---
+granule: CREC-2014-04-02-pt1-PgS2097
+date: 2014-04-02
+edition: CREC
+section: SENATE
+page: S2097
+citation: 160 Cong. Rec. S2097
+---
+
+# AMENDMENTS SUBMITTED AND PROPOSED
+
+**Measures:** H.R. 3979
+
+```
+                    AMENDMENTS SUBMITTED AND PROPOSED
+
+       SA 2958. Mr. COATS (for himself, Ms. Ayotte, Mr. Toomey, 
+     and Mr. Corker) submitted an amendment intended to be 
+     proposed by him to the bill H.R. 3979, to amend the Internal 
+     Revenue Code of 1986 to ensure that emergency services 
+     volunteers are not taken into account as employees under the 
+     shared responsibility requirements contained in the Patient 
+     Protection and Affordable Care Act; which was ordered to lie 
+     on the table.
+       SA 2959. Mr. THUNE submitted an amendment intended to be 
+     proposed by him to the bill H.R. 3979, supra; which was 
+     ordered to lie on the table.
+
+                          ____________________
+```
