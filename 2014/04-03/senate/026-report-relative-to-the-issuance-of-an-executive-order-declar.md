@@ -1,0 +1,90 @@
+---
+granule: CREC-2014-04-03-pt1-PgS2159-5
+date: 2014-04-03
+edition: CREC
+section: SENATE
+page: S2159
+citation: 160 Cong. Rec. S2159
+---
+
+# REPORT RELATIVE TO THE ISSUANCE OF AN EXECUTIVE ORDER DECLARING A NATIONAL EMERGENCY WITH RESPECT TO THE UNUSUAL AND EXTRAORDINARY THREAT TO THE NATIONAL SECURITY AND FOREIGN POLICY OF THE UNITED...
+
+```
+   REPORT RELATIVE TO THE ISSUANCE OF AN EXECUTIVE ORDER DECLARING A 
+NATIONAL EMERGENCY WITH RESPECT TO THE UNUSUAL AND EXTRAORDINARY THREAT 
+TO THE NATIONAL SECURITY AND FOREIGN POLICY OF THE UNITED STATES POSED 
+       BY THE SITUATION IN AND IN RELATION TO SOUTH SUDAN--PM 38
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Banking, Housing, and 
+Urban Affairs:
+
+To the Congress of the United States:
+  Pursuant to the International Emergency Economic Powers Act (50 
+U.S.C. 1701 et seq.) (IEEPA), I hereby report that I have issued an 
+Executive Order (the ``order'') declaring a national emergency with 
+respect to the unusual and extraordinary threat to the national 
+security and foreign policy of the United States posed by the situation 
+in and in relation to South Sudan.
+  The order does not target the country of South Sudan, but rather is 
+aimed at persons who threaten the peace, stability, or security of 
+South Sudan; commit human rights abuses against persons in South Sudan; 
+or undermine democratic processes or institutions in South Sudan. The 
+order provides authority for blocking the property and interests in 
+property of any person determined by the Secretary of the Treasury, in 
+consultation with the Secretary of State:
+  To be responsible for or complicit in, or to have engaged in, 
+directly or indirectly, any of the following in or in relation to South 
+Sudan:
+  actions or policies that threaten the peace, security, or stability 
+of South Sudan;
+  actions or policies that threaten transitional agreements or 
+undermine democratic processes or institutions in South Sudan;
+  actions or policies that have the purpose or effect of expanding or 
+extending the conflict in South Sudan or obstructing reconciliation or 
+peace talks or processes;
+  the commission of human rights abuses against persons in South Sudan;
+  the targeting of women, children, or any civilians through the 
+commission of acts of violence (including killing, maiming, torture, or 
+rape or other sexual violence), abduction, forced displacement, or 
+attacks on schools, hospitals, religious sites, or locations where 
+civilians are seeking refuge, or through conduct that would constitute 
+a serious abuse or violation of human rights or a violation of 
+international humanitarian law;
+  the use or recruitment of children by armed groups or armed forces in 
+the context of the conflict in South Sudan;
+  the obstruction of the activities of international peacekeeping, 
+diplomatic, or humanitarian missions in
+
+[[Page S2160]]
+
+South Sudan, or of the delivery or distribution of, or access to, 
+humanitarian assistance; or
+  attacks against United Nations missions, international security 
+presences, or other peacekeeping operations;
+  To be a leader of (i) an entity, including any government, rebel 
+militia, or other group, that has, or whose members have, engaged in 
+any of the activities described above or (ii) an entity whose property 
+and interests in property are blocked pursuant to the order;
+  To have materially assisted, sponsored, or provided financial, 
+material, logistical, or technological support for, or goods or 
+services in support of, any activity described above or any person 
+whose property and interests in property are blocked pursuant to the 
+order; or
+  To be owned or controlled by, or to have acted or purported to act 
+for or on behalf of, directly or indirectly, any person whose property 
+and interests in property are blocked pursuant to the order.
+  I have delegated to the Secretary of the Treasury, in consultation 
+with the Secretary of State, the authority to take such actions, 
+including the promulgation of rules and regulations, and to employ all 
+powers granted to the President by IEEPA as may be necessary to carry 
+out the purposes of the order. All agencies of the United States 
+Government are directed to take all appropriate measures within their 
+authority to carry out the provisions of the order.
+  I am enclosing a copy of the Executive Order I have issued.
+                                                        Barack Obama.  
+The White House, April 3, 2014.
+
+                          ____________________
+```
