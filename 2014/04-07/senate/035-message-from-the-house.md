@@ -1,0 +1,29 @@
+---
+granule: CRECB-2014-pt4-Pg5750
+date: 2014-04-07
+edition: CRECB
+section: SENATE
+page: 5750
+---
+
+# MESSAGE FROM THE HOUSE
+
+```
+                         MESSAGE FROM THE HOUSE
+
+  At 2:45 p.m., a message from the House of Representatives, delivered 
+by Mrs. Cole, one of its reading clerks, announced that the House has 
+passed the following bills, in which it requests the concurrence of the 
+Senate:
+
+       H.R. 1874. An act to amend the Congressional Budget Act of 
+     1974 to provide for macroeconomic analysis of the impact of 
+     legislation.
+       H.R. 2575. An act to amend the Internal Revenue Code of 
+     1986 to repeal the 30-hour threshold for classification as a 
+     full-time employee for purposes of the employer mandate in 
+     the Patient Protection and Affordable Care Act and replace it 
+     with 40 hours.
+
+                          ____________________
+```

@@ -1,0 +1,57 @@
+---
+granule: CRECB-2014-pt4-Pg5718-7
+date: 2014-04-07
+edition: CRECB
+section: HOUSE
+page: 5718
+---
+
+# ADJOURNMENT
+
+```
+                              ADJOURNMENT
+
+  Mr. WOODALL. Mr. Speaker, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at 8 o'clock and 31 minutes 
+p.m.), under its previous order, the House adjourned until tomorrow, 
+Tuesday, April 8, 2014, at 10 a.m. for morning-hour debate.
+
+[[Page 5719]]
+
+
+
+         EXPENDITURE REPORTS CONCERNING OFFICIAL FOREIGN TRAVEL
+
+  Reports concerning the foreign currencies and U.S. dollars utilized 
+for Official Foreign Travel during the first quarter of 2014 pursuant 
+to Public Law 95-384 are as follows:
+
+                                      REPORT OF EXPENDITURES FOR OFFICIAL FOREIGN TRAVEL, DELEGATION TO BELGIUM, EXPENDED BETWEEN FEB. 15 AND FEB. 20, 2014
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Date                                            Per diem\1\             Transportation            Other purposes                 Total
+                                        ----------------------                           -------------------------------------------------------------------------------------------------------
+                                                                                                       U.S. dollar               U.S. dollar               U.S. dollar               U.S. dollar
+       Name of Member or employee                                       Country             Foreign     equivalent    Foreign     equivalent    Foreign     equivalent    Foreign     equivalent
+                                          Arrival   Departure                               currency     or U.S.      currency     or U.S.      currency     or U.S.      currency     or U.S.
+                                                                                                       currency\2\               currency\2\               currency\2\               currency\2\
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hon. Michael Turner....................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     1,870.00  ...........  ...........  ...........     3,188.00
+Hon. Lois Frankel......................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     9,755.00  ...........  ...........  ...........    11,073.00
+Hon. Brett Guthrie.....................     2/15        2/17   Belgium..................  ...........       947.00  ...........     2,510.00  ...........  ...........  ...........     3,457.00
+Hon. Loretta Sanchez...................     2/15        2/20   Belgium..................  ...........     1,318.00  ...........    10,760.00  ...........  ...........  ...........    12,078.00
+Hon. Rob Bishop........................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     1,835.00  ...........  ...........  ...........     3,153.00
+Hon. Tom Marino........................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     8,105.00  ...........  ...........  ...........     9,423.00
+Jeff Dressler..........................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     1,835.00  ...........  ...........  ...........     3,153.00
+Janice Robinson........................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     1,835.00  ...........  ...........  ...........     3,153.00
+Marcus Micheli.........................     2/15        2/18   Belgium..................  ...........     1,318.00  ...........     1,835.00  ...........  ...........  ...........     3,153.00
+                                                                                         -------------------------------------------------------------------------------------------------------
+      Committee total..................  ........  ..........  .........................  ...........    11,491.00  ...........    40,340.00  ...........  ...........  ...........    51,831.00
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\1\Per diem constitutes lodging and meals.
+\2\If foreign currency is used, enter U.S. dollar equivalent; if U.S. currency is used, enter amount expended.
+HON. MICHAEL R. TURNER, Mar. 17, 2014.
+
+
+
+                          ____________________
+```
