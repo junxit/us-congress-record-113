@@ -1,0 +1,124 @@
+---
+granule: CREC-2014-04-08-pt1-PgS2286-6
+date: 2014-04-08
+edition: CREC
+section: SENATE
+page: S2286
+citation: 160 Cong. Rec. S2286
+---
+
+# RECOGNIZING THE THREATS TO FREEDOM OF THE PRESS AND EXPRESSION IN THE PEOPLE'S REPUBLIC OF CHINA
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Res. 361
+
+```
+ RECOGNIZING THE THREATS TO FREEDOM OF THE PRESS AND EXPRESSION IN THE 
+                       PEOPLE'S REPUBLIC OF CHINA
+
+  Mr. REID. I ask unanimous consent that the Senate proceed to Calendar 
+No. 322.
+  The PRESIDING OFFICER. The clerk will report the resolution by title.
+  The legislative clerk read as follows:
+
+       A resolution (S. Res. 361) recognizing the threats to 
+     freedom of the press and expression in the People's Republic 
+     of China and urging the Government of the People's Republic 
+     of China to take meaningful steps to improve freedom of 
+     expression as fitting of a responsible international 
+     stakeholder.
+
+  There being no objection, the Senate proceeded to consider the 
+resolution.
+  Mr. REID. Mr. President, I ask unanimous consent that the Cardin 
+amendment, which is at the desk, be agreed to; the resolution, as 
+amended, be agreed to, the preamble be agreed to, and the motions to 
+reconsider be considered made and laid upon the table, with no 
+intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The amendment (No. 2969) was agreed to, as follows:
+
+
+[[Page S2287]]
+
+
+       On page 3, line 3, strike ``by the United States 
+     Government''.
+
+  The resolution (S. Res. 361), as amended, was agreed to.
+  The preamble was agreed to.
+  The resolution, as amended, with its preamble, reads as follows:
+
+                              S. Res. 361
+
+       Whereas, in its 2013 World Press Freedom Index, Reporters 
+     Without Borders ranked China 173rd out of 179 countries in 
+     terms of press freedoms;
+       Whereas China's media regulator, the State Administration 
+     of Press, Publication, Radio, Film and Television, enforces a 
+     system of strict controls, including an extensive licensing 
+     system and government supervision by the Chinese Communist 
+     Party;
+       Whereas domestic radio and television broadcast journalists 
+     in China must pass a government-sponsored exam that tests 
+     their basic knowledge of Marxist views of news and Communist 
+     Party principles;
+       Whereas this state supervision of the media distorts and 
+     blocks free and open coverage of key issues including Tibet, 
+     political unrest, and corruption by government officials, as 
+     well as Chinese foreign policy;
+       Whereas China's media regulator officially bans journalists 
+     from using foreign media reports without authorization and 
+     forbids news editors from reporting information online that 
+     has not been verified through official channels;
+       Whereas the Congressional-Executive Commission on China 
+     (CECC) has documented several instances of reprisals against 
+     and harassment of independent journalists and newspaper staff 
+     by the Government of the People's Republic of China, 
+     including Chinese journalists working for foreign-based 
+     websites and newspapers;
+       Whereas the Foreign Correspondents' Club of China has noted 
+     that foreign journalists continue to face challenging work 
+     conditions, visa denials or delays, and various forms of 
+     harassment, and 70 percent of journalists surveyed in the 
+     FCCC's 2013 annual survey stated that ``conditions have 
+     worsened or stayed the same as the year before'';
+       Whereas, according to the CECC, authorities in China 
+     appeared to maintain or enhance policies to block and filter 
+     online content, particularly sensitive information about 
+     rights activists, official corruption, or collective 
+     organizing;
+       Whereas China is the world's second largest economy and the 
+     United States second largest trading partner and has been a 
+     member of the World Trade Organization since 2001;
+       Whereas China's growing economic importance increases the 
+     need for the Government of the People's Republic of China to 
+     act transparently and respect international trading 
+     regulations; and
+       Whereas official government censorship denies the people of 
+     China, including nearly 600,000,000 Internet users, their 
+     freedom of expression, undermines confidence in China's 
+     safety standards, and causes increasingly serious economic 
+     harm to private firms that rely on unfettered access to 
+     social media as a business model: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) reaffirms the importance of freedom of the press to 
+     efforts to support democracy, mitigate conflict, and promote 
+     good governance domestically and around the world;
+       (2) expresses concern about the threats to freedom of the 
+     press and expression in the People's Republic of China;
+       (3) condemns actions taken by the Government of the 
+     People's Republic of China to suppress freedom of the press, 
+     including the increased harassment of Chinese and 
+     international journalists through denial of visas, harassment 
+     of sources, physical threats, and other methods; and
+       (4) urges the President to use all appropriate instruments 
+     of United States influence to support, promote, and 
+     strengthen principles, practices, and values that promote the 
+     free flow of information to the people of China without 
+     interference or discrimination, including through the 
+     Internet and other electronic media.
+
+                          ____________________
+```
