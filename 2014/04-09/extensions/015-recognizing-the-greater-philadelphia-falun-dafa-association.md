@@ -1,0 +1,41 @@
+---
+granule: CRECB-2014-pt4-Pg6079-2
+date: 2014-04-09
+edition: CRECB
+section: EXTENSIONS
+page: 6079
+---
+
+# RECOGNIZING THE GREATER PHILADELPHIA FALUN DAFA ASSOCIATION
+
+```
+      RECOGNIZING THE GREATER PHILADELPHIA FALUN DAFA ASSOCIATION
+
+                                 ______
+                                 
+
+                      HON. MICHAEL G. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Wednesday, April 9, 2014
+
+  Mr. FITZPATRICK. Mr. Speaker, we recognize the Greater Philadelphia 
+Falun Dafa Association for its contribution to the advancement of the 
+arts in the Philadelphia region, notably its presentation of the Shen 
+Yun Performing Arts program at the Merriam Theater in Philadelphia, 
+April 25th through April 27th. This outstanding dance and music company 
+promotes traditional Chinese culture and heritage in the United States 
+and around the world. Shen Yun has graced many of the world's greatest 
+stages, performing in more than 100 cities on five continents. Its 
+brilliant productions feature classical, ethnic and folk dance, and 
+music showcasing 5,000 years of civilization and the wisdom of Chinese 
+legends. Therefore, we express our appreciation to the Greater 
+Philadelphia Falun Dafa Association for bringing this company of 
+performers to our area. In so doing, a significant contribution is 
+being made to arts and culture in the Philadelphia region.
+
+                          ____________________
+```

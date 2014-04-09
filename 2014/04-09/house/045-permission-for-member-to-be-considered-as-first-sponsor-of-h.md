@@ -1,0 +1,24 @@
+---
+granule: CRECB-2014-pt4-Pg6054-3
+date: 2014-04-09
+edition: CRECB
+section: HOUSE
+page: 6054
+---
+
+# PERMISSION FOR MEMBER TO BE CONSIDERED AS FIRST SPONSOR OF H.R. 786
+
+```
+  PERMISSION FOR MEMBER TO BE CONSIDERED AS FIRST SPONSOR OF H.R. 786
+
+  Mr. BLUMENAUER. Mr. Speaker, I ask unanimous consent that I may 
+hereafter be considered as the first sponsor of H.R. 786, a bill 
+originally introduced by Representative Markey of Massachusetts, for 
+the purposes of adding cosponsors and requesting reprintings pursuant 
+to clause 7 of rule XII.
+  The SPEAKER pro tempore (Mr. Bridenstine). Is there objection to the 
+request of the gentleman from Oregon?
+  There was no objection.
+
+                          ____________________
+```
