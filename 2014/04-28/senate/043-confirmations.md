@@ -1,0 +1,34 @@
+---
+granule: CREC-2014-04-28-pt1-PgS2426-6
+date: 2014-04-28
+edition: CREC
+section: SENATE
+page: S2426
+citation: 160 Cong. Rec. S2426
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate Monday, April 28, 2014:
+
+
+                             THE JUDICIARY
+
+       MICHELLE T. FRIEDLAND, OF CALIFORNIA, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE NINTH CIRCUIT.
+
+
+                          DEPARTMENT OF LABOR
+
+       DAVID WEIL, OF MASSACHUSETTS, TO BE ADMINISTRATOR OF THE 
+     WAGE AND HOUR DIVISION, DEPARTMENT OF LABOR.
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       KATHERINE M. O'REGAN, OF NEW YORK, TO BE AN ASSISTANT 
+     SECRETARY OF HOUSING AND URBAN DEVELOPMENT.
+```
