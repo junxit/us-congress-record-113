@@ -1,0 +1,23 @@
+---
+granule: CRECB-2014-pt5-Pg6276-2
+date: 2014-04-28
+edition: CRECB
+section: HOUSE
+page: 6276
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 4414, EXPATRIATE HEALTH COVERAGE CLARIFICATION ACT OF 2014
+
+```
+    REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 4414, 
+          EXPATRIATE HEALTH COVERAGE CLARIFICATION ACT OF 2014
+
+  Mr. BURGESS, from the Committee on Rules, submitted a privileged 
+report (Rept. No. 113-422) on the resolution (H. Res. 555) providing 
+for consideration of the bill (H.R. 4414) to clarify the treatment 
+under the Patient Protection and Affordable Care Act of health plans in 
+which expatriates are the primary enrollees, and for other purposes, 
+which was referred to the House Calendar and ordered to be printed.
+
+                          ____________________
+```
