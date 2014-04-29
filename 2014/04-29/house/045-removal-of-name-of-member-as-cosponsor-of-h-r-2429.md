@@ -1,0 +1,27 @@
+---
+granule: CREC-2014-04-29-pt1-PgH3275-2
+date: 2014-04-29
+edition: CREC
+section: HOUSE
+page: H3275
+citation: 160 Cong. Rec. H3275
+---
+
+# REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 2429
+
+**Speaking:** Brady, Kevin (B000755) [R-TX]
+
+**Measures:** H.R. 2429
+
+```
+          REMOVAL OF NAME OF MEMBER AS COSPONSOR OF H.R. 2429
+
+  Mr. BRADY of Texas. Mr. Speaker, I ask unanimous consent to remove 
+Congressman David Price of North Carolina as a cosponsor from H.R. 
+2429. His name was inadvertently added.
+  The SPEAKER pro tempore (Mr. Cotton). Is there objection to the 
+request of the gentleman from Texas?
+  There was no objection.
+
+                          ____________________
+```
