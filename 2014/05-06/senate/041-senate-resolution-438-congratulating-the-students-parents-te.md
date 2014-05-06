@@ -1,0 +1,115 @@
+---
+granule: CREC-2014-05-06-pt1-PgS2721-2
+date: 2014-05-06
+edition: CREC
+section: SENATE
+page: S2721
+citation: 160 Cong. Rec. S2721
+---
+
+# SENATE RESOLUTION 438--CONGRATULATING THE STUDENTS, PARENTS, TEACHERS, AND ADMINISTRATORS OF CHARTER SCHOOLS ACROSS THE UNITED STATES FOR THEIR ONGOING CONTRIBUTIONS TO EDUCATION, AND SUPPORTING...
+
+**Measures:** S.Res. 438
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 438--CONGRATULATING THE STUDENTS, PARENTS, TEACHERS, 
+  AND ADMINISTRATORS OF CHARTER SCHOOLS ACROSS THE UNITED STATES FOR 
+THEIR ONGOING CONTRIBUTIONS TO EDUCATION, AND SUPPORTING THE IDEALS AND 
+GOALS OF THE 15TH ANNUAL NATIONAL CHARTER SCHOOLS WEEK, TO BE HELD MAY 
+                         4 THROUGH MAY 10, 2014
+
+  Ms. LANDRIEU (for herself, Mr. Alexander, Mrs. Feinstein, Mr. Carper, 
+Mr. Durbin, Mr. McCain, Mr. Kirk, Mr. Bennet, Mr. Vitter, Mr. Rubio, 
+Mr. Coons, Mr. Isakson, Mr. Burr, Mr. Cornyn, Mr. Graham, and Mr. 
+Scott) submitted the following resolution; which was considered and 
+agreed to.:
+
+                              S. Res. 438
+
+       Whereas charter schools are public schools that do not 
+     charge tuition and enroll any student who wants to attend a 
+     charter school, often through a random lottery when too many 
+     students want to attend a single charter school;
+       Whereas high-performing charter schools deliver a high-
+     quality public education and challenge all students to reach 
+     their potential for academic success;
+       Whereas charter schools promote innovation and excellence 
+     in public education;
+       Whereas charter schools throughout the United States 
+     provide millions of families with diverse and innovative 
+     educational options for their children;
+       Whereas high-performing charter schools are dramatically 
+     increasing student achievement and college-going rates;
+       Whereas charter schools are authorized by a designated 
+     public entity and--
+       (1) respond to the needs of communities, families, and 
+     students in the United States; and
+       (2) promote the principles of quality, accountability, 
+     choice, and innovation;
+       Whereas in exchange for flexibility and autonomy, charter 
+     schools are held accountable by the public authorizers of 
+     such charter schools for improving student achievement and 
+     for sound financial and operational management;
+       Whereas charter schools are required to meet the student 
+     achievement accountability requirements under the Elementary 
+     and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) 
+     in the same manner as traditional public schools;
+       Whereas charter schools often set higher expectations for 
+     students, beyond the requirements under the Elementary and 
+     Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), to 
+     ensure that such charter schools are of high quality and 
+     truly accountable to the public;
+       Whereas 42 States and the District of Columbia have enacted 
+     laws authorizing charter schools;
+       Whereas more than 6,400 charter schools serve more than 
+     2,500,000 children;
+       Whereas in the United States--
+       (1) in 135 school districts, more than 10 percent of public 
+     school students are enrolled in charter schools;
+       (2) in 32 school districts, at least 20 percent of public 
+     school students are enrolled in charter schools; and
+       (3) in 7 districts, at least 30 percent of public school 
+     students are enrolled in charter schools;
+       Whereas charter schools improve the achievement of students 
+     enrolled in such charter schools and collaborate with 
+     traditional public schools to improve public education for 
+     all students;
+       Whereas charter schools--
+       (1) give parents the freedom to choose public schools;
+       (2) routinely measure parental satisfaction levels; and
+       (3) must prove their ongoing success to parents, 
+     policymakers, and the communities served by such charter 
+     schools;
+       Whereas approximately 920,000 students were on waiting 
+     lists to attend charter schools before the beginning of the 
+     2012-2013 academic year; and
+       Whereas the 15th annual National Charter Schools Week is 
+     scheduled to be celebrated the week of May 4 through May 10, 
+     2014: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the students, families, teachers, and 
+     administrators of charter schools across the United States 
+     for--
+       (A) their ongoing contributions to education;
+       (B) their impressive strides in closing the academic 
+     achievement gap in schools in the United States, particularly 
+     schools with some of the most disadvantaged students in both 
+     rural and urban communities; and
+       (C) improving and strengthening the public school system in 
+     the United States;
+       (2) supports the ideals and goals of the 15th annual 
+     National Charter Schools Week, a week-long celebration to be 
+     held the week of May 4 through May 10, 2014, in communities 
+     throughout the United States; and
+       (3) encourages the people of the United States to hold 
+     appropriate programs, ceremonies, and activities during 
+     National Charter Schools Week to demonstrate support for 
+     charter schools.
+
+                          ____________________
+```
