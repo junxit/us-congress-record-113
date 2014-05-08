@@ -1,0 +1,52 @@
+---
+granule: CRECB-2014-pt6-Pg7604-6
+date: 2014-05-08
+edition: CRECB
+section: SENATE
+page: 7604
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+       PAMELA HARRIS, OF MARYLAND, TO BE UNITED STATES CIRCUIT 
+     JUDGE FOR THE FOURTH CIRCUIT, VICE ANDRE M. DAVIS, RETIRED.
+       BRENDA K. SANNES, OF NEW YORK, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF NEW YORK, VICE NORMAN A. 
+     MORDUE, RETIRED.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. JAMES M. HOLMES
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. MARK A. BROWN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                          To be major general
+
+BRIG. GEN. ROGER W. TEAGUE
+
+                          ____________________
+```
