@@ -1,0 +1,32 @@
+---
+granule: CRECB-2014-pt6-Pg7861-6
+date: 2014-05-14
+edition: CRECB
+section: SENATE
+page: 7861
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following my remarks and those of the 
+Republican leader, the Senate will resume consideration of the motion 
+to proceed to H.R. 3474. At 11:15 a.m. there will be up to five 
+rollcall votes in relation to several nominations. Following those 
+votes the time until 5:15 p.m. will be equally divided and controlled 
+between the two leaders or their designees. At 5:15 p.m. there will be 
+another series of rollcall votes on confirmation of three district 
+judges and on adoption of the motion to proceed to the tax extenders 
+legislative vehicle.
+  I suggest the absence of a quorum.
+  The ACTING PRESIDENT pro tempore. The clerk will call the roll.
+  The assistant legislative clerk proceeded to call the roll.
+  Mr. REID. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+
+                          ____________________
+```
