@@ -1,0 +1,27 @@
+---
+granule: CRECB-2014-pt7-Pg9391-6
+date: 2014-06-02
+edition: CRECB
+section: SENATE
+page: 9391
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+              DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
+
+       JULIAN CASTRO, OF TEXAS, TO BE SECRETARY OF HOUSING AND 
+     URBAN DEVELOPMENT, VICE SHAUN L. S. DONOVAN.
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       SHAUN L. S. DONOVAN, OF NEW YORK, TO BE DIRECTOR OF THE 
+     OFFICE OF MANAGEMENT AND BUDGET, VICE SYLVIA MATHEWS BURWELL.
+```
