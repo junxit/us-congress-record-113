@@ -1,0 +1,54 @@
+---
+granule: CREC-2014-06-05-pt1-PgE910
+date: 2014-06-05
+edition: CREC
+section: EXTENSIONS
+page: E910
+citation: 160 Cong. Rec. E910
+---
+
+# HONORING JANICE T. CRAWFORD
+
+**Speaking:** Johnson, Henry C. "Hank" (J000288) [D-GA]
+
+```
+                      HONORING JANICE T. CRAWFORD
+
+                                  _____
+                                 
+
+                  HON. HENRY C. ``HANK'' JOHNSON, JR.
+
+                               of georgia
+
+                    in the house of representatives
+
+                         Thursday, June 5, 2014
+
+  Mr. JOHNSON of Georgia. Mr. Speaker, I submit the following 
+Proclamation.
+  Whereas, Thirty-five years ago a virtuous woman of God accepted her 
+calling to serve in the Educational System; and
+  Whereas, Mrs. Janice T. Crawford began her educational career in 
+teaching and this year she retires as a Principal at Dunaire Elementary 
+School in Stone Mountain, Georgia, she has served the DeKalb County 
+Public Schools System well and our community has been blessed through 
+her service; and
+  Whereas, this phenomenal woman has shared her time and talents as a 
+Teacher, Educator and Motivator, giving the citizens of Georgia a 
+person of great worth, a fearless leader, a devoted scholar and a 
+servant to all who want to advance the lives of our youth; and
+  Whereas, Mrs. Crawford is formally retiring from her educational 
+career today, she will continue to promote education because she is a 
+cornerstone in our community that has enhanced the lives of thousands 
+for the betterment of our District and Nation; and
+  Whereas, the U.S. Representative of the Fourth District of Georgia 
+has set aside this day to honor and recognize Mrs. Janice T. Crawford 
+on her retirement from the DeKalb County Public Schools System and to 
+wish her well in her new endeavors; now therefore, I, Henry C. ``Hank'' 
+Johnson, Jr. do hereby proclaim May 21, 2014 as Mrs. Janice T. Crawford 
+Day in the 4th Congressional District of Georgia.
+  Proclaimed, this 21st day of May, 2014.
+
+                          ____________________
+```
