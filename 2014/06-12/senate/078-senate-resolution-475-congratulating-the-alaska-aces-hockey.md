@@ -1,0 +1,83 @@
+---
+granule: CREC-2014-06-12-pt1-PgS3671
+date: 2014-06-12
+edition: CREC
+section: SENATE
+page: S3671
+citation: 160 Cong. Rec. S3671
+---
+
+# SENATE RESOLUTION 475--CONGRATULATING THE ALASKA ACES HOCKEY TEAM ON WINNING THE 2014 KELLY CUP AS CHAMPIONS OF THE EAST COAST HOCKEY LEAGUE
+
+**Measures:** S.Res. 475, S.Res. 476
+
+```
+ SENATE RESOLUTION 475--CONGRATULATING THE ALASKA ACES HOCKEY TEAM ON 
+WINNING THE 2014 KELLY CUP AS CHAMPIONS OF THE EAST COAST HOCKEY LEAGUE
+
+  Mr. BEGICH (for himself and Ms. Murkowski) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 475
+
+       Whereas on June 9, 2014, the Alaska Aces hockey team 
+     claimed the championship of the East Coast Hockey League with 
+     a 4-0 series-clinching win over the Cincinnati Cyclones, 
+     which resulted in the Alaska Aces winning the East Coast 
+     Hockey League's Kelly Cup trophy;
+       Whereas the June 9 victory gave the Alaska Aces a 4-2 
+     series win in the championship round and resulted in a 16-5 
+     win-loss record for the Alaska Aces in the 2014 playoffs;
+       Whereas the 2014 East Coast Hockey League championship is 
+     the 3rd championship for the Alaska Aces in the past 9 years, 
+     making the Alaska Aces only the 2nd East Coast Hockey League 
+     team to win more than 2 East Coast Hockey League 
+     championships;
+       Whereas in 2014, the Alaska Aces set an East Coast Hockey 
+     League record by winning the team's 4th straight Brabham Cup, 
+     which honors the East Coast Hockey League's best regular-
+     season record and guarantees home-ice advantage throughout 
+     the entire postseason;
+       Whereas the East Coast Hockey League is a premier ``AA'' 
+     hockey league featuring 22 teams from around the country 
+     playing a 72-game regular season schedule;
+       Whereas the Alaska Aces are affiliated with the Calgary 
+     Flames of the National Hockey League, opening a pathway to 
+     allow promising players to advance to the top tier of 
+     professional hockey in the United States and Canada; and
+       Whereas the people of the State of Alaska are proud of the 
+     dedication, hard work, and gritty determination of the 
+     players, coaches, and management of the Alaska Aces: Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the Alaska Aces hockey team for winning 
+     the 2014 Kelly Cup as champions of the East Coast Hockey 
+     League;
+       (2) recognizes the players, coaches, students, staff, and 
+     fans whose dedication helped the Alaska Aces win the East 
+     Coast Hockey League championship; and
+       (3) respectfully requests the Secretary of the Senate to 
+     transmit an enrolled copy of this resolution to--
+       (A) the managing owner of the Alaska Aces, to be shared 
+     with the other team owners;
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S3671, June 12, 2014, in the middle column, above the 
+heading SENATE RESOLUTION 476, the following appears: (A) The 
+principal owner of the Alaska Aces, to be shared with the other 
+team owners;
+  
+  The online Record has been corrected to read: (A) The managing 
+owner of the Alaska Aces, to be shared with the other team owners;
+
+
+ ========================= END NOTE ========================= 
+
+       (B) the head coach of the Alaska Aces; and
+       (C) the assistant coach of the Alaska Aces.
+
+                          ____________________
+```
