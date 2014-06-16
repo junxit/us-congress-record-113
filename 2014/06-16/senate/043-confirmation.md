@@ -1,0 +1,23 @@
+---
+granule: CRECB-2014-pt7-Pg10135
+date: 2014-06-16
+edition: CRECB
+section: SENATE
+page: 10135
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate June 16, 2014:
+
+
+                          DEPARTMENT OF STATE
+
+       ALICE G. WELLS, OF WASHINGTON, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE HASHEMITE KINGDOM OF JORDAN.
+```
