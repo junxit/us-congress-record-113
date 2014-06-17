@@ -1,0 +1,33 @@
+---
+granule: CRECB-2014-pt7-Pg10222-5
+date: 2014-06-17
+edition: CRECB
+section: SENATE
+page: 10222
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 17, 2014:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       PETER JOSEPH KADZIK, OF NEW YORK, TO BE AN ASSISTANT 
+     ATTORNEY GENERAL.
+
+
+                             THE JUDICIARY
+
+       SALVADOR MENDOZA, JR., OF WASHINGTON, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF WASHINGTON.
+       STACI MICHELLE YANDLE, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF ILLINOIS.
+       DARRIN P. GAYLES, OF FLORIDA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF FLORIDA.
+
+                          ____________________
+```
