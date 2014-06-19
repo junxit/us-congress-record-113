@@ -1,0 +1,46 @@
+---
+granule: CREC-2014-06-19-pt1-PgS3885-4
+date: 2014-06-19
+edition: CREC
+section: SENATE
+page: S3885
+citation: 160 Cong. Rec. S3885
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                         DEPARTMENT OF JUSTICE
+
+        ARTHUR LEE BENTLEY III, OF FLORIDA, TO BE UNITED STATES 
+     ATTORNEY FOR THE MIDDLE DISTRICT OF FLORIDA FOR THE TERM OF 
+     FOUR YEARS, VICE ROBERT E. O'NEILL, RESIGNED.
+
+
+                             THE JUDICIARY
+
+        DAVID J. HALE, OF KENTUCKY, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE WESTERN DISTRICT OF KENTUCKY, VICE CHARLES R. 
+     SIMPSON III, RETIRED.
+
+
+                         DEPARTMENT OF JUSTICE
+
+        DAVID RIVERA, OF TENNESSEE, TO BE UNITED STATES ATTORNEY 
+     FOR THE MIDDLE DISTRICT OF TENNESSEE FOR THE TERM OF FOUR 
+     YEARS, VICE JERRY E. MARTIN, RESIGNED.
+
+
+                             THE JUDICIARY
+
+        GREGORY N. STIVERS, OF KENTUCKY, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF KENTUCKY, VICE 
+     THOMAS B. RUSSELL, RETIRED.
+
+                          ____________________
+```
