@@ -1,0 +1,35 @@
+---
+granule: CREC-2014-06-23-pt1-PgS3901-2
+date: 2014-06-23
+edition: CREC
+section: SENATE
+page: S3901
+citation: 160 Cong. Rec. S3901
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                     SOCIAL SECURITY ADMINISTRATION
+
+        CAROLYN WATTS COLVIN, OF MARYLAND, TO BE COMMISSIONER OF 
+     SOCIAL SECURITY FOR THE TERM EXPIRING JANUARY 19, 2019, VICE 
+     MICHAEL J. ASTRUE, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be admiral
+
+ADM. WILLIAM E. GORTNEY
+```
