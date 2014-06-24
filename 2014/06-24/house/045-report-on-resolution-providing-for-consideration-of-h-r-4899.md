@@ -1,0 +1,33 @@
+---
+granule: CREC-2014-06-24-pt1-PgH5688
+date: 2014-06-24
+edition: CREC
+section: HOUSE
+page: H5688
+citation: 160 Cong. Rec. H5688
+---
+
+# REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 4899, LOWERING GASOLINE PRICES TO FUEL AN AMERICA THAT WORKS ACT OF 2014; PROVIDING FOR CONSIDERATION OF H.R. 4923, ENERGY AND WATER...
+
+**Measures:** H.Res. 641, H.R. 4899, H.R. 4923
+
+```
+REPORT ON RESOLUTION PROVIDING FOR CONSIDERATION OF H.R. 4899, LOWERING 
+ GASOLINE PRICES TO FUEL AN AMERICA THAT WORKS ACT OF 2014; PROVIDING 
+   FOR CONSIDERATION OF H.R. 4923, ENERGY AND WATER DEVELOPMENT AND 
+   RELATED AGENCIES APPROPRIATIONS ACT, 2015; AND FOR OTHER PURPOSES
+
+  Mr. BISHOP of Utah, from the Committee on Rules, submitted a 
+privileged report (Rept. No. 113-493) on the resolution (H. Res. 641) 
+providing for consideration of the bill (H.R. 4899) to lower gasoline 
+prices for the American family by increasing domestic onshore and 
+offshore energy exploration and production, to streamline and improve 
+onshore and offshore energy permitting and administration, and for 
+other purposes; providing for consideration of the bill (H.R. 4923) 
+making appropriations for energy and water development and related 
+agencies for the fiscal year ending September 30, 2015; and for other 
+purposes; and for other purposes, which was referred to the House 
+Calendar and ordered to be printed.
+
+                          ____________________
+```
