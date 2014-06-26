@@ -1,0 +1,39 @@
+---
+granule: CREC-2014-06-26-pt1-PgH5806
+date: 2014-06-26
+edition: CREC
+section: HOUSE
+page: H5806
+citation: 160 Cong. Rec. H5806
+---
+
+# CHILD SEX TRAFFICKING OPERATION RECOVERS 168 JUVENILES
+
+**Speaking:** Paulsen, Erik (P000594) [R-MN]
+
+```
+         CHILD SEX TRAFFICKING OPERATION RECOVERS 168 JUVENILES
+
+  (Mr. PAULSEN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PAULSEN. Mr. Speaker, I rise today to applaud the work of the 
+FBI, local and State law enforcement, and the National Center for 
+Missing and Exploited Children for successfully conducting a weeklong 
+operation to address commercial child sex trafficking in the United 
+States.
+  During this operation, more than 168 juveniles being exploited 
+through commercial child sex trafficking were rescued by law 
+enforcement. The youngest of these victims was just 11 years old, and 
+some of the victims had never even been reported as missing. The 
+operation spanned across 106 different cities and resulted in 281 pimps 
+being arrested who were recruiting minors off the streets and online.
+  While the operation was a success, it absolutely underscores the need 
+for action to combat child sex trafficking. The House has passed five 
+different bipartisan bills to protect and help victims, go after the 
+pimps and the johns, and also end international sex trafficking. We 
+need the Senate to take action as well, Mr. Speaker.
+  These are children. And by working together with law enforcement and 
+victims' groups, we will save lives.
+
+                          ____________________
+```
