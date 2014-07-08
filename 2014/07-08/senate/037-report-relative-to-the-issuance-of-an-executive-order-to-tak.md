@@ -1,0 +1,125 @@
+---
+granule: CREC-2014-07-08-pt1-PgS4267-3
+date: 2014-07-08
+edition: CREC
+section: SENATE
+page: S4267
+citation: 160 Cong. Rec. S4267
+---
+
+# REPORT RELATIVE TO THE ISSUANCE OF AN EXECUTIVE ORDER TO TAKE ADDITIONAL STEPS WITH RESPECT TO THE NATIONAL EMERGENCY ORIGINALLY DECLARED ON OCTOBER 27, 2006 IN EXECUTIVE ORDER 13413 WITH RESPECT...
+
+```
+     REPORT RELATIVE TO THE ISSUANCE OF AN EXECUTIVE ORDER TO TAKE 
+  ADDITIONAL STEPS WITH RESPECT TO THE NATIONAL EMERGENCY ORIGINALLY 
+ DECLARED ON OCTOBER 27, 2006 IN EXECUTIVE ORDER 13413 WITH RESPECT TO 
+              THE DEMOCRATIC REPUBLIC OF THE CONGO--PM 48
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Banking, Housing, and 
+Urban Affairs:
+
+To the Congress of the United States:
+  Pursuant to the International Emergency Economic Powers Act (50 
+U.S.C.
+
+[[Page S4268]]
+
+1701 et seq.) (IEEPA), I hereby report that I have issued an Executive 
+Order (the ``order'') taking additional steps with respect to the 
+national emergency declared in Executive Order 13413 of October 27, 
+2006 (E.O. 13413).
+  In E.O. 13413, it was determined that the situation in or in relation 
+to the Democratic Republic of the Congo, which has been marked by 
+widespread violence and atrocities that continue to threaten regional 
+stability and was addressed by the United Nations Security Council in 
+Resolution 1596 of April 18, 2005, Resolution 1649 of December 21, 
+2005, and Resolution 1698 of July 31, 2006, constitutes an unusual and 
+extraordinary threat to the foreign policy of the United States. To 
+address that threat, E.O. 13413 blocks the property and interests in 
+property of persons listed in the Annex to E.O. 13413 or determined by 
+the Secretary of the Treasury, in consultation with the Secretary of 
+State, to meet criteria specified in E.O. 13413.
+  In view of multiple additional United Nations Security Council 
+Resolutions including, most recently, Resolution 2136 of January 30, 
+2014, I am issuing the order to take additional steps to deal with the 
+national emergency declared in E.O. 13413, and to address the 
+continuation of activities that threaten the peace, security, or 
+stability of the Democratic Republic of the Congo and the surrounding 
+region, including operations by armed groups, widespread violence and 
+atrocities, human rights abuses, recruitment and use of child soldiers, 
+attacks on peacekeepers, obstruction of humanitarian operations, and 
+exploitation of natural resources to finance persons engaged in these 
+activities.
+  The order amends the designation criteria specified in E.O. 13413. As 
+amended by the order, E.O. 13413 provides for the designation of 
+persons determined by the Secretary of the Treasury, in consultation 
+with the Secretary of State:
+  To be a political or military leader of a foreign armed group 
+operating in the Democratic Republic of the Congo that impedes the 
+disarmament, demobilization, voluntary repatriation, resettlement, or 
+reintegration of combatants;
+  To be a political or military leader of a Congolese armed group that 
+impedes the disarmament, demobilization, voluntary repatriation, 
+resettlement, or reintegration of combatants;
+  To be responsible for or complicit in, or to have engaged in, 
+directly or indirectly, any of the following in or in relation to the 
+Democratic Republic of the Congo:
+  actions or policies that threaten the peace, security, or stability 
+of the Democratic Republic of the Congo;
+  actions or policies that undermine democratic processes or 
+institutions in the Democratic Republic of the Congo;
+  the targeting of women, children, or any civilians through the 
+commission of acts of violence (including killing, maiming, torture, or 
+rape or other sexual violence), abduction, forced displacement, or 
+attacks on schools, hospitals, religious sites, or locations where 
+civilians are seeking refuge, or through conduct that would constitute 
+a serious abuse or violation of human rights or a violation of 
+international humanitarian law;
+  the use or recruitment of children by armed groups or armed forces in 
+the context of the conflict in the Democratic Republic of the Congo;
+  the obstruction of the delivery or distribution of, or access to, 
+humanitarian assistance;
+  attacks against United Nations missions, international security 
+presences, or other peacekeeping operations; or
+  support to persons, including armed groups, involved in activities 
+that threaten the peace, security, or stability of the Democratic 
+Republic of the Congo or that undermine democratic processes or 
+institutions in the Democratic Republic of the Congo, through the 
+illicit trade in natural resources of the Democratic Republic of the 
+Congo;
+  Except where intended for the authorized support of humanitarian 
+activities or the authorized use by or support of peacekeeping, 
+international, or government forces, to have directly or indirectly 
+supplied, sold, or transferred to the Democratic Republic of the Congo, 
+or been the recipient in the territory of the Democratic Republic of 
+the Congo of, arms and related materiel, including military aircraft 
+and equipment, or advice, training, or assistance, including financing 
+and financial assistance, related to military activities;
+  To be a leader of (i) an entity, including any armed group, that has, 
+or whose members have, engaged in any of the activities described above 
+or (ii) an entity whose property and interests in property are blocked 
+pursuant to E.O. 13413;
+  To have materially assisted, sponsored, or provided financial, 
+material, logistical, or technological support for, or goods or 
+services in support of (i) any of the activities described above or 
+(ii) any person whose property and interests in property are blocked 
+pursuant to E.O. 13413; or
+  To be owned or controlled by, or to have acted or purported to act 
+for or on behalf of, directly or indirectly, any person whose property 
+and interests in property are blocked pursuant to E.O. 13413.
+  I have delegated to the Secretary of the Treasury, in consultation 
+with the Secretary of State, the authority to take such actions, 
+including the promulgation of rules and regulations, and to employ all 
+powers granted to the President by IEEPA and the United Nations 
+Participation Act as may be necessary to carry out the purposes of the 
+order. All agencies of the United States Government are directed to 
+take all appropriate measures within their authority to carry out the 
+provisions of the order.
+  I am enclosing a copy of the Executive Order I have issued.
+                                                        Barack Obama.  
+The White House, July 8, 2014.
+
+                          ____________________
+```
