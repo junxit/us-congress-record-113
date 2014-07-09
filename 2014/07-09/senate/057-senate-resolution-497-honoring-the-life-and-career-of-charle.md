@@ -1,0 +1,88 @@
+---
+granule: CREC-2014-07-09-pt1-PgS4337
+date: 2014-07-09
+edition: CREC
+section: SENATE
+page: S4337
+citation: 160 Cong. Rec. S4337
+---
+
+# SENATE RESOLUTION 497--HONORING THE LIFE AND CAREER OF CHARLES "CHUCK" NOLL
+
+**Measures:** S.Res. 497
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+    SENATE RESOLUTION 497--HONORING THE LIFE AND CAREER OF CHARLES 
+                             ``CHUCK'' NOLL
+
+  Mr. TOOMEY (for himself and Mr. Casey) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 497
+
+       Whereas Chuck Noll was born on January 5, 1932, in 
+     Cleveland, Ohio;
+       Whereas Chuck Noll excelled at multiple positions on the 
+     football field during a preparatory career at Benedictine 
+     High School in Cleveland, Ohio and during a college career at 
+     the University of Dayton;
+       Whereas, after being drafted in the 20th round of the 1953 
+     National Football League Draft by his hometown team, the 
+     Cleveland Browns, Chuck Noll enjoyed a 7-year career as a 
+     linebacker and offensive lineman;
+       Whereas, after his playing career ended, Chuck Noll joined 
+     coaching staffs headed by 2 future Hall-of-Famers, including 
+     Sid Gillman of the San Diego Chargers;
+       Whereas, after serving as an assistant coach for nearly a 
+     decade, Chuck Noll was selected by the Rooney family to serve 
+     as 14th head coach of the Pittsburgh Steelers football team 
+     on January 27, 1969;
+       Whereas the current owner of the Pittsburgh Steelers is 
+     quoted as saying ``hiring
+
+[[Page S4338]]
+
+     Chuck Noll was the best decision we ever made for the 
+     Steelers'';
+       Whereas, in 1972, in Chuck Noll's fourth season as head 
+     coach of the Pittsburgh Steelers, the Pittsburgh Steelers won 
+     11 games and made the playoffs for the first time since 1947;
+       Whereas, on January 12, 1975, the Pittsburgh Steelers 
+     dynasty was born when Chuck Noll led the Pittsburgh Steelers 
+     to a victory over the Minnesota Vikings to win Super Bowl 
+     IX--the first of the Pittsburgh Steelers' now 6 Super Bowl 
+     titles;
+       Whereas, over the 5 football seasons after winning Super 
+     Bowl IX, Chuck Noll's Pittsburgh Steelers went on to capture 
+     an additional 3 Super Bowl titles--Super Bowl X and XIII, 
+     both by defeating the Dallas Cowboys, and Super Bowl XIV, by 
+     defeating the Los Angeles Rams;
+       Whereas Chuck Noll is best known for masterminding the 
+     ''Steel Curtain'', one of the most stout and prolific 
+     defensive units in National Football League history;
+       Whereas both Chuck Noll's ability to identify talent and 
+     his hands-on coaching technique led to Hall of Fame careers 
+     for more than 10 of Chuck Noll's players;
+       Whereas, following 23 football seasons and 193 football 
+     game wins, including a record 4 Super Bowl titles as a head 
+     coach of the Pittsburgh Steelers, Chuck Noll was enshrined in 
+     the Pro Football Hall of Fame in Canton, Ohio as part of the 
+     Class of 1993; and
+       Whereas, on June 13, 2014, Chuck Noll passed away 
+     surrounded by loved ones at his home in Sewickley, 
+     Pennsylvania at the age of 82: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the life and career of Chuck Noll and his 
+     contributions to the city of Pittsburgh, Pennsylvania and the 
+     National Football League; and
+       (2) expresses its sympathies to Chuck Noll's family and 
+     friends, the Pittsburgh Steelers, Steelers fans, and football 
+     fans all around the world.
+
+                          ____________________
+```
