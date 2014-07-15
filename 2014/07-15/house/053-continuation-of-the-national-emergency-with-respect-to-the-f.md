@@ -1,0 +1,50 @@
+---
+granule: CREC-2014-07-15-pt1-PgH6245-2
+date: 2014-07-15
+edition: CREC
+section: HOUSE
+page: H6245
+citation: 160 Cong. Rec. H6245
+---
+
+# CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO THE FORMER LIBERIAN REGIME OF CHARLES TAYLOR--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 113-135)
+
+```
+   CONTINUATION OF THE NATIONAL EMERGENCY WITH RESPECT TO THE FORMER 
+ LIBERIAN REGIME OF CHARLES TAYLOR--MESSAGE FROM THE PRESIDENT OF THE 
+                  UNITED STATES (H. DOC. NO. 113-135)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, referred to the Committee on Foreign 
+Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  Section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)) 
+provides for the automatic termination of a national emergency unless, 
+within 90 days prior to the anniversary date of its declaration, the 
+President publishes in the Federal Register and transmits to the 
+Congress a notice stating that the emergency is to continue in effect 
+beyond the anniversary date. In accordance with this provision, I have 
+sent to the Federal Register for publication the enclosed notice 
+stating that the national emergency with respect to the former Liberian 
+regime of Charles Taylor declared in Executive Order 13348 of July 22, 
+2004, is to continue in effect beyond July 22, 2014.
+  Although Liberia has made significant advances to promote democracy, 
+and the Special Court for Sierra Leone convicted Charles Taylor for war 
+crimes and crimes against humanity, the actions and policies of former 
+Liberian President Charles Taylor and other persons, in particular 
+their unlawful depletion of Liberian resources and their removal from 
+Liberia and secreting of Liberian funds and property, still challenge 
+Liberia's efforts to strengthen its democracy and the orderly 
+development of its political, administrative, and economic 
+institutions. These actions and policies continue to pose an unusual 
+and extraordinary threat to the foreign policy of the United States. 
+For this reason, I have determined that it is necessary to continue the 
+national emergency with respect to the former Liberian regime of 
+Charles Taylor.
+                                                        Barack Obama.  
+The White House, July 15, 2014.
+
+                          ____________________
+```
