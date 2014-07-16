@@ -1,0 +1,36 @@
+---
+granule: CREC-2014-07-16-pt1-PgE1170-2
+date: 2014-07-16
+edition: CREC
+section: EXTENSIONS
+page: E1170
+citation: 160 Cong. Rec. E1170
+---
+
+# OUR UNCONSCIONABLE NATIONAL DEBT
+
+**Speaking:** Coffman, Mike (C001077) [R-CO]
+
+```
+                    OUR UNCONSCIONABLE NATIONAL DEBT
+
+                                  _____
+                                 
+
+                           HON. MIKE COFFMAN
+
+                              of colorado
+
+                    in the house of representatives
+
+                        Wednesday, July 16, 2014
+
+  Mr. COFFMAN. Mr. Speaker, on January 20, 2009, the day President 
+Obama took office, the national debt was $10,626,877,048,913.08.
+  Today, it is $17,591,980,437,201.71. We've added 
+$6,965,103,388,288.63 to our debt in 5 years. This is over $6.9 
+trillion in debt our nation, our economy, and our children could have 
+avoided with a balanced budget amendment.
+
+                          ____________________
+```
