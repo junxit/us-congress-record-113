@@ -1,0 +1,85 @@
+---
+granule: CRECB-2014-pt9-Pg12624-6
+date: 2014-07-22
+edition: CRECB
+section: SENATE
+page: 12624
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                   NATIONAL INDIAN GAMING COMMISSION
+
+       JONODEV OSCEOLA CHAUDHURI, OF ARIZONA, TO BE CHAIRMAN OF 
+     THE NATIONAL INDIAN GAMING COMMISSION FOR THE TERM OF THREE 
+     YEARS, VICE TRACIE STEVENS.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR REGULAR APPOINTMENT IN THE 
+     GRADE INDICATED IN THE UNITED STATES AIR FORCE UNDER TITLE 
+     10, U.S.C., SECTION 531:
+
+                        To be lieutenant colonel
+
+ROBERT P. MCCOY
+       THE FOLLOWING NAMED INDIVIDUALS FOR REGULAR APPOINTMENT TO 
+     THE GRADES INDICATED IN THE UNITED STATES AIR FORCE UNDER 
+     TITLE 10, U.S.C., SECTION 531:
+
+                        To be lieutenant colonel
+
+MICHAEL E. COGHLAN
+
+                              To be major
+
+AJAY K. OJHA
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR REGULAR APPOINTMENT TO 
+     THE GRADE INDICATED IN THE UNITED STATES ARMY MEDICAL CORPS 
+     UNDER TITLE 10, U.S.C., SECTIONS 531 AND 3064:
+
+                              To be major
+
+NEALANJON P. DAS
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY AS A CHAPLAIN UNDER TITLE 
+     10, U.S.C., SECTIONS 624 AND 3064:
+
+                              To be major
+
+BARRY C. BUSBY
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+YONG K. CHO
+JOSEPH W. GREEN
+THOMAS A. STARKOSKI, JR.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                            To be commander
+
+ADAM J. RAINS
+
+                          ____________________
+```
