@@ -1,0 +1,26 @@
+---
+granule: CREC-2014-07-22-pt1-PgS4719
+date: 2014-07-22
+edition: CREC
+section: SENATE
+page: S4719
+citation: 160 Cong. Rec. S4719
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 22, 2014:
+
+
+                             the judiciary
+
+       ANDRE BIROTTE, JR., OF CALIFORNIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+       ROBIN L. ROSENBERG, OF FLORIDA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF FLORIDA.
+       JOHN W. DEGRAVELLES, OF LOUISIANA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF LOUISIANA.
+```

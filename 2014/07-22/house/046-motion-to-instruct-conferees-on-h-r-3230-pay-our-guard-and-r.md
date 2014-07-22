@@ -1,0 +1,486 @@
+---
+granule: CREC-2014-07-22-pt1-PgH6633-2
+date: 2014-07-22
+edition: CREC
+section: HOUSE
+page: H6633
+citation: 160 Cong. Rec. H6633
+---
+
+# MOTION TO INSTRUCT CONFEREES ON H.R. 3230, PAY OUR GUARD AND RESERVE ACT
+
+**Measures:** H.R. 3230
+
+```
+ MOTION TO INSTRUCT CONFEREES ON H.R. 3230, PAY OUR GUARD AND RESERVE 
+                                  ACT
+
+  The SPEAKER pro tempore (Mrs. Brooks of Indiana). The unfinished 
+business is the vote on the motion to instruct on the bill (H.R. 3230) 
+making continuing appropriations during a Government shutdown to 
+provide pay and allowances to members of the reserve components of the 
+Armed Forces who perform inactive-duty training during such period, 
+offered by the gentleman from Arizona (Mr. Barber), on which the yeas 
+and nays were ordered.
+  The Clerk will redesignate the motion.
+  The Clerk redesignated the motion.
+  The SPEAKER pro tempore. The question is on the motion to instruct.
+  This is a 5-minute vote.
+  The vote was taken by electronic device, and there were--yeas 191, 
+nays 207, not voting 34, as follows:
+
+                             [Roll No. 436]
+
+                               YEAS--191
+
+     Barber
+     Barrow (GA)
+     Bass
+     Beatty
+     Becerra
+     Bera (CA)
+     Bishop (GA)
+     Bishop (NY)
+     Blumenauer
+     Bonamici
+     Brady (PA)
+     Braley (IA)
+     Brown (FL)
+     Brownley (CA)
+     Bustos
+     Butterfield
+     Capps
+     Capuano
+     Cardenas
+     Carson (IN)
+     Cartwright
+     Cassidy
+     Castor (FL)
+     Castro (TX)
+     Chu
+     Cicilline
+     Clark (MA)
+     Clarke (NY)
+     Clay
+     Cleaver
+     Clyburn
+     Cohen
+     Connolly
+     Conyers
+     Cooper
+     Costa
+     Courtney
+     Crowley
+     Cuellar
+     Cummings
+     DeFazio
+     Delaney
+     DeLauro
+     DelBene
+     Dent
+     Deutch
+     Dingell
+     Doggett
+     Doyle
+     Duckworth
+     Edwards
+     Ellison
+     Engel
+     Enyart
+     Esty
+     Farr
+     Fattah
+     Fitzpatrick
+     Foster
+     Frankel (FL)
+     Fudge
+     Gabbard
+     Gallego
+     Garamendi
+     Garcia
+     Gibson
+     Grayson
+     Green, Al
+     Green, Gene
+     Grijalva
+     Hahn
+     Hastings (FL)
+     Heck (NV)
+     Higgins
+     Himes
+     Hinojosa
+     Holt
+     Israel
+     Jackson Lee
+     Jeffries
+     Johnson (GA)
+     Johnson, E. B.
+     Kaptur
+     Keating
+     Kelly (IL)
+     Kennedy
+     Kildee
+     Kilmer
+     Kind
+     Kirkpatrick
+     Kuster
+     Langevin
+     Larsen (WA)
+     Larson (CT)
+     Lee (CA)
+     Levin
+     Lewis
+     Lipinski
+     LoBiondo
+     Loebsack
+     Lofgren
+     Lowenthal
+     Lowey
+     Lucas
+     Lujan Grisham (NM)
+     Lujan, Ben Ray (NM)
+     Lynch
+     Maffei
+     Maloney, Carolyn
+     Maloney, Sean
+     Matheson
+     Matsui
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McNerney
+     Meeks
+     Meng
+     Michaud
+
+[[Page H6634]]
+
+
+     Miller, George
+     Moore
+     Moran
+     Murphy (FL)
+     Nadler
+     Napolitano
+     Neal
+     Negrete McLeod
+     Nolan
+     O'Rourke
+     Owens
+     Pallone
+     Pascrell
+     Payne
+     Pelosi
+     Perlmutter
+     Peters (CA)
+     Peterson
+     Pingree (ME)
+     Pocan
+     Polis
+     Posey
+     Price (NC)
+     Quigley
+     Rahall
+     Rangel
+     Richmond
+     Rooney
+     Roybal-Allard
+     Ruiz
+     Ruppersberger
+     Ryan (OH)
+     Sanchez, Linda T.
+     Sanchez, Loretta
+     Sarbanes
+     Schakowsky
+     Schiff
+     Schneider
+     Schrader
+     Schwartz
+     Scott (VA)
+     Scott, David
+     Serrano
+     Sewell (AL)
+     Shea-Porter
+     Sherman
+     Sinema
+     Sires
+     Slaughter
+     Smith (WA)
+     Speier
+     Swalwell (CA)
+     Takano
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Tierney
+     Titus
+     Tonko
+     Van Hollen
+     Vargas
+     Veasey
+     Velazquez
+     Visclosky
+     Walz
+     Waters
+     Waxman
+     Welch
+     Whitfield
+     Wilson (FL)
+     Yarmuth
+
+                               NAYS--207
+
+     Aderholt
+     Amash
+     Amodei
+     Barletta
+     Barr
+     Barton
+     Benishek
+     Bentivolio
+     Bilirakis
+     Bishop (UT)
+     Black
+     Blackburn
+     Boustany
+     Brady (TX)
+     Bridenstine
+     Brooks (AL)
+     Brooks (IN)
+     Broun (GA)
+     Buchanan
+     Bucshon
+     Burgess
+     Byrne
+     Calvert
+     Camp
+     Cantor
+     Capito
+     Carter
+     Chabot
+     Chaffetz
+     Coble
+     Coffman
+     Cole
+     Collins (GA)
+     Collins (NY)
+     Conaway
+     Cook
+     Cotton
+     Cramer
+     Crawford
+     Crenshaw
+     Culberson
+     Daines
+     Davis, Rodney
+     Denham
+     DeSantis
+     Diaz-Balart
+     Duffy
+     Duncan (SC)
+     Duncan (TN)
+     Ellmers
+     Farenthold
+     Fincher
+     Fleischmann
+     Fleming
+     Flores
+     Forbes
+     Fortenberry
+     Foxx
+     Franks (AZ)
+     Frelinghuysen
+     Gardner
+     Garrett
+     Gibbs
+     Gohmert
+     Goodlatte
+     Gosar
+     Gowdy
+     Granger
+     Graves (GA)
+     Griffin (AR)
+     Griffith (VA)
+     Grimm
+     Guthrie
+     Hall
+     Hanna
+     Harper
+     Harris
+     Hartzler
+     Hastings (WA)
+     Hensarling
+     Herrera Beutler
+     Holding
+     Hudson
+     Huelskamp
+     Huizenga (MI)
+     Hultgren
+     Hunter
+     Hurt
+     Issa
+     Jenkins
+     Johnson (OH)
+     Johnson, Sam
+     Jolly
+     Jones
+     Jordan
+     Joyce
+     Kelly (PA)
+     King (IA)
+     King (NY)
+     Kline
+     Labrador
+     LaMalfa
+     Lamborn
+     Lance
+     Lankford
+     Latham
+     Latta
+     Long
+     Luetkemeyer
+     Lummis
+     Marchant
+     Marino
+     Massie
+     McAllister
+     McCarthy (CA)
+     McCaul
+     McClintock
+     McHenry
+     McKeon
+     McKinley
+     McMorris Rodgers
+     Meadows
+     Meehan
+     Messer
+     Mica
+     Miller (FL)
+     Miller (MI)
+     Mullin
+     Mulvaney
+     Murphy (PA)
+     Neugebauer
+     Noem
+     Nugent
+     Nunes
+     Olson
+     Palazzo
+     Paulsen
+     Pearce
+     Perry
+     Petri
+     Pittenger
+     Pitts
+     Poe (TX)
+     Price (GA)
+     Reed
+     Reichert
+     Renacci
+     Ribble
+     Rice (SC)
+     Rigell
+     Roby
+     Roe (TN)
+     Rogers (AL)
+     Rogers (KY)
+     Rohrabacher
+     Rokita
+     Ros-Lehtinen
+     Roskam
+     Ross
+     Rothfus
+     Royce
+     Runyan
+     Ryan (WI)
+     Salmon
+     Sanford
+     Scalise
+     Schock
+     Schweikert
+     Scott, Austin
+     Sensenbrenner
+     Sessions
+     Shimkus
+     Shuster
+     Simpson
+     Smith (MO)
+     Smith (NE)
+     Smith (NJ)
+     Smith (TX)
+     Southerland
+     Stivers
+     Stockman
+     Stutzman
+     Thompson (PA)
+     Thornberry
+     Tiberi
+     Tipton
+     Turner
+     Upton
+     Valadao
+     Wagner
+     Walberg
+     Walden
+     Walorski
+     Weber (TX)
+     Webster (FL)
+     Wenstrup
+     Westmoreland
+     Williams
+     Wilson (SC)
+     Wittman
+     Wolf
+     Womack
+     Woodall
+     Yoder
+     Yoho
+     Young (AK)
+     Young (IN)
+
+                             NOT VOTING--34
+
+     Bachmann
+     Bachus
+     Campbell
+     Carney
+     Clawson (FL)
+     Davis (CA)
+     Davis, Danny
+     DeGette
+     DesJarlais
+     Eshoo
+     Gerlach
+     Gingrey (GA)
+     Graves (MO)
+     Gutierrez
+     Hanabusa
+     Heck (WA)
+     Honda
+     Horsford
+     Hoyer
+     Huffman
+     Kingston
+     Kinzinger (IL)
+     McIntyre
+     Miller, Gary
+     Nunnelee
+     Pastor (AZ)
+     Peters (MI)
+     Pompeo
+     Rogers (MI)
+     Rush
+     Stewart
+     Tsongas
+     Vela
+     Wasserman Schultz
+
+                              {time}  1923
+
+  So the motion to instruct was rejected.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
