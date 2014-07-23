@@ -1,0 +1,29 @@
+---
+granule: CRECB-2014-pt9-Pg12937-2
+date: 2014-07-23
+edition: CRECB
+section: SENATE
+page: 12937
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                     NUCLEAR REGULATORY COMMISSION
+
+       JEFFERY MARTIN BARAN, OF VIRGINIA, TO BE A MEMBER OF THE 
+     NUCLEAR REGULATORY COMMISSION FOR THE REMAINDER OF THE TERM 
+     EXPIRING JUNE 30, 2015, VICE WILLIAM D. MAGWOOD, IV, 
+     RESIGNING.
+       STEPHEN G. BURNS, OF MARYLAND, TO BE A MEMBER OF THE 
+     NUCLEAR REGULATORY COMMISSION FOR THE TERM OF FIVE YEARS 
+     EXPIRING JUNE 30, 2019, VICE GEORGE APOSTOLAKIS, TERM 
+     EXPIRED.
+
+                          ____________________
+```
