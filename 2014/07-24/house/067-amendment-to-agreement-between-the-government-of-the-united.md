@@ -1,0 +1,66 @@
+---
+granule: CRECB-2014-pt9-Pg13126-3
+date: 2014-07-24
+edition: CRECB
+section: HOUSE
+page: 13126
+---
+
+# AMENDMENT TO AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND FOR COOPERATION ON THE USES OF ATOMIC ENERGY FOR MUTUAL DEFENSE PURPOSES OF JULY 3, 1958--MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 113-137)
+
+```
+ AMENDMENT TO AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF 
+ AMERICA AND THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND 
+   NORTHERN IRELAND FOR COOPERATION ON THE USES OF ATOMIC ENERGY FOR 
+MUTUAL DEFENSE PURPOSES OF JULY 3, 1958--MESSAGE FROM THE PRESIDENT OF 
+                THE UNITED STATES (H. DOC. NO. 113-137)
+
+  The SPEAKER pro tempore laid before the House the following message 
+from the President of the United States; which was read and, together 
+with the accompanying papers, referred to the Committee on Foreign 
+Affairs and ordered to be printed:
+
+To the Congress of the United States:
+  I am pleased to transmit to the Congress, pursuant to section 123 d. 
+of the Atomic Energy Act of 1954, as amended, the text of an amendment 
+(the ``Amendment'') to the Agreement Between the Government of the 
+United States of America and the Government of the United Kingdom of 
+Great Britain and Northern Ireland for Cooperation on the Uses of 
+Atomic Energy for Mutual Defense Purposes of July 3, 1958, as amended 
+(the ``1958 Agreement''). I am also pleased to transmit my written 
+approval, authorization, and determination concerning the Amendment. 
+The joint unclassified letter submitted to me by the Secretaries of 
+Defense and Energy providing a summary position on the unclassified 
+portions of the Amendment is also enclosed. The joint classified letter 
+and classified portions of the Amendment are being transmitted 
+separately via appropriate channels.
+  The Amendment extends for 10 years (until December 31, 2024), 
+provisions of the 1958 Agreement that permit the transfer between the 
+United States and the United Kingdom of classified information 
+concerning atomic weapons; nuclear technology and controlled nuclear 
+information; material and equipment for the development of defense 
+plans; training of personnel; evaluation of potential enemy capability; 
+development of delivery systems; and the research, development, and 
+design of military reactors. Additional revisions to portions of the 
+Amendment and Annexes have been made to ensure consistency with current 
+United States and United Kingdom policies and practice regarding 
+nuclear threat reduction, naval nuclear propulsion, and personnel 
+security.
+  In my judgment, the Amendment meets all statutory requirements. The 
+United Kingdom intends to continue to maintain viable nuclear forces 
+into the foreseeable future. Based on our previous close cooperation, 
+and the fact that the United Kingdom continues to commit its nuclear 
+forces to the North Atlantic Treaty Organization, I have concluded it 
+is in the United States national interest to continue to assist the 
+United Kingdom in maintaining a credible nuclear deterrent.
+  I have approved the Amendment, authorized its execution, and urge 
+that the Congress give it favorable consideration.
+                                                        Barack Obama.  
+                                        The White House, July 24, 2014.
+
+[[Page 13127]]
+
+
+
+                          ____________________
+```

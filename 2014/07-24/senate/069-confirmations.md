@@ -1,0 +1,35 @@
+---
+granule: CRECB-2014-pt9-Pg13076-2
+date: 2014-07-24
+edition: CRECB
+section: SENATE
+page: 13076
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 24, 2014:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       LISA S. DISBROW, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF THE AIR FORCE.
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+       VICTOR M. MENDEZ, OF ARIZONA, TO BE DEPUTY SECRETARY OF 
+     TRANSPORTATION.
+       PETER M. ROGOFF, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     TRANSPORTATION FOR POLICY.
+
+
+                         DEPARTMENT OF COMMERCE
+
+       BRUCE H. ANDREWS, OF NEW YORK, TO BE DEPUTY SECRETARY OF 
+     COMMERCE.
+```
