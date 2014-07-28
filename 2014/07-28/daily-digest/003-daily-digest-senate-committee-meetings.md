@@ -1,0 +1,16 @@
+---
+granule: CREC-2014-07-28-pt1-PgD857-3
+date: 2014-07-28
+edition: CREC
+section: DAILYDIGEST
+page: D857
+citation: 160 Cong. Rec. D857
+---
+
+# Daily Digest/Senate Committee Meetings
+
+```
+Committee Meetings
+(Committees not listed did not meet)
+  No committee meetings were held.
+```
