@@ -1,0 +1,36 @@
+---
+granule: CRECB-2014-pt10-Pg13712-3
+date: 2014-07-30
+edition: CRECB
+section: EXTENSIONS
+page: 13712
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                            HON. SAM GRAVES
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Wednesday, July 30, 2014
+
+  Mr. GRAVES of Missouri. Mr. Speaker, on Friday, July 25, I missed a 
+series of rollcall votes. Had I been present, I would have voted 
+``nay'' on No. 453 and ``yea'' on No. 451, No. 452, and No. 454.
+  On Monday, July 28, I missed a series of rollcall votes. Had I been 
+present, I would have voted ``yea'' on No. 455, No. 456, and No. 457.
+  On Tuesday, July 29, I missed a series of rollcall votes. Had I been 
+present, I would have voted ``yea'' on No. 458 and No. 459. I would 
+have voted ``nay'' on No. 460, No. 461, and No. 462. I would have voted 
+``yea'' on No. 463 and No. 464.
+
+                          ____________________
+```
