@@ -1,0 +1,63 @@
+---
+granule: CREC-2014-07-31-pt1-PgS5235-2
+date: 2014-07-31
+edition: CREC
+section: SENATE
+page: S5235
+citation: 160 Cong. Rec. S5235
+---
+
+# SENATE RESOLUTION 534--DESIGNATING SEPTEMBER 6, 2014, AS "EVERETT MCKINLEY DIRKSEN AND MARIGOLD DAY"
+
+**Measures:** S.Res. 534
+
+```
+  SENATE RESOLUTION 534--DESIGNATING SEPTEMBER 6, 2014, AS ``EVERETT 
+                  MCKINLEY DIRKSEN AND MARIGOLD DAY''
+
+  Mr. KIRK (for himself and Mr. Durbin) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 534
+
+       Whereas the great Senator Everett McKinley Dirksen of 
+     Pekin, Illinois, has passed from the halls of the United 
+     States Capitol;
+       Whereas the current Senators wish to honor Senator Dirksen;
+       Whereas, upon the passing of Senator Dirksen, his 
+     contemporaries and peers stated that--
+       (1) Senator Dirksen--
+          (A) provided sage advice and counsel and wholehearted 
+     wisdom;
+          (B) provided support that made the civil rights 
+     legislation of the 1960s a fact rather than a dream during 
+     that decade; and
+          (C) was known as an American who cultivated a high sense 
+     of honor; and
+       (2) when Senator Dirksen spoke, the country listened, and 
+     his eloquence was a source of national strength;
+       Whereas, as the obituary for Senator Dirksen in the New 
+     York Times noted, Senator Dirksen ``was ever constant to the 
+     marigold, which he sought to make the national flower and 
+     which he grew profusely in his garden'';
+       Whereas, as Senator Dirksen said on the Senate floor on 
+     April 17, 1967, the marigold ``is a native of North America 
+     and can in truth and in fact be called an American flower'';
+       Whereas, as Senator Dirksen said in that speech, the 
+     marigold ``is national in character, for it grows and thrives 
+     in every one of the fifty states of this nation'';
+       Whereas, as Senator Dirksen said in that speech, the 
+     marigold's ``robustness reflects the hardihood and character 
+     of the generations who pioneered and built this land into a 
+     great nation'';
+       Whereas, beginning in 1973, Pekin has held the Pekin 
+     Marigold Festival each year to honor Pekin's favorite son, 
+     Senator Everett McKinley Dirksen; and
+       Whereas the 40th Pekin Marigold Festival will be held 
+     during the first week of September 2014, which includes 
+     Saturday, September 6: Now, therefore, be it
+       Resolved, That the Senate designates September 6, 2014, as 
+     ``Everett McKinley Dirksen and Marigold Day''.
+
+                          ____________________
+```
