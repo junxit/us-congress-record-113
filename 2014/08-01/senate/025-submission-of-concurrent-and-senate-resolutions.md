@@ -1,0 +1,32 @@
+---
+granule: CREC-2014-08-01-pt1-PgS5325-5
+date: 2014-08-01
+edition: CREC
+section: SENATE
+page: S5325
+citation: 160 Cong. Rec. S5325
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Res. 536, S.Res. 537
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Ms. STABENOW (for herself, Ms. Ayotte, Mr. Warner, 
+             Mr. Moran, Ms. Baldwin, and Mr. Heller):
+       S. Res. 536. A resolution designating September 2014 as 
+     ``National Ovarian Cancer Awareness Month''; considered and 
+     agreed to.
+           By Mr. GRAHAM (for himself and Mr. Menendez):
+       S. Res. 537. A resolution reaffirming support for Israel's 
+     right to defend its citizens and ensure the survival of the 
+     State of Israel, and for other purposes; to the Committee on 
+     Foreign Relations.
+
+                          ____________________
+```
