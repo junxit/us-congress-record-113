@@ -1,0 +1,25 @@
+---
+granule: CRECB-2014-pt10-Pg14068-2
+date: 2014-08-05
+edition: CRECB
+section: SENATE
+page: 14068
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+       JORGE LUIS ALONSO, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS, VICE 
+     RONALD A. GUZMAN, RETIRING.
+       JOHN ROBERT BLAKEY, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS, VICE 
+     JAMES HOLDERMAN, RETIRED.
+```
