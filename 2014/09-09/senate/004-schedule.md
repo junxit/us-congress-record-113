@@ -1,0 +1,24 @@
+---
+granule: CRECB-2014-pt10-Pg14195-5
+date: 2014-09-09
+edition: CRECB
+section: SENATE
+page: 14195
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Following my remarks and those of the Republican leader, if 
+any, the Senate will be in a period of morning business for an hour, 
+with Senators permitted to speak during that time for up to 10 minutes 
+each, with the Republicans controlling the first 30 minutes and the 
+majority the final 30 minutes. Following morning business the Senate 
+will resume consideration of a motion to proceed to S.J. Res. 19 
+postcloture. The Senate will recess from 12:30 to 2:15 p.m. to allow 
+for our weekly caucus meetings.
+
+                          ____________________
+```
