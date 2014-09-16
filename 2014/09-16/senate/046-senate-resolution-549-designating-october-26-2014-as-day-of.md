@@ -1,0 +1,59 @@
+---
+granule: CRECB-2014-pt10-Pg14745
+date: 2014-09-16
+edition: CRECB
+section: SENATE
+page: 14745
+---
+
+# SENATE RESOLUTION 549--DESIGNATING OCTOBER 26, 2014, AS DAY OF THE DEPLOYED
+
+```
+  SENATE RESOLUTION 549--DESIGNATING OCTOBER 26, 2014, AS DAY OF THE 
+                                DEPLOYED
+
+  Mr. HOEVEN (for himself, Mr. Roberts, Ms. Heitkamp, Mr. McConnell, 
+and Mr. Blunt) submitted the following resolution; which was considered 
+and agreed to:
+
+                              S. Res. 549
+
+       Whereas more than 2,500,000 individuals serve as members of 
+     the United States Armed Forces;
+       Whereas several hundred thousand members of the Armed 
+     Forces rotate each year through deployments to 150 countries 
+     in every region of the world;
+       Whereas more than 2,500,000 members of the Armed Forces 
+     have deployed to the area of operations of the United States 
+     Central Command since the September 11, 2001, terrorist 
+     attacks;
+       Whereas the United States is kept strong and free by the 
+     loyal military personnel from the total force (the regular 
+     components and the National Guard and the Reserves), who 
+     protect the precious heritage of the country through their 
+     positive declaration and actions;
+       Whereas members of the Armed Forces serving at home and 
+     abroad have courageously answered the call to duty to defend 
+     the ideals of the United States and to preserve peace and 
+     freedom around the world;
+       Whereas members of the Armed Forces personify the virtues 
+     of patriotism, service, duty, courage, and sacrifice;
+       Whereas the families of members of the Armed Forces make 
+     important and significant sacrifices for the United States; 
+     and
+       Whereas the Senate designated October 26 as ``Day of the 
+     Deployed'' in 2011, 2012, and 2013: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 26, 2014, as ``Day of the 
+     Deployed'';
+       (2) honors the deployed members of the United States Armed 
+     Forces and their families;
+       (3) calls on the people of the United States to reflect on 
+     the service of those members of the Armed Forces, wherever 
+     they serve, past, present, and future; and
+       (4) encourages the people of the United States to observe 
+     Day of the Deployed with appropriate ceremonies and 
+     activities.
+
+                          ____________________
+```
