@@ -1,0 +1,82 @@
+---
+granule: CREC-2014-09-18-pt1-PgS5798-3
+date: 2014-09-18
+edition: CREC
+section: SENATE
+page: S5798
+citation: 160 Cong. Rec. S5798
+---
+
+# SENATE RESOLUTION 570--DESIGNATING OCTOBER 17, 2014, AS "NATIONAL ALTERNATIVE FUEL VEHICLE DAY"
+
+**Measures:** S.Res. 570
+
+```
+  SENATE RESOLUTION 570--DESIGNATING OCTOBER 17, 2014, AS ``NATIONAL 
+                     ALTERNATIVE FUEL VEHICLE DAY''
+
+  Mr. MANCHIN (for himself, Mr. Burr, Mr. Rockefeller, Ms. Mikulski,
+
+[[Page S5799]]
+
+and Mr. Brown) submitted the following resolution; which was referred 
+to the Committee on the Judiciary:
+
+                              S. Res. 570
+
+       Whereas the United States should reduce dependence on 
+     foreign oil and enhance energy security by creating a 
+     transportation sector that is less dependent on oil;
+       Whereas the United States should improve air quality in the 
+     United States by reducing emissions from the millions of 
+     motor vehicles that operate in the United States;
+       Whereas the United States should foster national expertise 
+     and technological advancement in cleaner, more energy-
+     efficient alternative fuel and advanced technology vehicles;
+       Whereas a robust domestic industry for alternative fuels 
+     and alternative fuel and advanced technology vehicles will 
+     create jobs and increase the competitiveness of the United 
+     States in the international community;
+       Whereas the people of the United States need more options 
+     for clean and energy-efficient transportation;
+       Whereas mainstream adoption of alternative fuel and 
+     advanced technology vehicles will produce benefits at the 
+     local, national, and international levels;
+       Whereas consumers and businesses require a better 
+     understanding of the benefits of alternative fuel and 
+     advanced technology vehicles;
+       Whereas first responders require proper comprehensive 
+     training to be fully prepared for any precautionary measures 
+     that they may need to take during incidents and extrications 
+     that involve alternative fuel and advanced technology 
+     vehicles;
+       Whereas the Federal Government can lead the way toward a 
+     cleaner and more efficient transportation sector by choosing 
+     alternative fuel and advanced technology vehicles for the 
+     fleets of the Federal Government; and
+       Whereas Federal support for the adoption of alternative 
+     fuel and advanced technology vehicles can accelerate greater 
+     energy independence for the United States, improve the 
+     environmental security of the United States, and address 
+     global climate change: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 17, 2014, as ``National Alternative 
+     Fuel Vehicle Day'';
+       (2) proclaims National Alternative Fuel Vehicle Day as a 
+     day to promote programs and activities that will lead to the 
+     greater use of cleaner, more efficient transportation that 
+     uses new sources of energy; and
+       (3) urges the people of the United States to--
+       (A) increase personal and commercial use of cleaner and 
+     more energy-efficient alternative fuel and advanced 
+     technology vehicles;
+       (B) promote public sector adoption of cleaner and more 
+     energy-efficient alternative fuel and advanced technology 
+     vehicles; and
+       (C) encourage the adoption of Federal policies to advance 
+     and adopt alternative, advanced, and emerging vehicle and 
+     fuel technologies in order to reduce the dependence of the 
+     United States on foreign oil.
+
+                          ____________________
+```

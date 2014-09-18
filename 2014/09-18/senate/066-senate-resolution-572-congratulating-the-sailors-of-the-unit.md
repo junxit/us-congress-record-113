@@ -1,0 +1,63 @@
+---
+granule: CREC-2014-09-18-pt1-PgS5799-2
+date: 2014-09-18
+edition: CREC
+section: SENATE
+page: S5799
+citation: 160 Cong. Rec. S5799
+---
+
+# SENATE RESOLUTION 572--CONGRATULATING THE SAILORS OF THE UNITED STATES SUBMARINE FORCE UPON THE COMPLETION OF 4,000 BALLISTIC MISSILE SUBMARINE (SSBN) DETERRENT PATROLS
+
+**Measures:** S.Res. 572
+
+```
+SENATE RESOLUTION 572--CONGRATULATING THE SAILORS OF THE UNITED STATES 
+    SUBMARINE FORCE UPON THE COMPLETION OF 4,000 BALLISTIC MISSILE 
+                   SUBMARINE (SSBN) DETERRENT PATROLS
+
+  Ms. CANTWELL (for herself, Mrs. Murray, Mr. Chambliss, Mr. Isakson, 
+Mr. Warner, Mr. Kaine, Mr. Blumenthal, Mr. Murphy, Mrs. Shaheen, Ms. 
+Collins, Ms. Hirono, and Mr. King) submitted the following resolution; 
+which was considered and agreed to:
+
+                              S. Res. 572
+
+       Whereas the Sailors of the United States Submarine Force 
+     recently completed the 4,000th deterrent patrol of a 
+     ballistic missile submarine (SSBN);
+       Whereas this milestone is significant for the Submarine 
+     Force, its crews and their families, the United States Navy, 
+     and the entire country;
+       Whereas this milestone was reached through the combined 
+     efforts and impressive achievements of all of the submariners 
+     who have participated in such patrols since the first patrol 
+     of USS George Washington (SSBN 598) in 1960;
+       Whereas, as a result of the dedication and commitment to 
+     excellence of the Sailors of the United States Submarine 
+     Force, ballistic missile submarines have always been ready 
+     and vigilant, reassuring United States allies and deterring 
+     anyone who might seek to do harm to the United States or 
+     United States allies;
+       Whereas the national maritime strategy of the United States 
+     recognizes the critical need for strategic deterrence in 
+     today's uncertain world;
+       Whereas the true strength of the ballistic missile 
+     submarine lies in the extremely talented and motivated 
+     Sailors who have voluntarily chosen to serve in the submarine 
+     community; and
+       Whereas the inherent stealth, unparalleled firepower, and 
+     nearly limitless endurance of the ballistic missile submarine 
+     provide a credible deterrence for any enemies that would seek 
+     to use force against the United States or United States 
+     allies: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) congratulates the Sailors of the United States 
+     Submarine Force upon the completion of 4,000 ballistic 
+     missile submarine (SSBN) deterrent patrols; and
+       (2) honors and thanks the crews of ballistic missile 
+     submarines and their devoted families for their continued 
+     dedication and sacrifice.
+
+                          ____________________
+```

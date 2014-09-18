@@ -1,0 +1,239 @@
+---
+granule: CREC-2014-09-18-pt1-PgS5788-3
+date: 2014-09-18
+edition: CREC
+section: SENATE
+page: S5788
+citation: 160 Cong. Rec. S5788
+---
+
+# Introductory Statement on S. 2882
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+**Measures:** S. 2882
+
+```
+      By Mr. McCONNELL:
+  S. 2882. A bill to amend the Internal Revenue Code of 1986 to allow 
+certain individuals a credit against income tax for contributions to 
+529 plans, and for other purposes; to the Committee on Finance.
+  Mr. McCONNELL. Mr. President, today I am proud to offer legislation 
+that will make it easier for American families to pay for their child's 
+higher education. This legislation is the Enhanced 529-Setting Aside 
+for a Valuable Education, or Enhanced 529-SAVE, Act. This measure will 
+make the 529 college savings plans more accessible to lower and middle-
+income families.
+  A 529 plan is a tax-advantaged savings plan that is designed to 
+encourage Americans to save for future college costs. 529 plans can be 
+sponsored by states, state agencies, or educational institutions and 
+they are authorized by Section 529 of the Internal Revenue
+
+[[Page S5789]]
+
+Code. I championed efforts to ensure that 529 plans would be 100 
+percent tax-free at the Federal level. In 2001, I authored the Setting 
+Aside for Valuable Education, or SAVE, Act, which was included in a tax 
+package that became law. In 2006, I helped make the tax benefits under 
+these accounts permanent.
+  The Enhanced 529-SAVE Act will make 529 plans more accessible by 
+encouraging employers to contribute to an employee's 529 plan. My bill 
+would exclude up to $600 of an employer's contribution from an 
+employee's gross income. This will help families and individuals save 
+more for higher education expenses.
+  The Enhanced 529-SAVE Act will also create an incentive for lower-
+income families and individuals to save money for college by allowing 
+the individual that contributes to the 529 plan to qualify for the 
+Saver's Credit, which is an income-based, non-refundable tax credit up 
+to $4,000.
+  The Enhanced 529-SAVE Act is similar to H.R. 529, introduced in the 
+House of Representatives by Congresswoman Lynn Jenkins of Kansas. I 
+want to commend her for her leadership on this important issue. I urge 
+my colleagues to consider and pass the Enhanced 529-SAVE Act, and I 
+look forward to its eventual passage.
+  Mr. President, I ask unanimous consent that the text of the bill be 
+printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2882
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Enhanced 529 - Setting Aside 
+     for a Valuable Education Act'' or the ``Enhanced 529 - 
+     S.A.V.E. Act''.
+
+     SEC. 2. CREDIT FOR CONTRIBUTIONS TO 529 PLANS.
+
+       (a) In General.--Paragraph (1) of section 25B(d) of the 
+     Internal Revenue Code of 1986 is amended by striking ``and'' 
+     at the end of subparagraph (B)(ii), by striking the period at 
+     the end of subparagraph (C) and inserting ``, and'', and by 
+     adding at the end the following new subparagraph:
+       ``(D) the amount of the contributions to qualified tuition 
+     programs described in paragraph (2) made by the eligible 
+     individual.''.
+       (b) Contributions to Qualified Tuition Programs.--
+     Subsection (d) of section 25B of the Internal Revenue Code of 
+     1986 is amended by redesignating paragraph (2) as paragraph 
+     (3) and by inserting after paragraph (1) the following new 
+     paragraph:
+       ``(2) Contributions to qualified tuition programs.--
+       ``(A) In general.--The term `contributions to qualified 
+     tuition programs' means any purchase or contribution 
+     described in paragraph (1)(A) of section 529(b) to a 
+     qualified tuition program (as defined in such section) if--
+       ``(i) the eligible individual has the power to authorize 
+     distributions and otherwise administer the account, and
+       ``(ii) the designated beneficiary of such purchase or 
+     contribution is the eligible individual, the eligible 
+     individual's spouse, or an individual with respect to whom 
+     the eligible individual is allowed a deduction under section 
+     151.
+       ``(B) Limitation based on compensation.--The amount treated 
+     as a qualified savings contribution by reason of subparagraph 
+     (A) for any taxable year shall not exceed the sum of--
+       ``(i) the compensation (as defined in section 219(f)(1)) 
+     includible in the eligible individual's gross income for the 
+     taxable year, and
+       ``(ii) the amount excluded from the eligible individual's 
+     gross income under section 112 (relating to combat pay) for 
+     such year.
+       ``(C) Determination of adjusted gross income.--Solely for 
+     purposes of determining the applicable percentage under 
+     subsection (b) which applies with respect to the amount 
+     treated as contributions to qualified tuition programs, 
+     adjusted gross income (determined without regard to this 
+     subparagraph) shall be increased by the excess (if any) of--
+       ``(i) the social security benefits received during the 
+     taxable year (within the meaning of section 86), over
+       ``(ii) the amount included in gross income for such year 
+     under section 86.''.
+       (c) Conforming Amendments.--
+       (1) Section 25B of the Internal Revenue Code of 1986 is 
+     amended by striking ``qualified retirement savings'' each 
+     place it appears and inserting ``qualified savings''.
+       (2) The heading of subsection (d) of section 25B of such 
+     Code is amended by striking ``Retirement''.
+       (3) Subparagraph (A) of section 25B(d)(3) of such Code, as 
+     redesignated by subsection (a), is amended--
+       (A) by striking ``paragraph (1)'' the first place it 
+     appears and inserting ``paragraph (1) or (2)'', and
+       (B) by striking ``paragraph (1)'' the second place it 
+     appears and inserting ``paragraph (1), or (2), as the case 
+     may be,''.
+       (4) The heading for section 25B of such Code is amended by 
+     striking ``and ira contributions'' and inserting ``, ira 
+     contributions, and qualified tuition program contributions''.
+       (5) The table of sections for subpart A of part IV of 
+     subchapter A of chapter 1 of such Code is amended by striking 
+     the item relating to section 25B and inserting the following 
+     new item:
+
+``Sec. 25B. Elective deferrals, IRA contributions, and qualified 
+              tuition program contributions by certain individuals.''.
+
+       (d) Effective Date.--The amendments made by this section 
+     shall apply to contributions made after December 31, 2014, in 
+     taxable years ending after such date.
+
+     SEC. 3. EXCLUSION FROM GROSS INCOME FOR EMPLOYER 
+                   CONTRIBUTIONS TO QUALIFIED TUITION PROGRAMS.
+
+       (a) In General.--Part III of subchapter B of chapter 1 of 
+     the Internal Revenue Code of 1986 is amended by inserting 
+     after section 127 the following new section:
+
+     ``SEC. 127A. EMPLOYER CONTRIBUTIONS TO QUALIFIED TUITION 
+                   PROGRAMS.
+
+       ``(a) In General.--Gross income of an employee does not 
+     include amounts paid by the employer as contributions to a 
+     qualified tuition program held by the employee or spouse of 
+     the employee if the contributions are made pursuant to a 
+     program which is described in subsection (c).
+       ``(b) Maximum Exclusion.--The amount excluded from the 
+     gross income of an employee under this section for the 
+     taxable year shall not exceed $600.
+       ``(c) Qualified Tuition Assistance Program.--For purposes 
+     of this section, a qualified tuition assistance program is a 
+     separate written plan of an employer for the benefit of such 
+     employer's employees--
+       ``(1) under which the employer makes matching contributions 
+     to qualified tuition programs of--
+       ``(A) such employees,
+       ``(B) their spouses, or
+       ``(C) any individual with respect to whom such an employee 
+     or spouse--
+       ``(i) is allowed a deduction under section 151, and
+       ``(ii) has the power to authorize distributions and 
+     otherwise administer such individual's account under the 
+     qualified tuition program, and
+       ``(2) which meets requirements similar to the requirements 
+     of paragraphs (2), (3), (4), (5), and (6) of section 127(b).
+       ``(d) Definitions and Special Rules.--For purposes of this 
+     section--
+       ``(1) Qualified tuition program.--The term `qualified 
+     tuition program' means a qualified tuition program as defined 
+     in section 529(b).
+       ``(2) Employee and employer.--The terms `employee' and 
+     `employer' shall have the meaning given such terms by 
+     paragraphs (2) and (3), respectively, of section 127(c).
+       ``(3) Applicable rules.--Rules similar to the rules of 
+     paragraphs (4), (5), (6), and (7) of section 127(c) shall 
+     apply.
+       ``(e) Inflation Adjustment.--
+       ``(1) In general.--In the case of any taxable year 
+     beginning in a calendar year after 2015, the $600 amount 
+     contained in subsection (b)(1) shall be increased by an 
+     amount equal to--
+       ``(A) such dollar amount, multiplied by
+       ``(B) the cost-of-living adjustment determined under 
+     section 1(f)(3) for the calendar year in which the taxable 
+     year begins, determined by substituting `calendar year 2014' 
+     for `calendar year 1992' in subparagraph (B) thereof.
+
+     Any increase determined under the preceding sentence shall be 
+     rounded to the nearest multiple of $50.
+       ``(f) Cross Reference.--For reporting and recordkeeping 
+     requirements, see section 6039D.''.
+       (b) Exclusion From Employment Taxes.--
+       (1) Sections 3121(a)(18), 3306(b)(13), and 3401(a)(18) of 
+     such Code are each amended by inserting ``, 127A'' after 
+     ``127'' each place it appears.
+       (2) Section 3231(e)(6) of such Code is amended by striking 
+     ``section 127'' and inserting ``section 127 or 127A''.
+       (c) Reporting and Recordkeeping Requirements.--Section 
+     6039D(d)(1) of such Code is amended by inserting ``, 127A'' 
+     after ``127''.
+       (d) Other Conforming Amendments.--
+       (1) Sections 125(f), 414(n)(3)(C), and 414(t)(2) of such 
+     Code are each amended by inserting ``, 127A'' after ``127'' 
+     each place it appears.
+       (2) Section 132(j)(8) of such Code is amended by striking 
+     ``section 127'' and inserting ``section 127 or 127A''.
+       (3) Section 1397(a)(2)(A) of such Code is amended by 
+     inserting at the end the following new clause:
+       ``(iii) Any amount paid or incurred by an employer which is 
+     excludable from the gross income of an employee under section 
+     127A, but only to the extent paid or incurred to a person not 
+     related to the employer.''.
+       (4) Section 209(a)(15) of the Social Security Act (42 
+     U.S.C. 409(a)(15)) is amended by striking ``or 129'' and 
+     inserting ``, 127A, or 129''.
+       (e) Clerical Amendment.--The table of sections for part III 
+     of subchapter B of chapter 1 of such Code is amended by 
+     inserting after the item relating to section 127 the 
+     following new item:
+
+``Sec. 127A. Employer contributions to qualified tuition programs.''.
+
+       (f) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+                                 ______
+```
