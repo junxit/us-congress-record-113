@@ -1,0 +1,26 @@
+---
+granule: CRECB-2014-pt11-Pg15232-2
+date: 2014-09-18
+edition: CRECB
+section: HOUSE
+page: 15232
+---
+
+# SENATE BILL REFERRED
+
+```
+                          SENATE BILL REFERRED
+
+  A bill of the Senate of the following title was taken from the 
+Speaker's table and, under the rule, referred as follows:
+
+       S. 2651. An act to repeal certain mandates of the 
+     Department of Homeland Security Office of Inspector General; 
+     to the Committee on Transportation and Infrastructure; in 
+     addition, to the Committee on Homeland Security for a period 
+     to be subsequently determined by the Speaker, in each case 
+     for consideration of such provisions as fall within the 
+     jurisdiction of the committee concerned.
+
+                          ____________________
+```
