@@ -1,0 +1,32 @@
+---
+granule: CREC-2014-11-12-pt1-PgS5885-2
+date: 2014-11-12
+edition: CREC
+section: SENATE
+page: S5885
+citation: 160 Cong. Rec. S5885
+---
+
+# PRAYER
+
+```
+                                 PRAYER
+
+  The Chaplain, Dr. Barry C. Black, offered the following prayer:
+  Let us pray.
+  Eternal God, our hope for the years to come, as we prepare to turn to 
+a new chapter in U.S. Senate history, we pause to acknowledge that You 
+are our light and salvation. Lord, You are the strength of our lives, 
+enabling us to move confidently toward the future.
+  Empower our lawmakers who are coming and going, sustaining them in 
+all of their tomorrows. Bless also the many other laborers who will be 
+leaving us, who faithfully served without fanfare. Lord, reward their 
+fidelity with Heaven's commendation. As our Senators seek to respond to 
+the voices of the American people, may they make it their top priority 
+to listen to Your whisper. May pleasing You be their greatest desire. 
+Let Your Kingdom come and Your will be done on Earth as it is in 
+Heaven.
+  We pray in Your sovereign Name. Amen.
+
+                          ____________________
+```
