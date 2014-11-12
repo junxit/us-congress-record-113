@@ -1,0 +1,46 @@
+---
+granule: CRECB-2014-pt11-Pg15606-2
+date: 2014-11-12
+edition: CRECB
+section: EXTENSIONS
+page: 15606
+---
+
+# ON INTRODUCING A RESOLUTION HONORING MALALA YOUSAFZAI
+
+```
+         ON INTRODUCING A RESOLUTION HONORING MALALA YOUSAFZAI
+
+                                 ______
+                                 
+
+                         HON. ALCEE L. HASTINGS
+
+                               of florida
+
+                    in the house of representatives
+
+                      Wednesday, November 12, 2014
+
+  Mr. HASTINGS of Florida. Mr. Speaker, I rise today to introduce a 
+Resolution Congratulating and Honoring Malala Yousafzai, Recipient of 
+the 2014 Nobel Peace Prize.
+  I am also pleased to be joined by Representatives McGovern, Brown, 
+Wilson, Meeks, Rangel, Cohen, Scott, Gabbard, Frankel, Lowenthal, 
+Wasserman Schultz, Clawson, and Castor in honoring 2014 Nobel Peace 
+Prize recipient Malala Yousafzai for her outstanding contributions to 
+global education equality. As the youngest Nobel laureate in history, 
+Ms. Yousafzai has distinguished herself as a courageous and tireless 
+activist for gender equality in education despite being met with great 
+adversity. After surviving an assassination attempt by Taliban gunmen 
+she has emerged as a leading advocate for gender equality in education 
+in a time when approximately 13 million school age girls in her home 
+country of Pakistan remain deprived of an education and where girls' 
+schools continue to be targeted by militants. Her strength, 
+determination and accomplishments are deserving of recognition.
+  I welcome my colleagues in the House to join me in honoring and 
+congratulating Malala Yousafzai on receiving the 2014 Nobel Peace Prize 
+by becoming a co-sponsor of this resolution.
+
+                          ____________________
+```
