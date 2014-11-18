@@ -1,0 +1,19 @@
+---
+granule: CREC-2014-11-18-pt1-PgH8042-7
+date: 2014-11-18
+edition: CREC
+section: HOUSE
+page: H8042
+citation: 160 Cong. Rec. H8042
+---
+
+# ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+```
+                ANNOUNCEMENT BY THE SPEAKER PRO TEMPORE
+
+  The SPEAKER pro tempore. The Chair will entertain up to 15 requests 
+for 1-minute speeches on each side of the aisle.
+
+                          ____________________
+```
