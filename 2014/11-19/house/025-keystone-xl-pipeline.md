@@ -1,0 +1,37 @@
+---
+granule: CREC-2014-11-19-pt1-PgH8078
+date: 2014-11-19
+edition: CREC
+section: HOUSE
+page: H8078
+citation: 160 Cong. Rec. H8078
+---
+
+# KEYSTONE XL PIPELINE
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                          KEYSTONE XL PIPELINE
+
+  (Mrs. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Mrs. FOXX. Mr. Speaker, yesterday the Senate rejected legislation to 
+approve the Keystone XL pipeline. Meanwhile, the House has passed 
+legislation to authorize building the pipeline nine times.
+  There is no good reason to continue to delay this project, which will 
+create tens of thousands of jobs and has strong bipartisan support.
+  Keystone XL is the most studied pipeline in our Nation's history. 
+Thousands of pages prove its worth to our economy and national interest 
+and further document its safety. It will spur job creation, help us on 
+our way to energy independence, and increase access to affordable North 
+American oil.
+  For more than 6 years, supporters of the Keystone XL pipeline have 
+been fighting to secure the necessary approval that would allow the 
+U.S. to take advantage of vital oil production in Canada and the 
+northern United States. It appears supporters will have to wait a 
+little longer before the Senate finally acts in America's economic and 
+energy interests.
+
+                          ____________________
+```

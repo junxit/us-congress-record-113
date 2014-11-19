@@ -1,0 +1,66 @@
+---
+granule: CREC-2014-11-19-pt1-PgS6162
+date: 2014-11-19
+edition: CREC
+section: SENATE
+page: S6162
+citation: 160 Cong. Rec. S6162
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+        MARK R. ROSEKIND, OF CALIFORNIA, TO BE ADMINISTRATOR OF 
+     THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION, VICE 
+     DAVID L. STRICKLAND, RESIGNED.
+
+
+                     ELECTION ASSISTANCE COMMISSION
+
+        MATTHEW STUART BUTLER, OF OHIO, TO BE A MEMBER OF THE 
+     ELECTION ASSISTANCE COMMISSION FOR A TERM EXPIRING DECEMBER 
+     12, 2015, VICE ROSEMARY E. RODRIGUEZ, TERM EXPIRED.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be brigadier general
+
+COL. JAMES J. BURKS
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be admiral
+
+VICE ADM. SCOTT H. SWIFT
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SPECIALIST CORPS 
+     UNDER TITLE 10, U.S.C., SECTIONS 624 AND 3064:
+
+                        To be lieutenant colonel
+
+JAY E. CLASING
+
+                          ____________________
+```
