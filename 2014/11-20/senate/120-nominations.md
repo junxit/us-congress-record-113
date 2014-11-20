@@ -1,0 +1,31 @@
+---
+granule: CREC-2014-11-20-pt1-PgS6222-8
+date: 2014-11-20
+edition: CREC
+section: SENATE
+page: S6222
+citation: 160 Cong. Rec. S6222
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+        ANN DONNELLY, OF NEW YORK, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE EASTERN DISTRICT OF NEW YORK, VICE SANDRA L. 
+     TOWNES, RETIRING.
+        ROSEANN A. KETCHMARK, OF MISSOURI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE WESTERN DISTRICT OF MISSOURI, VICE 
+     GARY A. FENNER, RETIRING.
+        TRAVIS RANDALL MCDONOUGH, OF TENNESSEE, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE EASTERN DISTRICT OF TENNESSEE, 
+     VICE CURTIS L. COLLIER, RETIRED.
+
+                          ____________________
+```
