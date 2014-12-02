@@ -1,0 +1,31 @@
+---
+granule: CRECB-2014-pt12-Pg16392-6
+date: 2014-12-02
+edition: CRECB
+section: SENATE
+page: 16392
+---
+
+# SCHEDULE
+
+```
+                                SCHEDULE
+
+  Mr. REID. Following my remarks and those of the Republican leader, 
+the Senate will resume executive session. There will be four rollcall 
+votes at 10:30 a.m. on the confirmation of the Mamet and Bell 
+nominations and cloture on the Coloretti and Adler nominations.
+  The Senate will recess from 12:30 p.m. to 2:15 p.m. to allow for the 
+weekly caucus meetings.
+  There will be a series of three votes at 4 p.m. on confirmation of 
+the Coloretti and Adler nominations and cloture on the Burrows 
+nomination.
+  I suggest the absence of a quorum.
+  The PRESIDENT pro tempore. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. REID. I ask unanimous consent that the order for the quorum call 
+be rescinded.
+  The VICE PRESIDENT. Without objection, it is so ordered.
+
+                          ____________________
+```
