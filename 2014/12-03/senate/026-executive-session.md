@@ -1,0 +1,57 @@
+---
+granule: CRECB-2014-pt12-Pg16568-5
+date: 2014-12-03
+edition: CRECB
+section: SENATE
+page: 16568
+---
+
+# EXECUTIVE SESSION
+
+```
+                           EXECUTIVE SESSION
+
+                                 ______
+                                 
+
+NOMINATION OF JOSEPH F. LEESON, JR., TO BE UNITED STATES DISTRICT JUDGE 
+                FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+  Mr. REID. I now move to proceed to executive session to consider 
+Calendar No. 1040.
+  The PRESIDING OFFICER. The question is on agreeing to the motion.
+  The motion was agreed to.
+  The PRESIDING OFFICER. The clerk will report the nomination.
+  The assistant legislative clerk read the nomination of Joseph F. 
+Leeson, Jr., of Pennsylvania, to be United States District Judge for 
+the Eastern District of Pennsylvania.
+
+
+                             Cloture Motion
+
+  Mr. REID. Mr. President, there is a cloture motion at the desk that I 
+ask to have reported.
+  The PRESIDING OFFICER. The cloture motion having been presented under 
+rule XXII, the Chair directs the clerk to read the motion.
+  The assistant legislative clerk read as follows:
+
+                             Cloture Motion
+
+       We, the undersigned Senators, in accordance with the 
+     provisions of rule XXII of the Standing Rules of the Senate, 
+     hereby move to bring to a close debate on the nomination of 
+     Joseph F. Leeson, Jr., of Pennsylvania, to be United States 
+     District Judge for the Eastern District of Pennsylvania.
+         Harry Reid, Patrick J. Leahy, Christopher A. Coons, 
+           Dianne Feinstein, Richard J. Durbin, Richard 
+           Blumenthal, Brian Schatz, Debbie Stabenow, Michael F. 
+           Bennet, Robert P. Casey, Jr., Jeff Merkley, Christopher 
+           Murphy, Edward J. Markey, Al Franken, Tom Harkin, 
+           Sheldon Whitehouse, Angus S. King, Jr.
+
+  Mr. REID. I ask unanimous consent that the mandatory quorum under 
+rule XXII be waived.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```

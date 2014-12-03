@@ -1,0 +1,3345 @@
+---
+granule: CRECB-2014-pt12-Pg16464-7
+date: 2014-12-03
+edition: CRECB
+section: HOUSE
+page: 16464
+---
+
+# HOWARD COBLE COAST GUARD AND MARITIME TRANSPORTATION ACT OF 2014
+
+```
+    HOWARD COBLE COAST GUARD AND MARITIME TRANSPORTATION ACT OF 2014
+
+  Mr. HUNTER. Mr. Speaker, I move to suspend the rules and pass the 
+bill
+
+[[Page 16465]]
+
+(H.R. 5769) to authorize appropriations for the Coast Guard for fiscal 
+year 2015, and for other purposes.
+  The Clerk read the title of the bill.
+  The text of the bill is as follows:
+
+                               H.R. 5769
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Howard Coble Coast Guard and 
+     Maritime Transportation Act of 2014''.
+
+     SEC. 2. TABLE OF CONTENTS.
+
+       The table of contents for this Act is the following:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+
+                         TITLE I--AUTHORIZATION
+
+Sec. 101. Authorization of appropriations.
+Sec. 102. Authorized levels of military strength and training.
+
+                         TITLE II--COAST GUARD
+
+Sec. 201. Commissioned officers.
+Sec. 202. Commandant; appointment.
+Sec. 203. Prevention and response workforces.
+Sec. 204. Centers of expertise.
+Sec. 205. Penalties.
+Sec. 206. Agreements.
+Sec. 207. Tuition assistance program coverage of textbooks and other 
+              educational materials.
+Sec. 208. Coast Guard housing.
+Sec. 209. Lease authority.
+Sec. 210. Notification of certain determinations.
+Sec. 211. Annual Board of Visitors.
+Sec. 212. Flag officers.
+Sec. 213. Repeal of limitation on medals of honor.
+Sec. 214. Coast Guard family support and child care.
+Sec. 215. Mission need statement.
+Sec. 216. Transmission of annual Coast Guard authorization request.
+Sec. 217. Inventory of real property.
+Sec. 218. Retired service members and dependents serving on advisory 
+              committees.
+Sec. 219. Active duty for emergency augmentation of regular forces.
+Sec. 220. Acquisition workforce expedited hiring authority.
+Sec. 221. Coast Guard administrative savings.
+Sec. 222. Technical corrections to title 14.
+Sec. 223. Multiyear procurement authority for Offshore Patrol Cutters.
+Sec. 224. Maintaining Medium Endurance Cutter mission capability.
+Sec. 225. Aviation capability in the Great Lakes region.
+Sec. 226. Gaps in writings on Coast Guard history.
+Sec. 227. Officer evaluation reports.
+Sec. 228. Improved safety information for vessels.
+Sec. 229. E-LORAN.
+Sec. 230. Analysis of resource deficiencies with respect to maritime 
+              border security.
+Sec. 231. Modernization of National Distress and Response System.
+Sec. 232. Report reconciling maintenance and operational priorities on 
+              the Missouri River.
+Sec. 233. Maritime Search and Rescue Assistance Policy assessment.
+
+                   TITLE III--SHIPPING AND NAVIGATION
+
+Sec. 301. Repeal.
+Sec. 302. Donation of historical property.
+Sec. 303. Small shipyards.
+Sec. 304. Drug testing reporting.
+Sec. 305. Opportunities for sea service veterans.
+Sec. 306. Clarification of high-risk waters.
+Sec. 307. Technical corrections.
+Sec. 308. Report.
+Sec. 309. Fishing safety grant programs.
+Sec. 310. Establishment of Merchant Marine Personnel Advisory 
+              Committee.
+Sec. 311. Travel and subsistence costs for prevention services.
+Sec. 312. Prompt intergovernmental notice of marine casualties.
+Sec. 313. Area Contingency Plans.
+Sec. 314. International ice patrol reform.
+Sec. 315. Offshore supply vessel third-party inspection.
+Sec. 316. Watches.
+Sec. 317. Coast Guard response plan requirements.
+Sec. 318. Regional Citizens' Advisory Council.
+Sec. 319. Uninspected passenger vessels in the United States Virgin 
+              Islands.
+Sec. 320. Treatment of abandoned seafarers.
+Sec. 321. Enforcement.
+Sec. 322. Coast Guard regulations.
+Sec. 323. Website.
+
+                 TITLE IV--FEDERAL MARITIME COMMISSION
+
+Sec. 401. Authorization of appropriations.
+Sec. 402. Award of reparations.
+Sec. 403. Terms of Commissioners.
+
+                TITLE V--ARCTIC MARITIME TRANSPORTATION
+
+Sec. 501. Arctic maritime transportation.
+Sec. 502. Arctic maritime domain awareness.
+Sec. 503. IMO Polar Code negotiations.
+Sec. 504. Forward operating facilities.
+Sec. 505. Icebreakers.
+Sec. 506. Icebreaking in polar regions.
+
+                        TITLE VI--MISCELLANEOUS
+
+Sec. 601. Distant water tuna fleet.
+Sec. 602. Extension of moratorium.
+Sec. 603. National maritime strategy.
+Sec. 604. Waivers.
+Sec. 605. Competition by United States flag vessels.
+Sec. 606. Vessel requirements for notices of arrival and departure and 
+              automatic identification system.
+Sec. 607. Conveyance of Coast Guard property in Rochester, New York.
+Sec. 608. Conveyance of certain property in Gig Harbor, Washington.
+Sec. 609. Vessel determination.
+Sec. 610. Safe vessel operation in Thunder Bay.
+Sec. 611. Parking facilities.
+
+                         TITLE I--AUTHORIZATION
+
+     SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+       Funds are authorized to be appropriated for fiscal year 
+     2015 for necessary expenses of the Coast Guard as follows:
+       (1) For the operation and maintenance of the Coast Guard, 
+     $6,981,036,000.
+       (2) For the acquisition, construction, rebuilding, and 
+     improvement of aids to navigation, shore and offshore 
+     facilities, vessels, and aircraft, including equipment 
+     related thereto, $1,546,448,000, to remain available until 
+     expended.
+       (3) For the Coast Guard Reserve program, including 
+     personnel and training costs, equipment, and services, 
+     $140,016,000.
+       (4) For environmental compliance and restoration of Coast 
+     Guard vessels, aircraft, and facilities (other than parts and 
+     equipment associated with operation and maintenance), 
+     $16,701,000, to remain available until expended.
+       (5) To the Commandant of the Coast Guard for research, 
+     development, test, and evaluation of technologies, materials, 
+     and human factors directly related to improving the 
+     performance of the Coast Guard's mission with respect to 
+     search and rescue, aids to navigation, marine safety, marine 
+     environmental protection, enforcement of laws and treaties, 
+     ice operations, oceanographic research, and defense 
+     readiness, $19,890,000.
+       (6) For alteration or removal of bridges over navigable 
+     waters of the United States constituting obstructions to 
+     navigation, and for personnel and administrative costs 
+     associated with the Alteration of Bridges Program, 
+     $16,000,000.
+
+     SEC. 102. AUTHORIZED LEVELS OF MILITARY STRENGTH AND 
+                   TRAINING.
+
+       (a) Active Duty Strength.--The Coast Guard is authorized an 
+     end-of-year strength for active duty personnel of 43,000 for 
+     fiscal year 2015.
+       (b) Military Training Student Loads.--The Coast Guard is 
+     authorized average military training student loads for fiscal 
+     year 2015 as follows:
+       (1) For recruit and special training, 2,500 student years.
+       (2) For flight training, 165 student years.
+       (3) For professional training in military and civilian 
+     institutions, 350 student years.
+       (4) For officer acquisition, 1,200 student years.
+
+                         TITLE II--COAST GUARD
+
+     SEC. 201. COMMISSIONED OFFICERS.
+
+       Section 42(a) of title 14, United States Code, is amended 
+     by striking ``7,200'' and inserting ``6,900''.
+
+     SEC. 202. COMMANDANT; APPOINTMENT.
+
+       Section 44 of title 14, United States Code, is amended by 
+     inserting after the first sentence the following: ``The term 
+     of an appointment, and any reappointment, shall begin on June 
+     1 of the appropriate year and end on May 31 of the 
+     appropriate year, except that, in the event of death, 
+     retirement, resignation, or reassignment, or when the needs 
+     of the Service demand, the Secretary may alter the date on 
+     which a term begins or ends if the alteration does not result 
+     in the term exceeding a period of 4 years.''.
+
+     SEC. 203. PREVENTION AND RESPONSE WORKFORCES.
+
+       Section 57 of title 14, United States Code, is amended--
+       (1) in subsection (b)--
+       (A) in paragraph (2) by striking ``or'' at the end;
+       (B) in paragraph (3) by striking the period at the end and 
+     inserting a semicolon; and
+       (C) by adding at the end the following:
+       ``(4) waterways operations manager shall have knowledge, 
+     skill, and practical experience with respect to marine 
+     transportation system management; or
+       ``(5) port and facility safety and security specialist 
+     shall have knowledge, skill, and practical experience with 
+     respect to the safety, security, and environmental protection 
+     responsibilities associated with maritime ports and 
+     facilities.'';
+       (2) in subsection (c) by striking ``or marine safety 
+     engineer'' and inserting ``marine safety engineer, waterways 
+     operations manager, or port and facility safety and security 
+     specialist''; and
+       (3) in subsection (f)(2) by striking ``investigator or 
+     marine safety engineer.'' and inserting ``investigator, 
+     marine safety engineer, waterways operations manager, or port 
+     and facility safety and security specialist.''.
+
+[[Page 16466]]
+
+
+
+     SEC. 204. CENTERS OF EXPERTISE.
+
+       Section 58(b) of title 14, United States Code, is amended 
+     to read as follows:
+       ``(b) Missions.--Any center established under subsection 
+     (a) shall--
+       ``(1) promote, facilitate, and conduct--
+       ``(A) education;
+       ``(B) training; and
+       ``(C) activities authorized under section 93(a)(4);
+       ``(2) be a repository of information on operations, 
+     practices, and resources related to the mission for which the 
+     center was established; and
+       ``(3) perform and support the mission for which the center 
+     was established.''.
+
+     SEC. 205. PENALTIES.
+
+       (a) Aids to Navigation and False Distress Messages.--
+     Chapter 5 of title 14, United States Code, is amended--
+       (1) in section 83 by striking ``$100'' and inserting 
+     ``$1,500'';
+       (2) in section 84 by striking ``$500'' and inserting 
+     ``$1,500'';
+       (3) in section 85 by striking ``$100'' and inserting 
+     ``$1,500''; and
+       (4) in section 88(c)(2) by striking ``$5,000'' and 
+     inserting ``$10,000''.
+       (b) Unauthorized Use of Words ``Coast Guard''.--Section 639 
+     of title 14, United States Code, is amended by striking 
+     ``$1,000'' and inserting ``$10,000''.
+
+     SEC. 206. AGREEMENTS.
+
+       (a) In General.--Section 93(a)(4) of title 14, United 
+     States Code, is amended--
+       (1) by striking ``, investigate'' and inserting ``and 
+     investigate''; and
+       (2) by striking ``, and cooperate and coordinate such 
+     activities with other Government agencies and with private 
+     agencies''.
+       (b) Authority.--Chapter 5 of title 14, United States Code, 
+     as amended by this Act, is further amended by adding at the 
+     end the following:
+
+     ``Sec. 102. Agreements
+
+       ``(a) In General.--In carrying out section 93(a)(4), the 
+     Commandant may--
+       ``(1) enter into cooperative agreements, contracts, and 
+     other agreements with--
+       ``(A) Federal entities;
+       ``(B) other public or private entities in the United 
+     States, including academic entities; and
+       ``(C) foreign governments with the concurrence of the 
+     Secretary of State; and
+       ``(2) impose on and collect from an entity subject to an 
+     agreement or contract under paragraph (1) a fee to assist 
+     with expenses incurred in carrying out such section.
+       ``(b) Deposit and Use of Fees.--Fees collected under this 
+     section shall be deposited in the general fund of the 
+     Treasury as offsetting receipts. The fees may be used, to the 
+     extent provided in advance in an appropriation law, only to 
+     carry out activities under section 93(a)(4).''.
+       (c) Clerical Amendment.--The analysis for such chapter is 
+     amended by adding at the end the following:
+
+``102. Agreements.''.
+
+     SEC. 207. TUITION ASSISTANCE PROGRAM COVERAGE OF TEXTBOOKS 
+                   AND OTHER EDUCATIONAL MATERIALS.
+
+       Section 93(a)(7) of title 14, United States Code, is 
+     amended by inserting ``and the textbooks, manuals, and other 
+     materials required as part of such training or course of 
+     instruction'' after ``correspondence courses''.
+
+     SEC. 208. COAST GUARD HOUSING.
+
+       (a) Commandant; General Powers.--Section 93(a)(13) of title 
+     14, United States Code, is amended by striking ``the 
+     Treasury'' and inserting ``the fund established under section 
+     687''.
+       (b) Lighthouse Property.--Section 672a(b) of title 14, 
+     United States Code, is amended by striking ``the Treasury'' 
+     and inserting ``the fund established under section 687''.
+       (c) Conforming Amendment.--Section 687(b) of title 14, 
+     United States Code, is amended by adding at the end the 
+     following:
+       ``(4) Monies received under section 93(a)(13).
+       ``(5) Amounts received under section 672a(b).''.
+
+     SEC. 209. LEASE AUTHORITY.
+
+       Section 93 of title 14, United States Code, is amended by 
+     adding at the end the following:
+       ``(f) Leasing of Tidelands and Submerged Lands.--
+       ``(1) Authority.--The Commandant may lease under subsection 
+     (a)(13) submerged lands and tidelands under the control of 
+     the Coast Guard without regard to the limitation under that 
+     subsection with respect to lease duration.
+       ``(2) Limitation.--The Commandant may lease submerged lands 
+     and tidelands under paragraph (1) only if--
+       ``(A) lease payments are--
+       ``(i) received exclusively in the form of cash;
+       ``(ii) equal to the fair market value of the use of the 
+     leased submerged lands or tidelands for the period during 
+     which such lands are leased, as determined by the Commandant; 
+     and
+       ``(iii) deposited in the fund established under section 
+     687; and
+       ``(B) the lease does not provide authority to or commit the 
+     Coast Guard to use or support any improvements to such 
+     submerged lands or tidelands, or obtain goods or services 
+     from the lessee.''.
+
+     SEC. 210. NOTIFICATION OF CERTAIN DETERMINATIONS.
+
+       (a) In General.--Chapter 5 of title 14, United States Code, 
+     as amended by this Act, is further amended by adding at the 
+     end the following:
+
+     ``Sec. 103. Notification of certain determinations
+
+       ``(a) In General.--At least 90 days prior to making a final 
+     determination that a waterway, or a portion thereof, is 
+     navigable for purposes of the jurisdiction of the Coast 
+     Guard, the Commandant shall provide notification regarding 
+     the proposed determination to--
+       ``(1) the Governor of each State in which such waterway, or 
+     portion thereof, is located;
+       ``(2) the public; and
+       ``(3) the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives.
+       ``(b) Content Requirement.--Each notification provided 
+     under subsection (a) to an entity specified in paragraph (3) 
+     of that subsection shall include--
+       ``(1) an analysis of whether vessels operating on the 
+     waterway, or portion thereof, subject to the proposed 
+     determination are subject to inspection or similar regulation 
+     by State or local officials;
+       ``(2) an analysis of whether operators of commercial 
+     vessels on such waterway, or portion thereof, are subject to 
+     licensing or similar regulation by State or local officials; 
+     and
+       ``(3) an estimate of the annual costs that the Coast Guard 
+     may incur in conducting operations on such waterway, or 
+     portion thereof.''.
+       (b) Clerical Amendment.--The analysis for such chapter, as 
+     amended by this Act, is further amended by adding at the end 
+     the following:
+
+``103. Notification of certain determinations.''.
+
+     SEC. 211. ANNUAL BOARD OF VISITORS.
+
+       Section 194 of title 14, United States Code, is amended to 
+     read as follows:
+
+     ``Sec. 194. Annual Board of Visitors
+
+       ``(a) In General.--A Board of Visitors to the Coast Guard 
+     Academy is established to review and make recommendations on 
+     the operation of the Academy.
+       ``(b) Membership.--
+       ``(1) In general.--The membership of the Board shall 
+     consist of the following:
+       ``(A) The chairman of the Committee on Commerce, Science, 
+     and Transportation of the Senate, or the chairman's designee.
+       ``(B) The chairman of the Committee on Transportation and 
+     Infrastructure of the House of Representatives, or the 
+     chairman's designee.
+       ``(C) 3 Members of the Senate designated by the Vice 
+     President.
+       ``(D) 4 Members of the House of Representatives designated 
+     by the Speaker of the House of Representatives.
+       ``(E) 6 individuals designated by the President.
+       ``(2) Length of service.--
+       ``(A) Members of congress.--A Member of Congress designated 
+     under subparagraph (C) or (D) of paragraph (1) as a member of 
+     the Board shall be designated as a member in the First 
+     Session of a Congress and serve for the duration of that 
+     Congress.
+       ``(B) Individuals designated by the president.--Each 
+     individual designated by the President under subparagraph (E) 
+     of paragraph (1) shall serve as a member of the Board for 3 
+     years, except that any such member whose term of office has 
+     expired shall continue to serve until a successor is 
+     appointed.
+       ``(3) Death or resignation of a member.--If a member of the 
+     Board dies or resigns, a successor shall be designated for 
+     any unexpired portion of the term of the member by the 
+     official who designated the member.
+       ``(c) Academy Visits.--
+       ``(1) Annual visit.--The Board shall visit the Academy 
+     annually to review the operation of the Academy.
+       ``(2) Additional visits.--With the approval of the 
+     Secretary, the Board or individual members of the Board may 
+     make other visits to the Academy in connection with the 
+     duties of the Board or to consult with the Superintendent of 
+     the Academy.
+       ``(d) Scope of Review.--The Board shall review, with 
+     respect to the Academy--
+       ``(1) the state of morale and discipline;
+       ``(2) the curriculum;
+       ``(3) instruction;
+       ``(4) physical equipment;
+       ``(5) fiscal affairs; and
+       ``(6) other matters relating to the Academy that the Board 
+     determines appropriate.
+       ``(e) Report.--Not later than 60 days after the date of an 
+     annual visit of the Board under subsection (c)(1), the Board 
+     shall submit to the Secretary, the Committee on Commerce, 
+     Science, and Transportation of the Senate, and the Committee 
+     on Transportation and Infrastructure of the House of 
+     Representatives a report on the actions of the Board during 
+     such visit and the recommendations of the Board pertaining to 
+     the Academy.
+       ``(f) Advisors.--If approved by the Secretary, the Board 
+     may consult with advisors in carrying out this section.
+       ``(g) Reimbursement.--Each member of the Board and each 
+     adviser consulted by the Board under subsection (f) shall be 
+     reimbursed, to the extent permitted by law, by
+
+[[Page 16467]]
+
+     the Coast Guard for actual expenses incurred while engaged in 
+     duties as a member or adviser.''.
+
+     SEC. 212. FLAG OFFICERS.
+
+       (a) In General.--Title 14, United States Code, is amended 
+     by inserting after section 295 the following:
+
+     ``Sec. 296. Flag officers
+
+       ``During any period in which the Coast Guard is not 
+     operating as a service in the Navy, section 1216(d) of title 
+     10 does not apply with respect to flag officers of the Coast 
+     Guard.''.
+       (b) Clerical Amendment.--The analysis for chapter 11 of 
+     title 14, United States Code, is amended by inserting after 
+     the item relating to section 295 the following:
+
+``296. Flag officers.''.
+
+     SEC. 213. REPEAL OF LIMITATION ON MEDALS OF HONOR.
+
+       Section 494 of title 14, United States Code, is amended by 
+     striking ``medal of honor,'' each place it appears.
+
+     SEC. 214. COAST GUARD FAMILY SUPPORT AND CHILD CARE.
+
+       (a) In General.--Title 14, United States Code, as amended 
+     by this Act, is further amended by inserting after chapter 13 
+     the following:
+
+        ``CHAPTER 14--COAST GUARD FAMILY SUPPORT AND CHILD CARE
+
+                   ``subchapter i--general provisions
+
+``Sec.
+``531. Work-life policies and programs.
+``532. Surveys of Coast Guard families.
+
+               ``subchapter ii--coast guard family support
+
+``542. Education and training opportunities for Coast Guard spouses.
+``543. Youth sponsorship initiatives.
+
+                ``subchapter iii--coast guard child care
+
+``551. Definitions.
+``553. Child development center standards and inspections.
+``554. Child development center employees.
+``555. Parent partnerships with child development centers.
+
+                   ``SUBCHAPTER I--GENERAL PROVISIONS
+
+     ``Sec. 531. Work-life policies and programs
+
+       ``The Commandant is authorized--
+       ``(1) to establish an office for the purpose of developing, 
+     promulgating, and coordinating policies, programs, and 
+     activities related to the families of Coast Guard members;
+       ``(2) to implement and oversee policies, programs, and 
+     activities described in paragraph (1) as the Commandant 
+     considers necessary; and
+       ``(3) to perform such other duties as the Commandant 
+     considers necessary.
+
+     ``Sec. 532. Surveys of Coast Guard families
+
+       ``(a) Authority.--The Commandant, in order to determine the 
+     effectiveness of Federal policies, programs, and activities 
+     related to the families of Coast Guard members, may survey--
+       ``(1) any Coast Guard member;
+       ``(2) any retired Coast Guard member;
+       ``(3) the immediate family of any Coast Guard member or 
+     retired Coast Guard member; and
+       ``(4) any survivor of a deceased Coast Guard member.
+       ``(b) Voluntary Participation.--Participation in any survey 
+     conducted under subsection (a) shall be voluntary.
+       ``(c) Federal Recordkeeping.--Each person surveyed under 
+     subsection (a) shall be considered an employee of the United 
+     States for purposes of section 3502(3)(A)(i) of title 44.
+
+              ``SUBCHAPTER II--COAST GUARD FAMILY SUPPORT
+
+     ``Sec. 542. Education and training opportunities for Coast 
+       Guard spouses
+
+       ``(a) Tuition Assistance.--The Commandant may provide, 
+     subject to the availability of appropriations, tuition 
+     assistance to an eligible spouse to facilitate the 
+     acquisition of--
+       ``(1) education and training required for a degree or 
+     credential at an accredited college, university, or technical 
+     school in the United States that expands employment and 
+     portable career opportunities for the spouse; or
+       ``(2) education prerequisites and a professional license or 
+     credential required, by a government or government-sanctioned 
+     licensing body, for an occupation that expands employment and 
+     portable career opportunities for the spouse.
+       ``(b) Definitions.--In this section, the following 
+     definitions apply:
+       ``(1) Eligible spouse.--
+       ``(A) In general.--The term `eligible spouse' means the 
+     spouse of a member of the Coast Guard who is serving on 
+     active duty and includes a spouse who receives transitional 
+     compensation under section 1059 of title 10.
+       ``(B) Exclusion.--The term `eligible spouse' does not 
+     include a person who--
+       ``(i) is married to, but legally separated from, a member 
+     of the Coast Guard under a court order or statute of any 
+     State or territorial possession of the United States; or
+       ``(ii) is eligible for tuition assistance as a member of 
+     the Armed Forces.
+       ``(2) Portable career.--The term `portable career' includes 
+     an occupation that requires education, training, or both that 
+     results in a credential that is recognized by an industry, 
+     profession, or specific type of business.
+
+     ``Sec. 543. Youth sponsorship initiatives
+
+       ``(a) In General.--The Commandant is authorized to 
+     establish, within any Coast Guard unit, an initiative to help 
+     integrate into new surroundings the dependent children of 
+     members of the Coast Guard who received permanent change of 
+     station orders.
+       ``(b) Description of Initiative.--An initiative established 
+     under subsection (a) shall--
+       ``(1) provide for the involvement of a dependent child of a 
+     member of the Coast Guard in the dependent child's new Coast 
+     Guard community; and
+       ``(2) primarily focus on preteen and teenaged children.
+       ``(c) Authority.--In carrying out an initiative under 
+     subsection (a), the Commandant may--
+       ``(1) provide to a dependent child of a member of the Coast 
+     Guard information on youth programs and activities available 
+     in the dependent child's new Coast Guard community; and
+       ``(2) enter into agreements with nonprofit entities to 
+     provide youth programs and activities to such child.
+
+                ``SUBCHAPTER III--COAST GUARD CHILD CARE
+
+     ``Sec. 551. Definitions
+
+       ``In this subchapter, the following definitions apply:
+       ``(1) Child abuse and neglect.--The term `child abuse and 
+     neglect' has the meaning given that term in section 3 of the 
+     Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 
+     note).
+       ``(2) Child development center employee.--The term `child 
+     development center employee' means a civilian employee of the 
+     Coast Guard who is employed to work in a Coast Guard child 
+     development center without regard to whether the employee is 
+     paid from appropriated or nonappropriated funds.
+       ``(3) Coast guard child development center.--The term 
+     `Coast Guard child development center' means a facility on 
+     Coast Guard property or on property under the jurisdiction of 
+     the commander of a Coast Guard unit at which child care 
+     services are provided for members of the Coast Guard.
+       ``(4) Competitive service position.--The term `competitive 
+     service position' means a position in the competitive service 
+     (as defined in section 2102 of title 5).
+       ``(5) Family home daycare.--The term `family home daycare' 
+     means home-based child care services provided for a member of 
+     the Coast Guard by an individual who--
+       ``(A) is certified by the Commandant as qualified to 
+     provide home-based child care services; and
+       ``(B) provides home-based child care services on a regular 
+     basis in exchange for monetary compensation.
+
+     ``Sec. 553. Child development center standards and 
+       inspections
+
+       ``(a) Standards.--The Commandant shall require each Coast 
+     Guard child development center to meet standards that the 
+     Commandant considers appropriate to ensure the health, 
+     safety, and welfare of the children and employees at the 
+     center.
+       ``(b) Inspections.--The Commandant shall provide for 
+     regular and unannounced inspections of each Coast Guard child 
+     development center to ensure compliance with this section.
+       ``(c) National Reporting.--
+       ``(1) In general.--The Commandant shall maintain and 
+     publicize a means by which an individual can report, with 
+     respect to a Coast Guard child development center or a family 
+     home daycare--
+       ``(A) any suspected violation of--
+       ``(i) standards established under subsection (a); or
+       ``(ii) any other applicable law or standard;
+       ``(B) suspected child abuse or neglect; or
+       ``(C) any other deficiency.
+       ``(2) Anonymous reporting.--The Commandant shall ensure 
+     that an individual making a report pursuant to paragraph (1) 
+     may do so anonymously if so desired by the individual.
+       ``(3) Procedures.--The Commandant shall establish 
+     procedures for investigating reports made pursuant to 
+     paragraph (1).
+
+     ``Sec. 554. Child development center employees
+
+       ``(a) Training.--
+       ``(1) In general.--The Commandant shall establish a 
+     training program for Coast Guard child development center 
+     employees and satisfactory completion of the training program 
+     shall be a condition of employment for each employee of a 
+     Coast Guard child development center.
+       ``(2) Timing for new hires.--The Commandant shall require 
+     each employee of a Coast Guard child development center to 
+     complete the training program established under paragraph (1) 
+     not later than 6 months after the date on which the employee 
+     is hired.
+       ``(3) Minimum requirements.--The training program 
+     established under paragraph (1) shall include, at a minimum, 
+     instruction with respect to--
+       ``(A) early childhood development;
+       ``(B) activities and disciplinary techniques appropriate to 
+     children of different ages;
+       ``(C) child abuse and neglect prevention and detection; and
+
+[[Page 16468]]
+
+       ``(D) cardiopulmonary resuscitation and other emergency 
+     medical procedures.
+       ``(4) Use of department of defense programs.--The 
+     Commandant may use Department of Defense training programs, 
+     on a reimbursable or nonreimbursable basis, for purposes of 
+     this subsection.
+       ``(b) Training and Curriculum Specialists.--
+       ``(1) Specialist required.--The Commandant shall require 
+     that at least 1 employee at each Coast Guard child 
+     development center be a specialist in training and curriculum 
+     development with appropriate credentials and experience.
+       ``(2) Duties.--The duties of the specialist described in 
+     paragraph (1) shall include--
+       ``(A) special teaching activities;
+       ``(B) daily oversight and instruction of other child care 
+     employees;
+       ``(C) daily assistance in the preparation of lesson plans;
+       ``(D) assisting with child abuse and neglect prevention and 
+     detection; and
+       ``(E) advising the director of the center on the 
+     performance of the other child care employees.
+       ``(3) Competitive service.--Each specialist described in 
+     paragraph (1) shall be an employee in a competitive service 
+     position.
+
+     ``Sec. 555. Parent partnerships with child development 
+       centers
+
+       ``(a) Parent Boards.--
+       ``(1) Formation.--The Commandant shall require that there 
+     be formed at each Coast Guard child development center a 
+     board of parents, to be composed of parents of children 
+     attending the center.
+       ``(2) Functions.--Each board of parents formed under 
+     paragraph (1) shall--
+       ``(A) meet periodically with the staff of the center at 
+     which the board is formed and the commander of the unit 
+     served by the center, for the purpose of discussing problems 
+     and concerns; and
+       ``(B) be responsible, together with the staff of the 
+     center, for coordinating any parent participation initiative 
+     established under subsection (b).
+       ``(3) FACA.--The Federal Advisory Committee Act (5 U.S.C. 
+     App.) does not apply to a board of parents formed under 
+     paragraph (1).
+       ``(b) Parent Participation Initiative.--The Commandant is 
+     authorized to establish a parent participation initiative at 
+     each Coast Guard child development center to encourage and 
+     facilitate parent participation in educational and related 
+     activities at the center.''.
+       (b) Transfer of Provisions.--
+       (1) In general.--
+       (A) Reimbursement for adoption expenses.--Section 514 of 
+     title 14, United States Code, is redesignated as section 541 
+     and transferred to appear before section 542 of such title, 
+     as added by subsection (a) of this section.
+       (B) Child development services.--Section 515 of title 14, 
+     United States Code--
+       (i) is redesignated as section 552 and transferred to 
+     appear after section 551 of such title, as added by 
+     subsection (a) of this section; and
+       (ii) is amended--
+
+       (I) in subsection (b)(2)(B) by inserting ``and whether a 
+     family is participating in an initiative established under 
+     section 555(b)'' after ``family income'';
+       (II) by striking subsections (c) and (e); and
+       (III) by redesignating subsection (d) as subsection (c).
+
+       (C) Dependent school children.--Section 657 of title 14, 
+     United States Code--
+       (i) is redesignated as section 544 and transferred to 
+     appear after section 543 of such title, as added by 
+     subsection (a) of this section; and
+       (ii) is amended in subsection (a) by striking ``Except as 
+     otherwise'' and all that follows through ``the Secretary 
+     may'' and inserting ``The Secretary may''.
+       (2) Conforming amendments.--
+       (A) Part i.--The analysis for part I of title 14, United 
+     States Code, is amended by inserting after the item relating 
+     to chapter 13 the following:
+
+``14. Coast Guard Family Support and Child Care..............531''.....
+
+       (B) Chapter 13.--The analysis for chapter 13 of title 14, 
+     United States Code, is amended--
+       (i) by striking the item relating to section 514; and
+       (ii) by striking the item relating to section 515.
+       (C) Chapter 14.--The analysis for chapter 14 of title 14, 
+     United States Code, as added by subsection (a) of this 
+     section, is amended by inserting--
+       (i) before the item relating to section 542 the following:
+
+``541. Reimbursement for adoption expenses.'';
+       (ii) after the item relating to section 551 the following:
+
+``552. Child development services.''; and
+       (iii) after the item relating to section 543 the following:
+
+``544. Dependent school children.''.
+       (D) Chapter 17.--The analysis for chapter 17 of title 14, 
+     United States Code, is amended by striking the item relating 
+     to section 657.
+       (c) Commandant; General Powers.--Section 93(a)(7) of title 
+     14, United States Code, as amended by this Act, is further 
+     amended by inserting ``, and to eligible spouses as defined 
+     under section 542,'' after ``Coast Guard''.
+       (d) Sense of Congress.--
+       (1) In general.--It is the sense of Congress that the 
+     amount of funds appropriated for a fiscal year for operating 
+     expenses related to Coast Guard child development services 
+     should not be less than the amount of the child development 
+     center fee receipts estimated to be collected by the Coast 
+     Guard during that fiscal year.
+       (2) Child development center fee receipts defined.--In this 
+     subsection, the term ``child development center fee 
+     receipts'' means fees paid by members of the Coast Guard for 
+     child care services provided at Coast Guard child development 
+     centers.
+
+     SEC. 215. MISSION NEED STATEMENT.
+
+       (a) In General.--Section 569 of title 14, United States 
+     Code, is amended to read as follows:
+
+     ``Sec. 569. Mission need statement
+
+       ``(a) In General.--On the date on which the President 
+     submits to Congress a budget for fiscal year 2016 under 
+     section 1105 of title 31, on the date on which the President 
+     submits to Congress a budget for fiscal year 2019 under such 
+     section, and every 4 years thereafter, the Commandant shall 
+     submit to the Committee on Transportation and Infrastructure 
+     of the House of Representatives and the Committee on 
+     Commerce, Science, and Transportation of the Senate an 
+     integrated major acquisition mission need statement.
+       ``(b) Definitions.--In this section, the following 
+     definitions apply:
+       ``(1) Integrated major acquisition mission need 
+     statement.--The term `integrated major acquisition mission 
+     need statement' means a document that--
+       ``(A) identifies current and projected gaps in Coast Guard 
+     mission capabilities using mission hour targets;
+       ``(B) explains how each major acquisition program addresses 
+     gaps identified under subparagraph (A) if funded at the 
+     levels provided for such program in the most recently 
+     submitted capital investment plan; and
+       ``(C) describes the missions the Coast Guard will not be 
+     able to achieve, by fiscal year, for each gap identified 
+     under subparagraph (A).
+       ``(2) Major acquisition program.--The term `major 
+     acquisition program' has the meaning given that term in 
+     section 569a(e).
+       ``(3) Capital investment plan.--The term `capital 
+     investment plan' means the plan required under section 
+     663(a)(1).''.
+       (b) Clerical Amendment.--The analysis for chapter 15 of 
+     title 14, United States Code, is amended by striking the item 
+     relating to section 569 and inserting the following:
+
+``569. Mission need statement.''.
+
+     SEC. 216. TRANSMISSION OF ANNUAL COAST GUARD AUTHORIZATION 
+                   REQUEST.
+
+       (a) In General.--Title 14, United States Code, as amended 
+     by this Act, is further amended by inserting after section 
+     662 the following:
+
+     ``Sec. 662a. Transmission of annual Coast Guard authorization 
+       request
+
+       ``(a) In General.--Not later than 30 days after the date on 
+     which the President submits to Congress a budget for a fiscal 
+     year pursuant to section 1105 of title 31, the Secretary 
+     shall submit to the Committee on Transportation and 
+     Infrastructure of the House of Representatives and the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate a Coast Guard authorization request with respect to 
+     such fiscal year.
+       ``(b) Coast Guard Authorization Request Defined.--In this 
+     section, the term `Coast Guard authorization request' means a 
+     proposal for legislation that, with respect to the Coast 
+     Guard for the relevant fiscal year--
+       ``(1) recommends end strengths for personnel for that 
+     fiscal year, as described in section 661;
+       ``(2) recommends authorizations of appropriations for that 
+     fiscal year, including with respect to matters described in 
+     section 662; and
+       ``(3) addresses any other matter that the Secretary 
+     determines is appropriate for inclusion in a Coast Guard 
+     authorization bill.''.
+       (b) Clerical Amendment.--The analysis for chapter 17 of 
+     title 14, United States Code, as amended by this Act, is 
+     further amended by inserting after the item relating to 
+     section 662 the following:
+
+``662a. Transmission of annual Coast Guard authorization request.''.
+
+     SEC. 217. INVENTORY OF REAL PROPERTY.
+
+       (a) In General.--Chapter 17 of title 14, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 679. Inventory of real property
+
+       ``(a) In General.--Not later than September 30, 2015, the 
+     Commandant shall establish an inventory of all real property, 
+     including submerged lands, under the control of the Coast 
+     Guard, which shall include--
+       ``(1) the size, the location, and any other appropriate 
+     description of each unit of such property;
+       ``(2) an assessment of the physical condition of each unit 
+     of such property, excluding lands;
+       ``(3) a determination of whether each unit of such property 
+     should be--
+
+[[Page 16469]]
+
+       ``(A) retained to fulfill a current or projected Coast 
+     Guard mission requirement; or
+       ``(B) subject to divestiture; and
+       ``(4) other information the Commandant considers 
+     appropriate.
+       ``(b) Inventory Maintenance.--The Commandant shall--
+       ``(1) maintain the inventory required under subsection (a) 
+     on an ongoing basis; and
+       ``(2) update information on each unit of real property 
+     included in such inventory not later than 30 days after any 
+     change relating to the control of such property.
+       ``(c) Recommendations to Congress.--Not later than March 
+     30, 2016, and every 5 years thereafter, the Commandant shall 
+     submit to the Committee on Transportation and Infrastructure 
+     of the House of Representatives and the Committee on 
+     Commerce, Science, and Transportation of the Senate a report 
+     that includes--
+       ``(1) a list of all real property under the control of the 
+     Coast Guard and the location of such property by property 
+     type;
+       ``(2) recommendations for divestiture with respect to any 
+     units of such property; and
+       ``(3) recommendations for consolidating any units of such 
+     property, including--
+       ``(A) an estimate of the costs or savings associated with 
+     each recommended consolidation; and
+       ``(B) a discussion of the impact that such consolidation 
+     would have on Coast Guard mission effectiveness.''.
+       (b) Clerical Amendment.--The analysis for such chapter, as 
+     amended by this Act, is further amended by adding at the end 
+     the following:
+
+``679. Inventory of real property.''.
+
+     SEC. 218. RETIRED SERVICE MEMBERS AND DEPENDENTS SERVING ON 
+                   ADVISORY COMMITTEES.
+
+       (a) In General.--Chapter 17 of title 14, United States 
+     Code, as amended by this Act, is further amended by adding at 
+     the end the following:
+
+     ``Sec. 680. Retired service members and dependents serving on 
+       advisory committees
+
+       ``A committee that--
+       ``(1) advises or assists the Coast Guard with respect to a 
+     function that affects a member of the Coast Guard or a 
+     dependent of such a member; and
+       ``(2) includes in its membership a retired Coast Guard 
+     member or a dependent of such a retired member;
+     shall not be considered an advisory committee under the 
+     Federal Advisory Committee Act (5 U.S.C. App.) solely because 
+     of such membership.''.
+       (b) Clerical Amendment.--The analysis for such chapter, as 
+     amended by this Act, is further amended by inserting after 
+     the item relating to section 679 the following:
+
+``680. Retired service members and dependents serving on advisory 
+              committees.''.
+
+     SEC. 219. ACTIVE DUTY FOR EMERGENCY AUGMENTATION OF REGULAR 
+                   FORCES.
+
+       Section 712(a) of title 14, United States Code, is amended 
+     by striking ``not more than 60 days in any 4-month period 
+     and''.
+
+     SEC. 220. ACQUISITION WORKFORCE EXPEDITED HIRING AUTHORITY.
+
+       Section 404(b) of the Coast Guard Authorization Act of 2010 
+     (Public Law 111-281; 124 Stat. 2951) is amended by striking 
+     ``2015'' and inserting ``2017''.
+
+     SEC. 221. COAST GUARD ADMINISTRATIVE SAVINGS.
+
+       (a) Elimination of Outdated and Duplicative Reports.--
+       (1) Marine industry training.--Section 59 of title 14, 
+     United States Code, is amended--
+       (A) by striking ``(a) In General.--The Commandant'' and 
+     inserting ``The Commandant''; and
+       (B) by striking subsection (b).
+       (2) Operations and expenditures.--Section 651 of title 14, 
+     United States Code, and the item relating to such section in 
+     the analysis for chapter 17 of such title, are repealed.
+       (3) Drug interdiction.--Section 103 of the Coast Guard 
+     Authorization Act of 1996 (14 U.S.C. 89 note), and the item 
+     relating to that section in the table of contents in section 
+     2 of that Act, are repealed.
+       (4) National defense.--Section 426 of the Maritime 
+     Transportation Security Act of 2002 (14 U.S.C. 2 note), and 
+     the item relating to that section in the table of contents in 
+     section 1(b) of that Act, are repealed.
+       (5) Living marine resources.--Section 4(b) of the Cruise 
+     Vessel Security and Safety Act of 2010 (16 U.S.C. 1828 note) 
+     is amended by adding at the end the following: ``No report 
+     shall be required under this subsection, including that no 
+     report shall be required under section 224 of the Coast Guard 
+     and Maritime Transportation Act of 2004 or section 804 of the 
+     Coast Guard and Maritime Transportation Act of 2006, for 
+     fiscal years beginning after fiscal year 2014.''.
+       (b) Consolidation and Reform of Reporting Requirements.--
+       (1) Marine safety.--
+       (A) In general.--Section 2116(d)(2)(B) of title 46, United 
+     States Code, is amended to read as follows:
+       ``(B) on the program's mission performance in achieving 
+     numerical measurable goals established under subsection (b), 
+     including--
+       ``(i) the number of civilian and military Coast Guard 
+     personnel assigned to marine safety positions; and
+       ``(ii) an identification of marine safety positions that 
+     are understaffed to meet the workload required to accomplish 
+     each activity included in the strategy and plans under 
+     subsection (a); and''.
+       (B) Conforming amendment.--Section 57 of title 14, United 
+     States Code, as amended by this Act, is further amended--
+       (i) by striking subsection (e); and
+       (ii) by redesignating subsections (f), (g), and (h) as 
+     subsections (e), (f), and (g) respectively.
+       (2) Minor construction.--Section 656(d)(2) of title 14, 
+     United States Code, is amended to read as follows:
+       ``(2) Report.--Not later than the date on which the 
+     President submits to Congress a budget under section 1105 of 
+     title 31 each year, the Secretary shall submit to the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives and the Committee on Commerce, Science, 
+     and Transportation of the Senate a report describing each 
+     project carried out under paragraph (1), in the most recently 
+     concluded fiscal year, for which the amount expended under 
+     such paragraph for such project was more than $1,000,000. If 
+     no such project was carried out during a fiscal year, no 
+     report under this paragraph shall be required with respect to 
+     that fiscal year.''.
+
+     SEC. 222. TECHNICAL CORRECTIONS TO TITLE 14.
+
+       Title 14, United States Code, as amended by this Act, is 
+     further amended--
+       (1) in section 93(b)(1) by striking ``Notwithstanding 
+     subsection (a)(14)'' and inserting ``Notwithstanding 
+     subsection (a)(13)''; and
+       (2) in section 197(b) by striking ``of Homeland Security''.
+
+     SEC. 223. MULTIYEAR PROCUREMENT AUTHORITY FOR OFFSHORE PATROL 
+                   CUTTERS.
+
+       In fiscal year 2015 and each fiscal year thereafter, the 
+     Secretary of the department in which the Coast Guard is 
+     operating may enter into, in accordance with section 2306b of 
+     title 10, United States Code, multiyear contracts for the 
+     procurement of Offshore Patrol Cutters and associated 
+     equipment.
+
+     SEC. 224. MAINTAINING MEDIUM ENDURANCE CUTTER MISSION 
+                   CAPABILITY.
+
+       Not later than 120 days after the date of enactment of this 
+     Act, the Secretary of the department in which the Coast Guard 
+     is operating shall submit to the Committee on Transportation 
+     and Infrastructure of the House of Representatives and the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate a report that includes--
+       (1) a schedule and plan for decommissioning, not later than 
+     September 30, 2029, each of the 210-foot, Reliance-Class 
+     Cutters operated by the Coast Guard on the date of enactment 
+     of this Act;
+       (2) a schedule and plan for enhancing the maintenance or 
+     extending the service life of each of the 270-foot, Famous-
+     Class Cutters operated by the Coast Guard on the date of 
+     enactment of this Act--
+       (A) to maintain the capability of the Coast Guard to carry 
+     out sea-going missions with respect to such Cutters at the 
+     level of capability existing on September 30, 2013; and
+       (B) for the period beginning on the date of enactment of 
+     this Act and ending on the date on which the final Offshore 
+     Patrol Cutter is scheduled to be commissioned under paragraph 
+     (4);
+       (3) an identification of the number of Offshore Patrol 
+     Cutters capable of sea state 5 operations that, if 8 National 
+     Security Cutters are commissioned, are necessary to return 
+     the sea state 5 operating capability of the Coast Guard to 
+     the level of capability that existed prior to the 
+     decommissioning of the first High Endurance Cutter in fiscal 
+     year 2011;
+       (4) a schedule and plan for commissioning the number of 
+     Offshore Patrol Cutters identified under paragraph (3); and
+       (5) a schedule and plan for commissioning, not later than 
+     September 30, 2034, a number of Offshore Patrol Cutters not 
+     capable of sea state 5 operations that is equal to--
+       (A) 25; less
+       (B) the number of Offshore Patrol Cutters identified under 
+     paragraph (3).
+
+     SEC. 225. AVIATION CAPABILITY IN THE GREAT LAKES REGION.
+
+       The Secretary of the department in which the Coast Guard is 
+     operating may--
+       (1) request and accept through a direct military-to-
+     military transfer under section 2571 of title 10, United 
+     States Code, such H-60 helicopters as may be necessary to 
+     establish a year-round operational capability in the Coast 
+     Guard's Ninth District; and
+       (2) use funds provided under section 101 of this Act to 
+     convert such helicopters to Coast Guard MH-60T configuration.
+
+     SEC. 226. GAPS IN WRITINGS ON COAST GUARD HISTORY.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Commandant of the Coast Guard shall submit to the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate and the Committee on Transportation and Infrastructure 
+     of the House of Representatives a report on any gaps that 
+     exist in writings on the history of the Coast Guard. The 
+     report shall address, at a minimum, operations, broad topics, 
+     and biographies with respect to the Coast Guard.
+
+     SEC. 227. OFFICER EVALUATION REPORTS.
+
+       (a) Assessment Required.--Not later than 180 days after the 
+     date of enactment of this Act, the Commandant of the Coast 
+     Guard shall provide to the Committee on Commerce, Science, 
+     and Transportation of the
+
+[[Page 16470]]
+
+     Senate and the Committee on Transportation and Infrastructure 
+     of the House of Representatives a written assessment of the 
+     Coast Guard's officer evaluation reporting system.
+       (b) Contents of Assessment.--The assessment required under 
+     subsection (a) shall include, at a minimum, an analysis of--
+       (1) the extent to which the Coast Guard's officer 
+     evaluation reports differ in length, form, and content from 
+     the officer fitness reports used by the Navy and other 
+     branches of the Armed Forces;
+       (2) the extent to which differences determined pursuant to 
+     paragraph (1) are the result of inherent differences 
+     between--
+       (A) the Coast Guard and the Navy; and
+       (B) the Coast Guard and other branches of the Armed Forces;
+       (3) the feasibility of more closely aligning and conforming 
+     the Coast Guard's officer evaluation reports with the officer 
+     fitness reports of the Navy and other branches of the Armed 
+     Forces; and
+       (4) the costs and benefits of the alignment and conformity 
+     described in paragraph (3), including with respect to--
+       (A) Coast Guard administrative efficiency;
+       (B) fairness and equity for Coast Guard officers; and
+       (C) carrying out the Coast Guard's statutory mission of 
+     defense readiness, including when operating as a service in 
+     the Navy.
+
+     SEC. 228. IMPROVED SAFETY INFORMATION FOR VESSELS.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Secretary of the department in which the Coast Guard 
+     is operating shall establish a process that allows an 
+     operator of a marine exchange or other non-Federal vessel 
+     traffic information service to use the automatic 
+     identification system to transmit weather, ice, and other 
+     important navigation safety information to vessels.
+
+     SEC. 229. E-LORAN.
+
+       (a) In General.--The Secretary of the department in which 
+     the Coast Guard is operating may not carry out activities 
+     related to the dismantling or disposal of infrastructure that 
+     supported the former LORAN system until the later of--
+       (1) the date that is 1 year after the date of enactment of 
+     this Act; or
+       (2) the date on which the Secretary provides to the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives and the Committee on Commerce, Science, 
+     and Transportation of the Senate notice of a determination by 
+     the Secretary that such infrastructure is not required to 
+     provide a positioning, navigation, and timing system to 
+     provide redundant capability in the event GPS signals are 
+     disrupted.
+       (b) Exception.--Subsection (a) does not apply to activities 
+     necessary for the safety of human life.
+       (c) Agreements.--The Secretary may enter into cooperative 
+     agreements, contracts, and other agreements with Federal 
+     entities and other public or private entities, including 
+     academic entities, to develop a positioning, navigation, and 
+     timing system, including an enhanced LORAN system, to provide 
+     redundant capability in the event GPS signals are disrupted.
+
+     SEC. 230. ANALYSIS OF RESOURCE DEFICIENCIES WITH RESPECT TO 
+                   MARITIME BORDER SECURITY.
+
+       (a) In General.--Not later than 120 days after the date of 
+     enactment of this Act, the Commandant of the Coast Guard 
+     shall provide to the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on 
+     Transportation and Infrastructure and the Committee on 
+     Homeland Security of the House of Representatives a report 
+     describing any Coast Guard resource deficiencies related to--
+       (1) securing maritime borders with respect to the Great 
+     Lakes and the coastal areas of the Southeastern and 
+     Southwestern United States, including with respect to 
+     Florida, California, Puerto Rico, and the United States 
+     Virgin Islands;
+       (2) patrolling and monitoring maritime approaches to the 
+     areas described in paragraph (1); and
+       (3) patrolling and monitoring relevant portions of the 
+     Western Hemisphere Drug Transit Zone.
+       (b) Scope.--In preparing the report under subsection (a), 
+     the Commandant shall consider, at a minimum--
+       (1) the Coast Guard's statutory missions with respect to 
+     migrant interdiction, drug interdiction, defense readiness, 
+     living marine resources, and ports, waterways, and coastal 
+     security;
+       (2) whether Coast Guard missions are being executed to meet 
+     national performance targets set under the National Drug 
+     Control Strategy;
+       (3) the number and types of cutters and other vessels 
+     required to effectively execute Coast Guard missions;
+       (4) the number and types of aircraft, including unmanned 
+     aircraft, required to effectively execute Coast Guard 
+     missions;
+       (5) the number of assets that require upgraded sensor and 
+     communications systems to effectively execute Coast Guard 
+     missions;
+       (6) the Deployable Specialized Forces required to 
+     effectively execute Coast Guard missions; and
+       (7) whether additional shoreside facilities are required to 
+     accommodate Coast Guard personnel and assets in support of 
+     Coast Guard missions.
+
+     SEC. 231. MODERNIZATION OF NATIONAL DISTRESS AND RESPONSE 
+                   SYSTEM.
+
+       (a) Report.--Not later than 60 days after the date of 
+     enactment of this Act, the Secretary of the department in 
+     which the Coast Guard is operating shall submit to the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives and the Committee on Commerce, Science, 
+     and Transportation of the Senate a report on the 
+     implementation of the Rescue 21 project in Alaska and in 
+     Coast Guard sectors Upper Mississippi River, Lower 
+     Mississippi River, and Ohio River Valley.
+       (b) Contents.--The report required under subsection (a) 
+     shall--
+       (1) describe what improvements are being made to the 
+     distress response system in the areas specified in subsection 
+     (a), including information on which areas will receive 
+     digital selective calling and direction finding capability;
+       (2) describe the impediments to installing digital 
+     selective calling and direction finding capability in areas 
+     where such technology will not be installed;
+       (3) identify locations in the areas specified in subsection 
+     (a) where communication gaps will continue to present a risk 
+     to mariners after completion of the Rescue 21 project;
+       (4) include a list of all reported marine accidents, 
+     casualties, and fatalities occurring in the locations 
+     identified under paragraph (3) since 1990; and
+       (5) provide an estimate of the costs associated with 
+     installing the technology necessary to close communication 
+     gaps in the locations identified under paragraph (3).
+
+     SEC. 232. REPORT RECONCILING MAINTENANCE AND OPERATIONAL 
+                   PRIORITIES ON THE MISSOURI RIVER.
+
+       Not later than 1 year after the date of enactment of this 
+     Act, the Commandant of the Coast Guard shall submit to the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate and the Committee on Transportation and Infrastructure 
+     of the House of Representatives a report that outlines a 
+     course of action to reconcile general maintenance priorities 
+     for cutters with operational priorities on the Missouri 
+     River.
+
+     SEC. 233. MARITIME SEARCH AND RESCUE ASSISTANCE POLICY 
+                   ASSESSMENT.
+
+       (a) In General.--The Commandant of the Coast Guard shall 
+     assess the Maritime Search and Rescue Assistance Policy as it 
+     relates to State and local responders.
+       (b) Scope.--The assessment under subsection (a) shall 
+     consider, at a minimum--
+       (1) the extent to which Coast Guard search and rescue 
+     coordinators have entered into domestic search and rescue 
+     agreements with State and local responders under the National 
+     Search and Rescue Plan;
+       (2) whether the domestic search and rescue agreements 
+     include the Maritime Search and Rescue Assistance Policy; and
+       (3) the extent to which Coast Guard sectors coordinate with 
+     911 emergency centers, including ensuring the dissemination 
+     of appropriate maritime distress check-sheets.
+       (c) Report.--Not later than 180 days after the date of 
+     enactment of this Act, the Commandant of the Coast Guard 
+     shall submit a report on the assessment under subsection (a) 
+     to the Committee on Commerce, Science, and Transportation of 
+     the Senate and the Committee on Transportation and 
+     Infrastructure of the House of Representatives.
+
+                   TITLE III--SHIPPING AND NAVIGATION
+
+     SEC. 301. REPEAL.
+
+       Chapter 555 of title 46, United States Code, is amended--
+       (1) by repealing section 55501;
+       (2) by redesignating section 55502 as section 55501; and
+       (3) in the analysis by striking the items relating to 
+     sections 55501 and 55502 and inserting the following:
+
+``55501. United States Committee on the Marine Transportation 
+              System.''.
+
+     SEC. 302. DONATION OF HISTORICAL PROPERTY.
+
+       Section 51103 of title 46, United States Code, is amended 
+     by adding at the end the following:
+       ``(e) Donation for Historical Purposes.--
+       ``(1) In general.--The Secretary may convey the right, 
+     title, and interest of the United States Government in any 
+     property administered by the Maritime Administration, except 
+     real estate or vessels, if--
+       ``(A) the Secretary determines that such property is not 
+     needed by the Maritime Administration; and
+       ``(B) the recipient--
+       ``(i) is a nonprofit organization, a State, or a political 
+     subdivision of a State;
+       ``(ii) agrees to hold the Government harmless for any 
+     claims arising from exposure to hazardous materials, 
+     including asbestos, polychlorinated biphenyls, or lead paint, 
+     after conveyance of the property;
+       ``(iii) provides a description and explanation of the 
+     intended use of the property to the Secretary for approval;
+       ``(iv) has provided to the Secretary proof, as determined 
+     by the Secretary, of resources sufficient to accomplish the 
+     intended use provided under clause (iii) and to maintain the 
+     property;
+       ``(v) agrees that when the recipient no longer requires the 
+     property, the recipient shall--
+
+[[Page 16471]]
+
+       ``(I) return the property to the Secretary, at the 
+     recipient's expense and in the same condition as received 
+     except for ordinary wear and tear; or
+       ``(II) subject to the approval of the Secretary, retain, 
+     sell, or otherwise dispose of the property in a manner 
+     consistent with applicable law; and
+
+       ``(vi) agrees to any additional terms the Secretary 
+     considers appropriate.
+       ``(2) Reversion.--The Secretary shall include in any 
+     conveyance under this subsection terms under which all right, 
+     title, and interest conveyed by the Secretary shall revert to 
+     the Government if the Secretary determines the property has 
+     been used other than as approved by the Secretary under 
+     paragraph (1)(B)(iii).''.
+
+     SEC. 303. SMALL SHIPYARDS.
+
+       Section 54101(i) of title 46, United States Code, is 
+     amended by striking ``2009 through 2013'' and inserting 
+     ``2015 through 2017''.
+
+     SEC. 304. DRUG TESTING REPORTING.
+
+       Section 7706 of title 46, United States Code, is amended--
+       (1) in subsection (a), by inserting ``an applicant for 
+     employment by a Federal agency,'' after ``Federal agency,''; 
+     and
+       (2) in subsection (c), by--
+       (A) inserting ``or an applicant for employment by a Federal 
+     agency'' after ``an employee''; and
+       (B) striking ``the employee.'' and inserting ``the employee 
+     or the applicant.''.
+
+     SEC. 305. OPPORTUNITIES FOR SEA SERVICE VETERANS.
+
+       (a) Endorsements for Veterans.--Section 7101 of title 46, 
+     United States Code, is amended by adding at the end the 
+     following:
+       ``(j) The Secretary may issue a license under this section 
+     in a class under subsection (c) to an applicant that--
+       ``(1) has at least 3 months of qualifying service on 
+     vessels of the uniformed services (as that term is defined in 
+     section 101(a) of title 10) of appropriate tonnage or 
+     horsepower within the 7-year period immediately preceding the 
+     date of application; and
+       ``(2) satisfies all other requirements for such a 
+     license.''.
+       (b) Sea Service Letters.--
+       (1) In general.--Title 14, United States Code, is amended 
+     by inserting after section 427 the following:
+
+     ``Sec. 428. Sea service letters
+
+       ``(a) In General.--The Secretary shall provide a sea 
+     service letter to a member or former member of the Coast 
+     Guard who--
+       ``(1) accumulated sea service on a vessel of the armed 
+     forces (as such term is defined in section 101(a) of title 
+     10); and
+       ``(2) requests such letter.
+       ``(b) Deadline.--Not later than 30 days after receiving a 
+     request for a sea service letter from a member or former 
+     member of the Coast Guard under subsection (a), the Secretary 
+     shall provide such letter to such member or former member if 
+     such member or former member satisfies the requirement under 
+     subsection (a)(1).''.
+       (2) Clerical amendment.--The analysis for chapter 11 of 
+     title 14, United States Code, is amended by inserting after 
+     the item relating to section 427 the following:
+
+``428. Sea service letters.''.
+       (c) Crediting of United States Armed Forces Service, 
+     Training, and Qualifications.--
+       (1) Maximizing creditability.--The Secretary of the 
+     department in which the Coast Guard is operating, in 
+     implementing United States merchant mariner license, 
+     certification, and document laws and the International 
+     Convention on Standards of Training, Certification and 
+     Watchkeeping for Seafarers, 1978, shall maximize the extent 
+     to which United States Armed Forces service, training, and 
+     qualifications are creditable toward meeting the requirements 
+     of such laws and such Convention.
+       (2) Notification.--Not later than 90 days after the date of 
+     enactment of this Act, the Secretary shall notify the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives and the Committee on Commerce, Science, 
+     and Transportation of the Senate on the steps taken to 
+     implement this subsection.
+       (d) Merchant Marine Post-Service Career Opportunities.--Not 
+     later than 180 days after the date of enactment of this Act, 
+     the Commandant of the Coast Guard shall take steps to promote 
+     better awareness, on an ongoing basis, among Coast Guard 
+     personnel regarding post-service use of Coast Guard training, 
+     education, and practical experience in satisfaction of 
+     requirements for merchant mariner credentials under section 
+     11.213 of title 46, Code of Federal Regulations.
+
+     SEC. 306. CLARIFICATION OF HIGH-RISK WATERS.
+
+       Section 55305(e) of title 46, United States Code, is 
+     amended--
+       (1) in paragraph (1)--
+       (A) by striking ``provide armed personnel aboard'' and 
+     inserting ``reimburse, subject to the availability of 
+     appropriations, the owners or operators of''; and
+       (B) by inserting ``for the cost of providing armed 
+     personnel aboard such vessels'' before ``if''; and
+       (2) by striking paragraphs (2) and (3) and inserting the 
+     following:
+       ``(2) In this subsection, the term `high-risk waters' means 
+     waters so designated by the Commandant of the Coast Guard in 
+     the maritime security directive issued by the Commandant and 
+     in effect on the date on which an applicable voyage begins, 
+     if the Secretary of Transportation--
+       ``(A) determines that an act of piracy occurred in the 12-
+     month period preceding the date the voyage begins; or
+       ``(B) in such period, issued an advisory warning that an 
+     act of piracy is possible in such waters.''.
+
+     SEC. 307. TECHNICAL CORRECTIONS.
+
+       (a) Title 46.--Section 2116(b)(1)(D) of title 46, United 
+     States Code, is amended by striking ``section 93(c)'' and 
+     inserting ``section 93(c) of title 14''.
+       (b) Coast Guard and Maritime Transportation Act of 2006.--
+     Section 304(a) of the Coast Guard and Maritime Transportation 
+     Act of 2006 (Public Law 109-241; 33 U.S.C. 1503 note) is 
+     amended by inserting ``and from'' before ``the United 
+     States''.
+       (c) Deepwater Port Act of 1974.--Section 4(i) of the 
+     Deepwater Port Act of 1974 (33 U.S.C. 1503(i)) is amended by 
+     inserting ``or that will supply'' after ``be supplied with''.
+
+     SEC. 308. REPORT.
+
+       Not later than 1 year after the date of the enactment of 
+     this Act, the Comptroller General of the United States shall 
+     submit to the Committee on Transportation and Infrastructure 
+     of the House of Representatives and the Committee on 
+     Commerce, Science, and Transportation of the Senate a report 
+     on the number of jobs, including vessel construction and 
+     vessel operating jobs, that would be created in the United 
+     States maritime industry each year in 2015 through 2025 if 
+     liquified natural gas exported from the United States were 
+     required to be carried--
+       (1) before December 31, 2018, on vessels documented under 
+     the laws of the United States; and
+       (2) on and after such date, on vessels documented under the 
+     laws of the United States and constructed in the United 
+     States.
+
+     SEC. 309. FISHING SAFETY GRANT PROGRAMS.
+
+       (a) Fishing Safety Training Grant Program.--Section 
+     4502(i)(4) of title 46, United States Code, is amended by 
+     striking ``2010 through 2014'' and inserting ``2015 through 
+     2017''.
+       (b) Fishing Safety Research Grant Program.--Section 
+     4502(j)(4) of title 46, United States Code, is amended by 
+     striking ``2010 through 2014'' and inserting ``2015 through 
+     2017''.
+
+     SEC. 310. ESTABLISHMENT OF MERCHANT MARINE PERSONNEL ADVISORY 
+                   COMMITTEE.
+
+       (a) Establishment.--Chapter 81 of title 46, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 8108. Merchant Marine Personnel Advisory Committee
+
+       ``(a) Establishment.--The Secretary shall establish a 
+     Merchant Marine Personnel Advisory Committee (in this section 
+     referred to as `the Committee'). The Committee--
+       ``(1) shall act solely in an advisory capacity to the 
+     Secretary through the Commandant of the Coast Guard on 
+     matters relating to personnel in the United States merchant 
+     marine, including training, qualifications, certification, 
+     documentation, and fitness standards, and other matters as 
+     assigned by the Commandant;
+       ``(2) shall review and comment on proposed Coast Guard 
+     regulations and policies relating to personnel in the United 
+     States merchant marine, including training, qualifications, 
+     certification, documentation, and fitness standards;
+       ``(3) may be given special assignments by the Secretary and 
+     may conduct studies, inquiries, workshops, and fact finding 
+     in consultation with individuals and groups in the private 
+     sector and with State or local governments;
+       ``(4) shall advise, consult with, and make recommendations 
+     reflecting its independent judgment to the Secretary;
+       ``(5) shall meet not less than twice each year; and
+       ``(6) may make available to Congress recommendations that 
+     the Committee makes to the Secretary.
+       ``(b) Membership.--
+       ``(1) In general.--The Committee shall consist of not more 
+     than 19 members who are appointed by and serve terms of a 
+     duration determined by the Secretary. Before filling a 
+     position on the Committee, the Secretary shall publish a 
+     notice in the Federal Register soliciting nominations for 
+     membership on the Committee.
+       ``(2) Required members.--Subject to paragraph (3), the 
+     Secretary shall appoint as members of the Committee--
+       ``(A) 9 United States citizens with active licenses or 
+     certificates issued under chapter 71 or merchant mariner 
+     documents issued under chapter 73, including--
+       ``(i) 3 deck officers who represent the viewpoint of 
+     merchant marine deck officers, of whom--
+
+       ``(I) 2 shall be licensed for oceans any gross tons;
+       ``(II) 1 shall be licensed for inland river route with a 
+     limited or unlimited tonnage;
+       ``(III) 2 shall have a master's license or a master of 
+     towing vessels license;
+       ``(IV) 1 shall have significant tanker experience; and
+       ``(V) to the extent practicable--
+
+       ``(aa) 1 shall represent the viewpoint of labor; and
+
+[[Page 16472]]
+
+       ``(bb) another shall represent a management perspective;
+       ``(ii) 3 engineering officers who represent the viewpoint 
+     of merchant marine engineering officers, of whom--
+
+       ``(I) 2 shall be licensed as chief engineer any horsepower;
+       ``(II) 1 shall be licensed as either a limited chief 
+     engineer or a designated duty engineer; and
+       ``(III) to the extent practicable--
+
+       ``(aa) 1 shall represent a labor viewpoint; and
+       ``(bb) another shall represent a management perspective;
+       ``(iii) 2 unlicensed seamen, of whom--
+
+       ``(I) 1 shall represent the viewpoint of able-bodied 
+     seamen; and
+       ``(II) another shall represent the viewpoint of qualified 
+     members of the engine department; and
+
+       ``(iv) 1 pilot who represents the viewpoint of merchant 
+     marine pilots;
+       ``(B) 6 marine educators, including--
+       ``(i) 3 marine educators who represent the viewpoint of 
+     maritime academies, including--
+
+       ``(I) 2 who represent the viewpoint of State maritime 
+     academies and are jointly recommended by such State maritime 
+     academies; and
+       ``(II) 1 who represents either the viewpoint of the State 
+     maritime academies or the United States Merchant Marine 
+     Academy; and
+
+       ``(ii) 3 marine educators who represent the viewpoint of 
+     other maritime training institutions, 1 of whom shall 
+     represent the viewpoint of the small vessel industry;
+       ``(C) 2 individuals who represent the viewpoint of shipping 
+     companies employed in ship operation management; and
+       ``(D) 2 members who are appointed from the general public.
+       ``(3) Consultation.--The Secretary shall consult with the 
+     Secretary of Transportation in making an appointment under 
+     paragraph (2)(B)(i)(II).
+       ``(c) Chairman and Vice Chairman.--The Secretary shall 
+     designate one member of the Committee as the Chairman and one 
+     member of the Committee as the Vice Chairman. The Vice 
+     Chairman shall act as Chairman in the absence or incapacity 
+     of the Chairman, or in the event of a vacancy in the office 
+     of the Chairman.
+       ``(d) Subcommittees.--The Committee may establish and 
+     disestablish subcommittees and working groups for any purpose 
+     consistent with this section, subject to conditions imposed 
+     by the Committee. Members of the Committee and additional 
+     persons drawn from the general public may be assigned to such 
+     subcommittees and working groups. Only Committee members may 
+     chair subcommittee or working groups.
+       ``(e) Termination.--The Committee shall terminate on 
+     September 30, 2020.''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by adding at the end the following:
+
+``8108. Merchant Marine Personnel Advisory Committee.''.
+
+     SEC. 311. TRAVEL AND SUBSISTENCE COSTS FOR PREVENTION 
+                   SERVICES.
+
+       (a) Title 46, United States Code.--Section 2110 of title 
+     46, United States Code, is amended--
+       (1) by amending subsection (b) to read as follows:
+       ``(b)(1) In addition to the collection of fees and charges 
+     established under subsection (a), in providing a service or 
+     thing of value under this subtitle the Secretary may accept 
+     in-kind transportation, travel, and subsistence.
+       ``(2) The value of in-kind transportation, travel, and 
+     subsistence accepted under this paragraph may not exceed 
+     applicable per diem rates set forth in regulations prescribed 
+     under section 464 of title 37.''; and
+       (2) in subsection (c), by striking ``subsections (a) and 
+     (b),'' and inserting ``subsection (a),''.
+       (b) Title 14, United States Code.--Section 664 of title 14, 
+     United States Code, is amended by redesignating subsections 
+     (e) though (g) as subsections (f) through (h), respectively, 
+     and by inserting after subsection (d) the following:
+       ``(e)(1) In addition to the collection of fees and charges 
+     established under this section, in the provision of a service 
+     or thing of value by the Coast Guard the Secretary may accept 
+     in-kind transportation, travel, and subsistence.
+       ``(2) The value of in-kind transportation, travel, and 
+     subsistence accepted under this paragraph may not exceed 
+     applicable per diem rates set forth in regulations prescribed 
+     under section 464 of title 37.''.
+       (c) Limitation.--The Secretary of the Department in which 
+     the Coast Guard is operating may not accept in-kind 
+     transportation, travel, or subsistence under section 664(e) 
+     of title 14, United States Code, or section 2110(d)(4) of 
+     title 46, United States Code, as amended by this section, 
+     until the Commandant of the Coast Guard--
+       (1) amends the Standards of Ethical Conduct for members and 
+     employees of the Coast Guard to include regulations governing 
+     the acceptance of in-kind reimbursements; and
+       (2) notifies the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives of the amendments made under paragraph (1).
+
+     SEC. 312. PROMPT INTERGOVERNMENTAL NOTICE OF MARINE 
+                   CASUALTIES.
+
+       Section 6101 of title 46, United States Code, is amended--
+       (1) by inserting after subsection (b) the following:
+       ``(c) Notice to State and Tribal Governments.--Not later 
+     than 24 hours after receiving a notice of a major marine 
+     casualty under this section, the Secretary shall notify each 
+     State or federally recognized Indian tribe that is, or may 
+     reasonably be expected to be, affected by such marine 
+     casualty.'';
+       (2) in subsection (h)--
+       (A) by striking ``(1)''; and
+       (B) by redesignating subsection (h)(2) as subsection (i) of 
+     section 6101, and in such subsection--
+       (i) by striking ``paragraph,'' and inserting ``section,''; 
+     and
+       (ii) by redesignating subparagraphs (A) through (D) as 
+     paragraphs (1) through (4); and
+       (3) by redesignating the last subsection as subsection (j).
+
+     SEC. 313. AREA CONTINGENCY PLANS.
+
+       Section 311(j)(4) of the Federal Water Pollution Control 
+     Act (33 U.S.C. 1321(j)(4)) is amended--
+       (1) in subparagraph (A), by striking ``qualified personnel 
+     of Federal, State, and local agencies.'' and inserting 
+     ``qualified--
+       ``(i) personnel of Federal, State, and local agencies; and
+       ``(ii) members of federally recognized Indian tribes, where 
+     applicable.'';
+       (2) in subparagraph (B)(ii)--
+       (A) by striking ``and local'' and inserting ``, local, and 
+     tribal''; and
+       (B) by striking ``wildlife;'' and inserting ``wildlife, 
+     including advance planning with respect to the closing and 
+     reopening of fishing areas following a discharge;'';
+       (3) in subparagraph (B)(iii), by striking ``and local'' and 
+     inserting ``, local, and tribal''; and
+       (4) in subparagraph (C)--
+       (A) in clause (iv), by striking ``and Federal, State, and 
+     local agencies'' and inserting ``, Federal, State, and local 
+     agencies, and tribal governments'';
+       (B) by redesignating clauses (vii) and (viii) as clauses 
+     (viii) and (ix), respectively; and
+       (C) by inserting after clause (vi) the following:
+       ``(vii) include a framework for advance planning and 
+     decisionmaking with respect to the closing and reopening of 
+     fishing areas following a discharge, including protocols and 
+     standards for the closing and reopening of fishing areas;''.
+
+     SEC. 314. INTERNATIONAL ICE PATROL REFORM.
+
+       (a) In General.--Chapter 803 of title 46, United States 
+     Code, is amended--
+       (1) in section 80301, by adding at the end the following:
+       ``(c) Payments.--Payments received pursuant to subsection 
+     (b)(1) shall be credited to the appropriation for operating 
+     expenses of the Coast Guard.'';
+       (2) in section 80302--
+       (A) in subsection (b), by striking ``An ice patrol vessel'' 
+     and inserting ``The ice patrol'';
+       (B) in subsection (c)(1), by striking ``An ice patrol 
+     vessel'' and inserting ``The ice patrol''; and
+       (C) in the first sentence of subsection (d), by striking 
+     ``vessels'' and inserting ``aircraft''; and
+       (3) by adding at the end the following:
+
+     ``Sec. 80304. Limitation on ice patrol data
+
+       ``Notwithstanding sections 80301 and 80302, data collected 
+     by an ice patrol conducted by the Coast Guard under this 
+     chapter may not be disseminated to a vessel unless such 
+     vessel is--
+       ``(1) documented under the laws of the United States; or
+       ``(2) documented under the laws of a foreign country that 
+     made the payment or contribution required under section 
+     80301(b) for the year preceding the year in which the data is 
+     collected.''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by adding at the end the following:
+
+``80304. Limitation on ice patrol data.''.
+       (c) Effective Date.--This section shall take effect on 
+     January 1, 2017.
+
+     SEC. 315. OFFSHORE SUPPLY VESSEL THIRD-PARTY INSPECTION.
+
+       Section 3316 of title 46, United States Code, is amended by 
+     redesignating subsection (f) as subsection (g), and by 
+     inserting after subsection (e) the following:
+       ``(f)(1) Upon request of an owner or operator of an 
+     offshore supply vessel, the Secretary shall delegate the 
+     authorities set forth in paragraph (1) of subsection (b) with 
+     respect to such vessel to a classification society to which a 
+     delegation is authorized under that paragraph. A delegation 
+     by the Secretary under this subsection shall be used for any 
+     vessel inspection and examination function carried out by the 
+     Secretary, including the issuance of certificates of 
+     inspection and all other related documents.
+       ``(2) If the Secretary determines that a certificate of 
+     inspection or related document issued under authority 
+     delegated under paragraph (1) of this subsection with respect 
+     to a vessel has reduced the operational safety of that 
+     vessel, the Secretary may terminate the certificate or 
+     document, respectively.
+
+[[Page 16473]]
+
+       ``(3) Not later than 2 years after the date of the 
+     enactment of the Howard Coble Coast Guard and Maritime 
+     Transportation Act of 2014, and for each year of the 
+     subsequent 2-year period, the Secretary shall provide to the 
+     Committee on Transportation and Infrastructure of the House 
+     of Representatives and the Committee on Commerce, Science, 
+     and Transportation of the Senate a report describing--
+       ``(A) the number of vessels for which a delegation was made 
+     under paragraph (1);
+       ``(B) any savings in personnel and operational costs 
+     incurred by the Coast Guard that resulted from the 
+     delegations; and
+       ``(C) based on measurable marine casualty and other data, 
+     any impacts of the delegations on the operational safety of 
+     vessels for which the delegations were made, and on the crew 
+     on those vessels.''.
+
+     SEC. 316. WATCHES.
+
+       Section 8104 of title 46, United States Code, is amended--
+       (1) in subsection (d), by striking ``coal passers, firemen, 
+     oilers, and water tenders'' and inserting ``and oilers''; and
+       (2) in subsection (g)(1), by striking ``(except the coal 
+     passers, firemen, oilers, and water tenders)''.
+
+     SEC. 317. COAST GUARD RESPONSE PLAN REQUIREMENTS.
+
+       (a) Vessel Response Plan Contents.--The Secretary of the 
+     department in which the Coast Guard is operating shall 
+     require that each vessel response plan prepared for a mobile 
+     offshore drilling unit includes information from the facility 
+     response plan prepared for the mobile offshore drilling unit 
+     regarding the planned response to a worst case discharge, and 
+     to a threat of such a discharge.
+       (b) Definitions.--In this section:
+       (1) Mobile offshore drilling unit.--The term ``mobile 
+     offshore drilling unit'' has the meaning given that term in 
+     section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 
+     2701).
+       (2) Response plan.--The term ``response plan'' means a 
+     response plan prepared under section 311(j) of the Federal 
+     Water Pollution Control Act (33 U.S.C. 1321(j)).
+       (3) Worst case discharge.--The term ``worst case 
+     discharge'' has the meaning given that term under section 
+     311(a) of the Federal Water Pollution Control Act (33 U.S.C. 
+     1321(a)).
+       (c) Rule of Construction.--Nothing in this section shall be 
+     construed to require the Coast Guard to review or approve a 
+     facility response plan for a mobile offshore drilling unit.
+
+     SEC. 318. REGIONAL CITIZENS' ADVISORY COUNCIL.
+
+       Section 5002(k)(3) of the Oil Pollution Act of 1990 (33 
+     U.S.C. 2732(k)(3)) is amended by striking ``not more than 
+     $1,000,000'' and inserting ``not less than $1,400,000''.
+
+     SEC. 319. UNINSPECTED PASSENGER VESSELS IN THE UNITED STATES 
+                   VIRGIN ISLANDS.
+
+       (a) In General.--Section 4105 of title 46, United States 
+     Code, is amended--
+       (1) by redesignating subsection (b) as subsection (c); and
+       (2) by inserting after subsection (a) the following:
+       ``(b)(1) In applying this title with respect to an 
+     uninspected vessel of less than 24 meters overall in length 
+     that carries passengers to or from a port in the United 
+     States Virgin Islands, the Secretary shall substitute `12 
+     passengers' for `6 passengers' each place it appears in 
+     section 2101(42) if the Secretary determines that the vessel 
+     complies with, as applicable to the vessel--
+       ``(A) the Code of Practice for the Safety of Small 
+     Commercial Motor Vessels (commonly referred to as the `Yellow 
+     Code'), as published by the U.K. Maritime and Coastguard 
+     Agency and in effect on January 1, 2014; or
+       ``(B) the Code of Practice for the Safety of Small 
+     Commercial Sailing Vessels (commonly referred to as the `Blue 
+     Code'), as published by such agency and in effect on such 
+     date.
+       ``(2) If the Secretary establishes standards to carry out 
+     this subsection--
+       ``(A) such standards shall be identical to those 
+     established in the Codes of Practice referred to in paragraph 
+     (1); and
+       ``(B) on any dates before the date on which such standards 
+     are in effect, the Codes of Practice referred to in paragraph 
+     (1) shall apply with respect to the vessels referred to in 
+     paragraph (1).''.
+       (b) Technical Correction.--Section 4105(c) of title 46, 
+     United States Code, as redesignated by subsection (a)(1) of 
+     this section, is amended by striking ``Within twenty-four 
+     months of the date of enactment of this subsection, the'' and 
+     inserting ``The''.
+
+     SEC. 320. TREATMENT OF ABANDONED SEAFARERS.
+
+       (a) In General.--Chapter 111 of title 46, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 11113. Treatment of abandoned seafarers
+
+       ``(a) Abandoned Seafarers Fund.--
+       ``(1) Establishment.--There is established in the Treasury 
+     a separate account to be known as the Abandoned Seafarers 
+     Fund.
+       ``(2) Authorized uses.--Amounts in the Fund may be 
+     appropriated to the Secretary for use--
+       ``(A) to pay necessary support of a seafarer--
+       ``(i) who--
+
+       ``(I) was paroled into the United States under section 
+     212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 
+     1182(d)(5)), or for whom the Secretary has requested parole 
+     under such section; and
+       ``(II) is involved in an investigation, reporting, 
+     documentation, or adjudication of any matter that is related 
+     to the administration or enforcement of law by the Coast 
+     Guard; or
+
+       ``(ii) who--
+
+       ``(I) is physically present in the United States;
+       ``(II) the Secretary determines was abandoned in the United 
+     States; and
+       ``(III) has not applied for asylum under the Immigration 
+     and Nationality Act (8 U.S.C. 1101 et seq.); and
+
+       ``(B) to reimburse a vessel owner or operator for the costs 
+     of necessary support of a seafarer who has been paroled into 
+     the United States to facilitate an investigation, reporting, 
+     documentation, or adjudication of any matter that is related 
+     to the administration or enforcement of law by the Coast 
+     Guard, if--
+       ``(i) the vessel owner or operator is not convicted of a 
+     criminal offense related to such matter; or
+       ``(ii) the Secretary determines that reimbursement is 
+     appropriate.
+       ``(3) Crediting of amounts to fund.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     there shall be credited to the Fund the following:
+       ``(i) Penalties deposited in the Fund under section 9 of 
+     the Act to Prevent Pollution from Ships (33 U.S.C. 1908).
+       ``(ii) Amounts reimbursed or recovered under subsection 
+     (c).
+       ``(B) Limitation.--Amounts may be credited to the Fund 
+     under subparagraph (A) only if the unobligated balance of the 
+     Fund is less than $5,000,000.
+       ``(4) Report required.--On the date on which the President 
+     submits each budget for a fiscal year pursuant to section 
+     1105 of title 31, the Secretary shall submit to the Committee 
+     on Transportation and Infrastructure of the House of 
+     Representatives and the Committee on Commerce, Science, and 
+     Transportation of the Senate a report that describes--
+       ``(A) the amounts credited to the Fund under paragraph (2) 
+     for the preceding fiscal year; and
+       ``(B) amounts in the Fund that were expended for the 
+     preceding fiscal year.
+       ``(b) Limitation.--Nothing in this section shall be 
+     construed--
+       ``(1) to create a private right of action or any other 
+     right, benefit, or entitlement to necessary support for any 
+     person; or
+       ``(2) to compel the Secretary to pay or reimburse the cost 
+     of necessary support.
+       ``(c) Reimbursement; Recovery.--
+       ``(1) In general.--A vessel owner or operator shall 
+     reimburse the Fund an amount equal to the total amount paid 
+     from the Fund for necessary support of a seafarer, if--
+       ``(A) the vessel owner or operator--
+       ``(i) during the course of an investigation, reporting, 
+     documentation, or adjudication of any matter under this Act 
+     that the Coast Guard referred to a United States attorney or 
+     the Attorney General, fails to provide necessary support of a 
+     seafarer who was paroled into the United States to facilitate 
+     the investigation, reporting, documentation, or adjudication; 
+     and
+       ``(ii) subsequently is--
+
+       ``(I) convicted of a criminal offense related to such 
+     matter; or
+       ``(II) required to reimburse the Fund pursuant to a court 
+     order or negotiated settlement related to such matter; or
+
+       ``(B) the vessel owner or operator abandons a seafarer in 
+     the United States, as determined by the Secretary based on 
+     substantial evidence.
+       ``(2) Enforcement.--If a vessel owner or operator fails to 
+     reimburse the Fund under paragraph (1) within 60 days after 
+     receiving a written, itemized description of reimbursable 
+     expenses and a demand for payment, the Secretary may--
+       ``(A) proceed in rem against the vessel on which the 
+     seafarer served in the Federal district court for the 
+     district in which the vessel is found; and
+       ``(B) withhold or revoke the clearance required under 
+     section 60105 for the vessel and any other vessel operated by 
+     the same operator (as that term is defined in section 2(9)(a) 
+     of the Act to Prevent Pollution from Ships (33 U.S.C. 
+     1901(9)(a)) as the vessel on which the seafarer served.
+       ``(3) Obtaining clearance.--A vessel may obtain clearance 
+     from the Secretary after it is withheld or revoked under 
+     paragraph (2)(B) if the vessel owner or operator--
+       ``(A) reimburses the Fund the amount required under 
+     paragraph (1); or
+       ``(B) provides a bond, or other evidence of financial 
+     responsibility, sufficient to meet the amount required to be 
+     reimbursed under paragraph (1).
+       ``(4) Notification required.--The Secretary shall notify 
+     the vessel at least 72 hours before taking any action under 
+     paragraph (2)(B).
+       ``(d) Definitions.--In this section:
+       ``(1) Abandons; abandoned.--Each of the terms `abandons' 
+     and `abandoned' means--
+       ``(A) a vessel owner's or operator's unilateral severance 
+     of ties with a seafarer; or
+       ``(B) a vessel owner's or operator's failure to provide 
+     necessary support of a seafarer.
+
+[[Page 16474]]
+
+       ``(2) Fund.--The term `Fund' means the Abandoned Seafarers 
+     Fund established under this section.
+       ``(3) Necessary support.--The term `necessary support' 
+     means normal wages and expenses the Secretary considers 
+     reasonable for lodging, subsistence, clothing, medical care 
+     (including hospitalization), repatriation, and any other 
+     support the Secretary considers to be appropriate.
+       ``(4) Seafarer.--The term `seafarer' means an alien crew 
+     member who is employed or engaged in any capacity on board a 
+     vessel subject to the jurisdiction of the United States.
+       ``(5) Vessel subject to the jurisdiction of the united 
+     states.--The term `vessel subject to the jurisdiction of the 
+     United States' has the meaning given that term in section 
+     70502(c), except that it does not include a vessel that is--
+       ``(A) owned, or operated under a bareboat charter, by the 
+     United States, a State or political subdivision thereof, or a 
+     foreign nation; and
+       ``(B) not engaged in commerce.''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by adding at the end the following:
+
+``11113. Treatment of abandoned seafarers.''.
+       (c) Conforming Amendment.--Section 9 of the Act to Prevent 
+     Pollution from Ships (33 U.S.C. 1908) is amended by adding at 
+     the end the following:
+       ``(g) Any penalty collected under subsection (a) or (b) 
+     that is not paid under that subsection to the person giving 
+     information leading to the conviction or assessment of such 
+     penalties shall be deposited in the Abandoned Seafarers Fund 
+     established under section 11113 of title 46, United States 
+     Code.''.
+
+     SEC. 321. ENFORCEMENT.
+
+       (a) In General.--Section 55305(d) of title 46, United 
+     States Code, is amended--
+       (1) by amending paragraph (1) to read as follows:
+       ``(1) Each department or agency that has responsibility for 
+     a program under this section shall administer that program 
+     consistent with this section and any regulations and guidance 
+     issued by the Secretary of Transportation concerning this 
+     section.'';
+       (2) by redesignating paragraph (2) as paragraph (3), and by 
+     inserting after paragraph (1) the following:
+       ``(2)(A) The Secretary shall have exclusive authority for 
+     determining the applicability of this section to a program of 
+     a Federal department or agency.
+       ``(B) The head of a Federal department or agency shall 
+     request the Secretary to determine the applicability of this 
+     section to a program of such department or agency if the 
+     department or agency is uncertain of such applicability. Not 
+     later than 30 days after receiving such a request, the 
+     Secretary shall make such determination.
+       ``(C) Subparagraph (B) shall not be construed to limit the 
+     authority of the Secretary to make a determination regarding 
+     the applicability of this section to a program administered 
+     by a Federal department or agency.
+       ``(D) A determination made by the Secretary under this 
+     paragraph regarding a program shall remain in effect until 
+     the Secretary determines that this section no longer applies 
+     to such program.'';
+       (3) in paragraph (3), as so redesignated, by amending 
+     subparagraph (A) to read as follows:
+       ``(A) shall conduct an annual review of the administration 
+     of programs subject to the requirements of this section to 
+     determine compliance with the requirements of this 
+     section;''; and
+       (4) by adding at the end the following:
+       ``(4) On the date on which the President submits to 
+     Congress a budget pursuant to section 1105 of title 31, the 
+     Secretary shall make available on the Internet website of the 
+     Department of Transportation a report that--
+       ``(A) lists the programs that were subject to 
+     determinations made by the Secretary under paragraph (2) in 
+     the preceding year; and
+       ``(B) describes the results of the most recent annual 
+     review required by paragraph (3)(A), including identification 
+     of the departments and agencies that transported cargo in 
+     violation of this section and any action the Secretary took 
+     under paragraph (3) with respect to each violation.''.
+       (b) Deadline for First Review.--The Secretary of 
+     Transportation shall complete the first review required under 
+     the amendment made by subsection (a)(1)(C) by not later than 
+     December 31, 2015.
+       (c) Conforming Amendment.--Section 3511(c) of the Duncan 
+     Hunter National Defense Authorization Act for Fiscal Year 
+     2009 (46 U.S.C. 55305 note) is repealed.
+
+     SEC. 322. COAST GUARD REGULATIONS.
+
+       (a) In General.--Not later than 1 year after the date of 
+     the enactment of this Act, the Secretary of the department in 
+     which the Coast Guard is operating shall submit to the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate and the Committee on Transportation and Infrastructure 
+     of the House of Representatives an analysis of the Coast 
+     Guard's proposed promulgation of safety and environmental 
+     management system requirements for vessels engaged in Outer 
+     Continental Shelf activities. The analysis shall include--
+       (1) a discussion of any new operational, management, design 
+     and construction, financial, and other mandates that would be 
+     imposed on vessel owners and operators;
+       (2) an estimate of all associated direct and indirect 
+     operational, management, personnel, training, vessel design 
+     and construction, record keeping, and other costs;
+       (3) an identification and justification of any of such 
+     proposed requirements that exceed those in international 
+     conventions applicable to the design, construction, 
+     operation, and management of vessels engaging in United 
+     States Outer Continental Shelf activities; and
+       (4) an identification of exemptions to the proposed 
+     requirements, that are based upon vessel classification, 
+     tonnage, offshore activity or function, alternative 
+     certifications, or any other appropriate criteria.
+       (b) Limitation.--The Secretary may not issue proposed 
+     regulations relating to safety and environmental management 
+     system requirements for vessels on the United States Outer 
+     Continental Shelf for which noticed was published on 
+     September 10, 2013 (78 Fed. Reg. 55230) earlier than 6 months 
+     after the submittal of the analysis required by subsection 
+     (a).
+
+     SEC. 323. WEBSITE.
+
+       (a) Reports to Secretary of Transportation; Incidents and 
+     Details.--Section 3507(g)(3)(A) of title 46, United States 
+     Code, is amended--
+       (1) in clause (ii) by striking ``the incident to an 
+     Internet based portal maintained by the Secretary'' and 
+     inserting ``each incident specified in clause (i) to the 
+     Internet website maintained by the Secretary of 
+     Transportation under paragraph (4)(A)''; and
+       (2) in clause (iii) by striking ``based portal maintained 
+     by the Secretary'' and inserting ``website maintained by the 
+     Secretary of Transportation under paragraph (4)(A)''.
+       (b) Availability of Incident Data on Internet.--Section 
+     3507(g)(4) of title 46, United States Code, is amended--
+       (1) by striking subparagraph (A) and inserting the 
+     following:
+       ``(A) Website.--
+       ``(i) In general.--The Secretary of Transportation shall 
+     maintain a statistical compilation of all incidents on board 
+     a cruise vessel specified in paragraph (3)(A)(i) on an 
+     Internet website that provides a numerical accounting of the 
+     missing persons and alleged crimes reported under that 
+     paragraph without regard to the investigative status of the 
+     incident.
+       ``(ii) Updates and other requirements.--The compilation 
+     under clause (i) shall--
+
+       ``(I) be updated not less frequently than quarterly;
+       ``(II) be able to be sorted by cruise line;
+       ``(III) identify each cruise line by name;
+       ``(IV) identify each crime or alleged crime committed or 
+     allegedly committed by a passenger or crewmember; and
+       ``(V) identify the number of individuals alleged overboard.
+
+       ``(iii) User-friendly format.--The Secretary of 
+     Transportation shall ensure that the compilation, data, and 
+     any other information provided on the Internet website 
+     maintained under this subparagraph are in a user-friendly 
+     format.''; and
+       (2) in subparagraph (B) by striking ``Secretary'' and 
+     inserting ``Secretary of Transportation''.
+
+                 TITLE IV--FEDERAL MARITIME COMMISSION
+
+     SEC. 401. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated to the Federal 
+     Maritime Commission $24,700,000 for fiscal year 2015.
+
+     SEC. 402. AWARD OF REPARATIONS.
+
+       Section 41305 of title 46, United States Code, is amended--
+       (1) in subsection (b), by striking ``, plus reasonable 
+     attorney fees''; and
+       (2) by adding at the end the following:
+       ``(e) Attorney Fees.--In any action brought under section 
+     41301, the prevailing party may be awarded reasonable 
+     attorney fees.''.
+
+     SEC. 403. TERMS OF COMMISSIONERS.
+
+       (a) In General.--Section 301(b) of title 46, United States 
+     Code, is amended--
+       (1) by amending paragraph (2) to read as follows:
+       ``(2) Terms.--The term of each Commissioner is 5 years. 
+     When the term of a Commissioner ends, the Commissioner may 
+     continue to serve until a successor is appointed and 
+     qualified, but for a period not to exceed one year. Except as 
+     provided in paragraph (3), no individual may serve more than 
+     2 terms.''; and
+       (2) by redesignating paragraph (3) as paragraph (5), and 
+     inserting after paragraph (2) the following:
+       ``(3) Vacancies.--A vacancy shall be filled in the same 
+     manner as the original appointment. An individual appointed 
+     to fill a vacancy is appointed only for the unexpired term of 
+     the individual being succeeded. An individual appointed to 
+     fill a vacancy may serve 2 terms in addition to the remainder 
+     of the term for which the predecessor of that individual was 
+     appointed.
+       ``(4) Conflicts of interest.--
+       ``(A) Limitation on relationships with regulated 
+     entities.--A Commissioner may
+
+[[Page 16475]]
+
+     not have a pecuniary interest in, hold an official relation 
+     to, or own stocks or bonds of any entity the Commission 
+     regulates under chapter 401 of this title.
+       ``(B) Limitation on other activities.--A Commissioner may 
+     not engage in another business, vocation, or employment.''.
+       (b) Applicability.--The amendment made by subsection (a)(1) 
+     does not apply with respect to a Commissioner of the Federal 
+     Maritime Commission appointed and confirmed by the Senate 
+     before the date of the enactment of this Act.
+
+                TITLE V--ARCTIC MARITIME TRANSPORTATION
+
+     SEC. 501. ARCTIC MARITIME TRANSPORTATION.
+
+       (a) Arctic Maritime Transportation.--Chapter 5 of title 14, 
+     United States Code, is amended by inserting after section 89 
+     the following:
+
+     ``Sec. 90. Arctic maritime transportation
+
+       ``(a) Purpose.--The purpose of this section is to ensure 
+     safe and secure maritime shipping in the Arctic including the 
+     availability of aids to navigation, vessel escorts, spill 
+     response capability, and maritime search and rescue in the 
+     Arctic.
+       ``(b) International Maritime Organization Agreements.--To 
+     carry out the purpose of this section, the Secretary is 
+     encouraged to enter into negotiations through the 
+     International Maritime Organization to conclude and execute 
+     agreements to promote coordinated action among the United 
+     States, Russia, Canada, Iceland, Norway, and Denmark and 
+     other seafaring and Arctic nations to ensure, in the Arctic--
+       ``(1) placement and maintenance of aids to navigation;
+       ``(2) appropriate marine safety, tug, and salvage 
+     capabilities;
+       ``(3) oil spill prevention and response capability;
+       ``(4) maritime domain awareness, including long-range 
+     vessel tracking; and
+       ``(5) search and rescue.
+       ``(c) Coordination by Committee on the Maritime 
+     Transportation System.--The Committee on the Maritime 
+     Transportation System established under section 55501 of 
+     title 46, United States Code, shall coordinate the 
+     establishment of domestic transportation policies in the 
+     Arctic necessary to carry out the purpose of this section.
+       ``(d) Agreements and Contracts.--The Secretary may, subject 
+     to the availability of appropriations, enter into cooperative 
+     agreements, contracts, or other agreements with, or make 
+     grants to, individuals and governments to carry out the 
+     purpose of this section or any agreements established under 
+     subsection (b).
+       ``(e) Icebreaking.--The Secretary shall promote safe 
+     maritime navigation by means of icebreaking where necessary, 
+     feasible, and effective to carry out the purposes of this 
+     section.
+       ``(f) Arctic Definition.--In this section, the term 
+     `Arctic' has the meaning given such term in section 112 of 
+     the Arctic Research and Policy Act of 1984 (15 U.S.C. 
+     4111).''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by inserting after the item relating to section 89 
+     the following:
+
+``90. Arctic maritime transportation''.
+       (c) Conforming Amendment.--Section 307 of the Coast Guard 
+     Authorization Act of 2010 (Public Law 111-281; 14 U.S.C. 92 
+     note) is repealed.
+
+     SEC. 502. ARCTIC MARITIME DOMAIN AWARENESS.
+
+       (a) In General.--Chapter 7 of title 14, United States Code, 
+     is amended by adding at the end the following:
+
+     ``Sec. 154. Arctic maritime domain awareness
+
+       ``(a) In General.--The Commandant shall improve maritime 
+     domain awareness in the Arctic--
+       ``(1) by promoting interagency cooperation and 
+     coordination;
+       ``(2) by employing joint, interagency, and international 
+     capabilities; and
+       ``(3) by facilitating the sharing of information, 
+     intelligence, and data related to the Arctic maritime domain 
+     between the Coast Guard and departments and agencies listed 
+     in subsection (b).
+       ``(b) Coordination.--The Commandant shall seek to 
+     coordinate the collection, sharing, and use of information, 
+     intelligence, and data related to the Arctic maritime domain 
+     between the Coast Guard and the following:
+       ``(1) The Department of Homeland Security.
+       ``(2) The Department of Defense.
+       ``(3) The Department of Transportation.
+       ``(4) The Department of State.
+       ``(5) The Department of the Interior.
+       ``(6) The National Aeronautics and Space Administration.
+       ``(7) The National Oceanic and Atmospheric Administration.
+       ``(8) The Environmental Protection Agency.
+       ``(9) The National Science Foundation.
+       ``(10) The Arctic Research Commission.
+       ``(11) Any Federal agency or commission or State the 
+     Commandant determines is appropriate.
+       ``(c) Cooperation.--The Commandant and the head of a 
+     department or agency listed in subsection (b) may by 
+     agreement, on a reimbursable basis or otherwise, share 
+     personnel, services, equipment, and facilities to carry out 
+     the requirements of this section.
+       ``(d) 5-Year Strategic Plan.--Not later than January 1, 
+     2016 and every 5 years thereafter, the Commandant shall 
+     submit to the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives a 5-year strategic plan to guide interagency 
+     and international intergovernmental cooperation and 
+     coordination for the purpose of improving maritime domain 
+     awareness in the Arctic
+       ``(e) Definitions.--In this section the term `Arctic' has 
+     the meaning given that term in section 112 of the Arctic 
+     Research and Policy Act of 1984 (15 U.S.C. 4111).''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by inserting after the item relating to section 153 
+     the following:
+
+``154. Arctic maritime domain awareness.''.
+
+     SEC. 503. IMO POLAR CODE NEGOTIATIONS.
+
+       Not later than 30 days after the date of the enactment of 
+     this Act, and thereafter with the submission of the budget 
+     proposal submitted for each of fiscal years 2016, 2017, and 
+     2018 under section 1105 of title 31, United States Code, the 
+     Secretary of the department in which the Coast Guard is 
+     operating shall submit to the Committee on Transportation and 
+     Infrastructure of the House of Representatives and the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate, a report on--
+       (1) the status of the negotiations at the International 
+     Maritime Organization regarding the establishment of a draft 
+     international code of safety for ships operating in polar 
+     waters, popularly known as the Polar Code, and any amendments 
+     proposed by such a code to be made to the International 
+     Convention for the Safety of Life at Sea and the 
+     International Convention for the Prevention of Pollution from 
+     Ships;
+       (2) the coming into effect of such a code and such 
+     amendments for nations that are parties to those conventions;
+       (3) impacts, for coastal communities located in the Arctic 
+     (as that term is defined in the section 112 of the Arctic 
+     Research and Policy Act of 1984 (15 U.S.C. 4111)) of such a 
+     code or such amendments, on--
+       (A) the costs of delivering fuel and freight; and
+       (B) the safety of maritime transportation; and
+       (4) actions the Secretary must take to implement the 
+     requirements of such a code and such amendments.
+
+     SEC. 504. FORWARD OPERATING FACILITIES.
+
+       The Secretary of the department in which the Coast Guard is 
+     operating may construct facilities in the Arctic (as that 
+     term is defined in section 112 of the Arctic Research and 
+     Policy Act of 1984 (15 U.S.C. 4111). The facilities shall--
+       (1) support aircraft maintenance, including exhaust 
+     ventilation, heat, an engine wash system, fuel, ground 
+     support services, and electrical power;
+       (2) provide shelter for both current helicopter assets and 
+     those projected to be located at Air Station Kodiak, Alaska, 
+     for at least 20 years; and
+       (3) include accommodations for personnel.
+
+     SEC. 505. ICEBREAKERS.
+
+       (a) Coast Guard Polar Icebreakers.--Section 222 of the 
+     Coast Guard and Maritime Transportation Act of 2012 (Public 
+     Law 112-213; 126 Stat. 1560) is amended--
+       (1) in subsection (d)(2)--
+       (A) in the paragraph heading by striking ``; bridging 
+     strategy''; and
+       (B) by striking ``Commandant of the Coast Guard'' and all 
+     that follows through the period at the end and inserting 
+     ``Commandant of the Coast Guard may decommission the Polar 
+     Sea.'';
+       (2) by adding at the end of subsection (d) the following:
+       ``(3) Result of no determination.--If in the analysis 
+     submitted under this section the Secretary does not make a 
+     determination under subsection (a)(5) regarding whether it is 
+     cost effective to reactivate the Polar Sea, then--
+       ``(A) the Commandant of the Coast Guard may decommission 
+     the Polar Sea; or
+       ``(B) the Secretary may make such determination, not later 
+     than 90 days after the date of the enactment of Howard Coble 
+     Coast Guard and Maritime Transportation Act of 2014, and take 
+     actions in accordance with this subsection as though such 
+     determination was made in the analysis previously 
+     submitted.'';
+       (3) by redesignating subsections (e), (f), and (g) as 
+     subsections (f), (g), and (h), respectively; and
+       (4) by inserting after subsection (d) the following:
+       ``(e) Strategies.--
+       ``(1) In general.--Not later than 180 days after the date 
+     on which the analysis required under subsection (a) is 
+     submitted, the Commandant of the Coast Guard shall submit to 
+     the Committee on Transportation and Infrastructure of the 
+     House of Representatives and the Committee on Commerce, 
+     Science, and Transportation of the Senate--
+       ``(A) unless the Secretary makes a determination under this 
+     section that it is cost effective to reactivate the Polar 
+     Sea, a bridging strategy for maintaining the Coast Guard's 
+     polar icebreaking services until at least September 30, 2024;
+       ``(B) a strategy to meet the Coast Guard's Arctic ice 
+     operations needs through September 30, 2050; and
+
+[[Page 16476]]
+
+       ``(C) a strategy to meet the Coast Guard's Antarctic ice 
+     operations needs through September 30, 2050.
+       ``(2) Requirement.--The strategies required under paragraph 
+     (1) shall include a business case analysis comparing the 
+     leasing and purchasing of icebreakers to maintain the needs 
+     and services described in that paragraph.''.
+       (b) Cutter ``Polar Sea''.--Upon the submission of a service 
+     life extension plan in accordance with section 222(d)(1)(C) 
+     of the Coast Guard and Maritime Transportation Act of 2012 
+     (Public Law 112-213; 126 Stat. 1560), the Secretary of the 
+     department in which the Coast Guard is operating may use 
+     funds authorized under section 101 of this Act to conduct a 
+     service life extension of 7 to 10 years for the Coast Guard 
+     Cutter Polar Sea (WAGB 11) in accordance with such plan.
+       (c) Limitation.--
+       (1) In general.--The Secretary of the department in which 
+     the Coast Guard is operating may not expend amounts 
+     appropriated for the Coast Guard for any of fiscal years 2015 
+     through 2024, for--
+       (A) design activities related to a capability of a Polar-
+     Class Icebreaker that is based solely on an operational 
+     requirement of another Federal department or agency, except 
+     for amounts appropriated for design activities for a fiscal 
+     year before fiscal year 2016; or
+       (B) long-lead-time materials, production, or post-delivery 
+     activities related to such a capability.
+       (2) Other amounts.--Amounts made available to the Secretary 
+     under an agreement with another Federal department or agency 
+     and expended on a capability of a Polar-Class Icebreaker that 
+     is based solely on an operational requirement of that or 
+     another Federal department or agency shall not be treated as 
+     amounts expended by the Secretary for purposes of the 
+     limitation established under paragraph (1).
+
+     SEC. 506. ICEBREAKING IN POLAR REGIONS.
+
+       (a) In General.--Chapter 5 of title 14, United States Code, 
+     is amended by inserting after section 86 the following:
+
+     ``Sec. 87. Icebreaking in polar regions
+
+       ``The President shall facilitate planning for the design, 
+     procurement, maintenance, deployment, and operation of 
+     icebreakers as needed to support the statutory missions of 
+     the Coast Guard in the polar regions by allocating all funds 
+     to support icebreaking operations in such regions, except for 
+     recurring incremental costs associated with specific 
+     projects, to the Coast Guard.''.
+       (b) Clerical Amendment.--The analysis for such chapter is 
+     amended by inserting after the item relating to section 86 
+     the following:
+
+``87. Icebreaking in polar regions.''.
+
+                        TITLE VI--MISCELLANEOUS
+
+     SEC. 601. DISTANT WATER TUNA FLEET.
+
+       Section 421 of the Coast Guard and Maritime Transportation 
+     Act of 2006 (46 U.S.C. 8103 note) is amended--
+       (1) by striking subsections (c) and (e); and
+       (2) by redesignating subsections (d) and (f) as subsections 
+     (c) and (d), respectively.
+
+     SEC. 602. EXTENSION OF MORATORIUM.
+
+       Section 2(a) of Public Law 110-299 (33 U.S.C. 1342 note) is 
+     amended by striking ``2014'' and inserting ``2015''.
+
+     SEC. 603. NATIONAL MARITIME STRATEGY.
+
+       (a) In General.--Not later than 60 days after the date of 
+     the enactment of this Act, the Secretary of Transportation, 
+     in consultation with the Secretary of the department in which 
+     the Coast Guard is operating, shall submit to the Committee 
+     on Transportation and Infrastructure of the House of 
+     Representatives and the Committee on Commerce, Science, and 
+     Transportation of the Senate a national maritime strategy.
+       (b) Contents.--The strategy required under subsection (a) 
+     shall--
+       (1) identify--
+       (A) Federal regulations and policies that reduce the 
+     competitiveness of United States flag vessels in 
+     international transportation markets; and
+       (B) the impact of reduced cargo flow due to reductions in 
+     the number of members of the United States Armed Forces 
+     stationed or deployed outside of the United States; and
+       (2) include recommendations to--
+       (A) make United States flag vessels more competitive in 
+     shipping routes between United States and foreign ports;
+       (B) increase the use of United States flag vessels to carry 
+     cargo imported to and exported from the United States;
+       (C) ensure compliance by Federal agencies with chapter 553 
+     of title 46, United States Code;
+       (D) increase the use of third-party inspection and 
+     certification authorities to inspect and certify vessels;
+       (E) increase the use of short sea transportation routes, 
+     including routes designated under section 55601(c) of title 
+     46, United States Code, to enhance intermodal freight 
+     movements; and
+       (F) enhance United States shipbuilding capability.
+
+     SEC. 604. WAIVERS.
+
+       (a) ``John Craig''.--
+       (1) In general.--Section 8902 of title 46, United States 
+     Code, shall not apply to the vessel John Craig (United States 
+     official number D1110613) when such vessel is operating on 
+     the portion of the Kentucky River, Kentucky, located at 
+     approximately mile point 158, in Pool Number 9, between Lock 
+     and Dam Number 9 and Lock and Dam Number 10.
+       (2) Application.--Paragraph (1) shall apply on and after 
+     the date on which the Secretary of the department in which 
+     the Coast Guard is operating determines that a licensing 
+     requirement has been established under Kentucky State law 
+     that applies to an operator of the vessel John Craig.
+       (b) ``F/V Western Challenger''.--Notwithstanding section 
+     12132 of title 46, United States Code, the Secretary of the 
+     department in which the Coast Guard is operating may issue a 
+     certificate of documentation with a coastwise endorsement for 
+     the F/V Western Challenger (IMO number 5388108).
+
+     SEC. 605. COMPETITION BY UNITED STATES FLAG VESSELS.
+
+       (a) In General.--The Commandant of the Coast Guard shall 
+     enter into an arrangement with the National Academy of 
+     Sciences to conduct an assessment of authorities under 
+     subtitle II of title 46, United States Code, that have been 
+     delegated to the Coast Guard and that impact the ability of 
+     vessels documented under the laws of the United States to 
+     effectively compete in international transportation markets.
+       (b) Review of Differences With IMO Standards.--The 
+     assessment under subsection (a) shall include a review of 
+     differences between United States laws, policies, 
+     regulations, and guidance governing the inspection of vessels 
+     documented under the laws of the United States and standards 
+     set by the International Maritime Organization governing the 
+     inspection of vessels.
+       (c) Deadline.--Not later than 180 days after the date on 
+     which the Commandant enters into an arrangement with the 
+     National Academy of Sciences under subsection (a), the 
+     Commandant shall submit to the Committee on Transportation 
+     and Infrastructure of the House of Representatives and the 
+     Committee on Commerce, Science, and Transportation of the 
+     Senate the assessment required under such subsection.
+
+     SEC. 606. VESSEL REQUIREMENTS FOR NOTICES OF ARRIVAL AND 
+                   DEPARTURE AND AUTOMATIC IDENTIFICATION SYSTEM.
+
+       Not later than 30 days after the date of the enactment of 
+     this Act, the Secretary of the department in which the Coast 
+     Guard is operating shall notify the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives and the Committee on Commerce, Science, and 
+     Transportation of the Senate of the status of the final rule 
+     that relates to the notice of proposed rulemaking titled 
+     ``Vessel Requirements for Notices of Arrival and Departure, 
+     and Automatic Identification System'' and published in the 
+     Federal Register on December 16, 2008 (73 Fed. Reg. 76295).
+
+     SEC. 607. CONVEYANCE OF COAST GUARD PROPERTY IN ROCHESTER, 
+                   NEW YORK.
+
+       (a) Conveyance Authorized.--The Commandant of the Coast 
+     Guard is authorized to convey, at fair market value, all 
+     right, title, and interest of the United States in and to a 
+     parcel of real property, consisting of approximately 0.2 
+     acres, that is under the administrative control of the Coast 
+     Guard and located at 527 River Street in Rochester, New York.
+       (b) Right of First Refusal.--The City of Rochester, New 
+     York, shall have the right of first refusal with respect to 
+     the purchase, at fair market value, of the real property 
+     described in subsection (a).
+       (c) Survey.--The exact acreage and legal description of the 
+     property described in subsection (a) shall be determined by a 
+     survey satisfactory to the Commandant.
+       (d) Fair Market Value.--The fair market value of the 
+     property described in subsection (a) shall--
+       (1) be determined by appraisal; and
+       (2) be subject to the approval of the Commandant.
+       (e) Costs of Conveyance.--The responsibility for all 
+     reasonable and necessary costs, including real estate 
+     transaction and environmental documentation costs, associated 
+     with a conveyance under subsection (a) shall be determined by 
+     the Commandant and the purchaser.
+       (f) Additional Terms and Conditions.--The Commandant may 
+     require such additional terms and conditions in connection 
+     with a conveyance under subsection (a) as the Commandant 
+     considers appropriate and reasonable to protect the interests 
+     of the United States.
+       (g) Deposit of Proceeds.--Any proceeds from a conveyance 
+     under subsection (a) shall be deposited in the fund 
+     established under section 687 of title 14, United States 
+     Code.
+
+     SEC. 608. CONVEYANCE OF CERTAIN PROPERTY IN GIG HARBOR, 
+                   WASHINGTON.
+
+       (a) Definitions.--In this section, the following 
+     definitions apply:
+       (1) City.--The term ``City'' means the city of Gig Harbor, 
+     Washington.
+       (2) Property.--The term ``Property'' means the parcel of 
+     real property, together with any improvements thereon, 
+     consisting of approximately 0.86 acres of fast lands commonly 
+     identified as tract 65 of lot 1 of section 8, township 21 
+     north, range 2 east, Willamette Meridian, on the north side 
+     of the entrance of Gig Harbor, narrows of Puget Sound, 
+     Washington.
+
+[[Page 16477]]
+
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (b) Conveyance.--
+       (1) Authority to convey.--Not later than 30 days after the 
+     date on which the Secretary of the department in which the 
+     Coast Guard is operating relinquishes the reservation of the 
+     Property for lighthouse purposes, at the request of the City 
+     and subject to the requirements of this section, the 
+     Secretary shall convey to the City all right, title, and 
+     interest of the United States in and to the Property, 
+     notwithstanding the land use planning requirements of 
+     sections 202 and 203 of the Federal Land Policy and 
+     Management Act of 1976 (43 U.S.C. 1712, 1713).
+       (2) Terms of conveyance.--A conveyance made under paragraph 
+     (1) shall be made--
+       (A) subject to valid existing rights;
+       (B) at the fair market value as described in subsection 
+     (c); and
+       (C) subject to any other condition that the Secretary may 
+     consider appropriate to protect the interests of the United 
+     States.
+       (3) Costs.--The City shall pay any transaction or 
+     administrative costs associated with a conveyance under 
+     paragraph (1), including the costs of the appraisal, title 
+     searches, maps, and boundary and cadastral surveys.
+       (4) Conveyance is not a major federal action.--A conveyance 
+     under paragraph (1) shall not be considered a major Federal 
+     action for purposes of section 102(2) of the National 
+     Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
+       (c) Fair Market Value.--
+       (1) Determination.--The fair market value of the Property 
+     shall be--
+       (A) determined by an appraisal conducted by an independent 
+     appraiser selected by the Secretary; and
+       (B) approved by the Secretary in accordance with paragraph 
+     (3).
+       (2) Requirements.--An appraisal conducted under paragraph 
+     (1) shall--
+       (A) be conducted in accordance with nationally recognized 
+     appraisal standards, including--
+       (i) the Uniform Appraisal Standards for Federal Land 
+     Acquisitions; and
+       (ii) the Uniform Standards of Professional Appraisal 
+     Practice; and
+       (B) shall reflect the equitable considerations described in 
+     paragraph (3).
+       (3) Equitable considerations.--In approving the fair market 
+     value of the Property under this subsection, the Secretary 
+     shall take into consideration matters of equity and fairness, 
+     including the City's past and current lease of the Property, 
+     any maintenance or improvements by the City to the Property, 
+     and such other factors as the Secretary considers 
+     appropriate.
+       (d) Revocation; Reversion.--Effective on and after the date 
+     on which a conveyance of the Property is made under 
+     subsection (b)(1)--
+       (1) Executive Order 3528, dated August 9, 1921, is revoked; 
+     and
+       (2) the use of the tide and shore lands belonging to the 
+     State of Washington and adjoining and bordering the Property, 
+     that were granted to the Government of the United States 
+     pursuant to the Act of the Legislature, State of Washington, 
+     approved March 13, 1909, the same being chapter 110 of the 
+     Session Laws of 1909, shall revert to the State of 
+     Washington.
+
+     SEC. 609. VESSEL DETERMINATION.
+
+       The vessel assigned United States official number 1205366 
+     is deemed a new vessel effective on the date of delivery of 
+     the vessel after January 1, 2012, from a privately owned 
+     United States shipyard, if no encumbrances are on record with 
+     the Coast Guard at the time of the issuance of the new 
+     certificate of documentation for the vessel.
+
+     SEC. 610. SAFE VESSEL OPERATION IN THUNDER BAY.
+
+       The Secretary of the department in which the Coast Guard is 
+     operating and the Administrator of the Environmental 
+     Protection Agency may not prohibit a vessel operating within 
+     the existing boundaries and any future expanded boundaries of 
+     the Thunder Bay National Marine Sanctuary and Underwater 
+     Preserve from taking up or discharging ballast water to allow 
+     for safe and efficient vessel operation if the uptake or 
+     discharge meets all Federal and State ballast water 
+     management requirements that would apply if the area were not 
+     a marine sanctuary.
+
+     SEC. 611. PARKING FACILITIES.
+
+       (a) Allocation and Assignment.--
+       (1) In general.--Subject to the requirements of this 
+     section, the Administrator of General Services, in 
+     coordination with the Commandant of the Coast Guard, shall 
+     allocate and assign the spaces in parking facilities at the 
+     Department of Homeland Security St. Elizabeths Campus to 
+     allow any member or employee of the Coast Guard, who is 
+     assigned to the Campus, to use such spaces.
+       (2) Timing.--In carrying out paragraph (1), and in addition 
+     to the parking spaces allocated and assigned to Coast Guard 
+     members and employees in fiscal year 2014, the Administrator 
+     shall allocate and assign not less than--
+       (A) 300 parking spaces not later than September 30, 2015;
+       (B) 700 parking spaces not later than September 30, 2016; 
+     and
+       (C) 1,042 parking spaces not later than September 30, 2017.
+       (b) Transportation Management Report.--Not later than 1 
+     year after the date of the enactment of this Act, and each 
+     fiscal year thereafter in which spaces are allocated and 
+     assigned under subsection (a)(2), the Administrator shall 
+     provide to the Committee on Commerce, Science, and 
+     Transportation of the Senate and the Committee on 
+     Transportation and Infrastructure of the House of 
+     Representatives a report on--
+       (1) the impact of assigning and allocating parking spaces 
+     under subsection (a) on the congestion of roads connecting 
+     the St. Elizabeths Campus to the portions of Suitland Parkway 
+     and I-295 located in the Anacostia section of the District of 
+     Columbia; and
+       (2) progress made toward completion of essential 
+     transportation improvements identified in the Transportation 
+     Management Program for the St. Elizabeths Campus.
+       (c) Reallocation.--Notwithstanding subsection (a), the 
+     Administrator may revise the allocation and assignment of 
+     spaces to members and employees of the Coast Guard made under 
+     subsection (a) as necessary to accommodate employees of the 
+     Department of Homeland Security, other than the Coast Guard, 
+     when such employees are assigned to the St. Elizabeths 
+     Campus.
+
+  The SPEAKER pro tempore. Pursuant to the rule, the gentleman from 
+California (Mr. Hunter) and the gentleman from West Virginia (Mr. 
+Rahall) each will control 20 minutes.
+  The Chair recognizes the gentleman from California.
+
+
+                             General Leave
+
+  Mr. HUNTER. Mr. Speaker, I ask unanimous consent that all Members may 
+have 5 legislative days in which to revise and extend their remarks and 
+include extraneous material on H.R. 5769.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+  Mr. HUNTER. Mr. Speaker, I yield myself as much time as I may 
+consume.
+  Mr. Speaker, H.R. 5769, the Howard Coble Coast Guard and Maritime 
+Transportation Act of 2014, reauthorizes funding for the Coast Guard 
+through fiscal year 2015 at levels that are fiscally responsible and 
+that will reverse the misguided cuts proposed by the current 
+administration.
+  The President proposed to slash the service's acquisition budget by 
+over 20 percent, reduce the number of servicemembers by over 1,300, 
+undermine readiness by cutting program hours for aircraft, and 
+jeopardize the success of the search-and-rescue mission by taking 
+fixed-wing air aircraft crews off alert status. The President's budget 
+request will only worsen the Coast Guard's growing gaps in mission 
+performance, increase acquisition delays, drive up the cost of new 
+assets, and deny our servicemembers the critical resources needed to 
+perform their duties.
+
+                              {time}  1245
+
+  H.R. 5769 authorizes sufficient funding to ensure these cuts do not 
+happen and the service has what it needs to successfully conduct its 
+missions. The bill also makes several reforms to the Coast Guard 
+authorities, as well as laws governing shipping and navigation.
+  Specifically, H.R. 5769 supports Coast Guard servicemembers by 
+ensuring the members of the Coast Guard are offered the same benefits 
+available to members of the other armed services. It improves Coast 
+Guard mission effectiveness by replacing and modernizing Coast Guard 
+assets in a cost-effective manner.
+  It enhances oversight of the Coast Guard, reduces inefficient 
+operations, and saves taxpayer dollars by making commonsense reforms to 
+Coast Guard missions and administration. It helps veterans make the 
+transition from service in the military to good-paying jobs in the 
+maritime industry.
+  It includes an Arctic maritime transportation title, which provides 
+the Coast Guard the authorities it needs to successfully carry out 
+missions in the Arctic, as well as prepare for the safe operation of 
+commercial vessels and increased human activity in the region.
+  It encourages job growth in the maritime sector by conducting 
+regulatory burdens on job creators, and lastly, it reauthorizes and 
+reforms the structure and operations of the FMC.
+  Mr. Speaker, with respect to section 323 of the bill, it is the 
+committee's intent that the Department of Transportation use the Web 
+site currently operated by the Coast Guard to the greatest
+
+[[Page 16478]]
+
+extent possible. The data presented on the Web site should be limited 
+only to that required by statute and shown in a simple, easily used 
+format.
+  The committee does not intend to use anything other than commercial 
+off-the-shelf technology to establish the Web site or independently 
+develop new software or acquire new hardware in operating the site.
+  H.R. 5769 presents a strong bipartisan and bicameral agreement. I 
+want to thank Senators Rockefeller, Thune, Begich, and Rubio for 
+working with us on this important legislation. I also want to thank 
+Ranking Member Rahall and the subcommittee ranking member, 
+Representative Garamendi, for their efforts, and Chairman Shuster for 
+his leadership.
+  Finally, I want to take a minute to point out that this will be the 
+last Coast Guard authorization bill that will benefit from the advice 
+and support of the only Member of Congress with service in the Coast 
+Guard, our colleague and friend, Howard Coble.
+  Howard is a Korean war veteran with 5 years of active duty in the 
+Coast Guard and another 18 years in the Coast Guard Reserve. He is the 
+founder of the Congressional Coast Guard Caucus, as well as an active 
+member and former chairman of the Subcommittee on Coast Guard and 
+Maritime Transportation.
+  Throughout his career in Congress, Howard has been a tireless 
+advocate for the men and women of the Coast Guard. I thank and commend 
+him for this service to our Nation and for his contributions to this 
+and past Coast Guard authorizations.
+  I reserve the balance of my time.
+
+                                         House of Representatives,
+
+
+                               Committee on Homeland Security,
+
+                                 Washington, DC, December 3, 2014.
+     Hon. Bill Shuster,
+     Chairman, House Committee on Transportation and 
+         Infrastructure, Washington, DC.
+       Dear Chairman Shuster: I write to you regarding the 
+     jurisdictional interest of the Committee on Homeland Security 
+     in H.R. 5769, the ``Howard Coble Coast Guard and Maritime 
+     Transportation Act of 2014.'' The bill contains certain 
+     provisions that fall within the jurisdiction of the 
+     Committee.
+       In the interest of permitting the Committee on 
+     Transportation and Infrastructure to proceed expeditiously to 
+     the House floor, I will not seek a sequential referral of 
+     H.R. 5769. However, I do so only with the mutual 
+     understanding that the jurisdiction of the Committee on 
+     Homeland Security over matters concerning the United States 
+     Coast Guard in this or similar legislation is in no way 
+     diminished. I further request that you urge the Speaker to 
+     name Members of this Committee to any conference committee 
+     that is named to consider such provisions.
+       Finally, I request you include this letter and your 
+     response into the Congressional Record during consideration 
+     of H.R. 5769 on the House floor. Thank you for your 
+     cooperation.
+           Sincerely,
+                                                Michael T. McCaul,
+     Chairman.
+                                  ____
+
+         House of Representatives, Committee on Transportation and 
+           Infrastructure,
+                                 Washington, DC, December 3, 2014.
+     Hon. Michael T. McCaul,
+     Chairman, Committee on Homeland Security, Washington, DC.
+       Dear Chairman McCaul: Thank you for your letter regarding 
+     the Committee on Homeland Security's jurisdictional interest 
+     in H.R. 5769, the Howard Coble Coast Guard and Maritime 
+     Transportation Act of 2014.
+       I look forward to working with you concerning provisions in 
+     H.R. 5769, or similar legislation, that are within the 
+     jurisdiction of the Committee on Homeland Security. Finally, 
+     I would support your effort to seek appointment of an 
+     appropriate number of conferees to any House-Senate 
+     conference involving this legislation.
+       I will include our letters in the Congressional Record 
+     during House floor consideration of the bill. I appreciate 
+     your cooperation regarding this legislation, and I look 
+     forward to working with the Committee on Homeland Security as 
+     the bill moves through the legislative process.
+           Sincerely,
+                                                     Bill Shuster,
+                                                         Chairman.
+
+  Mr. RAHALL. Mr. Speaker, I yield myself such time as I may consume.
+  Mr. Speaker, I rise today in strong support of H.R. 5769, the Howard 
+Coble Coast Guard and Maritime Transportation Act of 2014. This 
+legislation was developed, as Mr. Hunter has said, through very 
+cooperative, bipartisan, and bicameral negotiations over the past 2 
+months.
+  That we are here today considering this legislation on the suspension 
+calendar demonstrates again that, when we put aside partisan 
+differences, we can find agreement on substantive legislation that 
+serves the greater interests of the American public.
+  I commend full committee Chairman Shuster for his leadership in 
+reaching out to the other body to initiate the process that has 
+culminated in producing the outstanding bill that is before the House 
+today.
+  I also want to thank and acknowledge the chairman of the Coast Guard 
+and Maritime Transportation Subcommittee, Duncan Hunter, and the 
+ranking Democratic member of our Coast Guard and Maritime 
+Transportation Subcommittee, Mr. John Garamendi, for their tireless 
+efforts to advance this important legislation.
+  As well, to our colleague Howard Coble, whom I have served with on 
+the Transportation and Infrastructure Committee since he was first 
+elected to the House in 1984.
+  It is truly fitting that the pending bill will be named after Howard. 
+He is a true gentleman in every sense of the word, a gentleman of this 
+House, and a superb friend to myself, as well as to many of our 
+colleagues.
+  The U.S. Coast Guard, one of our Nation's five military services, 
+remains an agency that is as indispensable today as it was 100 years 
+ago. Whether maintaining the safety of maritime commerce on the high 
+seas, securing our ports, harbors, and inland waterways, or when 
+protecting life at sea, the Coast Guard stands ready and able to serve 
+whenever called.
+  I am pleased that this legislation will provide sufficient authorized 
+funding to ensure that the Coast Guard has the resources and the 
+personnel that it needs to accomplish its many missions, and most 
+importantly, this legislation provides adequate funding to allow the 
+Coast Guard to maintain progress in recapitalizing its offshore fleet 
+of cutters, which is a very high priority.
+  I am also pleased that this legislation will advance several policies 
+to support our merchant marine, especially a provision that will 
+strengthen the enforcement of cargo preference requirements and ensure 
+that the transport of U.S. Government cargoes continue to provide jobs 
+for U.S. seafarers.
+  In general, this legislation will do much to advance our maritime 
+industries and ensure that our maritime economy remains a vibrant 
+contributor and source of jobs for millions of Americans.
+  This legislation is noncontroversial. It does have solid bipartisan 
+and bicameral support, and I urge Members to support this worthy bill.
+  I reserve the balance of my time.
+  Mr. HUNTER. Mr. Speaker, there are a few people I want to thank, too. 
+I want to thank John and Jeff, who are here in this room, for the work 
+that they have put into this. I want to thank Victoria Middleton, who 
+is my chief of staff. This will be her last year. This is her first 
+Coast Guard bill that we are getting done here. They have put in so 
+much work and so much time.
+  For myself, this is my first piece of legislation that I am going to 
+be passing in this Coast Guard and Maritime Transportation Subcommittee 
+with Mr. Garamendi. It has been a great time working with everybody.
+  I want to thank, lastly, the men and women of the Coast Guard. They 
+have been fantastic. They have really opened up their arms to us. We 
+have been able to see what they do, how they do it, and what they have 
+to do, day in and day out, for the people of this country and, frankly, 
+people of every country.
+  If you are on the open seas and something bad happens to you, it is 
+going to be the U.S. Coast Guard that comes and saves you. If you are a 
+bad guy running drugs from South America up to Florida, it is going to 
+be a U.S. Coast Guard vessel that interdicts.
+  I just want to thank the U.S. Coast Guard for what they do for this 
+Nation because they are kind of the redheaded stepchild. They are a 
+military service, but they are also a law enforcement entity. They get 
+to do both things, and that is one of the things that makes them such a 
+great organization.
+
+[[Page 16479]]
+
+  With that, Mr. Speaker, I yield such time as he may consume to the 
+gentleman from North Carolina (Mr. Coble).
+  Mr. COBLE. Mr. Speaker, I thank the gentleman from California, and I 
+will be very brief. I thank the ranking member, Mr. Rahall, and the 
+chairman of the subcommittee for your generous words. I am not sure 
+that I am deserving, but I am appreciative. I appreciate the diligence 
+which the Coast Guard men and women display daily in the discharge of 
+their duties.
+  There is an old adage that is as old as the Coast Guard, and that is 
+when distress calls are received, the Coast Guard must go out. It says 
+nothing about them coming back. Most of them do come back, but on 
+occasion, they don't. We should always remember that very clearly.
+  Again, I thank you for this honor.
+  Mr. RAHALL. Mr. Speaker, I yield 5 minutes to the distinguished 
+gentleman from California (Mr. Garamendi), the ranking member of the 
+Subcommittee on Coast Guard and Maritime Transportation.
+  Mr. GARAMENDI. Mr. Speaker, I thank the gentleman for yielding me 
+this time, and I rise in strong support of H.R. 5769, the Howard Coble 
+Coast Guard and Maritime Transportation Act.
+  As explained by previous speakers, this bill is bipartisan, 
+bicameral, and is noncontroversial. It reauthorizes the Coast Guard and 
+the Coast Guard Reserve and the Federal Maritime Commission. The 
+legislation includes many important provisions that were contained in 
+H.R. 4005, the Coast Guard authorization legislation that was passed 
+and reported by voice vote from the committee, as well as overwhelming 
+support here on the floor on April 1 of this year.
+  Maintaining a safe, reliable, and efficient maritime commerce that 
+enables our foreign and domestic trade to fuel the U.S. economy remains 
+as important today as it was in 1790, when former Treasury Secretary 
+Alexander Hamilton established the U.S. Revenue Cutter Service, the 
+predecessor to the U.S. Coast Guard.
+  This new legislation will provide our Coast Guard with the resources 
+and policy tools they need to meet the challenges presented by an ever-
+evolving economy and security demands of our Nation.
+  First, let me explain. A sincere gratitude to my colleague, Duncan 
+Hunter, the chair of the subcommittee, for the work that he and his 
+extraordinary staff have done in putting together this bill. Working 
+together, I think we have accomplished something useful.
+  Mr. Rahall's leadership on our side was exemplary. He gave us the 
+resources, the time, and the encouragement to get this job done, and 
+that was repeated by Mr. Shuster on the other side. We have a great 
+team, and I am proud to be part of it.
+  This is a compromise to be sure, but it is a good one. First and 
+foremost, the bill includes several noncontroversial administrative and 
+management directives to better align the Coast Guard missions and 
+needs with the long-term capital planning and annual budget requests.
+  Additionally, the bill would grant the Coast Guard with greater 
+flexibility to augment Active Duty forces and provide explicit 
+cooperative agreement authority to enhance the Coast Guard's ability to 
+develop beneficial partnerships with other maritime stakeholders. The 
+bill provides new guidance to the Coast Guard as it continues to 
+rebuild its fleet of offshore cutters.
+  I am particularly pleased this legislation would advance several 
+positive initiatives to reinvigorate the U.S. merchant marine and 
+improve maritime transportation. Most noteworthy, this legislation 
+would advance several positive policy initiatives, among them the 
+enforcement of cargo preference laws and regulations, a move that is 
+long overdue.
+  Additionally, the legislation requires the Department of 
+Transportation to develop a new maritime strategy and direct the 
+Government Accountability Office to conduct an assessment of how future 
+export trade can be augmented.
+  I welcome the opportunities to chart new courses forward to improve 
+the competitiveness of the U.S. flag fleet on the high seas, to 
+increase opportunities for short sea shipping, and to expand our 
+commercial shipbuilding industrial base.
+  I am pleased that this legislation will advance significant new 
+policies already discussed by Mr. Hunter to finally force the Federal 
+Government and the Coast Guard especially to take constructive actions 
+to address the implications of the thawing of the Arctic Ocean and the 
+imminent demands for commercial maritime transportation and resource 
+development across that vast region. A particular shout-out to Mr. 
+Hunter for leading the charge on this very important effort.
+  In closing, this bill is responsible legislation that would provide 
+budget stability for the Coast Guard, advance sensible policy reforms, 
+and promote our merchant marine. The bill deserves support from Members 
+from both sides of the aisle.
+  Mr. HUNTER. Mr. Speaker, this bill would not have happened without 
+the leadership of Mr. Rahall and the full committee chairman, Bill 
+Shuster from Pennsylvania. They did a lot of work on this bill.
+  I am honored to yield such time as he may consume to the gentleman 
+from Pennsylvania (Mr. Shuster).
+  Mr. SHUSTER. Mr. Speaker, I thank the gentlemen from California, Mr. 
+Hunter and Mr. Garamendi, for their great work. There were a couple of 
+rough patches, but in the House, we were able to figure it out. In the 
+Senate, I especially thank Senator Rockefeller for working through 
+this. I know Senator Rockefeller is retiring, so it is fitting that, as 
+he leaves, this bill and his work is complete, and so we congratulate 
+and thank him for his work.
+  This bill that Chairman Hunter and Mr. Garamendi put together is 
+truly bipartisan and bicameral. There are a lot of great reforms in it. 
+The men and women of the Coast Guard that help to keep this country 
+safe and enforce our laws, this is a tribute to them for what they do.
+  They risk their lives to save people and to save property, and so my 
+hat goes off to them and to thank them again for the great work that 
+they do protecting the American people on the waterways and on the high 
+seas and the marine natural resources that they also help to protect. 
+They have a huge job.
+  I am very, very proud that the Howard Coble Coast Guard and Maritime 
+Transportation Act is going to pass today. As I said, a lot of 
+bipartisan reforms are in the bill that will help to streamline and 
+ensure that our Coast Guard can do their job more efficiently and with 
+less red tape, giving them the resources that they need.
+  Again, a special thanks to Howard Coble, who the bill is named for. 
+This is his final bill. We wish him well in his future journey. Being 
+the only Member of Congress that is a coastie, we thank him for all of 
+his years of service back to 1985.
+  I think I am one of the few Members who has known Howard Coble since 
+1985--not that I was a Member then, but my father served with Howard on 
+the committee. I was with my father last night, and I told him that we 
+are doing the bill today, and he sends his best to you, Howard, and 
+congratulates you on your retirement.
+  You have been a tireless worker for the interests of the Coast Guard 
+and for the security of America, and we can't thank you enough for 
+that.
+
+                              {time}  1300
+
+  In addition, the ranking member, Mr. Rahall, I believe this will be 
+the final bill that he moves through the committee. I want to thank him 
+for his friendship and for working with me the past 2 years. It has 
+been a great partnership.
+  I have got a lot of great stories. As we went through the WRDA bill, 
+a lot of great successes. A couple of them I can't tell, or I can't 
+tell them on the House floor, but they are all clean. They are all 
+good. But, again, we really worked well together on that, and I wish 
+you the best in your future endeavors. You will be missed here in 
+Washington. And again, a family friend
+
+[[Page 16480]]
+
+for almost 40 years, serving with my father and with me; and again, we 
+can't thank you enough for the great work that you have done in your 38 
+years here.
+  Mr. COBLE. Will the gentleman yield?
+  Mr. SHUSTER. I yield to the gentleman from North Carolina.
+  Mr. COBLE. I will be very brief.
+  In thanking Mr. Rahall and Mr. Hunter, I failed to thank the 
+chairman. That is a mistake you should never commit. So I thank you as 
+well, Mr. Shuster. Thanks to all of you.
+  Mr. SHUSTER. I was more than happy to let Mr. Coble come up. He 
+didn't have to thank me. His hard work is thanks enough. But, again, a 
+fine member of the committee and a Member of Congress. We are going to 
+miss him greatly.
+  So, again, as I want to sum up, Chairman Hunter, Ranking Member 
+Garamendi, great work on this bill. I encourage all of my colleagues to 
+vote for this, and hopefully we will get a vote in the Senate next 
+week, and we can get this to the President's desk and he can sign it 
+for Christmas. So, again, thanks to all.
+  I want to thank the staff for their great work, not only on the 
+subcommittee but on the full committee. As we worked through the past 2 
+years, the staff has had a lot of good action together, and I want to 
+thank the staff and wish them a Merry Christmas, a happy holiday, and a 
+happy new year. If we don't see you, then we will see you around the 
+first of the year.
+  I am particularly pleased that the bill includes a provision which 
+equalizes the regulatory treatment among similar vessels which operate 
+out of the British and U.S. Virgin Islands.
+  Current law puts certain vessels operating out of the U.S. Virgin 
+Islands at a competitive disadvantage with similar vessels operating 
+out of the British Virgin Islands. H.R. 5769 establishes an equal 
+playing field for these vessels.
+  It allows vessels operating out of the U.S. Virgin Islands which meet 
+safety requirements identical to those in effect for similar vessels 
+operating out of the British Virgin Islands to carry an equal number of 
+passengers.
+  It is clear the provision comes into effect on the date of enactment. 
+The Coast Guard may write standards to implement the provision, but, 
+again, the provision is clear, any such standards must be identical to 
+those imposed on BVI vessels; and during any period prior to the 
+implementation of such standards, vessels operating out of the U.S. 
+Virgin Islands which meet the standards referenced in section 319, 
+uninspected passenger vessels in the United States Virgin Islands, of 
+H.R. 5769 shall be allowed to carry an equal number of passengers as 
+those operating out of the British Virgin Islands.
+  Mr. RAHALL. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Maryland (Mr. Cummings).
+  Mr. CUMMINGS. Mr. Speaker, first of all, I want to thank Ranking 
+Member Rahall for this time. I also thank him for his work on this 
+legislation and for his decades of service to our great Nation. He will 
+be sorely missed in the Transportation Committee and, indeed, in the 
+Congress.
+  I also want to thank Chairman Shuster, Chairman Hunter, and Ranking 
+Member Garamendi for all of their hard work on this legislation.
+  I rise today in support of this measure, H.R. 5769, the Howard Coble 
+Coast Guard and Maritime Transportation Act of 2014.
+  And it is interesting that Mr. Coble just got up to make sure that he 
+thanked everybody, but I want to thank him. When I served as the 
+chairman of the subcommittee, he was one of my staunchest supporters. 
+He was the epitome of bipartisanship. He always made it clear that the 
+Coast Guard was sometimes not put on the front burner, was on the back 
+burner, and he wanted to make sure that they were on the front burner, 
+and I want to thank him for this. This is so very, very significant, 
+and I want to thank him for his friendship over the many years.
+  This measure includes critical provisions strengthening the 
+Department of Transportation's, DOT, authority to enforce cargo 
+preference requirements to ensure that government-impelled cargoes are 
+carried on U.S.-flagged vessels. Section 321 of this legislation 
+clarifies that the DOT has exclusive authority to determine whether a 
+government-impelled cargo is subject to these requirements.
+  Section 321 also requires the DOT to conduct an annual review to 
+determine whether government programs are in compliance with cargo 
+preference requirements. According to the Maritime Administration, the 
+number of U.S.-flagged vessels operating in international trade has 
+declined nearly 25 percent in just the last 3 years, falling from 106 
+in January of 2012 to just 81 as of this month.
+  The SPEAKER pro tempore. The time of the gentleman has expired.
+  Mr. RAHALL. Mr. Speaker, I yield the gentleman another minute.
+  Mr. CUMMINGS. It is not an exaggeration to say that if we don't take 
+deliberate and swift steps to preserve the U.S. Merchant Marine, we 
+will lose it, leaving our Nation dependent for merchant sealift 
+capacity on foreign-flagged vessels and foreign mariners. Despite what 
+some may claim, reserving the carriage of the U.S. Government-impelled 
+cargoes is not unlike any other government program designed to ensure 
+that the expenditure of U.S. taxpayer funds benefits Americans.
+  Again, this is a very important piece of legislation. I urge all the 
+Members to vote for it. To all of those who have been a part of this in 
+making it happen, I express my appreciation. On behalf of the Coast 
+Guard, I express my appreciation.
+  Mr. HUNTER. Mr. Speaker, I yield 1 minute to the gentleman from 
+California (Mr. Royce), my good friend and colleague and the full 
+committee chairman of the Foreign Affairs Committee.
+  Mr. ROYCE. Mr. Speaker, I want to recognize the efforts of the 
+Transportation and Infrastructure Committee. Its leadership should be 
+commended for this bipartisan effort to strengthen the Coast Guard in a 
+time of heightened security threats to the United States.
+  The Foreign Affairs Committee has been working in a bipartisan way to 
+reform international food assistance, so I particularly appreciate the 
+fact that this legislation does not include a provision that would have 
+raised the cargo preference requirements for these programs from 50 
+percent to 75 percent. A provision like this would cost U.S. taxpayers 
+millions more and slow lifesaving assistance by months.
+  Lives are at stake, and I appreciate that the committee heard our 
+view, and I also appreciate the assurances provided by the 
+Transportation Committee that nothing in section 321 will drastically 
+alter the existing consultation requirements for enforcement of cargo 
+preference. I also understand that nothing in the bill will have the 
+effect of raising cargo preference above an annual global threshold of 
+50 percent, particularly for the Food for Peace program.
+  Again, congratulations to Chairman Hunter and his colleagues for 
+crafting this important legislation and also Mr. Coble and Mr. Rahall 
+for their work.
+  Mr. RAHALL. Mr. Speaker, may I have a time check, please.
+  The SPEAKER pro tempore. The gentleman from West Virginia has 10 
+minutes remaining. The gentleman from California has 9\1/2\ minutes 
+remaining.
+  Mr. RAHALL. Mr. Speaker, I yield 2 minutes to the gentleman from 
+Washington (Mr. Larsen), the distinguished ranking member of our 
+Subcommittee on Aviation.
+  Mr. LARSEN of Washington. Mr. Speaker, I rise in support of H.R. 
+5769, the Howard Coble Coast Guard and Maritime Transportation Act of 
+2014.
+  As a former ranking member of the Coast Guard Subcommittee, I am very 
+pleased that this bill provides the necessary resources to keep the men 
+and women of the Coast Guard on the job. I am also pleased this bill 
+makes needed advancements in our Nation's engagement in the Arctic.
+  Our country faces a steep opportunity curve when it comes to the 
+Arctic. We haven't made the needed investments in that region to 
+protect our environment, our economic interests, and our national 
+security. But as our country gets ready to take over the chairmanship 
+of the Arctic Council in 2015, this bill signals that our country is 
+ready to engage further in Arctic
+
+[[Page 16481]]
+
+issues. It requires the Coast Guard to come up with a plan for moving 
+our icebreaker fleet forward; it encourages the development of forward 
+operating bases for the Coast Guard in the region; and it improves the 
+ability of the Coast Guard to monitor, patrol, and protect our Nation's 
+Arctic waters.
+  I am hopeful that this bill will finally push the Coast Guard to 
+reactivate the mothballed Polar Sea icebreaker so that it can act as a 
+bridge towards a new icebreaker fleet. In the longer term, funding a 
+new icebreaker fleet will require a whole of government approach. The 
+Coast Guard simply does not have the acquisition budget to build a new 
+icebreaker fleet on its own.
+  The Department of Defense, Coast Guard, and National Science 
+Foundation need to work together to develop a funding strategy for 
+assets they will all use. This bill endorses such a strategy.
+  Finally, I am very pleased that this bill includes $10 million for 
+the Small Shipyard Grant Program, a successful effort that provides 
+infrastructure spending to shipyards in the Pacific Northwest and 
+around the country that creates jobs and supports local economies.
+  With that, I urge my colleagues to support this legislation.
+  Mr. HUNTER. Mr. Speaker, I reserve the balance of my time.
+  Mr. RAHALL. Mr. Speaker, I yield myself the balance of my time.
+  Mr. Speaker, again, I want to commend our full committee chairman, 
+Mr. Shuster; the subcommittee chair, Mr. Hunter; our ranking member, 
+Mr. Garamendi; and our staffs, as well, for the tremendous work that 
+has gone in to producing this legislation.
+  Under Chairman Shuster's leadership, our Transportation and 
+Infrastructure Committee is indeed demonstrating once again today what 
+bipartisanship can do and the productive manner in which we can work 
+for the American people in what is often described as a dysfunctional 
+city. I know that in the years ahead, the Transportation and 
+Infrastructure Committee will step up to the plate and do its work 
+again, especially in addressing a major transportation bill next year 
+and a major aviation bill that is on its agenda.
+  I guess it is kind of fitting, Mr. Speaker, that the last bill that 
+Senator Rockefeller and myself are in part being managed by West 
+Virginians. Both of us will be leaving this Congress. West Virginia is 
+the great seafaring State that it is. But I do salute Senator 
+Rockefeller as well for his tremendous leadership as chairman of the 
+Senate Commerce Committee, for his leadership on this legislation and 
+so many other pieces of legislation that have benefited our State of 
+West Virginia in a more direct way, perhaps, but also a benefit to this 
+great country. He is one that has been concerned for all of us, as we 
+all are, about producing jobs for America, and that is what our 
+Transportation and Infrastructure Committee is about.
+  I commend the staffs and I commend my dear friend Mr. Coble that so 
+much has been said about and for whom this legislation is named. We 
+have traveled together on a few occasions. During my entire time here, 
+I have not seen any Member of this body conduct themselves in such a 
+true gentleman fashion as Howard Coble does. We all call him our dear 
+friend.
+  With that, Mr. Speaker, I urge my colleagues to support this 
+legislation and, again, commend Chairman Hunter and Chairman Shuster 
+for their bipartisan and cooperative manner in which they have worked 
+on this and so many pieces of legislation.
+  I yield back the balance of my time.
+  Mr. HUNTER. Mr. Speaker, I yield myself such time as I may consume.
+  Again, I want to thank the gentleman from West Virginia and my 
+colleague from California (Mr. Garamendi) and the great staffs that 
+spent time on this and, of course, the great Howard Coble, who said in 
+one of his elections probably about 10 years ago when he was down by a 
+few hundred votes, I called him up on it election night and his answer 
+was, ``Look good, feel good.'' That is the great Howard Coble.
+  Mr. Speaker, I urge my colleagues to support this bill, and I yield 
+back the balance of my time.
+  Ms. HAHN. Mr. Speaker, today the House will vote on the bipartisan 
+Howard Coble Coast Guard & Maritime Transportation Act of 2014. This 
+bill is a great step for our nation's Coast Guard and federal maritime 
+transportation. Under the constraints of limited resources, this 
+important agreement will continue to provide our Coast Guard and 
+Federal Maritime Commission with the ability to protect our nation's 
+international borders while promoting American commerce around the 
+world.
+  Having served the people of Los Angeles for nearly 15 years on the 
+City Council and now in Congress, I have long appreciated the work of 
+our Coast Guard and Federal Maritime Commission officials who support 
+the largest port complex in the United States. America relies on the 
+Ports of Los Angeles and Long Beach, which is the gateway for forty 
+percent of all maritime commerce, and providing security to these ports 
+keeps goods flowing across the nation.
+  In addition, this act provides new incentives for the employment of 
+veterans on U.S. flagged vessels, and directs the Secretary of 
+Transportation to work with Congress to create a national maritime 
+strategy to promote the competitiveness of the U.S. flagged fleet, 
+increase the use of short seas shipping, and enhance U.S. shipbuilding 
+capacity. Our nation's ports and maritime commerce drive all aspects of 
+our economy, and this agreement will provide our nation's maritime 
+gateways the federal support to ensure American ports remain the safest 
+and most economical for shippers around the world.
+  I am pleased this strong agreement bears the name of our colleague 
+Howard Coble, a fellow member of the Transportation & Infrastructure 
+Committee and a great friend of mine, who has long been a champion of 
+America's Coast Guard and ports. Congress will miss his leadership. I 
+urge the Senate to consider this legislation immediately and send it to 
+the President's desk for his signature.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from California (Mr. Hunter) that the House suspend the rules 
+and pass the bill, H.R. 5769.
+  The question was taken.
+  The SPEAKER pro tempore. In the opinion of the Chair, two-thirds 
+being in the affirmative, the ayes have it.
+  Mr. HUNTER. Mr. Speaker, on that I demand the yeas and nays.
+  The yeas and nays were ordered.
+  The SPEAKER pro tempore. Pursuant to clause 8 of rule XX, further 
+proceedings on this motion will be postponed.
+
+                          ____________________
+```
