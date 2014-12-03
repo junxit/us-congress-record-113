@@ -1,0 +1,28 @@
+---
+granule: CREC-2014-12-03-pt1-PgS6273-5
+date: 2014-12-03
+edition: CREC
+section: SENATE
+page: S6273
+citation: 160 Cong. Rec. S6273
+---
+
+# SCHEDULE
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+```
+                                SCHEDULE
+
+  Mr. REID. Mr. President, following my remarks and those of the 
+Republican leader, the Senate will proceed to executive session, with 
+the time until 10 a.m. equally divided and controlled between the two 
+leaders or their designees.
+  At 10 a.m. the Senate will proceed to five rollcall votes on 
+confirmation of the Burrows and Lopez nominations and on cloture on the 
+Hale, Kearney, and Pappert nominations.
+  There will be another series of up to five rollcall votes at 5:30 
+p.m. this afternoon.
+
+                          ____________________
+```

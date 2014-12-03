@@ -1,0 +1,63 @@
+---
+granule: CREC-2014-12-03-pt1-PgH8344-4
+date: 2014-12-03
+edition: CREC
+section: HOUSE
+page: H8344
+citation: 160 Cong. Rec. H8344
+---
+
+# ADDING EBOLA TO THE FDA PRIORITY REVIEW VOUCHER PROGRAM ACT
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+**Measures:** S. 2917
+
+```
+                              {time}  1800
+      ADDING EBOLA TO THE FDA PRIORITY REVIEW VOUCHER PROGRAM ACT
+
+  Mr. BILIRAKIS. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the bill (S. 2917) to expand the program of priority 
+review to encourage treatments for tropical diseases, and ask for its 
+immediate consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Florida?
+  There was no objection.
+  The text of the bill is as follows:
+
+                                S. 2917
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Adding Ebola to the FDA 
+     Priority Review Voucher Program Act''.
+
+     SEC. 2. PRIORITY REVIEW TO ENCOURAGE TREATMENTS FOR TROPICAL 
+                   DISEASES.
+
+       Section 524 of the Federal Food, Drug, and Cosmetic Act (21 
+     U.S.C. 360n) is amended--
+       (1) in subsection (a)(3)--
+       (A) by redesignating subparagraph (Q) as subparagraph (R);
+       (B) by inserting after subparagraph (P) the following:
+       ``(Q) Filoviruses.''; and
+       (C) in subparagraph (R), as so redesignated, by striking 
+     ``regulation by'' and inserting ``order of''; and
+       (2) in subsection (b)--
+       (A) in paragraph (2), by adding ``There is no limit on the 
+     number of times a priority review voucher may be transferred 
+     before such voucher is used.'' after the period at the end; 
+     and
+       (B) in paragraph (4), by striking ``365 days'' and 
+     inserting ``90 days''.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```
