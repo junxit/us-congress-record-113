@@ -1,0 +1,169 @@
+---
+granule: CRECB-2014-pt12-Pg17527
+date: 2014-12-10
+edition: CRECB
+section: SENATE
+page: 17527
+---
+
+# NATIONAL CYBERSECURITY AND COMMUNICATIONS INTEGRATION CENTER ACT OF 2014
+
+```
+  NATIONAL CYBERSECURITY AND COMMUNICATIONS INTEGRATION CENTER ACT OF 
+                                  2014
+
+  Mrs. BOXER. Madam President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 526, S. 2519.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 2519) to codify an existing operations center 
+     for cybersecurity.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Homeland Security and 
+Governmental Affairs, with an amendment, as follows:
+  (Insert the part printed in italic.)
+
+                                S. 2519
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``National Cybersecurity and 
+     Communications Integration Center Act of 2014''.
+
+     SEC. 2. NATIONAL CYBERSECURITY AND COMMUNICATIONS INTEGRATION 
+                   CENTER.
+
+       (a) In General.--Subtitle A of title II of the Homeland 
+     Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by 
+     adding at the end the following:
+
+     ``SEC. 210G. OPERATIONS CENTER.
+
+       ``(a) Functions.--There is in the Department an operations 
+     center, which may carry out the responsibilities of the Under 
+     Secretary appointed under section 103(a)(1)(H) with respect 
+     to security and resilience, including by--
+       ``(1) serving as a Federal civilian information sharing 
+     interface for cybersecurity;
+       ``(2) providing shared situational awareness to enable 
+     real-time, integrated, and operational actions across the 
+     Federal Government;
+       ``(3) sharing cybersecurity threat, vulnerability, impact, 
+     and incident information and analysis by and among Federal, 
+     State, and local government entities and private sector 
+     entities;
+       ``(4) coordinating cybersecurity information sharing 
+     throughout the Federal Government;
+       ``(5) conducting analysis of cybersecurity risks and 
+     incidents;
+       ``(6) upon request, providing timely technical assistance 
+     to Federal and non-Federal entities with respect to 
+     cybersecurity threats and attribution, vulnerability 
+     mitigation, and incident response and remediation; and
+       ``(7) providing recommendations on security and resilience 
+     measures to Federal and non-Federal entities.
+       ``(b) Composition.--The operations center shall be composed 
+     of--
+       ``(1) personnel or other representatives of Federal 
+     agencies, including civilian and law enforcement agencies and 
+     elements of the intelligence community, as such term is 
+     defined under section 3(4) of the National Security Act of 
+     1947 (50 U.S.C. 3003(4)); and
+       ``(2) representatives from State and local governments and 
+     other non-Federal entities, including--
+       ``(A) representatives from information sharing and analysis 
+     organizations; and
+       ``(B) private sector owners and operators of critical 
+     information systems.
+       ``(c) Annual Report.--Not later than 1 year after the date 
+     of enactment of the National Cybersecurity and Communications 
+     Integration Center Act of 2014, and every year thereafter for 
+     3 years, the Secretary shall submit to the Committee on 
+     Homeland Security and Governmental Affairs of the Senate and 
+     the Committee on Homeland Security of the House of 
+     Representatives a report on the operations center, which 
+     shall include--
+       ``(1) an analysis of the performance of the operations 
+     center in carrying out the functions under subsection (a);
+       ``(2) information on the composition of the center, 
+     including--
+       ``(A) the number of representatives from non-Federal 
+     entities that are participating in the operations center, 
+     including the number of representatives from States, 
+     nonprofit organizations, and private sector entities, 
+     respectively; and
+       ``(B) the number of requests from non-Federal entities to 
+     participate in the operations center and the response to such 
+     requests, including--
+       ``(i) the average length of time to fulfill such identified 
+     requests by the Federal agency responsible for fulfilling 
+     such requests; and
+       ``(ii) a description of any obstacles or challenges to 
+     fulfilling such requests; and
+       ``(3) the policies and procedures established by the 
+     operations center to safeguard privacy and civil liberties.
+       ``(d) GAO Report.--Not later than 1 year after the date of 
+     enactment of the National Cybersecurity and Communications 
+     Integration Center Act of 2014, the Comptroller General of 
+     the United States shall submit to the Committee on Homeland 
+     Security and Governmental Affairs of the Senate and the 
+     Committee on Homeland Security of the House of 
+     Representatives a report on the effectiveness of the 
+     operations center.
+       ``(e) No Right or Benefit.--The provision of assistance or 
+     information to, and inclusion in the operations center of, 
+     governmental or private entities under this section shall be 
+     at the discretion of the Under Secretary appointed under 
+     section 103(a)(1)(H). The provision of certain assistance or 
+     information to, or inclusion in the operations center of, one 
+     governmental or private entity pursuant to this section shall 
+     not create a right or benefit, substantive or procedural, to 
+     similar assistance or information for any other governmental 
+     or private entity.''.
+       (b) Technical and Conforming Amendment.--The table of 
+     contents in section 1(b) of the Homeland Security Act of 2002 
+     (6 U.S.C. 101 note) is amended by inserting after the item 
+     relating to section 210F the following:
+
+``Sec. 210G. Operations center.''.
+
+     SEC. 3. RULE OF CONSTRUCTION.
+
+       (a) Definition.--In this section, the term ``critical 
+     infrastructure'' has the meaning given that term under 
+     section 2 of the Homeland Security Act of 2002 (6 U.S.C. 
+     101).
+       (b) Rule of Construction.--Nothing in this Act shall be 
+     construed to grant the Secretary of Homeland Security any 
+     authority to promulgate regulations or set standards relating 
+     to the cybersecurity of private sector critical 
+     infrastructure that was not in effect on the day before the 
+     date of enactment of this Act.
+
+  Mrs. BOXER. I ask unanimous consent that the committee-reported 
+amendment be withdrawn; the Carper substitute amendment, which is at 
+the desk, be agreed to; the bill, as amended, be read a third time; and 
+the Senate proceed to vote on passage of the bill, as amended.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+  The committee-reported amendment was withdrawn.
+  The amendment (No. 3999) in the nature of a substitute was agreed to.
+  (The amendment is printed in today's Record under ``Text of 
+Amendments.'')
+  The bill was ordered to be engrossed for a third reading and was read 
+the third time.
+  The PRESIDING OFFICER. If there is no further debate, the bill having 
+been read the third time, the question is, Shall it pass?
+  The bill (S. 2519), as amended, was passed.
+  Mrs. BOXER. Madam President, I ask unanimous consent that the motion 
+to reconsider be made and laid upon the table with no intervening 
+action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
