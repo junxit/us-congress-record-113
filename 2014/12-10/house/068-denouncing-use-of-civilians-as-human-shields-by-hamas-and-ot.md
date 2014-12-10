@@ -1,0 +1,122 @@
+---
+granule: CREC-2014-12-10-pt1-PgH9016-2
+date: 2014-12-10
+edition: CREC
+section: HOUSE
+page: H9016
+citation: 160 Cong. Rec. H9016
+---
+
+# DENOUNCING USE OF CIVILIANS AS HUMAN SHIELDS BY HAMAS AND OTHER TERRORIST ORGANIZATIONS
+
+**Speaking:** Royce, Edward R. (R000487) [R-CA]
+
+**Measures:** H.Con.Res. 107
+
+```
+    DENOUNCING USE OF CIVILIANS AS HUMAN SHIELDS BY HAMAS AND OTHER 
+                        TERRORIST ORGANIZATIONS
+
+  Mr. ROYCE. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the concurrent resolution (H. Con. Res. 107) denouncing 
+the use of civilians as human shields by Hamas and other terrorist 
+organizations in violation of international humanitarian law, with 
+Senate amendments thereto, and concur in the Senate amendments.
+  The Clerk read the title of the concurrent resolution.
+  The SPEAKER pro tempore. The Clerk will report the Senate amendments.
+  The Clerk read as follows:
+  Senate amendments:
+
+       Strike the preamble and insert the following:
+       Whereas the use of human shields is unconscionable and 
+     morally unacceptable;
+       Whereas since June 15, 2014, there have been over 2,000 
+     rockets fired by Hamas and other terrorist organizations from 
+     Gaza into Israel;
+       Whereas Hamas uses civilian populations as human shields by 
+     placing their missile batteries in densely populated areas 
+     and near schools, hospitals, and mosques;
+       Whereas Israel dropped leaflets, made announcements, placed 
+     phone calls, and sent text messages to the Palestinian people 
+     in Gaza warning them in advance that an attack was imminent, 
+     and went to extraordinary lengths to target only terrorist 
+     actors and to minimize collateral damage;
+       Whereas Hamas urged the residents of Gaza to ignore the 
+     Israeli warnings and to remain in their houses and encouraged 
+     Palestinians to gather on the roofs of their homes to act as 
+     human shields;
+       Whereas on July 23, 2014, the 46-Member UN Human Rights 
+     Council passed a resolution to form a commission of inquiry 
+     over Israel's operations in Gaza that completely fails to 
+     condemn Hamas for its indiscriminate rocket attacks and its 
+     unconscionable use of human shields, with the United States 
+     being the lone dissenting vote;
+       Whereas public reports have cited the role of Iran and 
+     Syria in providing material support and training to Hamas and 
+     other terrorist groups carrying out rocket and mortar attacks 
+     from Gaza;
+       Whereas throughout the summer of 2006 conflict between the 
+     State of Israel and the terrorist organization Hezbollah, 
+     Hezbollah forces utilized innocent civilians as human 
+     shields;
+       Whereas al Qaeda, Al-Shabaab, Islamic State of Iraq and the 
+     Levant (ISIL), and other foreign terrorist organizations 
+     typically use innocent civilians as human shields;
+       Whereas the United States and Israel have cooperated on 
+     missile defense projects, including Iron Dome, David's Sling, 
+     and the Arrow Anti-Missile System, projects designed to 
+     thwart a diverse range of threats, including short-range 
+     missiles and rockets fired by non-state actors, such as 
+     Hamas;
+       Whereas the United States provided $460,000,000 in fiscal 
+     year 2014 for Iron Dome research, development, and 
+     production;
+       Whereas during the most recent rocket attacks from Gaza, 
+     Iron Dome successfully intercepted dozens of rockets that 
+     were launched against Israeli population centers; and
+       Whereas 5,000,000 Israelis are currently living under the 
+     threat of rocket attacks from Gaza: Now, therefore, be it
+       Strike all after the resolving clause and insert the 
+     following:
+     That Congress--
+       (1) strongly condemns the use of innocent civilians as 
+     human shields;
+       (2) calls on the international community to recognize and 
+     condemn Hamas' use of human shields;
+       (3) places responsibility for the rocket attacks against 
+     Israel on Hamas and other terrorist organizations, such as 
+     Palestine Islamic Jihad;
+       (4) supports the sovereign right of the Government of 
+     Israel to defend its territory and its citizens from Hamas' 
+     rocket attacks, kidnapping attempts, and the use of tunnels 
+     and other means to carry out attacks against Israel;
+       (5) expresses condolences to the families of the innocent 
+     victims on both sides of the conflict;
+       (6) supports Palestinian civilians who reject Hamas and all 
+     forms of terrorism and violence, desiring to live in peace 
+     with their Israeli neighbors;
+       (7) supports efforts to demilitarize the Gaza Strip, 
+     removing Hamas's means to target Israel, including its use of 
+     tunnels, rockets, and other means; and
+       (8) condemns the United Nations Human Rights Council's 
+     biased resolution establishing a commission of inquiry into 
+     Israel's Gaza operations.
+         Amend the title so as to read: ``A concurrent resolution 
+     denouncing the use of civilians as human shields by Hamas and 
+     other terrorist organizations.''.
+
+  Mr. ROYCE (during the reading). Mr. Speaker, I ask unanimous consent 
+to dispense with the reading of the amendments.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from California?
+  There was no objection.
+
+[[Page H9017]]
+
+  The SPEAKER pro tempore. Is there objection to the original request 
+of the gentleman from California?
+  There was no objection.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```

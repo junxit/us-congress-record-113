@@ -1,0 +1,94 @@
+---
+granule: CREC-2014-12-10-pt1-PgS6580-5
+date: 2014-12-10
+edition: CREC
+section: SENATE
+page: S6580
+citation: 160 Cong. Rec. S6580
+---
+
+# DIGNIFIED INTERMENT OF OUR VETERANS ACT OF 2014
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+**Measures:** S. 2822
+
+```
+            DIGNIFIED INTERMENT OF OUR VETERANS ACT OF 2014
+
+  Mr. BENNET. Mr. President, I ask unanimous consent that the Veterans' 
+Affairs Committee be discharged from further consideration of S. 2822 
+and the Senate proceed to its consideration.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+       A bill (S. 2822) to require the Secretary of Veterans 
+     Affairs to conduct a study on matters relating to the burial 
+     of unclaimed remains of veterans in national cemeteries, and 
+     for other purposes.
+  There being no objection, the Senate proceeded to consider the bill.
+  Mr. BENNET. I further ask unanimous consent that the bill be read a 
+third time and passed, and the motion to reconsider be made and laid 
+upon the table with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The bill (S. 2822) was ordered to be engrossed for a third reading, 
+was read the third time, and passed, as follows:
+
+                                S. 2822
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Dignified Interment of Our 
+     Veterans Act of 2014''.
+
+     SEC. 2. DEPARTMENT OF VETERANS AFFAIRS STUDY ON MATTERS 
+                   RELATING TO BURIAL OF UNCLAIMED REMAINS OF 
+                   VETERANS IN NATIONAL CEMETERIES.
+
+       (a) Study and Report Required.--Not later than one year 
+     after the date of the enactment of this Act, the Secretary of 
+     Veterans Affairs shall--
+
+[[Page S6581]]
+
+       (1) complete a study on matters relating to the interring 
+     of unclaimed remains of veterans in national cemeteries under 
+     the control of the National Cemetery Administration; and
+       (2) submit to Congress a report on the findings of the 
+     Secretary with respect to the study required under paragraph 
+     (1).
+       (b) Matters Studied.--The matters studied under subsection 
+     (a)(1) shall include the following:
+       (1) Determining the scope of issues relating to unclaimed 
+     remains of veterans, including an estimate of the number of 
+     unclaimed remains of veterans.
+       (2) Assessing the effectiveness of the procedures of the 
+     Department of Veterans Affairs for working with persons or 
+     entities having custody of unclaimed remains to facilitate 
+     interment of unclaimed remains of veterans in national 
+     cemeteries under the control of the National Cemetery 
+     Administration.
+       (3) Assessing State and local laws that affect the ability 
+     of the Secretary to inter unclaimed remains of veterans in 
+     national cemeteries under the control of the National 
+     Cemetery Administration.
+       (4) Developing recommendations for such legislative or 
+     administrative action as the Secretary considers appropriate.
+       (c) Methodology.--
+       (1) Number of unclaimed remains.--In estimating the number 
+     of unclaimed remains of veterans under subsection (b)(1), the 
+     Secretary may review such subset of applicable entities as 
+     the Secretary considers appropriate, including a subset of 
+     funeral homes and coroner offices that possess unclaimed 
+     veterans remains.
+       (2) Assessment of state and local laws.--In assessing State 
+     and local laws under subsection (b)(3), the Secretary may 
+     assess such sample of applicable State and local laws as the 
+     Secretary considers appropriate in lieu of reviewing all 
+     applicable State and local laws.
+
+                          ____________________
+```
