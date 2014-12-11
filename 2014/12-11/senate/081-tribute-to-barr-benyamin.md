@@ -1,0 +1,30 @@
+---
+granule: CREC-2014-12-11-pt3-PgS6691
+date: 2014-12-11
+edition: CREC
+section: SENATE
+page: S6691
+citation: 160 Cong. Rec. S6691
+---
+
+# TRIBUTE TO BARR BENYAMIN
+
+**Speaking:** Rubio, Marco (R000595) [R-FL]
+
+```
+                        TRIBUTE TO BARR BENYAMIN
+
+● Mr. RUBIO. Madam President, today I recognize Barr Benyamin, a 
+2014 spring intern in my Washington, DC, office for all of the hard 
+work he has done for me, my staff, and the people of the State of 
+Florida.
+  Barr is a graduate of the University of Southern California in Los 
+Angeles, CA, having majored in political science and business 
+administration. He is a dedicated and diligent worker who has been 
+devoted to getting the most out of his internship experience.
+  I extend my sincere thanks and appreciation to Barr for all the fine 
+work he has done and wish him continued success in the years to 
+come.●
+
+                          ____________________
+```
