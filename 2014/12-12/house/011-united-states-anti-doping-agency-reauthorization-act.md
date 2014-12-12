@@ -1,0 +1,88 @@
+---
+granule: CREC-2014-12-12-pt1-PgH10314-7
+date: 2014-12-12
+edition: CREC
+section: HOUSE
+page: H10314
+citation: 160 Cong. Rec. H10314
+---
+
+# UNITED STATES ANTI-DOPING AGENCY REAUTHORIZATION ACT
+
+**Speaking:** Flores, Bill (F000461) [R-TX]
+
+**Measures:** S. 2338
+
+```
+          UNITED STATES ANTI-DOPING AGENCY REAUTHORIZATION ACT
+
+  Mr. FLORES. Mr. Speaker, I ask unanimous consent to take from the 
+Speaker's table the bill (S. 2338) to reauthorize the United States 
+Anti-Doping Agency, and for other purposes, and ask for its immediate 
+consideration in the House.
+  The Clerk read the title of the bill.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Texas?
+  There was no objection.
+  The text of the bill is as follows:
+
+                                S. 2338
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``United States Anti-Doping 
+     Agency Reauthorization Act''.
+
+     SEC. 2. PROHIBIT PERFORMANCE-ENHANCING METHODS.
+
+       Section 701 of title VII of the Office of National Drug 
+     Control Policy Reauthorization Act of 2006 (21 U.S.C. 2001) 
+     is amended--
+       (1) in subsection (a), by striking paragraph (4); and
+       (2) in subsection (b)--
+       (A) in paragraph (1), by inserting ``and be recognized 
+     worldwide as the independent national anti-doping 
+     organization for the United States'' after ``Committee'';
+       (B) in paragraph (2), by striking ``, or performance-
+     enhancing genetic modifications accomplished through gene-
+     doping'' and inserting ``or prohibited performance-enhancing 
+     methods adopted by the Agency'';
+       (C) in paragraph (3), by striking ``, or performance-
+     enhancing genetic modifications accomplished through gene-
+     doping'' and inserting ``or prohibited performance-enhancing 
+     methods adopted by the Agency'';
+       (D) in paragraph (4), by striking ``and the prevention of 
+     use of performance-enhancing drugs, or performance-enhancing 
+     genetic modifications accomplished through gene-doping by 
+     United States amateur athletes; and'' and inserting ``, and 
+     the prevention of use by United States amateur athletes of 
+     performance-enhancing drugs or prohibited performance-
+     enhancing methods adopted by the Agency.''; and
+       (E) by striking paragraph (5).
+
+     SEC. 3. AUTHORIZATION OF APPROPRIATIONS.
+
+       Section 703 of title VII of the Office of National Drug 
+     Control Policy Reauthorization Act of 2006 (21 U.S.C. 2003) 
+     is amended to read as follows:
+
+     ``SEC. 703. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to the United 
+     States Anti-Doping Agency--
+       ``(1) for fiscal year 2014, $11,300,000;
+       ``(2) for fiscal year 2015, $11,700,000;
+       ``(3) for fiscal year 2016, $12,300,000;
+       ``(4) for fiscal year 2017, $12,900,000;
+       ``(5) for fiscal year 2018, $13,500,000;
+       ``(6) for fiscal year 2019, $14,100,000; and
+       ``(7) for fiscal year 2020, $14,800,000.''.
+
+  The bill was ordered to be read a third time, was read the third 
+time, and passed, and a motion to reconsider was laid on the table.
+
+                          ____________________
+```
