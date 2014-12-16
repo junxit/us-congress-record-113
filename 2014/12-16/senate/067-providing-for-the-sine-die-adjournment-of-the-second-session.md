@@ -1,0 +1,88 @@
+---
+granule: CREC-2014-12-16-pt1-PgS6930
+date: 2014-12-16
+edition: CREC
+section: SENATE
+page: S6930
+citation: 160 Cong. Rec. S6930
+---
+
+# PROVIDING FOR THE SINE DIE ADJOURNMENT OF THE SECOND SESSION OF THE ONE HUNDRED THIRTEENTH CONGRESS
+
+**Speaking:** Pryor, Mark L. (P000590) [D-AR]
+
+**Measures:** H.Con.Res. 125
+
+```
+PROVIDING FOR THE SINE DIE ADJOURNMENT OF THE SECOND SESSION OF THE ONE 
+                      HUNDRED THIRTEENTH CONGRESS
+
+  Mr. PRYOR. Mr. President, I ask unanimous consent that the Senate 
+proceed to the consideration of H. Con. Res. 125, which was received 
+from the House and is at the desk.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The assistant legislative clerk read as follows:
+
+       A concurrent resolution (H. Con. Res. 125) providing for 
+     the sine die adjournment of the second session of the One 
+     Hundred Thirteenth Congress.
+
+  There being no objection, the Senate proceeded to consider the 
+concurrent resolution.
+  Mr. PRYOR. Mr. President, I know of no further debate on this 
+measure.
+  The PRESIDING OFFICER. The question is on agreeing to the concurrent 
+resolution.
+  The concurrent resolution (H. Con. Res. 125) was agreed to, as 
+follows:
+
+                            H. Con Res. 125
+
+       Resolved by the House of Representatives (the Senate 
+     concurring), That when the House adjourns on any legislative 
+     day from Friday, December 12, 2014, through Wednesday, 
+     December 31, 2014, on a motion offered pursuant to this 
+     concurrent resolution by its Majority Leader or his designee, 
+     it stand adjourned until 1 p.m. on Friday, January 2, 2015, 
+     or until the time of any reassembly pursuant to section 2 of 
+     this concurrent resolution, whichever occurs first; and that 
+     when the House adjourns on the legislative day of Friday, 
+     January 2, 2015, on a motion offered pursuant to this 
+     concurrent resolution by its Majority Leader or his designee, 
+     it stand adjourned sine die, or until the time of any 
+     reassembly pursuant to section 2 of this concurrent 
+     resolution, whichever occurs first; and that when the Senate 
+     recesses or adjourns on any day from Friday, December 12, 
+     2014, through Friday, January 2, 2015, on a motion offered 
+     pursuant to this concurrent resolution by its Majority Leader 
+     or his designee, it stand adjourned sine die, or until the 
+     time of any reassembly pursuant to section 3 of this 
+     concurrent resolution, whichever occurs first.
+       Sec. 2. (a) The Speaker or his designee, after consultation 
+     with the Minority Leader of the House, shall notify Members 
+     of the House to reassemble at such place and time as he may 
+     designate if, in his opinion, the public interest shall 
+     warrant it.
+       (b) After reassembling pursuant to subsection (a), when the 
+     House adjourns on a motion offered pursuant to this 
+     subsection by its Majority Leader or his designee, the House 
+     shall again stand adjourned pursuant to the first section of 
+     this concurrent resolution.
+       Sec. 3. (a) The Majority Leader of the Senate or his 
+     designee, after concurrence with the Minority Leader of the 
+     Senate, shall notify the Members of the Senate to reassemble 
+     at such place and time as he may designate if, in his 
+     opinion, the public interest shall warrant it.
+       (b) After reassembling pursuant to subsection (a), when the 
+     Senate adjourns on a motion offered pursuant to this 
+     subsection by its Majority Leader or his designee, the Senate 
+     shall again stand adjourned pursuant to the first section of 
+     this concurrent resolution.
+
+  Mr. PRYOR. I ask unanimous consent that the motion to reconsider be 
+considered made and laid upon the table.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
